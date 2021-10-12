@@ -21,7 +21,8 @@
   <img src="love-for-games.svg" />
 </p>
 
-## I've just born to do it.
+I've just born to do it.
+ 
 -----
 
 <br>
