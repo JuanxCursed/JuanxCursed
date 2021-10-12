@@ -106,7 +106,8 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanxCursed)](https://github.com/JuanxCursed/github-readme-stats) --> 
 
 <a href="https://github.com/JuanxCursed/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanxCursed&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanxCursed&show_icons=true" style="display: inline-block" /> 
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=JuanxCursed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" style="display: inline-block" />
 </a>
 <a href="https://github.com/JuanxCursed/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanxCursed" />
@@ -118,7 +119,7 @@
 <br/>
 
   <a href="https://github.com/JuanxCursed/github-readme-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=JuanxCursed&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    
   </a>
 
 ## My youtube channel
