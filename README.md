@@ -105,7 +105,7 @@
 <!-- [![JuanxCursed's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanxCursed&show_icons=true)](https://github.com/JuanxCursed/github-readme-stats) --> 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanxCursed)](https://github.com/JuanxCursed/github-readme-stats) --> 
 
-<p>
+<p style="display: flex;">
   <a href="https://github.com/JuanxCursed/github-readme-stats" style="display:inline-block">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanxCursed&show_icons=true" style="display: inline-block" /> <br>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=JuanxCursed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" style="display: inline-block" />
