@@ -190,6 +190,11 @@
 <!-- YOUTUBE:END -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Transferência entre Servidores do New World é Adiada](https://marriedgames.com.br/noticias/servidores-do-new-world-e-adiada/)
+- [Destiny 2 requisitos mínimos e recomendados para PC](https://marriedgames.com.br/dicas-guias/destiny-2-requisitos-minimos/)
+- [CoD Warzone: Ghostface e Donnie Darko chegará ao jogo esse mês](https://marriedgames.com.br/noticias/ghostface-warzone/)
+- [10 Dicas e Truques para Dominar Pokémon Go](https://marriedgames.com.br/dicas-guias/dominar-pokemon-go/)
+- [Os 10 melhores jogos de música para celular, console e PC](https://marriedgames.com.br/dicas-guias/os-10-melhores-jogos-de-musica/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:activity-->
