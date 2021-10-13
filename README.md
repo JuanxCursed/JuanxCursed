@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como tirar um PrintScreen dos seus Jogos](https://marriedgames.com.br/dicas-guias/tirar-um-printscreen-jogos/)
+- [10 Melhores Smartphones para Jogar Pokémon Go](https://marriedgames.com.br/dicas-guias/smartphones-para-jogar-pokemon-go/)
+- [Saiba quem é Shenhe em Genshin Impact](https://marriedgames.com.br/noticias/shenhe-em-genshin-impact/)
 - [FIFA 22 requisitos mínimos e recomendados para PC](https://marriedgames.com.br/dicas-guias/fifa-22-requisitos-minimos/)
 - [Ark Survival Evolved requisitos mínimos e recomendados para PC](https://marriedgames.com.br/dicas-guias/ark-survival-evolved-requisitos/)
-- [Transferência entre Servidores do New World é Adiada](https://marriedgames.com.br/noticias/servidores-do-new-world-e-adiada/)
-- [Destiny 2 requisitos mínimos e recomendados para PC](https://marriedgames.com.br/dicas-guias/destiny-2-requisitos-minimos/)
-- [CoD Warzone: Ghostface e Donnie Darko chegará ao jogo esse mês](https://marriedgames.com.br/noticias/ghostface-warzone/)
 <!-- BLOG-POST-LIST:END -->
 
 
