@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Como tirar um PrintScreen dos seus Jogos](https://marriedgames.com.br/dicas-guias/tirar-um-printscreen-jogos/)
-- [10 Melhores Smartphones para Jogar Pokémon Go](https://marriedgames.com.br/dicas-guias/smartphones-para-jogar-pokemon-go/)
-- [Saiba quem é Shenhe em Genshin Impact](https://marriedgames.com.br/noticias/shenhe-em-genshin-impact/)
-- [FIFA 22 requisitos mínimos e recomendados para PC](https://marriedgames.com.br/dicas-guias/fifa-22-requisitos-minimos/)
-- [Ark Survival Evolved requisitos mínimos e recomendados para PC](https://marriedgames.com.br/dicas-guias/ark-survival-evolved-requisitos/)
+- [Boletim da Semana 7 da LBFF 6](https://marriedgames.com.br/noticias/boletim-da-semana-7-da-lbff-6/)
+- [Battlefield 2042 banirá trapaceiros permanentemente](https://marriedgames.com.br/noticias/battlefield-2042-banira-trapaceiros/)
+- [Baixe agora a Demo de Monster Hunter Rise](https://marriedgames.com.br/noticias/demo-de-monster-hunter-rise/)
+- [Armas CoD Vanguard aparecem no Passe de Batalha do Warzone](https://marriedgames.com.br/noticias/armas-cod-vanguard/)
+- [Confira o lançamento de Hearthstone Mercenários](https://marriedgames.com.br/noticias/hearthstone-mercenarios/)
 <!-- BLOG-POST-LIST:END -->
 
 
