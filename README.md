@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Boletim da Semana 7 da LBFF 6](https://marriedgames.com.br/noticias/boletim-da-semana-7-da-lbff-6/)
-- [Battlefield 2042 banirá trapaceiros permanentemente](https://marriedgames.com.br/noticias/battlefield-2042-banira-trapaceiros/)
-- [Baixe agora a Demo de Monster Hunter Rise](https://marriedgames.com.br/noticias/demo-de-monster-hunter-rise/)
-- [Armas CoD Vanguard aparecem no Passe de Batalha do Warzone](https://marriedgames.com.br/noticias/armas-cod-vanguard/)
-- [Confira o lançamento de Hearthstone Mercenários](https://marriedgames.com.br/noticias/hearthstone-mercenarios/)
+- [Fortnite está fora da Play Store do Google](https://marriedgames.com.br/noticias/fortnite-esta-fora-da-play-store/)
+- [Alchemy Stars recebe o evento Dunefire Strike](https://marriedgames.com.br/noticias/evento-dunefire-strike/)
+- [RICOCHET Anti-Cheat é a nova ferramenta anti-trapaça em Call of Duty](https://marriedgames.com.br/noticias/ricochet-anti-cheat/)
+- [Conexão Wi-Fi: três dicas na hora de escolher o roteador certo](https://marriedgames.com.br/noticias/escolher-o-roteador-certo/)
+- [Evento de Halloween de Black Desert](https://marriedgames.com.br/noticias/evento-de-halloween-de-black-desert/)
 <!-- BLOG-POST-LIST:END -->
 
 
