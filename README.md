@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fortnite está fora da Play Store do Google](https://marriedgames.com.br/noticias/fortnite-esta-fora-da-play-store/)
-- [Alchemy Stars recebe o evento Dunefire Strike](https://marriedgames.com.br/noticias/evento-dunefire-strike/)
-- [RICOCHET Anti-Cheat é a nova ferramenta anti-trapaça em Call of Duty](https://marriedgames.com.br/noticias/ricochet-anti-cheat/)
-- [Conexão Wi-Fi: três dicas na hora de escolher o roteador certo](https://marriedgames.com.br/noticias/escolher-o-roteador-certo/)
-- [Evento de Halloween de Black Desert](https://marriedgames.com.br/noticias/evento-de-halloween-de-black-desert/)
+- [Sistema Anti-cheat RICOCHET pode ter vazado na internet](https://marriedgames.com.br/noticias/sistema-anti-cheat-ricochet/)
+- [Americas Elite League de PUBG MOBILE estreia com prêmio de R$ 20 mil](https://marriedgames.com.br/noticias/americas-elite-league-de-pubg/)
+- [Happenlance chega ao Steam em 22 de outubro](https://marriedgames.com.br/noticias/happenlance-chega-ao-steam/)
+- [Call of Duty Vanguard Zumbis – O Próximo Capítulo da Saga do Éter Negro](https://marriedgames.com.br/noticias/call-of-duty-vanguard-zumbis/)
+- [Entre no mundo de Tzeentch em Total War: WARHAMMER III](https://marriedgames.com.br/noticias/tzeentch-em-total-war/)
 <!-- BLOG-POST-LIST:END -->
 
 
