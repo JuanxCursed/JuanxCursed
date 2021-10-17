@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Melhores Builds para Polivalentes em Pokémon Unite](https://marriedgames.com.br/dicas-guias/build-polivalentes-em-pokemon/)
+- [Confira as melhores classes do Warzone na Sexta Temporada de BOCW](https://marriedgames.com.br/dicas-guias/melhores-classes-do-warzone/)
+- [Veja 5 dicas para jogar Conqueror’s Blade](https://marriedgames.com.br/noticias/dicas-para-jogar-conquerors-blade/)
+- [Os melhores jogos de tiro para PC, consoles e celular](https://marriedgames.com.br/dicas-guias/os-melhores-jogos-de-tiro/)
 - [Sistema Anti-cheat RICOCHET pode ter vazado na internet](https://marriedgames.com.br/noticias/sistema-anti-cheat-ricochet/)
-- [Americas Elite League de PUBG MOBILE estreia com prêmio de R$ 20 mil](https://marriedgames.com.br/noticias/americas-elite-league-de-pubg/)
-- [Happenlance chega ao Steam em 22 de outubro](https://marriedgames.com.br/noticias/happenlance-chega-ao-steam/)
-- [Call of Duty Vanguard Zumbis – O Próximo Capítulo da Saga do Éter Negro](https://marriedgames.com.br/noticias/call-of-duty-vanguard-zumbis/)
-- [Entre no mundo de Tzeentch em Total War: WARHAMMER III](https://marriedgames.com.br/noticias/tzeentch-em-total-war/)
 <!-- BLOG-POST-LIST:END -->
 
 
