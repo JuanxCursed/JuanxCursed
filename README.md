@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arena of Valor anuncia evento Miss AoV](https://marriedgames.com.br/noticias/evento-miss-aov/)
+- [Conheça a nova Habilidade Mágica de Dying Light](https://marriedgames.com.br/noticias/habilidade-magica-de-dying-light/)
+- [Os melhores jogos de RPG para consoles, celulares e PC](https://marriedgames.com.br/dicas-guias/os-melhores-jogos-de-rpg/)
 - [Melhores Builds para Polivalentes em Pokémon Unite](https://marriedgames.com.br/dicas-guias/build-polivalentes-em-pokemon/)
 - [Confira as melhores classes do Warzone na Sexta Temporada de BOCW](https://marriedgames.com.br/dicas-guias/melhores-classes-do-warzone/)
-- [Veja 5 dicas para jogar Conqueror’s Blade](https://marriedgames.com.br/noticias/dicas-para-jogar-conquerors-blade/)
-- [Os melhores jogos de tiro para PC, consoles e celular](https://marriedgames.com.br/dicas-guias/os-melhores-jogos-de-tiro/)
-- [Sistema Anti-cheat RICOCHET pode ter vazado na internet](https://marriedgames.com.br/noticias/sistema-anti-cheat-ricochet/)
 <!-- BLOG-POST-LIST:END -->
 
 
