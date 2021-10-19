@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Arena of Valor anuncia evento Miss AoV](https://marriedgames.com.br/noticias/evento-miss-aov/)
-- [Conheça a nova Habilidade Mágica de Dying Light](https://marriedgames.com.br/noticias/habilidade-magica-de-dying-light/)
-- [Os melhores jogos de RPG para consoles, celulares e PC](https://marriedgames.com.br/dicas-guias/os-melhores-jogos-de-rpg/)
-- [Melhores Builds para Polivalentes em Pokémon Unite](https://marriedgames.com.br/dicas-guias/build-polivalentes-em-pokemon/)
-- [Confira as melhores classes do Warzone na Sexta Temporada de BOCW](https://marriedgames.com.br/dicas-guias/melhores-classes-do-warzone/)
+- [O Jogo Virou no Free Fire](https://marriedgames.com.br/noticias/o-jogo-virou-no-free-fire/)
+- [Valve Proíbe Jogos de NFT, mas a Epic não](https://marriedgames.com.br/noticias/valve-proibe-jogos-de-nft/)
+- [Veja as Melhores Dicas para Halo Master Chief Collection](https://marriedgames.com.br/dicas-guias/dicas-para-halo-master-chief/)
+- [Warzone: O evento de Halloween “The Hauting” terá arma brasileira como recompensa](https://marriedgames.com.br/noticias/evento-halloween-warzone/)
+- [Saiba Como Andar mais Rápido em New World](https://marriedgames.com.br/dicas-guias/andar-mais-rapido-em-new-world/)
 <!-- BLOG-POST-LIST:END -->
 
 
