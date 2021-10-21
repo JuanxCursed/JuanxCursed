@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Xbox 20 anos: Microsoft está sorteando Xbox Series X e mais](https://marriedgames.com.br/noticias/sorteio-xbox-series-x/)
-- [Empresa via pagar até R$ 300 para quem quer ganhar dinheiro jogando games](https://marriedgames.com.br/noticias/quer-ganhar-dinheiro-jogando-games/)
-- [Quais os melhores jogos de Kinect em 2021?](https://marriedgames.com.br/dicas-guias/jogos-com-kinect-em-2021/)
-- [Melhores Builds para Defensor em Pokémon Unite](https://marriedgames.com.br/dicas-guias/defensor-em-pokemon-unite/)
-- [Black Friday 2021: Saiba como escolher o Melhor Notebook Gamer](https://marriedgames.com.br/analises/como-escolher-um-notebook-gamer/)
+- [God of War está no Topo de Vendas no PC e Sonystas Reclamam](https://marriedgames.com.br/noticias/god-of-war-esta-no-topo/)
+- [Black Friday 2021: Saiba Qual Melhor Processador Para Notebooks Gamers](https://marriedgames.com.br/tecnologia/processador-para-notebooks-gamers/)
+- [Expansão Senna Sempre de Horizon Chase chega hoje para PS4 e PS5](https://marriedgames.com.br/noticias/expansao-senna-sempre/)
+- [PUBG anuncia parceria com Tycoon 360](https://marriedgames.com.br/noticias/pubg-anuncia-parceria-com-tycoon-360/)
+- [Dice Legacy Accolades ganha Trailer Lançado com Atualização Gratuita](https://marriedgames.com.br/noticias/dice-legacy-accolades/)
 <!-- BLOG-POST-LIST:END -->
 
 
