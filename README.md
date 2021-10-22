@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [God of War está no Topo de Vendas no PC e Sonystas Reclamam](https://marriedgames.com.br/noticias/god-of-war-esta-no-topo/)
-- [Black Friday 2021: Saiba Qual Melhor Processador Para Notebooks Gamers](https://marriedgames.com.br/tecnologia/processador-para-notebooks-gamers/)
-- [Expansão Senna Sempre de Horizon Chase chega hoje para PS4 e PS5](https://marriedgames.com.br/noticias/expansao-senna-sempre/)
-- [PUBG anuncia parceria com Tycoon 360](https://marriedgames.com.br/noticias/pubg-anuncia-parceria-com-tycoon-360/)
-- [Dice Legacy Accolades ganha Trailer Lançado com Atualização Gratuita](https://marriedgames.com.br/noticias/dice-legacy-accolades/)
+- [Google divulga relatório sobre os Ataques Hackers ao Youtube](https://marriedgames.com.br/noticias/ataques-hackers-ao-youtube/)
+- [CoD Warzone: 11 dicas para ganhar mais partidas!](https://marriedgames.com.br/dicas-guias/dicas-warzone/)
+- [Malwares são descobertos em Aplicativos de Round 6](https://marriedgames.com.br/noticias/aplicativos-de-round-6/)
+- [ASSISTA AO EA SPORTS FIFA 22 CHALLENGE](https://marriedgames.com.br/noticias/ea-sports-fifa-22-challenge/)
+- [Filme de Uncharted ganha primeiro trailer](https://marriedgames.com.br/noticias/filme-de-uncharted-trailer/)
 <!-- BLOG-POST-LIST:END -->
 
 
