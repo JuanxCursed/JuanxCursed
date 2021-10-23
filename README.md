@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google divulga relatório sobre os Ataques Hackers ao Youtube](https://marriedgames.com.br/noticias/ataques-hackers-ao-youtube/)
-- [CoD Warzone: 11 dicas para ganhar mais partidas!](https://marriedgames.com.br/dicas-guias/dicas-warzone/)
-- [Malwares são descobertos em Aplicativos de Round 6](https://marriedgames.com.br/noticias/aplicativos-de-round-6/)
-- [ASSISTA AO EA SPORTS FIFA 22 CHALLENGE](https://marriedgames.com.br/noticias/ea-sports-fifa-22-challenge/)
-- [Filme de Uncharted ganha primeiro trailer](https://marriedgames.com.br/noticias/filme-de-uncharted-trailer/)
+- [Razer anuncia a nova linha de Fones Kraken V3](https://marriedgames.com.br/noticias/linha-de-fones-kraken-v3/)
+- [Como Escolher uma Arma em New World](https://marriedgames.com.br/dicas-guias/arma-em-new-world/)
+- [Conheça Polker, o jogo que combina Pôquer e Criptomoedas](https://marriedgames.com.br/noticias/conheca-polker/)
+- [Guia para iniciantes de Pokémon Go em 2021](https://marriedgames.com.br/dicas-guias/guia-para-iniciantes-de-pokemon-go/)
+- [Pearl Abyss e CCP Games co-promovem megapromoção no Steam](https://marriedgames.com.br/noticias/pearl-abyss-e-ccp-games/)
 <!-- BLOG-POST-LIST:END -->
 
 
