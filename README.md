@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saiba como Jogar New World Solo](https://marriedgames.com.br/dicas-guias/jogar-new-world-solo/)
+- [CoD Warzone: 11 dicas para ganhar mais partidas!](https://marriedgames.com.br/dicas-guias/dicas-warzone/)
 - [Dicas de headsets gamers para aproveitar na Black Friday de 2021 sem gastar muito!](https://marriedgames.com.br/dicas-guias/headset-gamer-black-friday/)
 - [Como criar um site grátis?](https://marriedgames.com.br/dicas-guias/como-criar-um-site-gratis/)
 - [Razer anuncia a nova linha de Fones Kraken V3](https://marriedgames.com.br/noticias/linha-de-fones-kraken-v3/)
-- [Como Escolher uma Arma em New World](https://marriedgames.com.br/dicas-guias/arma-em-new-world/)
-- [Conheça Polker, o jogo que combina Pôquer e Criptomoedas](https://marriedgames.com.br/noticias/conheca-polker/)
 <!-- BLOG-POST-LIST:END -->
 
 
