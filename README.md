@@ -116,11 +116,11 @@ I've just born to do it.
   </a> 
 </p>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#563](https://github.com/Flutterando/modular/issues/563) in [Flutterando/modular](https://github.com/Flutterando/modular)
-2. 🗣 Commented on [#568](https://github.com/Flutterando/modular/issues/568) in [Flutterando/modular](https://github.com/Flutterando/modular)
-3. 🗣 Commented on [#46804](https://github.com/dart-lang/sdk/issues/46804) in [dart-lang/sdk](https://github.com/dart-lang/sdk)
-4. 🗣 Commented on [#568](https://github.com/Flutterando/modular/issues/568) in [Flutterando/modular](https://github.com/Flutterando/modular)
-5. ❗️ Opened issue [#568](https://github.com/Flutterando/modular/issues/568) in [Flutterando/modular](https://github.com/Flutterando/modular)
+1. 🗣 Commented on [#634](https://github.com/Intervention/image/issues/634) in [Intervention/image](https://github.com/Intervention/image)
+2. 🗣 Commented on [#563](https://github.com/Flutterando/modular/issues/563) in [Flutterando/modular](https://github.com/Flutterando/modular)
+3. 🗣 Commented on [#568](https://github.com/Flutterando/modular/issues/568) in [Flutterando/modular](https://github.com/Flutterando/modular)
+4. 🗣 Commented on [#46804](https://github.com/dart-lang/sdk/issues/46804) in [dart-lang/sdk](https://github.com/dart-lang/sdk)
+5. 🗣 Commented on [#568](https://github.com/Flutterando/modular/issues/568) in [Flutterando/modular](https://github.com/Flutterando/modular)
 <!--END_SECTION:activity-->
 
 <br/>
