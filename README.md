@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Veja a Data de Lançamento e Requisitos de GTA The Trilogy](https://marriedgames.com.br/noticias/requisitos-de-gta-the-trilogy/)
-- [Guia completo sobre ranks de facção em New World](https://marriedgames.com.br/dicas-guias/ranks-de-faccao-em-new-world/)
-- [Sea of Thieves requisitos para PC, sobre o jogo e mais](https://marriedgames.com.br/noticias/sea-of-thieves-requisitos/)
-- [Tudo o que você precisa saber sobre Acampamentos em New World](https://marriedgames.com.br/dicas-guias/acampamentos-em-new-world/)
-- [Saiba como Jogar New World Solo](https://marriedgames.com.br/dicas-guias/jogar-new-world-solo/)
+- [Os 20 melhores jogos de mundo aberto para Android e iOS em 2021](https://marriedgames.com.br/dicas-guias/jogos-de-mundo-aberto-para-android/)
+- [Ordem dos filmes da Marvel em 2021: cronológica e por data de lançamento](https://marriedgames.com.br/dicas-guias/ordem-dos-filmes-da-marvel/)
+- [Todos lançamentos do Marvel MCU nos cinemas e TV até 2023!](https://marriedgames.com.br/filmes-series/novidades-marvel-mcu/)
+- [Domine novas habilidades em Horizon Forbidden West](https://marriedgames.com.br/noticias/habilidades-em-horizon-forbidden-west/)
+- [Iron Harvest versão completa chega ao PlayStation 5 e Xbox Series](https://marriedgames.com.br/noticias/iron-harvest-versao-completa/)
 <!-- BLOG-POST-LIST:END -->
 
 
