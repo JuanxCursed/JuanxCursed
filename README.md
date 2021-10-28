@@ -143,10 +143,10 @@ I've just born to do it.
 
 <!-- BLOG-POST-LIST:START -->
 - [Os 20 melhores jogos de mundo aberto para Android e iOS em 2021](https://marriedgames.com.br/dicas-guias/jogos-de-mundo-aberto-para-android/)
-- [Ordem dos filmes da Marvel em 2021: cronológica e por data de lançamento](https://marriedgames.com.br/dicas-guias/ordem-dos-filmes-da-marvel/)
-- [Todos lançamentos do Marvel MCU nos cinemas e TV até 2023!](https://marriedgames.com.br/filmes-series/novidades-marvel-mcu/)
-- [Domine novas habilidades em Horizon Forbidden West](https://marriedgames.com.br/noticias/habilidades-em-horizon-forbidden-west/)
-- [Iron Harvest versão completa chega ao PlayStation 5 e Xbox Series](https://marriedgames.com.br/noticias/iron-harvest-versao-completa/)
+- [Free Fire Rewards: Como resgatar códigos e aplicar no seu jogo](https://marriedgames.com.br/dicas-guias/free-fire-rewards-como-resgatar/)
+- [Desenvolvedores de Jogos NFT se Unem para Voltar ao Steam](https://marriedgames.com.br/noticias/desenvolvedores-de-jogos-nft/)
+- [5 Jogos de PlayStation 2 que Marcaram a Infância](https://marriedgames.com.br/analises/jogos-de-playstation-2/)
+- [Blue Protocol – O que é, o que esperar e lança ainda em 2021?](https://marriedgames.com.br/analises/o-que-e-blue-protocol/)
 <!-- BLOG-POST-LIST:END -->
 
 
