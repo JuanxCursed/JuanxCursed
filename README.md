@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Os 20 melhores jogos de mundo aberto para Android e iOS em 2021](https://marriedgames.com.br/dicas-guias/jogos-de-mundo-aberto-para-android/)
-- [Free Fire Rewards: Como resgatar códigos e aplicar no seu jogo](https://marriedgames.com.br/dicas-guias/free-fire-rewards-como-resgatar/)
-- [Desenvolvedores de Jogos NFT se Unem para Voltar ao Steam](https://marriedgames.com.br/noticias/desenvolvedores-de-jogos-nft/)
-- [5 Jogos de PlayStation 2 que Marcaram a Infância](https://marriedgames.com.br/analises/jogos-de-playstation-2/)
-- [Blue Protocol – O que é, o que esperar e lança ainda em 2021?](https://marriedgames.com.br/analises/o-que-e-blue-protocol/)
+- [Saiba como conseguir skins grátis no Fortnite sem trapacear](https://marriedgames.com.br/dicas-guias/como-conseguir-skins-gratis-fortnite/)
+- [Sony lança a marca PlayStation PC](https://marriedgames.com.br/noticias/sony-lanca-playstation-pc/)
+- [Saiba quem virá com a Hu Tao no Rerun em Genshin Impact](https://marriedgames.com.br/noticias/rerun-em-genshin-impact/)
+- [Tudo o que sabemos sobre Hogwarts Legacy em 2021](https://marriedgames.com.br/analises/tudo-sobre-hogwarts-legacy/)
+- [Pokémon Café Remix no Nintendo Switch e Dispositivos Móveis](https://marriedgames.com.br/noticias/pokemon-cafe-remix-no-nintendo/)
 <!-- BLOG-POST-LIST:END -->
 
 
