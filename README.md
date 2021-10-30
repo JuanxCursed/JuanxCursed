@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Saiba como conseguir skins grátis no Fortnite sem trapacear](https://marriedgames.com.br/dicas-guias/como-conseguir-skins-gratis-fortnite/)
-- [Sony lança a marca PlayStation PC](https://marriedgames.com.br/noticias/sony-lanca-playstation-pc/)
-- [Saiba quem virá com a Hu Tao no Rerun em Genshin Impact](https://marriedgames.com.br/noticias/rerun-em-genshin-impact/)
-- [Tudo o que sabemos sobre Hogwarts Legacy em 2021](https://marriedgames.com.br/analises/tudo-sobre-hogwarts-legacy/)
-- [Pokémon Café Remix no Nintendo Switch e Dispositivos Móveis](https://marriedgames.com.br/noticias/pokemon-cafe-remix-no-nintendo/)
+- [Burrito pode ter derrubado servers do Roblox](https://marriedgames.com.br/noticias/servers-do-roblox/)
+- [Saiba Quais os 8 Melhores Jogos de Pokémon Dentro e Fora da Série Principal](https://marriedgames.com.br/analises/quais-os-melhores-jogos-de-pokemon/)
+- [Finais do Logitech G Challenge 2021 no Brasil](https://marriedgames.com.br/noticias/finais-do-logitech-g/)
+- [Jogue com o Chapolin Colorado no Fortnite](https://marriedgames.com.br/noticias/chapolin-colorado-no-fortnite/)
+- [Geek City acontece neste final de semana](https://marriedgames.com.br/noticias/geek-city-final-de-semana/)
 <!-- BLOG-POST-LIST:END -->
 
 
