@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Burrito pode ter derrubado servers do Roblox](https://marriedgames.com.br/noticias/servers-do-roblox/)
-- [Saiba Quais os 8 Melhores Jogos de Pokémon Dentro e Fora da Série Principal](https://marriedgames.com.br/analises/quais-os-melhores-jogos-de-pokemon/)
-- [Finais do Logitech G Challenge 2021 no Brasil](https://marriedgames.com.br/noticias/finais-do-logitech-g/)
-- [Jogue com o Chapolin Colorado no Fortnite](https://marriedgames.com.br/noticias/chapolin-colorado-no-fortnite/)
-- [Geek City acontece neste final de semana](https://marriedgames.com.br/noticias/geek-city-final-de-semana/)
+- [Beta Fechado de Diablo Immortal já começou](https://marriedgames.com.br/noticias/beta-fechado-de-diablo/)
+- [MY GAMES cresce no 3º trimestre aproveitando o sucesso como publisher](https://marriedgames.com.br/noticias/my-games-cresce/)
+- [Galinhas chegam ao PUBG: BATTLEGROUNDS na atualização 14.2](https://marriedgames.com.br/noticias/galinhas-chegam-ao-pubg/)
+- [Veja o episódio especial do Switch to Freedom de Dying Light](https://marriedgames.com.br/noticias/switch-to-freedom-de-dying-light/)
+- [Free Fire: Veja 17 dicas essenciais para ganhar partidas](https://marriedgames.com.br/dicas-guias/dicas-free-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 
