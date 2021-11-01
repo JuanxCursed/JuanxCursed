@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Beta Fechado de Diablo Immortal já começou](https://marriedgames.com.br/noticias/beta-fechado-de-diablo/)
-- [MY GAMES cresce no 3º trimestre aproveitando o sucesso como publisher](https://marriedgames.com.br/noticias/my-games-cresce/)
-- [Galinhas chegam ao PUBG: BATTLEGROUNDS na atualização 14.2](https://marriedgames.com.br/noticias/galinhas-chegam-ao-pubg/)
-- [Veja o episódio especial do Switch to Freedom de Dying Light](https://marriedgames.com.br/noticias/switch-to-freedom-de-dying-light/)
-- [Free Fire: Veja 17 dicas essenciais para ganhar partidas](https://marriedgames.com.br/dicas-guias/dicas-free-fire/)
+- [Confira 17 melhores jogos de mundo aberto para PC que você precisa jogar hoje!](https://marriedgames.com.br/dicas-guias/jogos-de-mundo-aberto-para-pc/)
+- [Começa o Halloween em Black Desert Mobile](https://marriedgames.com.br/noticias/halloween-em-black-desert/)
+- [Techland apresenta animação de Halloween em Dying Light](https://marriedgames.com.br/noticias/halloween-em-dying-light/)
+- [Descubra Tudo sobre Evolution Land e Comece a Ganhar suas Criptomoedas](https://marriedgames.com.br/dicas-guias/tudo-sobre-evolution-land/)
+- [Criadores do PUBG MOBILE elegem melhores mudanças do update 1.6](https://marriedgames.com.br/noticias/pubg-mobile-elegem-melhores-mudancas/)
 <!-- BLOG-POST-LIST:END -->
 
 
