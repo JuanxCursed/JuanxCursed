@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Confira 17 melhores jogos de mundo aberto para PC que você precisa jogar hoje!](https://marriedgames.com.br/dicas-guias/jogos-de-mundo-aberto-para-pc/)
-- [Começa o Halloween em Black Desert Mobile](https://marriedgames.com.br/noticias/halloween-em-black-desert/)
-- [Techland apresenta animação de Halloween em Dying Light](https://marriedgames.com.br/noticias/halloween-em-dying-light/)
-- [Descubra Tudo sobre Evolution Land e Comece a Ganhar suas Criptomoedas](https://marriedgames.com.br/dicas-guias/tudo-sobre-evolution-land/)
-- [Criadores do PUBG MOBILE elegem melhores mudanças do update 1.6](https://marriedgames.com.br/noticias/pubg-mobile-elegem-melhores-mudancas/)
+- [É oficial: Fortnite não será lançado na China](https://marriedgames.com.br/noticias/fortnite-nao-sera-lancado-na-china/)
+- [PUBG faz parceria com Liverpool Football Club](https://marriedgames.com.br/noticias/pubg-faz-parceria-com-liverpool/)
+- [2A.M. lista cinco dicas para melhorar o desempenho do notebook](https://marriedgames.com.br/noticias/desempenho-do-notebook/)
+- [B4 é campeã da LBFF 6](https://marriedgames.com.br/noticias/b4-e-campea-da-lbff-6/)
+- [Como instalar Minecraft no PC para Windows, MAC e Mobile em 2021](https://marriedgames.com.br/dicas-guias/como-instalar-minecraft/)
 <!-- BLOG-POST-LIST:END -->
 
 
