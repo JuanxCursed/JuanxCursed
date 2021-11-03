@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Novos Rumores de Hogwarts Legacy surgem na web](https://marriedgames.com.br/noticias/rumores-de-hogwarts-legacy/)
+- [Magic: The Gathering anuncia crossover com Drácula](https://marriedgames.com.br/noticias/magic-crossover-com-dracula/)
+- [KRAFTON Inc. adquire Unknown Worlds](https://marriedgames.com.br/noticias/krafton-adquire-unknown-worlds/)
+- [Como montar um Setup Gamer Feminino](https://marriedgames.com.br/dicas-guias/como-criar-um-setup-gamer-feminino/)
 - [É oficial: Fortnite não será lançado na China](https://marriedgames.com.br/noticias/fortnite-nao-sera-lancado-na-china/)
-- [PUBG faz parceria com Liverpool Football Club](https://marriedgames.com.br/noticias/pubg-faz-parceria-com-liverpool/)
-- [2A.M. lista cinco dicas para melhorar o desempenho do notebook](https://marriedgames.com.br/noticias/desempenho-do-notebook/)
-- [B4 é campeã da LBFF 6](https://marriedgames.com.br/noticias/b4-e-campea-da-lbff-6/)
-- [Como instalar Minecraft no PC para Windows, MAC e Mobile em 2021](https://marriedgames.com.br/dicas-guias/como-instalar-minecraft/)
 <!-- BLOG-POST-LIST:END -->
 
 
