@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Novos Rumores de Hogwarts Legacy surgem na web](https://marriedgames.com.br/noticias/rumores-de-hogwarts-legacy/)
-- [Magic: The Gathering anuncia crossover com Drácula](https://marriedgames.com.br/noticias/magic-crossover-com-dracula/)
-- [KRAFTON Inc. adquire Unknown Worlds](https://marriedgames.com.br/noticias/krafton-adquire-unknown-worlds/)
-- [Como montar um Setup Gamer Feminino](https://marriedgames.com.br/dicas-guias/como-criar-um-setup-gamer-feminino/)
-- [É oficial: Fortnite não será lançado na China](https://marriedgames.com.br/noticias/fortnite-nao-sera-lancado-na-china/)
+- [Como encarar o Pesadelo em Dead by Daylight?](https://marriedgames.com.br/dicas-guias/pesadelo-dead-by-daylight/)
+- [Como encarar o Canibal em Dead By Daylight](https://marriedgames.com.br/dicas-guias/canibal-dead-by-daylight/)
+- [Blizzard anuncia mudanças em Overwatch 2, Diablo IV e World of Warcraft](https://marriedgames.com.br/noticias/blizzard-anuncia-mudancas/)
+- [20 Dicas de Minecraft para começar bem](https://marriedgames.com.br/dicas-guias/dicas-de-minecraft-para-comecar/)
+- [Melhores Texturas Minecraft: Confira 20 delas!](https://marriedgames.com.br/dicas-guias/melhores-texturas-minecraft/)
 <!-- BLOG-POST-LIST:END -->
 
 
