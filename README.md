@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Como encarar o Pesadelo em Dead by Daylight?](https://marriedgames.com.br/dicas-guias/pesadelo-dead-by-daylight/)
-- [Como encarar o Canibal em Dead By Daylight](https://marriedgames.com.br/dicas-guias/canibal-dead-by-daylight/)
-- [Blizzard anuncia mudanças em Overwatch 2, Diablo IV e World of Warcraft](https://marriedgames.com.br/noticias/blizzard-anuncia-mudancas/)
-- [20 Dicas de Minecraft para começar bem](https://marriedgames.com.br/dicas-guias/dicas-de-minecraft-para-comecar/)
-- [Melhores Texturas Minecraft: Confira 20 delas!](https://marriedgames.com.br/dicas-guias/melhores-texturas-minecraft/)
+- [Battlefield Jogos: Todos os 16 títulos da franquia](https://marriedgames.com.br/dicas-guias/battlefield-jogos/)
+- [Como encarar a Porca no Dead by Daylight?](https://marriedgames.com.br/dicas-guias/porca-dead-by-daylight/)
+- [CEO da Take-Two está confiante na tecnologia Blockchain](https://marriedgames.com.br/noticias/ceo-da-take-two-confiante-blockchain/)
+- [25 Melhores Jogos de PlayStation 2 de Todos os Tempos](https://marriedgames.com.br/analises/jogos-de-playstation-2/)
+- [Football Manager 2022: Jogo não estará no catálogo do Game Pass do Brasil](https://marriedgames.com.br/noticias/football-manager-game-pass/)
 <!-- BLOG-POST-LIST:END -->
 
 
