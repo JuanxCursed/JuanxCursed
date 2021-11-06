@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Battlefield Jogos: Todos os 16 títulos da franquia](https://marriedgames.com.br/dicas-guias/battlefield-jogos/)
-- [Como encarar a Porca no Dead by Daylight?](https://marriedgames.com.br/dicas-guias/porca-dead-by-daylight/)
-- [CEO da Take-Two está confiante na tecnologia Blockchain](https://marriedgames.com.br/noticias/ceo-da-take-two-confiante-blockchain/)
-- [25 Melhores Jogos de PlayStation 2 de Todos os Tempos](https://marriedgames.com.br/analises/jogos-de-playstation-2/)
-- [Football Manager 2022: Jogo não estará no catálogo do Game Pass do Brasil](https://marriedgames.com.br/noticias/football-manager-game-pass/)
+- [Grelhe alguns peixes em Genshin Impact e ganhe primogens](https://marriedgames.com.br/dicas-guias/grelhe-peixes-em-genshin-impact/)
+- [Review de Horizon Chase Turbo, o 1° indie nacional vendido em mídia física](https://marriedgames.com.br/analises/horizon-chase-turbo/)
+- [Konami cancela DLC de eFootball e atrasa grande atualização](https://marriedgames.com.br/noticias/konami-cancela-dlc-de-efootball/)
+- [Warhammer exclusivo de VR chega ao Steam em Novembro](https://marriedgames.com.br/noticias/warhammer-exclusivo-de-vr/)
+- [Jogue como o Kaiju em Kaiju Wars](https://marriedgames.com.br/noticias/jogue-como-o-kaiju/)
 <!-- BLOG-POST-LIST:END -->
 
 
