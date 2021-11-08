@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Parceria entre PUBG e Arcane leva League of Legends ao Battle Royale](https://marriedgames.com.br/noticias/parceria-entre-pubg-e-arcane/)
+- [Amazon vai Fundir servidores de New World para resolver problemas](https://marriedgames.com.br/noticias/servidores-de-new-world/)
+- [Como encarar o Espirito em Dead by Daylight?](https://marriedgames.com.br/dicas-guias/espirito-dead-by-daylight/)
+- [Como encarar o Palhaço em Dead by Daylight?](https://marriedgames.com.br/dicas-guias/palhaco-dead-by-daylight/)
 - [NVIDIA DLSS chegará a GTA: The Trilogy – The Definitive Edition](https://marriedgames.com.br/noticias/nvidia-dlss-chegara-a-gta/)
-- [Call of Duty Vanguard já disponível no mundo inteiro!](https://marriedgames.com.br/noticias/call-of-duty-vanguard-ja-disponivel/)
-- [Grelhe alguns peixes em Genshin Impact e ganhe primogens](https://marriedgames.com.br/dicas-guias/grelhe-peixes-em-genshin-impact/)
-- [Review de Horizon Chase Turbo, o 1° indie nacional vendido em mídia física](https://marriedgames.com.br/analises/horizon-chase-turbo/)
-- [Konami cancela DLC de eFootball e atrasa grande atualização](https://marriedgames.com.br/noticias/konami-cancela-dlc-de-efootball/)
 <!-- BLOG-POST-LIST:END -->
 
 
