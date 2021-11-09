@@ -133,8 +133,8 @@ I've just born to do it.
 
 <!-- YOUTUBE:START -->
 - [Unboxing: Water Cooler Cooler Master MasterLiquid ML360L V2 ARGB](https://www.youtube.com/watch?v=y8zdG8ayy-E)
-- [Como fazer backup - Seguro, de graça e infinito! (Dale gambiarra)](https://www.youtube.com/watch?v=jC8-d5MJ6bA)
-- [Lista 10: Os melhores editores de vídeo (DE GRAÇA!!)](https://www.youtube.com/watch?v=ykXirRLTYgA)
+- [Como fazer backup - Seguro, de graça e infinito! &lpar;Dale gambiarra&rpar;](https://www.youtube.com/watch?v=jC8-d5MJ6bA)
+- [Lista 10: Os melhores editores de vídeo &lpar;DE GRAÇA!!&rpar;](https://www.youtube.com/watch?v=ykXirRLTYgA)
 - [Como fazer um pendrive ORIGINAL do Windows 10 ou Windows 11 atualizado, oficial e de graça!](https://www.youtube.com/watch?v=qE50OIDDnYA)
 - [Vazamento de possível gameplay de The Mandalorian [RUMOR]](https://www.youtube.com/watch?v=ru8WBXf1B3Q)
 <!-- YOUTUBE:END -->
