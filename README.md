@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Truques e dicas para Subway Surfers](https://marriedgames.com.br/dicas-guias/truques-dicas-subway-surfers/)
+- [Battlefield 2042 terá crossplay e progressão cruzada? Descubra](https://marriedgames.com.br/noticias/battlefield-2042-tera-crossplay/)
+- [Guia de Genshin Impact Completo para Iniciantes em 7 Passos](https://marriedgames.com.br/dicas-guias/guia-de-genshin-impact/)
+- [Conheça President Evil, o RPG de mesa sobre a pandemia do Covid-19](https://marriedgames.com.br/dicas-guias/president-evil/)
 - [Como encarar a Praga em Dead by Daylight?](https://marriedgames.com.br/dicas-guias/praga-dead-by-daylight/)
-- [Sistemas de RPG de Mesa – Conheça 6 os melhores](https://marriedgames.com.br/noticias/sistemas-de-rpg-de-mesa/)
-- [Hogwarts Legacy pode ser lançado em 2022](https://marriedgames.com.br/noticias/hogwarts-legacy-pode-ser-lancado/)
-- [Simplificando o RPG de Mesa para iniciantes em 4 Passos](https://marriedgames.com.br/dicas-guias/simplificando-o-rpg/)
-- [CoD Vanguard poderá ter crossover com Attack on Titan, segundo vazadores](https://marriedgames.com.br/noticias/cod-attack-on-titan/)
 <!-- BLOG-POST-LIST:END -->
 
 
