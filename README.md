@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Truques e dicas para Subway Surfers](https://marriedgames.com.br/dicas-guias/truques-dicas-subway-surfers/)
-- [Battlefield 2042 terá crossplay e progressão cruzada? Descubra](https://marriedgames.com.br/noticias/battlefield-2042-tera-crossplay/)
-- [Guia de Genshin Impact Completo para Iniciantes em 7 Passos](https://marriedgames.com.br/dicas-guias/guia-de-genshin-impact/)
-- [Conheça President Evil, o RPG de mesa sobre a pandemia do Covid-19](https://marriedgames.com.br/dicas-guias/president-evil/)
-- [Como encarar a Praga em Dead by Daylight?](https://marriedgames.com.br/dicas-guias/praga-dead-by-daylight/)
+- [Quais os melhores jogos coop em 2021?](https://marriedgames.com.br/dicas-guias/quais-os-melhores-jogos-coop-em-2021/)
+- [Cheats para GTA V e Truques para as PC, Xbox One e PlayStation 4](https://marriedgames.com.br/dicas-guias/cheats-para-gta-v/)
+- [Amazon abre Servidores PTR de New World](https://marriedgames.com.br/noticias/servidores-ptr-de-new-world/)
+- [20 Melhores Sites para Baixar Jogos Grátis para PC](https://marriedgames.com.br/dicas-guias/sites-para-baixar-jogos-gratis/)
+- [O que houve com Minecraft Pocket Edition em 2021?](https://marriedgames.com.br/dicas-guias/minecraft-pocket-edition/)
 <!-- BLOG-POST-LIST:END -->
 
 
