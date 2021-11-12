@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quais os melhores jogos coop em 2021?](https://marriedgames.com.br/dicas-guias/quais-os-melhores-jogos-coop-em-2021/)
-- [Cheats para GTA V e Truques para as PC, Xbox One e PlayStation 4](https://marriedgames.com.br/dicas-guias/cheats-para-gta-v/)
-- [Amazon abre Servidores PTR de New World](https://marriedgames.com.br/noticias/servidores-ptr-de-new-world/)
-- [20 Melhores Sites para Baixar Jogos Grátis para PC](https://marriedgames.com.br/dicas-guias/sites-para-baixar-jogos-gratis/)
-- [O que houve com Minecraft Pocket Edition em 2021?](https://marriedgames.com.br/dicas-guias/minecraft-pocket-edition/)
+- [30 Melhores Jogos que não Precisam Instalar](https://marriedgames.com.br/dicas-guias/melhores-jogos-de-navegador/)
+- [7 Dicas para ter Dinheiro Infinito em The Sims](https://marriedgames.com.br/dicas-guias/dinheiro-infinito-em-the-sims/)
+- [Battle In Style &lpar;Se Joga no Estilo&rpar;, Free Fire busca inspirar usuários](https://marriedgames.com.br/noticias/battle-in-style-se-joga-no-estilo/)
+- [O Último Ancião, Sage chega ao Black Desert Mobile](https://marriedgames.com.br/noticias/sage-chega-ao-black-desert/)
+- [Jogadores recebem o NVIDIA DLSS em Hot Wheels e Jurassic World Evolution 2](https://marriedgames.com.br/noticias/jogadores-recebem-o-nvidia-dlss/)
 <!-- BLOG-POST-LIST:END -->
 
 
