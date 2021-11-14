@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [World of Warcraft: Shadowlands terá atualização de conteúdo](https://marriedgames.com.br/noticias/shadowlands-tera-atualizacao/)
+- [Aprenda a Jogar Pokémon Estampas Ilustradas](https://marriedgames.com.br/noticias/aprenda-a-jogar-pokemon/)
+- [Os 22 melhores jogos de corrida para PC em 2021](https://marriedgames.com.br/dicas-guias/melhores-jogos-de-corrida-para-pc/)
+- [Free Fire sai do virtual e estreia nas passarelas](https://marriedgames.com.br/noticias/free-fire-sai-do-virtual/)
 - [Os 15 Melhores Jogos para Jogar com as Crianças](https://marriedgames.com.br/dicas-guias/jogar-com-as-criancas/)
-- [Disney anuncia novas séries Marvel em 2022](https://marriedgames.com.br/noticias/novas-series-marvel/)
-- [KRAFTON lança PUBG: NEW STATE oficialmente](https://marriedgames.com.br/noticias/krafton-lanca-pubg/)
-- [Final da PUBG MOBILE Pro League Americas começa hoje](https://marriedgames.com.br/noticias/final-da-pubg-mobile-pro/)
-- [Trilha sonora de Dying Light 2 Stay Human estará disponível em vinil](https://marriedgames.com.br/noticias/trilha-sonora-de-dying-light/)
 <!-- BLOG-POST-LIST:END -->
 
 
