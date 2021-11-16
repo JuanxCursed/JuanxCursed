@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Aprenda a por fim no erro Disco 100% no Windows 10](https://marriedgames.com.br/dicas-guias/erro-disco-100-windows-10/)
-- [World of Warcraft: Shadowlands terá atualização de conteúdo](https://marriedgames.com.br/noticias/shadowlands-tera-atualizacao/)
-- [Aprenda a Jogar Pokémon Estampas Ilustradas](https://marriedgames.com.br/noticias/aprenda-a-jogar-pokemon/)
-- [Os 22 melhores jogos de corrida para PC em 2021](https://marriedgames.com.br/dicas-guias/melhores-jogos-de-corrida-para-pc/)
-- [Free Fire sai do virtual e estreia nas passarelas](https://marriedgames.com.br/noticias/free-fire-sai-do-virtual/)
+- [GTA ficou indisponível na Rockstar Games](https://marriedgames.com.br/noticias/gta-ficou-indisponivel-na-rockstar/)
+- [Innistrad: Voto Carmesim chega a Magic: The Gathering](https://marriedgames.com.br/noticias/innistrad-voto-carmesim/)
+- [Promoção de aniversário do Razer Gold](https://marriedgames.com.br/noticias/promocao-razer-gold/)
+- [Guia completo da Nimo TV](https://marriedgames.com.br/noticias/guia-completo-da-nimo-tv/)
+- [Punk Wars agora disponível via Steam e GOG.COM](https://marriedgames.com.br/noticias/punk-wars-na-steam-e-gog/)
 <!-- BLOG-POST-LIST:END -->
 
 
