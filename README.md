@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GTA ficou indisponível na Rockstar Games](https://marriedgames.com.br/noticias/gta-ficou-indisponivel-na-rockstar/)
-- [Innistrad: Voto Carmesim chega a Magic: The Gathering](https://marriedgames.com.br/noticias/innistrad-voto-carmesim/)
-- [Promoção de aniversário do Razer Gold](https://marriedgames.com.br/noticias/promocao-razer-gold/)
-- [Guia completo da Nimo TV](https://marriedgames.com.br/noticias/guia-completo-da-nimo-tv/)
-- [Punk Wars agora disponível via Steam e GOG.COM](https://marriedgames.com.br/noticias/punk-wars-na-steam-e-gog/)
+- [Sistema Anti-cheat RICOCHET pode ter vazado na internet](https://marriedgames.com.br/noticias/sistema-anti-cheat-ricochet/)
+- [Dragon Ball terá um jogo ao estilo Dead by Daylight](https://marriedgames.com.br/noticias/dragon-ball-dead-by-daylight/)
+- [DLSS 2.3 e NVIDIA Image Scaling: as novas tecnologias gamer da NVIDIA](https://marriedgames.com.br/noticias/dlss-2-3-e-nvidia-image-scaling/)
+- [Call of Duty: Mobile, a Temporada 10: Retorno das Sombras](https://marriedgames.com.br/noticias/temporada-retorno-das-sombras/)
+- [15 Dicas para Iniciantes em Fortnite Battle Royale](https://marriedgames.com.br/dicas-guias/dicas-para-iniciantes-em-fortnite/)
 <!-- BLOG-POST-LIST:END -->
 
 
