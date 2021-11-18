@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sistema Anti-cheat RICOCHET pode ter vazado na internet](https://marriedgames.com.br/noticias/sistema-anti-cheat-ricochet/)
-- [Dragon Ball terá um jogo ao estilo Dead by Daylight](https://marriedgames.com.br/noticias/dragon-ball-dead-by-daylight/)
-- [DLSS 2.3 e NVIDIA Image Scaling: as novas tecnologias gamer da NVIDIA](https://marriedgames.com.br/noticias/dlss-2-3-e-nvidia-image-scaling/)
-- [Call of Duty: Mobile, a Temporada 10: Retorno das Sombras](https://marriedgames.com.br/noticias/temporada-retorno-das-sombras/)
-- [15 Dicas para Iniciantes em Fortnite Battle Royale](https://marriedgames.com.br/dicas-guias/dicas-para-iniciantes-em-fortnite/)
+- [Como ativar o Windows 10 em 2021 &lpar;sem instalar nada&rpar;](https://marriedgames.com.br/dicas-guias/como-ativar-o-windows-10/)
+- [PUBG GLOBAL CHAMPIONSHIP 2021 dá início ao Desafio do Bolão PGC](https://marriedgames.com.br/noticias/desafio-do-bolao-pgc/)
+- [Arcane chega ao PUBG MOBILE no update 1.7](https://marriedgames.com.br/noticias/arcane-chega-ao-pubg/)
+- [Temporada de Maestria está disponível em WoW Classic](https://marriedgames.com.br/noticias/temporada-de-maestria/)
+- [Alpha7 é a vencedora da PUBG MOBILE Pro League Americas e leva US$ 40 mil](https://marriedgames.com.br/noticias/alpha7-e-a-vencedora-da-pubg/)
 <!-- BLOG-POST-LIST:END -->
 
 
