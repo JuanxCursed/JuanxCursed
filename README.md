@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Como ativar o Windows 10 em 2021 &lpar;sem instalar nada&rpar;](https://marriedgames.com.br/dicas-guias/como-ativar-o-windows-10/)
-- [PUBG GLOBAL CHAMPIONSHIP 2021 dá início ao Desafio do Bolão PGC](https://marriedgames.com.br/noticias/desafio-do-bolao-pgc/)
-- [Arcane chega ao PUBG MOBILE no update 1.7](https://marriedgames.com.br/noticias/arcane-chega-ao-pubg/)
-- [Temporada de Maestria está disponível em WoW Classic](https://marriedgames.com.br/noticias/temporada-de-maestria/)
-- [Alpha7 é a vencedora da PUBG MOBILE Pro League Americas e leva US$ 40 mil](https://marriedgames.com.br/noticias/alpha7-e-a-vencedora-da-pubg/)
+- [Forza Horizon 5 supera CoD Warzone e Fortnite em mais jogados do Xbox](https://marriedgames.com.br/noticias/forza-horizon-5-supera-cod-warzone/)
+- [Os 10 melhores aparelhos celulares para jogar Genshin Impact](https://marriedgames.com.br/dicas-guias/celulares-para-jogar-genshin/)
+- [Todos Truques e Segredos para se Casar em The Sims 4 e Mobile?](https://marriedgames.com.br/dicas-guias/como-se-casar-em-the-sims/)
+- [Free Fire sai do virtual e estreia nas passarelas](https://marriedgames.com.br/noticias/free-fire-sai-do-virtual/)
+- [Dia do Booyah!: Free Fire promove festa virtual com DJ’s Alok, DVLM e KSHMR](https://marriedgames.com.br/noticias/dia-do-booyah/)
 <!-- BLOG-POST-LIST:END -->
 
 
