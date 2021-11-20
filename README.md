@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Forza Horizon 5 supera CoD Warzone e Fortnite em mais jogados do Xbox](https://marriedgames.com.br/noticias/forza-horizon-5-supera-cod-warzone/)
-- [Os 10 melhores aparelhos celulares para jogar Genshin Impact](https://marriedgames.com.br/dicas-guias/celulares-para-jogar-genshin/)
-- [Todos Truques e Segredos para se Casar em The Sims 4 e Mobile?](https://marriedgames.com.br/dicas-guias/como-se-casar-em-the-sims/)
-- [Free Fire sai do virtual e estreia nas passarelas](https://marriedgames.com.br/noticias/free-fire-sai-do-virtual/)
-- [Dia do Booyah!: Free Fire promove festa virtual com DJ’s Alok, DVLM e KSHMR](https://marriedgames.com.br/noticias/dia-do-booyah/)
+- [Rockstar pede desculpas pelo GTA Trilogy](https://marriedgames.com.br/noticias/rockstar-pede-desculpas-pelo-gta/)
+- [12 Dicas Infalíveis para iniciantes em New World](https://marriedgames.com.br/analises/iniciantes-em-new-world/)
+- [Veja as melhores build para Tank em New World](https://marriedgames.com.br/analises/build-para-tank-em-new-world/)
+- [Melhor Build de Arco no New World](https://marriedgames.com.br/analises/build-de-arco-no-new-world/)
+- [Arcane e PUBG MOBILE realiza evento com times de League of Legends](https://marriedgames.com.br/noticias/arcane-e-pubg-mobile/)
 <!-- BLOG-POST-LIST:END -->
 
 
