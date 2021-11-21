@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Desbrave o mundo de Nurgle em Total War: WARHAMMER III](https://marriedgames.com.br/noticias/nurgle-em-total-war-warhammer/)
+- [Os 13 melhores jogos com crossplay para jogar em 2021](https://marriedgames.com.br/dicas-guias/os-melhores-jogos-com-crossplay/)
 - [Rockstar pede desculpas pelo GTA Trilogy](https://marriedgames.com.br/noticias/rockstar-pede-desculpas-pelo-gta/)
 - [12 Dicas Infalíveis para iniciantes em New World](https://marriedgames.com.br/analises/iniciantes-em-new-world/)
 - [Veja as melhores build para Tank em New World](https://marriedgames.com.br/analises/build-para-tank-em-new-world/)
-- [Melhor Build de Arco no New World](https://marriedgames.com.br/analises/build-de-arco-no-new-world/)
-- [Arcane e PUBG MOBILE realiza evento com times de League of Legends](https://marriedgames.com.br/noticias/arcane-e-pubg-mobile/)
 <!-- BLOG-POST-LIST:END -->
 
 
