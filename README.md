@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lag em New World? Veja 13 Dicas para Acabar com Ele](https://marriedgames.com.br/dicas-guias/lag-em-new-world/)
-- [Conheça o Cupid Nonogram](https://marriedgames.com.br/noticias/conheca-o-cupid-nonogram/)
-- [Quer Subir de Nível em New World? Veja 15 Dicas](https://marriedgames.com.br/dicas-guias/subir-nivel-em-new-world/)
-- [5 Dicas de Como Pescar em New World](https://marriedgames.com.br/dicas-guias/como-pescar-em-new-world/)
-- [Veja as 10 Melhores builds de New World](https://marriedgames.com.br/dicas-guias/melhores-builds-de-new-world/)
+- [Guia completo sobre os 5 ranks de facção em New World](https://marriedgames.com.br/dicas-guias/ranks-de-faccao-em-new-world/)
+- [7 Dicas para Escolher Facções de New World](https://marriedgames.com.br/dicas-guias/faccoes-de-new-world/)
+- [5 Dicas para Escolher o seu Server em New World](https://marriedgames.com.br/dicas-guias/escolher-server-em-new-world/)
+- [New World ficou mais difícil e os jogadores não estão felizes](https://marriedgames.com.br/noticias/new-world-ficou-mais-dificil/)
+- [Novo Vídeo de Dying Light 2 detalha a ambientação do jogo](https://marriedgames.com.br/noticias/novo-video-de-dying-light-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
