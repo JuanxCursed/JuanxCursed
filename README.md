@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Guia completo sobre os 5 ranks de facção em New World](https://marriedgames.com.br/dicas-guias/ranks-de-faccao-em-new-world/)
-- [7 Dicas para Escolher Facções de New World](https://marriedgames.com.br/dicas-guias/faccoes-de-new-world/)
-- [5 Dicas para Escolher o seu Server em New World](https://marriedgames.com.br/dicas-guias/escolher-server-em-new-world/)
-- [New World ficou mais difícil e os jogadores não estão felizes](https://marriedgames.com.br/noticias/new-world-ficou-mais-dificil/)
-- [Novo Vídeo de Dying Light 2 detalha a ambientação do jogo](https://marriedgames.com.br/noticias/novo-video-de-dying-light-2/)
+- [Windows 10 como digitalizar documentos e fotos](https://marriedgames.com.br/dicas-guias/como-digitalizar-documentos/)
+- [Novas Histórias para os sims e Mudanças Visuais vem por aí em The Sims 4](https://marriedgames.com.br/noticias/novas-historias-para-os-sims/)
+- [Proteja sua privacidade de hackers, espiões e do governo](https://marriedgames.com.br/tecnologia/proteja-sua-privacidade-de-hackers-espioes-e-do-governo/)
+- [Como Escolher uma das 12 Armas em New World](https://marriedgames.com.br/dicas-guias/armas-em-new-world/)
+- [Saiba Como Configurar e Jogar New World com Controle em 3 Passos](https://marriedgames.com.br/dicas-guias/jogar-new-world-com-controle/)
 <!-- BLOG-POST-LIST:END -->
 
 
