@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows 10 como digitalizar documentos e fotos](https://marriedgames.com.br/dicas-guias/como-digitalizar-documentos/)
-- [Novas Histórias para os sims e Mudanças Visuais vem por aí em The Sims 4](https://marriedgames.com.br/noticias/novas-historias-para-os-sims/)
-- [Proteja sua privacidade de hackers, espiões e do governo](https://marriedgames.com.br/tecnologia/proteja-sua-privacidade-de-hackers-espioes-e-do-governo/)
-- [Como Escolher uma das 12 Armas em New World](https://marriedgames.com.br/dicas-guias/armas-em-new-world/)
-- [Saiba Como Configurar e Jogar New World com Controle em 3 Passos](https://marriedgames.com.br/dicas-guias/jogar-new-world-com-controle/)
+- [Empresa criadora do Roblox está processando Youtuber Troll](https://marriedgames.com.br/noticias/roblox-esta-processando-youtuber/)
+- [Conheça o Battle Royale Light Nite, um Fortnite para ganhar criptomoeda em 2021](https://marriedgames.com.br/dicas-guias/battle-royale-light-nite/)
+- [Como digitar por voz no Windows 10?](https://marriedgames.com.br/dicas-guias/como-digitar-por-voz-no-windows-10/)
+- [Stream Smart Business realiza concurso com prêmio de 10 mil dólares](https://marriedgames.com.br/noticias/stream-smart-business-concurso/)
+- [CADILLAC SEVILLE EM HOT WHEELS UNLEASHED ESTÁ LANÇADO HOJE](https://marriedgames.com.br/noticias/cadillac-seville-em-hot-wheels/)
 <!-- BLOG-POST-LIST:END -->
 
 
