@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Empresa criadora do Roblox está processando Youtuber Troll](https://marriedgames.com.br/noticias/roblox-esta-processando-youtuber/)
-- [Conheça o Battle Royale Light Nite, um Fortnite para ganhar criptomoeda em 2021](https://marriedgames.com.br/dicas-guias/battle-royale-light-nite/)
-- [Como digitar por voz no Windows 10?](https://marriedgames.com.br/dicas-guias/como-digitar-por-voz-no-windows-10/)
-- [Stream Smart Business realiza concurso com prêmio de 10 mil dólares](https://marriedgames.com.br/noticias/stream-smart-business-concurso/)
-- [CADILLAC SEVILLE EM HOT WHEELS UNLEASHED ESTÁ LANÇADO HOJE](https://marriedgames.com.br/noticias/cadillac-seville-em-hot-wheels/)
+- [Detroit Become Human ainda é bom quase 5 anos depois? Descubra](https://marriedgames.com.br/analises/review-detroit-become-human/)
+- [Como Aumentar o Nível de Arcana em New World do 0 ao 100 e além](https://marriedgames.com.br/dicas-guias/arcana-em-new-world/)
+- [Saint Kotar recebe uma reformulação com vozes mais sombrias e intensas](https://marriedgames.com.br/noticias/saint-kotar-recebe-uma-reformulacao/)
+- [TCL Experience recebe Canarinho no Shopping Eldorado](https://marriedgames.com.br/noticias/canarinho-no-shopping-eldorado/)
+- [10 motivos para escolher um notebook GeForce RTX ao invés de um console](https://marriedgames.com.br/noticias/notebook-geforce-rtx/)
 <!-- BLOG-POST-LIST:END -->
 
 
