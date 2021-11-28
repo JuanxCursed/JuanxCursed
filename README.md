@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Detroit Become Human ainda é bom quase 5 anos depois? Descubra](https://marriedgames.com.br/analises/review-detroit-become-human/)
-- [Como Aumentar o Nível de Arcana em New World do 0 ao 100 e além](https://marriedgames.com.br/dicas-guias/arcana-em-new-world/)
-- [Saint Kotar recebe uma reformulação com vozes mais sombrias e intensas](https://marriedgames.com.br/noticias/saint-kotar-recebe-uma-reformulacao/)
-- [TCL Experience recebe Canarinho no Shopping Eldorado](https://marriedgames.com.br/noticias/canarinho-no-shopping-eldorado/)
-- [10 motivos para escolher um notebook GeForce RTX ao invés de um console](https://marriedgames.com.br/noticias/notebook-geforce-rtx/)
+- [Promoção de jogos de PlayStation 4 por R$ 47,40](https://marriedgames.com.br/noticias/jogos-de-playstation-4/)
+- [NVIDIA escolhe os principais descontos GeForce RTX desta Black Friday](https://marriedgames.com.br/noticias/geforce-rtx-desta-black-friday/)
+- [Novos vazamentos de Genshin Impact mostram inimigos e chefes na 2.4](https://marriedgames.com.br/noticias/vazamentos-de-genshin-impact-2/)
+- [Dying 2 Know irá mostrar 15 minutos de gameplay de Dying Light 2 Stay Human](https://marriedgames.com.br/noticias/gameplay-de-dying-light-2/)
+- [Black Friday do Hype Games tem descontos de até 90%](https://marriedgames.com.br/noticias/black-friday-do-hype-games/)
 <!-- BLOG-POST-LIST:END -->
 
 
