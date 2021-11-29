@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anjo Tintas e GameJamPlus fecham contrato de parceria](https://marriedgames.com.br/noticias/anjo-tintas-e-gamejamplus/)
+- [Ronaldo Fenômeno abre canal da Twitch, a Ronaldo TV](https://marriedgames.com.br/noticias/twitch-a-ronaldo-tv/)
+- [Novos vazamentos de Genshin Impact mostram inimigos e chefes na 2.4](https://marriedgames.com.br/noticias/vazamentos-de-genshin-impact-2/)
 - [Promoção de jogos de PlayStation 4 por R$ 47,40](https://marriedgames.com.br/noticias/jogos-de-playstation-4/)
 - [NVIDIA escolhe os principais descontos GeForce RTX desta Black Friday](https://marriedgames.com.br/noticias/geforce-rtx-desta-black-friday/)
-- [Novos vazamentos de Genshin Impact mostram inimigos e chefes na 2.4](https://marriedgames.com.br/noticias/vazamentos-de-genshin-impact-2/)
-- [Dying 2 Know irá mostrar 15 minutos de gameplay de Dying Light 2 Stay Human](https://marriedgames.com.br/noticias/gameplay-de-dying-light-2/)
-- [Black Friday do Hype Games tem descontos de até 90%](https://marriedgames.com.br/noticias/black-friday-do-hype-games/)
 <!-- BLOG-POST-LIST:END -->
 
 
