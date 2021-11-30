@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Anjo Tintas e GameJamPlus fecham contrato de parceria](https://marriedgames.com.br/noticias/anjo-tintas-e-gamejamplus/)
-- [Ronaldo Fenômeno abre canal da Twitch, a Ronaldo TV](https://marriedgames.com.br/noticias/twitch-a-ronaldo-tv/)
-- [Novos vazamentos de Genshin Impact mostram inimigos e chefes na 2.4](https://marriedgames.com.br/noticias/vazamentos-de-genshin-impact-2/)
+- [10 criptomoedas promissoras no Metaverso para ficar de olho no futuro](https://marriedgames.com.br/noticias/10-criptomoedas-promissoras/)
+- [Como instalar Windows 11 de forma rápida e oficial](https://marriedgames.com.br/dicas-guias/instalar-windows-11/)
+- [Como tirar print no Windows 10 em 2021?](https://marriedgames.com.br/dicas-guias/como-tirar-print-no-windows-10/)
 - [Promoção de jogos de PlayStation 4 por R$ 47,40](https://marriedgames.com.br/noticias/jogos-de-playstation-4/)
-- [NVIDIA escolhe os principais descontos GeForce RTX desta Black Friday](https://marriedgames.com.br/noticias/geforce-rtx-desta-black-friday/)
+- [Novos vazamentos de Genshin Impact mostram inimigos e chefes na 2.4](https://marriedgames.com.br/noticias/vazamentos-de-genshin-impact-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
