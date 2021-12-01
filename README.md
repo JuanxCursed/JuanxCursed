@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 criptomoedas promissoras no Metaverso para ficar de olho no futuro](https://marriedgames.com.br/noticias/10-criptomoedas-promissoras/)
-- [Como instalar Windows 11 de forma rápida e oficial](https://marriedgames.com.br/dicas-guias/instalar-windows-11/)
-- [Como tirar print no Windows 10 em 2021?](https://marriedgames.com.br/dicas-guias/como-tirar-print-no-windows-10/)
-- [Promoção de jogos de PlayStation 4 por R$ 47,40](https://marriedgames.com.br/noticias/jogos-de-playstation-4/)
-- [Novos vazamentos de Genshin Impact mostram inimigos e chefes na 2.4](https://marriedgames.com.br/noticias/vazamentos-de-genshin-impact-2/)
+- [Rocket League Sideswipe está disponível para iOS e Android](https://marriedgames.com.br/noticias/sideswipe-esta-disponivel/)
+- [Como migrar Android para iOS em 5 passos](https://marriedgames.com.br/dicas-guias/como-migrar-android-para-ios/)
+- [O Jogo Virou Dropzin em Free Fire! Prêmios caem do céu do dia 23/11 a 03/12](https://marriedgames.com.br/noticias/jogo-virou-dropzin/)
+- [Free Fire MAX vence categoria Escolha do Usuário no Google Play Best 2021](https://marriedgames.com.br/noticias/free-fire-max-vence-categoria/)
+- [Luke, Último Lutador de Street Fighter V, Luta pelo Futuro](https://marriedgames.com.br/noticias/lutador-de-street-fighter-v/)
 <!-- BLOG-POST-LIST:END -->
 
 
