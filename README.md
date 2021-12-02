@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rocket League Sideswipe está disponível para iOS e Android](https://marriedgames.com.br/noticias/sideswipe-esta-disponivel/)
-- [Como migrar Android para iOS em 5 passos](https://marriedgames.com.br/dicas-guias/como-migrar-android-para-ios/)
-- [O Jogo Virou Dropzin em Free Fire! Prêmios caem do céu do dia 23/11 a 03/12](https://marriedgames.com.br/noticias/jogo-virou-dropzin/)
-- [Free Fire MAX vence categoria Escolha do Usuário no Google Play Best 2021](https://marriedgames.com.br/noticias/free-fire-max-vence-categoria/)
-- [Luke, Último Lutador de Street Fighter V, Luta pelo Futuro](https://marriedgames.com.br/noticias/lutador-de-street-fighter-v/)
+- [World of Tanks recruta Arnold Schwarzenegger](https://marriedgames.com.br/noticias/world-of-tanks-recruta-arnold/)
+- [Conheça os jogos indicados ao Game Awards 2021](https://marriedgames.com.br/noticias/game-awards-2021/)
+- [Quatro malwares bancários descobertos em aplicativos no Google PlayStore](https://marriedgames.com.br/noticias/quatro-malwares-bancarios/)
+- [12 Dicas Arrasadoras para Começar Bem no Free Fire](https://marriedgames.com.br/dicas-guias/comecar-bem-no-free-fire/)
+- [Saiba 3 Maneiras de Jogar Free Fire no PC](https://marriedgames.com.br/dicas-guias/jogar-free-fire-no-pc/)
 <!-- BLOG-POST-LIST:END -->
 
 
