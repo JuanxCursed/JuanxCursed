@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [World of Tanks recruta Arnold Schwarzenegger](https://marriedgames.com.br/noticias/world-of-tanks-recruta-arnold/)
-- [Conheça os jogos indicados ao Game Awards 2021](https://marriedgames.com.br/noticias/game-awards-2021/)
-- [Quatro malwares bancários descobertos em aplicativos no Google PlayStore](https://marriedgames.com.br/noticias/quatro-malwares-bancarios/)
-- [12 Dicas Arrasadoras para Começar Bem no Free Fire](https://marriedgames.com.br/dicas-guias/comecar-bem-no-free-fire/)
-- [Saiba 3 Maneiras de Jogar Free Fire no PC](https://marriedgames.com.br/dicas-guias/jogar-free-fire-no-pc/)
+- [Dazz lança nova linha de Cadeiras Mermaid](https://marriedgames.com.br/noticias/linha-de-cadeiras-mermaid/)
+- [Cyber Monday do KaBuM! tem milhares de produtos hardware com desconto de até 60%](https://marriedgames.com.br/noticias/cyber-monday-do-kabum/)
+- [Inscreva-se para o Teste Beta de DUBIUM](https://marriedgames.com.br/noticias/teste-beta-de-dubium/)
+- [SAGA e CapacitaTech fecham parceria para cursos](https://marriedgames.com.br/noticias/saga-e-capacitatech/)
+- [Fanta na CCXP com Game Arena proprietária e tela FANTástica](https://marriedgames.com.br/noticias/fanta-na-ccxp-com-game-arena/)
 <!-- BLOG-POST-LIST:END -->
 
 
