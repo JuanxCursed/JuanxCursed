@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dazz lança nova linha de Cadeiras Mermaid](https://marriedgames.com.br/noticias/linha-de-cadeiras-mermaid/)
-- [Cyber Monday do KaBuM! tem milhares de produtos hardware com desconto de até 60%](https://marriedgames.com.br/noticias/cyber-monday-do-kabum/)
-- [Inscreva-se para o Teste Beta de DUBIUM](https://marriedgames.com.br/noticias/teste-beta-de-dubium/)
-- [SAGA e CapacitaTech fecham parceria para cursos](https://marriedgames.com.br/noticias/saga-e-capacitatech/)
-- [Fanta na CCXP com Game Arena proprietária e tela FANTástica](https://marriedgames.com.br/noticias/fanta-na-ccxp-com-game-arena/)
+- [CCXP lança documentário em 4 capítulos sobre o Artists’ Valley](https://marriedgames.com.br/noticias/ccxp-lanca-documentario/)
+- [Dicas de Animal Crossing: 30 Coisas que você Precisa Saber!](https://marriedgames.com.br/dicas-guias/dicas-de-animal-crossing/)
+- [Como montar um PC para jogos de até R$ 3000](https://marriedgames.com.br/dicas-guias/pc-para-jogos-montar-3000/)
+- [Dead by Daylight está de graça na Epic Games; saiba como garantir](https://marriedgames.com.br/dicas-guias/dead-by-daylight-gratis/)
+- [Battlefield 2042 recebe enorme atualização com mais de 300 melhorias; confira](https://marriedgames.com.br/noticias/atualizacao-battlefield-2042/)
 <!-- BLOG-POST-LIST:END -->
 
 
