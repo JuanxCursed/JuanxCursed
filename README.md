@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DC Comics na CCXP 2021 terá painéis de Mulher Maravilha e de Asa Noturna](https://marriedgames.com.br/noticias/dc-comics-na-ccxp-2021/)
+- [Dicas Apex Legends: 36 truques para dominar o battle royale](https://marriedgames.com.br/dicas-guias/dicas-apex-legends/)
 - [CCXP lança documentário em 4 capítulos sobre o Artists’ Valley](https://marriedgames.com.br/noticias/ccxp-lanca-documentario/)
 - [Dicas de Animal Crossing: 30 Coisas que você Precisa Saber!](https://marriedgames.com.br/dicas-guias/dicas-de-animal-crossing/)
 - [Como montar um PC para jogos de até R$ 3000](https://marriedgames.com.br/dicas-guias/pc-para-jogos-montar-3000/)
-- [Dead by Daylight está de graça na Epic Games; saiba como garantir](https://marriedgames.com.br/dicas-guias/dead-by-daylight-gratis/)
-- [Battlefield 2042 recebe enorme atualização com mais de 300 melhorias; confira](https://marriedgames.com.br/noticias/atualizacao-battlefield-2042/)
 <!-- BLOG-POST-LIST:END -->
 
 
