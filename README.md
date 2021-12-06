@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DC Comics na CCXP 2021 terá painéis de Mulher Maravilha e de Asa Noturna](https://marriedgames.com.br/noticias/dc-comics-na-ccxp-2021/)
-- [Dicas Apex Legends: 36 truques para dominar o battle royale](https://marriedgames.com.br/dicas-guias/dicas-apex-legends/)
-- [CCXP lança documentário em 4 capítulos sobre o Artists’ Valley](https://marriedgames.com.br/noticias/ccxp-lanca-documentario/)
-- [Dicas de Animal Crossing: 30 Coisas que você Precisa Saber!](https://marriedgames.com.br/dicas-guias/dicas-de-animal-crossing/)
-- [Como montar um PC para jogos de até R$ 3000](https://marriedgames.com.br/dicas-guias/pc-para-jogos-montar-3000/)
+- [Century Age of Ashes grátis na Steam](https://marriedgames.com.br/noticias/century-age-of-ashes-gratis-na-steam/)
+- [Nova expansão para Kingdoms of Amalur: Re-Reckoning, Fatesworn](https://marriedgames.com.br/noticias/expansao-para-kingdoms-of-amalur/)
+- [Novo gameplay de Dying Light 2 Stay Human](https://marriedgames.com.br/noticias/novo-gameplay-de-dying-light/)
+- [Xisde agora é Xis anuncia sua nova equipe de Fortnite](https://marriedgames.com.br/noticias/xisde-agora-e-xis/)
+- [Vídeo no Reddit mostra datas de novos banners em Genshin Impact 2.4](https://marriedgames.com.br/noticias/novos-banners-em-genshin-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 
