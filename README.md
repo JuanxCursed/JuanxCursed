@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Century Age of Ashes grátis na Steam](https://marriedgames.com.br/noticias/century-age-of-ashes-gratis-na-steam/)
-- [Nova expansão para Kingdoms of Amalur: Re-Reckoning, Fatesworn](https://marriedgames.com.br/noticias/expansao-para-kingdoms-of-amalur/)
-- [Novo gameplay de Dying Light 2 Stay Human](https://marriedgames.com.br/noticias/novo-gameplay-de-dying-light/)
-- [Xisde agora é Xis anuncia sua nova equipe de Fortnite](https://marriedgames.com.br/noticias/xisde-agora-e-xis/)
-- [Vídeo no Reddit mostra datas de novos banners em Genshin Impact 2.4](https://marriedgames.com.br/noticias/novos-banners-em-genshin-impact/)
+- [Atualização Jackie e Daria de Spiritfarer será lançada na próxima semana](https://marriedgames.com.br/noticias/atualizacao-jackie-e-daria/)
+- [Conheça After the Fall, um shooter VR com cross-play](https://marriedgames.com.br/noticias/conheca-after-the-fall/)
+- [O que são altcoins? Tudo que você precisa saber sobre elas em 2022](https://marriedgames.com.br/dicas-guias/o-que-sao-altcoins/)
+- [Sacar Criptomoedas: Transformando seus Bitcoins em Reais em 2022](https://marriedgames.com.br/dicas-guias/como-sacar-criptomoedas/)
+- [Como minerar bitcoins e outras criptomoedas em 2022?](https://marriedgames.com.br/dicas-guias/como-minerar-bitcoins/)
 <!-- BLOG-POST-LIST:END -->
 
 
