@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Atualização Jackie e Daria de Spiritfarer será lançada na próxima semana](https://marriedgames.com.br/noticias/atualizacao-jackie-e-daria/)
-- [Conheça After the Fall, um shooter VR com cross-play](https://marriedgames.com.br/noticias/conheca-after-the-fall/)
-- [O que são altcoins? Tudo que você precisa saber sobre elas em 2022](https://marriedgames.com.br/dicas-guias/o-que-sao-altcoins/)
-- [Sacar Criptomoedas: Transformando seus Bitcoins em Reais em 2022](https://marriedgames.com.br/dicas-guias/como-sacar-criptomoedas/)
-- [Como minerar bitcoins e outras criptomoedas em 2022?](https://marriedgames.com.br/dicas-guias/como-minerar-bitcoins/)
+- [Conheça os indicados ao Brazil Game Awards 2021](https://marriedgames.com.br/noticias/brazil-game-awards-2021/)
+- [Veja um teaser do próximo sistema estelar de EVERSPACE 2](https://marriedgames.com.br/noticias/sistema-estelar-de-everspace/)
+- [World of Warships faz live de caridade](https://marriedgames.com.br/noticias/world-of-warships-faz-live/)
+- [Lançamento de Temperia Soul Of Majestic da Leonardo Interactive em 2022](https://marriedgames.com.br/noticias/lancamento-de-temperia/)
+- [Atualização gratuita do SpellForce 3 Reforced no PC já saiu](https://marriedgames.com.br/noticias/atualizacao-gratuita-do-spellforce/)
 <!-- BLOG-POST-LIST:END -->
 
 
