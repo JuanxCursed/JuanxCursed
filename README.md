@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Conheça os indicados ao Brazil Game Awards 2021](https://marriedgames.com.br/noticias/brazil-game-awards-2021/)
-- [Veja um teaser do próximo sistema estelar de EVERSPACE 2](https://marriedgames.com.br/noticias/sistema-estelar-de-everspace/)
-- [World of Warships faz live de caridade](https://marriedgames.com.br/noticias/world-of-warships-faz-live/)
-- [Lançamento de Temperia Soul Of Majestic da Leonardo Interactive em 2022](https://marriedgames.com.br/noticias/lancamento-de-temperia/)
-- [Atualização gratuita do SpellForce 3 Reforced no PC já saiu](https://marriedgames.com.br/noticias/atualizacao-gratuita-do-spellforce/)
+- [Ubisoft anuncia o lançamento do Ubisoft Quartz](https://marriedgames.com.br/noticias/ubisoft-quartz/)
+- [Bunker Warzone 11: Localização dos bunkers e como acessar](https://marriedgames.com.br/dicas-guias/bunker-warzone/)
+- [Reveladas Especificações de God of War para PC](https://marriedgames.com.br/noticias/especificacoes-de-god-of-war/)
+- [Conheça a Expansão Divididos no Vale Alterac](https://marriedgames.com.br/noticias/divididos-no-vale-alterac/)
+- [UNCHARTED: Coleção Legado dos Ladrões veja detalhes sobre a coleção remasterizada](https://marriedgames.com.br/noticias/colecao-legado-dos-ladroes/)
 <!-- BLOG-POST-LIST:END -->
 
 
