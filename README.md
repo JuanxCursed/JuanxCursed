@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Os 15 Melhores Jogos Lego para jogar](https://marriedgames.com.br/dicas-guias/os-melhores-jogos-lego/)
 - [Ubisoft anuncia o lançamento do Ubisoft Quartz](https://marriedgames.com.br/noticias/ubisoft-quartz/)
 - [Bunker Warzone 11: Localização dos bunkers e como acessar](https://marriedgames.com.br/dicas-guias/bunker-warzone/)
 - [Reveladas Especificações de God of War para PC](https://marriedgames.com.br/noticias/especificacoes-de-god-of-war/)
 - [Conheça a Expansão Divididos no Vale Alterac](https://marriedgames.com.br/noticias/divididos-no-vale-alterac/)
-- [UNCHARTED: Coleção Legado dos Ladrões veja detalhes sobre a coleção remasterizada](https://marriedgames.com.br/noticias/colecao-legado-dos-ladroes/)
 <!-- BLOG-POST-LIST:END -->
 
 
