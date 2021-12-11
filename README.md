@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Os 15 Melhores Jogos Lego para jogar](https://marriedgames.com.br/dicas-guias/os-melhores-jogos-lego/)
-- [Ubisoft anuncia o lançamento do Ubisoft Quartz](https://marriedgames.com.br/noticias/ubisoft-quartz/)
-- [Bunker Warzone 11: Localização dos bunkers e como acessar](https://marriedgames.com.br/dicas-guias/bunker-warzone/)
-- [Reveladas Especificações de God of War para PC](https://marriedgames.com.br/noticias/especificacoes-de-god-of-war/)
-- [Conheça a Expansão Divididos no Vale Alterac](https://marriedgames.com.br/noticias/divididos-no-vale-alterac/)
+- [It Takes Two: Conheça mais Sobre o Jogo do Ano da Game Awards 2021](https://marriedgames.com.br/analises/it-takes-two/)
+- [Free Fire x La Casa de Papel: mais missões e recompensas](https://marriedgames.com.br/noticias/free-fire-x-la-casa-de-papel/)
+- [Seven Knights 2 recebe novo conteúdo de história](https://marriedgames.com.br/noticias/seven-knights-2-recebe-novo-conteudo/)
+- [Trovo é lançada no Brasil oficialmente](https://marriedgames.com.br/noticias/trovo-e-lancada-no-brasil/)
+- [Horizon Zero Dawn tem performance melhorada com NVIDIA DLSS em até 50%](https://marriedgames.com.br/noticias/performance-melhorada-com-nvidia/)
 <!-- BLOG-POST-LIST:END -->
 
 
