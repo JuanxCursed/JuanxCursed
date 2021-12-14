@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ubisoft remove o anúncio do Quartz do Youtube](https://marriedgames.com.br/noticias/ubisoft-remove-o-anuncio-do-quartz/)
-- [Como conseguir atiradores de teia do Homem-Aranha em Fortnite](https://marriedgames.com.br/noticias/teia-do-homem-aranha-em-fortnite/)
-- [Genshin Impact dará 1600 primogems como agradecimento pela Game Awards](https://marriedgames.com.br/noticias/genshin-impact-dara-1600-primogems/)
-- [Anunciada a data de lançamento de Expeditions: Rome](https://marriedgames.com.br/noticias/lancamento-de-expeditions/)
-- [It Takes Two: Conheça mais Sobre o Jogo do Ano da Game Awards 2021](https://marriedgames.com.br/analises/it-takes-two/)
+- [Genshin Impact mudou de publisher e agora pertence a Cognosphere](https://marriedgames.com.br/noticias/genshin-impact-mudou-de-publisher/)
+- [6 Dicas para Melhorar o FPS no CoD Warzone](https://marriedgames.com.br/dicas-guias/melhorar-o-fps-no-cod-warzone/)
+- [HyperX lança headset HyperX Cloud Flight Wireless otimizado para PS4 e PS5](https://marriedgames.com.br/noticias/hyperx-cloud-flight/)
+- [Voltorb Chega ao Pokémon Legends: Arceus](https://marriedgames.com.br/noticias/voltorb-chega-ao-pokemon-legends/)
+- [Arena of Valor recebe Arlequina da DC em novo Festival](https://marriedgames.com.br/noticias/arena-of-valor-recebe-arlequina/)
 <!-- BLOG-POST-LIST:END -->
 
 
