@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Genshin Impact mudou de publisher e agora pertence a Cognosphere](https://marriedgames.com.br/noticias/genshin-impact-mudou-de-publisher/)
-- [6 Dicas para Melhorar o FPS no CoD Warzone](https://marriedgames.com.br/dicas-guias/melhorar-o-fps-no-cod-warzone/)
-- [HyperX lança headset HyperX Cloud Flight Wireless otimizado para PS4 e PS5](https://marriedgames.com.br/noticias/hyperx-cloud-flight/)
-- [Voltorb Chega ao Pokémon Legends: Arceus](https://marriedgames.com.br/noticias/voltorb-chega-ao-pokemon-legends/)
-- [Arena of Valor recebe Arlequina da DC em novo Festival](https://marriedgames.com.br/noticias/arena-of-valor-recebe-arlequina/)
+- [Logitech G e Riot Games reforçam parceria exclusiva](https://marriedgames.com.br/noticias/logitech-g-e-riot-games/)
+- [Claro inova com metaverso em Natal Imperial 2021](https://marriedgames.com.br/noticias/natal-imperial-2021/)
+- [Xsolla realiza parceria com PagBrasil para aprimorar experiência de compra in-game](https://marriedgames.com.br/noticias/xsolla-realiza-parceria-com-pagbrasil/)
+- [José Aldo e BioBots anunciam coleção de NFTs](https://marriedgames.com.br/noticias/jose-aldo-e-biobots/)
+- [Robótica Maker é um Presente Nerd para seu Natal](https://marriedgames.com.br/noticias/robotica-maker-e-um-presente-nerd/)
 <!-- BLOG-POST-LIST:END -->
 
 
