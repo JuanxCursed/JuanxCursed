@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Logitech G e Riot Games reforçam parceria exclusiva](https://marriedgames.com.br/noticias/logitech-g-e-riot-games/)
-- [Claro inova com metaverso em Natal Imperial 2021](https://marriedgames.com.br/noticias/natal-imperial-2021/)
-- [Xsolla realiza parceria com PagBrasil para aprimorar experiência de compra in-game](https://marriedgames.com.br/noticias/xsolla-realiza-parceria-com-pagbrasil/)
-- [José Aldo e BioBots anunciam coleção de NFTs](https://marriedgames.com.br/noticias/jose-aldo-e-biobots/)
-- [Robótica Maker é um Presente Nerd para seu Natal](https://marriedgames.com.br/noticias/robotica-maker-e-um-presente-nerd/)
+- [Amazon AWS fora do ar: Queda afeta PSN, Disney+, iFood e mais](https://marriedgames.com.br/noticias/amazon-aws-fora-do-ar/)
+- [Tocando o Rebu em Valorant: Riot Games abre as portas para Raze](https://marriedgames.com.br/noticias/tocando-o-rebu-em-valorant/)
+- [Natal com Alexa da Amazon: Veja os novos comandos de Natal](https://marriedgames.com.br/noticias/natal-com-alexa-da-amazon/)
+- [Apresentando Diamond e Pearl Clans no Jogo Pokémon Legends: Arceus](https://marriedgames.com.br/noticias/diamond-e-pearl-clans/)
+- [Sony ocupa locais históricos do Rio de Janeiro com jogos icônicos do PlayStation](https://marriedgames.com.br/noticias/jogos-iconicos-do-playstation/)
 <!-- BLOG-POST-LIST:END -->
 
 
