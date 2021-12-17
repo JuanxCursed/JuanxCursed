@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon AWS fora do ar: Queda afeta PSN, Disney+, iFood e mais](https://marriedgames.com.br/noticias/amazon-aws-fora-do-ar/)
-- [Tocando o Rebu em Valorant: Riot Games abre as portas para Raze](https://marriedgames.com.br/noticias/tocando-o-rebu-em-valorant/)
-- [Natal com Alexa da Amazon: Veja os novos comandos de Natal](https://marriedgames.com.br/noticias/natal-com-alexa-da-amazon/)
-- [Apresentando Diamond e Pearl Clans no Jogo Pokémon Legends: Arceus](https://marriedgames.com.br/noticias/diamond-e-pearl-clans/)
-- [Sony ocupa locais históricos do Rio de Janeiro com jogos icônicos do PlayStation](https://marriedgames.com.br/noticias/jogos-iconicos-do-playstation/)
+- [Veja 10 jogos de Mega Drive que marcaram época no lendário console da SEGA](https://marriedgames.com.br/dicas-guias/jogos-de-mega-drive/)
+- [Especial de Natal Netenho de PUBG MOBILE terá show de Matheus e Kauan](https://marriedgames.com.br/noticias/natal-netenho-de-pubg/)
+- [Century: Age of Ashes comemora meio milhão de jogadores com evento Frost e Fury](https://marriedgames.com.br/noticias/evento-frost-e-fury/)
+- [Fling to the Finish Winter Update já está disponível](https://marriedgames.com.br/noticias/fling-to-the-finish-winter-update/)
+- [Audiência da Nimo TV dobrou em 2021 via PC](https://marriedgames.com.br/noticias/audiencia-da-nimo-tv/)
 <!-- BLOG-POST-LIST:END -->
 
 
