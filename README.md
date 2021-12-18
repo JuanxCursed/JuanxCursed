@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Veja 10 jogos de Mega Drive que marcaram época no lendário console da SEGA](https://marriedgames.com.br/dicas-guias/jogos-de-mega-drive/)
-- [Especial de Natal Netenho de PUBG MOBILE terá show de Matheus e Kauan](https://marriedgames.com.br/noticias/natal-netenho-de-pubg/)
-- [Century: Age of Ashes comemora meio milhão de jogadores com evento Frost e Fury](https://marriedgames.com.br/noticias/evento-frost-e-fury/)
-- [Fling to the Finish Winter Update já está disponível](https://marriedgames.com.br/noticias/fling-to-the-finish-winter-update/)
-- [Audiência da Nimo TV dobrou em 2021 via PC](https://marriedgames.com.br/noticias/audiencia-da-nimo-tv/)
+- [Overwatch Paraíso Congelado 2021 já está disponível](https://marriedgames.com.br/noticias/overwatch-paraiso-congelado/)
+- [Trocar jogos de videogame é opção para maratonar nas férias com economia](https://marriedgames.com.br/noticias/trocar-jogos-de-videogame/)
+- [Novo trailer de Horizon: Forbidden West mostra detalhes das máquinas inéditas](https://marriedgames.com.br/noticias/novo-trailer-de-horizon-forbidden/)
+- [Expeditions Rome ganha demo e tem fim de semana com streamers](https://marriedgames.com.br/noticias/expeditions-rome-ganha-demo/)
+- [GSC Game World cancelou os NFTs de Stalker 2](https://marriedgames.com.br/noticias/gsc-game-world-cancelou-os-nfts/)
 <!-- BLOG-POST-LIST:END -->
 
 
