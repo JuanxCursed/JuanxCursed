@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Overwatch Paraíso Congelado 2021 já está disponível](https://marriedgames.com.br/noticias/overwatch-paraiso-congelado/)
-- [Trocar jogos de videogame é opção para maratonar nas férias com economia](https://marriedgames.com.br/noticias/trocar-jogos-de-videogame/)
-- [Novo trailer de Horizon: Forbidden West mostra detalhes das máquinas inéditas](https://marriedgames.com.br/noticias/novo-trailer-de-horizon-forbidden/)
-- [Expeditions Rome ganha demo e tem fim de semana com streamers](https://marriedgames.com.br/noticias/expeditions-rome-ganha-demo/)
-- [GSC Game World cancelou os NFTs de Stalker 2](https://marriedgames.com.br/noticias/gsc-game-world-cancelou-os-nfts/)
+- [MIBR entra no Free Fire e Valorant](https://marriedgames.com.br/noticias/mibr-entra-no-free-fire-e-valorant/)
+- [GamersCard premia os mais bem colocados dos torneios de freeroll de poker](https://marriedgames.com.br/noticias/gamerscard-premia-os-mais-bem/)
+- [Gaules vence como Melhor Streamer](https://marriedgames.com.br/noticias/gaules-vence-como-melhor-streamer/)
+- [Guia de Presentes em Stardew Valley para os 10 solteiros do jogo](https://marriedgames.com.br/noticias/guia-de-presentes-em-stardew-valley/)
+- [AppGallery da Huawei oferece até 50% de retorno nas compras](https://marriedgames.com.br/noticias/appgallery-da-huawei/)
 <!-- BLOG-POST-LIST:END -->
 
 
