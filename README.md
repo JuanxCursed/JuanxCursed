@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Back 4 Blood ganha atualizações grátis hoje!](https://marriedgames.com.br/noticias/back-4-blood-ganha-atualizacoes/)
+- [Rainbow Six Siege vence Prêmio Esports Brasil](https://marriedgames.com.br/noticias/rainbow-six-siege-vence-premio/)
+- [Divulgados os requisitos para jogar Dying Light 2](https://marriedgames.com.br/noticias/requisitos-para-jogar-dying-light/)
+- [Celular para jogos? Saiba qual comprar  e onde](https://marriedgames.com.br/dicas-guias/celular-para-jogos/)
 - [MIBR entra no Free Fire e Valorant](https://marriedgames.com.br/noticias/mibr-entra-no-free-fire-e-valorant/)
-- [GamersCard premia os mais bem colocados dos torneios de freeroll de poker](https://marriedgames.com.br/noticias/gamerscard-premia-os-mais-bem/)
-- [Gaules vence como Melhor Streamer](https://marriedgames.com.br/noticias/gaules-vence-como-melhor-streamer/)
-- [Guia de Presentes em Stardew Valley para os 10 solteiros do jogo](https://marriedgames.com.br/noticias/guia-de-presentes-em-stardew-valley/)
-- [AppGallery da Huawei oferece até 50% de retorno nas compras](https://marriedgames.com.br/noticias/appgallery-da-huawei/)
 <!-- BLOG-POST-LIST:END -->
 
 
