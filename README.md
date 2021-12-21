@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Back 4 Blood ganha atualizações grátis hoje!](https://marriedgames.com.br/noticias/back-4-blood-ganha-atualizacoes/)
-- [Rainbow Six Siege vence Prêmio Esports Brasil](https://marriedgames.com.br/noticias/rainbow-six-siege-vence-premio/)
-- [Divulgados os requisitos para jogar Dying Light 2](https://marriedgames.com.br/noticias/requisitos-para-jogar-dying-light/)
-- [Celular para jogos? Saiba qual comprar  e onde](https://marriedgames.com.br/dicas-guias/celular-para-jogos/)
-- [MIBR entra no Free Fire e Valorant](https://marriedgames.com.br/noticias/mibr-entra-no-free-fire-e-valorant/)
+- [Conheça Nairi em Free Fire e saiba como obtê-lo](https://marriedgames.com.br/noticias/conheca-nairi-em-free-fire/)
+- [6 Produtos da Positivo Tecnologia têm ofertas exclusivas para o Natal](https://marriedgames.com.br/noticias/produtos-da-positivo-tecnologia/)
+- [Aprenda a lutar em Expeditions Rome com o novo trailer](https://marriedgames.com.br/noticias/lutar-em-expeditions-rome/)
+- [World of Warships anuncia primeiro comandante histórico brasileiro](https://marriedgames.com.br/noticias/comandante-historico-brasileiro/)
+- [After The Fall Quebra Recorde De Vendas](https://marriedgames.com.br/noticias/after-the-fall-quebra-recorde/)
 <!-- BLOG-POST-LIST:END -->
 
 
