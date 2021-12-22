@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Conheça Nairi em Free Fire e saiba como obtê-lo](https://marriedgames.com.br/noticias/conheca-nairi-em-free-fire/)
-- [6 Produtos da Positivo Tecnologia têm ofertas exclusivas para o Natal](https://marriedgames.com.br/noticias/produtos-da-positivo-tecnologia/)
-- [Aprenda a lutar em Expeditions Rome com o novo trailer](https://marriedgames.com.br/noticias/lutar-em-expeditions-rome/)
-- [World of Warships anuncia primeiro comandante histórico brasileiro](https://marriedgames.com.br/noticias/comandante-historico-brasileiro/)
-- [After The Fall Quebra Recorde De Vendas](https://marriedgames.com.br/noticias/after-the-fall-quebra-recorde/)
+- [Saiba como desinstalar app do Facebook do celular em 5 passos](https://marriedgames.com.br/dicas-guias/desinstalar-app-do-facebook/)
+- [HOT WHEELS UNLEASHED VENDE 1 MILHÃO DE CÓPIAS EM TODO O MUNDO](https://marriedgames.com.br/noticias/hot-wheels-unleashed-vende/)
+- [6 dicas para quem vai começar a jogar World of Tanks](https://marriedgames.com.br/noticias/comecar-a-jogar-world-of-tanks/)
+- [Saiba tudo sobre o DRAGON BALL GAMES BATTLE HOUR 2022](https://marriedgames.com.br/noticias/dragon-ball-games-battle-hour/)
+- [Veja as novidades do Dia Comunitário em Pokémon Go de Janeiro 2022](https://marriedgames.com.br/noticias/dia-comunitario-em-pokemon-go/)
 <!-- BLOG-POST-LIST:END -->
 
 
