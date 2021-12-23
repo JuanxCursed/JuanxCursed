@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Saiba como desinstalar app do Facebook do celular em 5 passos](https://marriedgames.com.br/dicas-guias/desinstalar-app-do-facebook/)
-- [HOT WHEELS UNLEASHED VENDE 1 MILHÃO DE CÓPIAS EM TODO O MUNDO](https://marriedgames.com.br/noticias/hot-wheels-unleashed-vende/)
-- [6 dicas para quem vai começar a jogar World of Tanks](https://marriedgames.com.br/noticias/comecar-a-jogar-world-of-tanks/)
-- [Saiba tudo sobre o DRAGON BALL GAMES BATTLE HOUR 2022](https://marriedgames.com.br/noticias/dragon-ball-games-battle-hour/)
-- [Veja as novidades do Dia Comunitário em Pokémon Go de Janeiro 2022](https://marriedgames.com.br/noticias/dia-comunitario-em-pokemon-go/)
+- [Os Piores Jogos de 2021 de Acordo com o Metacritics](https://marriedgames.com.br/analises/os-piores-jogos-de-2021/)
+- [Guia para iniciantes em Valorant para começar detonando em 2022](https://marriedgames.com.br/dicas-guias/guia-para-iniciantes-em-valorant/)
+- [Dying Light recebe o novo bundle Snow Ops](https://marriedgames.com.br/noticias/novo-bundle-snow-ops/)
+- [Conheça os times que estão na final da PUBG MOBILE Global Championship 2021](https://marriedgames.com.br/noticias/final-da-pubg-mobile/)
+- [The King of Fighters 98 recebe atualização na Steam](https://marriedgames.com.br/noticias/king-of-fighters-98-recebe-atualizacao/)
 <!-- BLOG-POST-LIST:END -->
 
 
