@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Os Piores Jogos de 2021 de Acordo com o Metacritics](https://marriedgames.com.br/analises/os-piores-jogos-de-2021/)
-- [Guia para iniciantes em Valorant para começar detonando em 2022](https://marriedgames.com.br/dicas-guias/guia-para-iniciantes-em-valorant/)
-- [Dying Light recebe o novo bundle Snow Ops](https://marriedgames.com.br/noticias/novo-bundle-snow-ops/)
-- [Conheça os times que estão na final da PUBG MOBILE Global Championship 2021](https://marriedgames.com.br/noticias/final-da-pubg-mobile/)
-- [The King of Fighters 98 recebe atualização na Steam](https://marriedgames.com.br/noticias/king-of-fighters-98-recebe-atualizacao/)
+- [ICARUS chega com tecnologias NVIDIA DLSS e Ray Tracing](https://marriedgames.com.br/noticias/icarus-chega-com-tecnologias-nvidia/)
+- [Os melhores jogos Battle Royale para jogar em 2022](https://marriedgames.com.br/dicas-guias/battle-royale-para-jogar-em-2022/)
+- [Como jogar com a Killjoy em Valorant em 3 passos fáceis](https://marriedgames.com.br/dicas-guias/killjoy-em-valorant/)
+- [Melhores personagens em Free Fire para quem é F2P](https://marriedgames.com.br/dicas-guias/melhores-personagens-em-free-fire/)
+- [A “entrada Ubisoft no mundo dos NFTs precisa de tempo”, diz Diretor Técnico](https://marriedgames.com.br/noticias/ubisoft-no-mundo-dos-nft/)
 <!-- BLOG-POST-LIST:END -->
 
 
