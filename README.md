@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como Ganhar Moedas em Pokémon Go e Defender seus Ginásios](https://marriedgames.com.br/dicas-guias/ganhar-moedas-em-pokemon-go/)
+- [Dicas e truques de Free Fire para se tornar um profissional em 10 minutos](https://marriedgames.com.br/dicas-guias/dicas-e-truques-de-free-fire/)
+- [Como melhorar a mira em jogos de PC?](https://marriedgames.com.br/dicas-guias/como-melhorar-a-mira/)
 - [ICARUS chega com tecnologias NVIDIA DLSS e Ray Tracing](https://marriedgames.com.br/noticias/icarus-chega-com-tecnologias-nvidia/)
 - [Os melhores jogos Battle Royale para jogar em 2022](https://marriedgames.com.br/dicas-guias/battle-royale-para-jogar-em-2022/)
-- [Como jogar com a Killjoy em Valorant em 3 passos fáceis](https://marriedgames.com.br/dicas-guias/killjoy-em-valorant/)
-- [Melhores personagens em Free Fire para quem é F2P](https://marriedgames.com.br/dicas-guias/melhores-personagens-em-free-fire/)
-- [A “entrada Ubisoft no mundo dos NFTs precisa de tempo”, diz Diretor Técnico](https://marriedgames.com.br/noticias/ubisoft-no-mundo-dos-nft/)
 <!-- BLOG-POST-LIST:END -->
 
 
