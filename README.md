@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [8 Dicas de movimentação em Fortnite](https://marriedgames.com.br/noticias/movimentacao-em-fortnite/)
+- [Techland anuncia que Dying Light 2 está pronto](https://marriedgames.com.br/noticias/dying-light-2-esta-pronto/)
+- [10 Semelhanças entre Tower of Fantasy e Genshin Impact](https://marriedgames.com.br/dicas-guias/tower-of-fantasy-e-genshin-impact/)
 - [Como Ganhar Moedas em Pokémon Go e Defender seus Ginásios](https://marriedgames.com.br/dicas-guias/ganhar-moedas-em-pokemon-go/)
 - [Dicas e truques de Free Fire para se tornar um profissional em 10 minutos](https://marriedgames.com.br/dicas-guias/dicas-e-truques-de-free-fire/)
-- [Como melhorar a mira em jogos de PC?](https://marriedgames.com.br/dicas-guias/como-melhorar-a-mira/)
-- [ICARUS chega com tecnologias NVIDIA DLSS e Ray Tracing](https://marriedgames.com.br/noticias/icarus-chega-com-tecnologias-nvidia/)
-- [Os melhores jogos Battle Royale para jogar em 2022](https://marriedgames.com.br/dicas-guias/battle-royale-para-jogar-em-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 
