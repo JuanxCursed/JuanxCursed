@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VELONE um jogo de automação meditativa](https://marriedgames.com.br/noticias/velone-um-jogo-de-automacao/)
+- [Os 13 melhores aplicativos para ganhar dinheiro](https://marriedgames.com.br/dicas-guias/aplicativos-para-ganhar-dinheiro/)
+- [Veja o que rolou na Live de Genshin Impact versão 2.4](https://marriedgames.com.br/noticias/live-de-genshin-impact/)
+- [5 dicas para alcançar a vitória no Company of Heroes 3](https://marriedgames.com.br/noticias/vitoria-no-company-of-heroes-3/)
 - [8 Dicas de movimentação em Fortnite](https://marriedgames.com.br/noticias/movimentacao-em-fortnite/)
-- [Techland anuncia que Dying Light 2 está pronto](https://marriedgames.com.br/noticias/dying-light-2-esta-pronto/)
-- [10 Semelhanças entre Tower of Fantasy e Genshin Impact](https://marriedgames.com.br/dicas-guias/tower-of-fantasy-e-genshin-impact/)
-- [Como Ganhar Moedas em Pokémon Go e Defender seus Ginásios](https://marriedgames.com.br/dicas-guias/ganhar-moedas-em-pokemon-go/)
-- [Dicas e truques de Free Fire para se tornar um profissional em 10 minutos](https://marriedgames.com.br/dicas-guias/dicas-e-truques-de-free-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 
