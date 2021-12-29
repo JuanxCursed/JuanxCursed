@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Anacrusis é lançado no Steam](https://marriedgames.com.br/noticias/anacrusis-e-lancado-no-steam/)
+- [Guia para iniciantes do Thetan Arena: Como começar com investimento zero](https://marriedgames.com.br/noticias/iniciantes-do-thetan-arena/)
+- [Como usar os códigos de trapaça no The Sims 4](https://marriedgames.com.br/dicas-guias/codigos-de-trapaca-no-the-sims/)
 - [VELONE um jogo de automação meditativa](https://marriedgames.com.br/noticias/velone-um-jogo-de-automacao/)
 - [Os 13 melhores aplicativos para ganhar dinheiro](https://marriedgames.com.br/dicas-guias/aplicativos-para-ganhar-dinheiro/)
-- [Veja o que rolou na Live de Genshin Impact versão 2.4](https://marriedgames.com.br/noticias/live-de-genshin-impact/)
-- [5 dicas para alcançar a vitória no Company of Heroes 3](https://marriedgames.com.br/noticias/vitoria-no-company-of-heroes-3/)
-- [8 Dicas de movimentação em Fortnite](https://marriedgames.com.br/noticias/movimentacao-em-fortnite/)
 <!-- BLOG-POST-LIST:END -->
 
 
