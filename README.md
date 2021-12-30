@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como melhorar a taxa de Headshots em Free Fire MAX](https://marriedgames.com.br/dicas-guias/headshots-em-free-fire-max/)
+- [Startup mineira se especializa em eventos gamers e tem crescimento de 500%](https://marriedgames.com.br/noticias/startup-mineira-se-especializa-em-eventos/)
+- [Saiba quais são os melhores Personagens de Thetan Arena](https://marriedgames.com.br/dicas-guias/personagens-de-thetan-arena/)
 - [The Anacrusis é lançado no Steam](https://marriedgames.com.br/noticias/anacrusis-e-lancado-no-steam/)
 - [Guia para iniciantes do Thetan Arena: Como começar com investimento zero](https://marriedgames.com.br/noticias/iniciantes-do-thetan-arena/)
-- [Como usar os códigos de trapaça no The Sims 4](https://marriedgames.com.br/dicas-guias/codigos-de-trapaca-no-the-sims/)
-- [VELONE um jogo de automação meditativa](https://marriedgames.com.br/noticias/velone-um-jogo-de-automacao/)
-- [Os 13 melhores aplicativos para ganhar dinheiro](https://marriedgames.com.br/dicas-guias/aplicativos-para-ganhar-dinheiro/)
 <!-- BLOG-POST-LIST:END -->
 
 
