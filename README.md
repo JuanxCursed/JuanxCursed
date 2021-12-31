@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como Ganhar Vouchers de Personagens em PUBG e os 4 Melhores Personagens](https://marriedgames.com.br/noticias/vouchers-de-personagens-em-pubg/)
+- [Spelltable permite se divertir com cards físicos de Magic: The Gathering](https://marriedgames.com.br/noticias/spelltable-permite-se-divertir/)
 - [Como melhorar a taxa de Headshots em Free Fire MAX](https://marriedgames.com.br/dicas-guias/headshots-em-free-fire-max/)
 - [Startup mineira se especializa em eventos gamers e tem crescimento de 500%](https://marriedgames.com.br/noticias/startup-mineira-se-especializa-em-eventos/)
 - [Saiba quais são os melhores Personagens de Thetan Arena](https://marriedgames.com.br/dicas-guias/personagens-de-thetan-arena/)
-- [The Anacrusis é lançado no Steam](https://marriedgames.com.br/noticias/anacrusis-e-lancado-no-steam/)
-- [Guia para iniciantes do Thetan Arena: Como começar com investimento zero](https://marriedgames.com.br/noticias/iniciantes-do-thetan-arena/)
 <!-- BLOG-POST-LIST:END -->
 
 
