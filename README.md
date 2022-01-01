@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dicas NBA 2K22: Veja 22 truques para arrasar nas quadras](https://marriedgames.com.br/dicas-guias/dicas-nba-2k22/)
+- [Análise de Life is Strange True Colors, o 3° jogo da série](https://marriedgames.com.br/analises/analise-de-life-is-strange-true-colors/)
+- [Como registrar e jogar Tower of Fantasy](https://marriedgames.com.br/noticias/registrar-e-jogar-tower-of-fantasy/)
 - [Como Ganhar Vouchers de Personagens em PUBG e os 4 Melhores Personagens](https://marriedgames.com.br/noticias/vouchers-de-personagens-em-pubg/)
 - [Spelltable permite se divertir com cards físicos de Magic: The Gathering](https://marriedgames.com.br/noticias/spelltable-permite-se-divertir/)
-- [Como melhorar a taxa de Headshots em Free Fire MAX](https://marriedgames.com.br/dicas-guias/headshots-em-free-fire-max/)
-- [Startup mineira se especializa em eventos gamers e tem crescimento de 500%](https://marriedgames.com.br/noticias/startup-mineira-se-especializa-em-eventos/)
-- [Saiba quais são os melhores Personagens de Thetan Arena](https://marriedgames.com.br/dicas-guias/personagens-de-thetan-arena/)
 <!-- BLOG-POST-LIST:END -->
 
 
