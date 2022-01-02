@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Dicas e truques de PUBG para jogadores avançados](https://marriedgames.com.br/dicas-guias/dicas-e-truques-de-pubg/)
 - [Dicas NBA 2K22: Veja 22 truques para arrasar nas quadras](https://marriedgames.com.br/dicas-guias/dicas-nba-2k22/)
 - [Análise de Life is Strange True Colors, o 3° jogo da série](https://marriedgames.com.br/analises/analise-de-life-is-strange-true-colors/)
 - [Como registrar e jogar Tower of Fantasy](https://marriedgames.com.br/noticias/registrar-e-jogar-tower-of-fantasy/)
 - [Como Ganhar Vouchers de Personagens em PUBG e os 4 Melhores Personagens](https://marriedgames.com.br/noticias/vouchers-de-personagens-em-pubg/)
-- [Spelltable permite se divertir com cards físicos de Magic: The Gathering](https://marriedgames.com.br/noticias/spelltable-permite-se-divertir/)
 <!-- BLOG-POST-LIST:END -->
 
 
