@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Dicas e truques de PUBG para jogadores avançados](https://marriedgames.com.br/dicas-guias/dicas-e-truques-de-pubg/)
-- [Dicas NBA 2K22: Veja 22 truques para arrasar nas quadras](https://marriedgames.com.br/dicas-guias/dicas-nba-2k22/)
-- [Análise de Life is Strange True Colors, o 3° jogo da série](https://marriedgames.com.br/analises/analise-de-life-is-strange-true-colors/)
-- [Como registrar e jogar Tower of Fantasy](https://marriedgames.com.br/noticias/registrar-e-jogar-tower-of-fantasy/)
-- [Como Ganhar Vouchers de Personagens em PUBG e os 4 Melhores Personagens](https://marriedgames.com.br/noticias/vouchers-de-personagens-em-pubg/)
+- [O que é a The Sandbox, como investir e quais as perspectivas para 2022 e além](https://marriedgames.com.br/dicas-guias/o-que-e-a-the-sandbox/)
+- [Os melhores campeões de League of Legends para 2022](https://marriedgames.com.br/dicas-guias/campeoes-de-league-of-legends/)
+- [Novas cores do DualSense e capas para PS5 chegam em breve](https://marriedgames.com.br/noticias/novas-cores-do-dualsense/)
+- [Os 15 Personagens mais Poderosos de Genshin Impact de acordo com a Lore](https://marriedgames.com.br/dicas-guias/poderosos-de-genshin-impact/)
+- [Hidden Deep lançado no Steam Early Access](https://marriedgames.com.br/noticias/hidden-deep-lancado-no-steam/)
 <!-- BLOG-POST-LIST:END -->
 
 
