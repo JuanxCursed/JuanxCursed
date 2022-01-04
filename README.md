@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [O que é a The Sandbox, como investir e quais as perspectivas para 2022 e além](https://marriedgames.com.br/dicas-guias/o-que-e-a-the-sandbox/)
-- [Os melhores campeões de League of Legends para 2022](https://marriedgames.com.br/dicas-guias/campeoes-de-league-of-legends/)
-- [Novas cores do DualSense e capas para PS5 chegam em breve](https://marriedgames.com.br/noticias/novas-cores-do-dualsense/)
-- [Os 15 Personagens mais Poderosos de Genshin Impact de acordo com a Lore](https://marriedgames.com.br/dicas-guias/poderosos-de-genshin-impact/)
-- [Hidden Deep lançado no Steam Early Access](https://marriedgames.com.br/noticias/hidden-deep-lancado-no-steam/)
+- [Melhor ordem de desbloqueio dos Agentes VALORANT em 2022](https://marriedgames.com.br/dicas-guias/desbloqueio-dos-agentes-valorant/)
+- [Ranked em Valorant: explicando o sistema de classificação do Iron 1 ao Radiante](https://marriedgames.com.br/dicas-guias/explicando-o-ranked-em-valorant/)
+- [RUMOR: Call of Duty 2022 terá modo similar ao de Rainbow Six: Siege](https://marriedgames.com.br/noticias/call-of-duty-2022/)
+- [Os Melhores Personagens para o Meta em Genshin Impact em 2022](https://marriedgames.com.br/dicas-guias/meta-em-genshin-impact/)
+- [Principais Estreias Do Cinema Em Fevereiro De 2022](https://marriedgames.com.br/filmes-series/estreias-do-cinema-em-fevereiro/)
 <!-- BLOG-POST-LIST:END -->
 
 
