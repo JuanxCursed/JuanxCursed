@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Melhor ordem de desbloqueio dos Agentes VALORANT em 2022](https://marriedgames.com.br/dicas-guias/desbloqueio-dos-agentes-valorant/)
-- [Ranked em Valorant: explicando o sistema de classificação do Iron 1 ao Radiante](https://marriedgames.com.br/dicas-guias/explicando-o-ranked-em-valorant/)
-- [RUMOR: Call of Duty 2022 terá modo similar ao de Rainbow Six: Siege](https://marriedgames.com.br/noticias/call-of-duty-2022/)
-- [Os Melhores Personagens para o Meta em Genshin Impact em 2022](https://marriedgames.com.br/dicas-guias/meta-em-genshin-impact/)
-- [Principais Estreias Do Cinema Em Fevereiro De 2022](https://marriedgames.com.br/filmes-series/estreias-do-cinema-em-fevereiro/)
+- [Genshin Impact terá novas skins gratuitas](https://marriedgames.com.br/noticias/genshin-impact-tera-novas-skins/)
+- [Hype Games e Nubank fecham parceria de jogos](https://marriedgames.com.br/noticias/hype-games-e-nubank/)
+- [Jogos mensais PlayStation Plus de janeiro](https://marriedgames.com.br/noticias/playstation-plus-de-janeiro/)
+- [15 dicas essenciais de Witcher 3 para saber antes de jogar](https://marriedgames.com.br/dicas-guias/dicas-essenciais-de-witcher-3/)
+- [Cinco Mundos Virtuais na Blockchain para ficar de olho em 2022](https://marriedgames.com.br/dicas-guias/mundos-virtuais-na-blockchain/)
 <!-- BLOG-POST-LIST:END -->
 
 
