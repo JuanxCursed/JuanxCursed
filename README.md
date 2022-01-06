@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Genshin Impact terá novas skins gratuitas](https://marriedgames.com.br/noticias/genshin-impact-tera-novas-skins/)
-- [Hype Games e Nubank fecham parceria de jogos](https://marriedgames.com.br/noticias/hype-games-e-nubank/)
-- [Jogos mensais PlayStation Plus de janeiro](https://marriedgames.com.br/noticias/playstation-plus-de-janeiro/)
-- [15 dicas essenciais de Witcher 3 para saber antes de jogar](https://marriedgames.com.br/dicas-guias/dicas-essenciais-de-witcher-3/)
-- [Cinco Mundos Virtuais na Blockchain para ficar de olho em 2022](https://marriedgames.com.br/dicas-guias/mundos-virtuais-na-blockchain/)
+- [Saiba os melhores agentes Valorant para jogar solo em 2022](https://marriedgames.com.br/dicas-guias/agentes-valorant-para-jogar-solo/)
+- [Leakers Vazam Informações sobre Yae Miko em Genshin Impact 2.5](https://marriedgames.com.br/noticias/informacoes-sobre-yae-miko/)
+- [Nova skin da Bangalore em Apex Legends causa bugs no jogo](https://marriedgames.com.br/noticias/skin-da-bangalore-em-apex-legends/)
+- [As 10 melhores TV Box em 2022](https://marriedgames.com.br/dicas-guias/melhores-tv-box/)
+- [Veja a nova Mini LED TV TCL e novos dispositivos mobile lançados na CES 2022](https://marriedgames.com.br/noticias/mini-led-tv-tcl-e-novos/)
 <!-- BLOG-POST-LIST:END -->
 
 
