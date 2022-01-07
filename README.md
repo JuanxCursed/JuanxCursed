@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Saiba os melhores agentes Valorant para jogar solo em 2022](https://marriedgames.com.br/dicas-guias/agentes-valorant-para-jogar-solo/)
-- [Leakers Vazam Informações sobre Yae Miko em Genshin Impact 2.5](https://marriedgames.com.br/noticias/informacoes-sobre-yae-miko/)
-- [Nova skin da Bangalore em Apex Legends causa bugs no jogo](https://marriedgames.com.br/noticias/skin-da-bangalore-em-apex-legends/)
-- [As 10 melhores TV Box em 2022](https://marriedgames.com.br/dicas-guias/melhores-tv-box/)
-- [Veja a nova Mini LED TV TCL e novos dispositivos mobile lançados na CES 2022](https://marriedgames.com.br/noticias/mini-led-tv-tcl-e-novos/)
+- [Quer jogar com Jett em Valorant em 2022? Então saiba todos os macetes e truques](https://marriedgames.com.br/dicas-guias/jett-em-valorant/)
+- [KRAFTON e Bugatti anunciam parceria para levar Rimac Nevera ao PUBG: NEW STATE](https://marriedgames.com.br/noticias/krafton-e-bugatti-anunciam-parceria/)
+- [Volta as aulas com produtos gamer para facilitar sua vida em 2022](https://marriedgames.com.br/dicas-guias/volta-as-aulas-produtos-gamer/)
+- [Garotas em Genshin Impact ganham mais um pouco de roupa](https://marriedgames.com.br/noticias/garotas-em-genshin-impact/)
+- [Todas as armas exóticas e míticas em Fortnite capítulo 3, temporada 1](https://marriedgames.com.br/dicas-guias/armas-exoticas-e-miticas-em-fortnite/)
 <!-- BLOG-POST-LIST:END -->
 
 
