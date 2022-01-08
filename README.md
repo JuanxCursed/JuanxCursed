@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quer jogar com Jett em Valorant em 2022? Então saiba todos os macetes e truques](https://marriedgames.com.br/dicas-guias/jett-em-valorant/)
-- [KRAFTON e Bugatti anunciam parceria para levar Rimac Nevera ao PUBG: NEW STATE](https://marriedgames.com.br/noticias/krafton-e-bugatti-anunciam-parceria/)
-- [Volta as aulas com produtos gamer para facilitar sua vida em 2022](https://marriedgames.com.br/dicas-guias/volta-as-aulas-produtos-gamer/)
-- [Garotas em Genshin Impact ganham mais um pouco de roupa](https://marriedgames.com.br/noticias/garotas-em-genshin-impact/)
-- [Todas as armas exóticas e míticas em Fortnite capítulo 3, temporada 1](https://marriedgames.com.br/dicas-guias/armas-exoticas-e-miticas-em-fortnite/)
+- [Tencent e Krafton vencem processo contra hackers de PUBG MOBILE](https://marriedgames.com.br/noticias/tencent-e-krafton-vencem-processo/)
+- [Como jogar com Cypher em Valorant. Macetes do Personagem em 4 passos](https://marriedgames.com.br/dicas-guias/cypher-em-valorant/)
+- [Cinco jogos NFT de 2022 para aguardar e investir](https://marriedgames.com.br/dicas-guias/cinco-jogos-nft-de-2022/)
+- [Recriaram Mondstadt em Minecraft](https://marriedgames.com.br/noticias/recriaram-mondstadt-em-minecraft/)
+- [Tudo sobre os 13 tipos de Gemas no New World e para que servem](https://marriedgames.com.br/dicas-guias/gemas-no-new-world/)
 <!-- BLOG-POST-LIST:END -->
 
 
