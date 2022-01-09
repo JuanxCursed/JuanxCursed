@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Domine o Lado Direito de seu Cérebro com QuickSpot no Nintendo Switch](https://marriedgames.com.br/noticias/quickspot-no-nintendo-switch/)
+- [Techland apresenta o parkour e combate em Dying Light 2 Stay Human](https://marriedgames.com.br/noticias/combate-em-dying-light-2/)
 - [Tencent e Krafton vencem processo contra hackers de PUBG MOBILE](https://marriedgames.com.br/noticias/tencent-e-krafton-vencem-processo/)
 - [Como jogar com Cypher em Valorant. Macetes do Personagem em 4 passos](https://marriedgames.com.br/dicas-guias/cypher-em-valorant/)
 - [Cinco jogos NFT de 2022 para aguardar e investir](https://marriedgames.com.br/dicas-guias/cinco-jogos-nft-de-2022/)
-- [Recriaram Mondstadt em Minecraft](https://marriedgames.com.br/noticias/recriaram-mondstadt-em-minecraft/)
-- [Tudo sobre os 13 tipos de Gemas no New World e para que servem](https://marriedgames.com.br/dicas-guias/gemas-no-new-world/)
 <!-- BLOG-POST-LIST:END -->
 
 
