@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Norton instala um minerador de criptomoedas Ethereum](https://marriedgames.com.br/noticias/norton-instala-um-minerador/)
-- [Tibia Comemora aniversário de 25 anos](https://marriedgames.com.br/noticias/tibia-comemora-aniversario/)
-- [23 streamers para acompanhar na Nimo TV em 2022](https://marriedgames.com.br/noticias/acompanhar-na-nimo-tv/)
-- [Domine o Lado Direito de seu Cérebro com QuickSpot no Nintendo Switch](https://marriedgames.com.br/noticias/quickspot-no-nintendo-switch/)
-- [Techland apresenta o parkour e combate em Dying Light 2 Stay Human](https://marriedgames.com.br/noticias/combate-em-dying-light-2/)
+- [PUBG Grátis: O clássico battle royale está gratuito para todas plataformas](https://marriedgames.com.br/noticias/pubg-gratis/)
+- [Avira Crypto: Avira também tem um minerador de Ethereum](https://marriedgames.com.br/noticias/avira-crypto-minerador-ethereum/)
+- [Como instalar o Amazon Prime Video nas Smart TVs em 5 passos](https://marriedgames.com.br/dicas-guias/instalacao-amazon-prime-video/)
+- [Veja o que vem na nova Temporada de League of Legends 2022](https://marriedgames.com.br/noticias/temporada-de-league-of-legends/)
+- [Team Liquid anuncia equipe brasileira feminina de VALORANT](https://marriedgames.com.br/noticias/team-liquid-anuncia-equipe/)
 <!-- BLOG-POST-LIST:END -->
 
 
