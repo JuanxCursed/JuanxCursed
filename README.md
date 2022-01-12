@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [PUBG Grátis: O clássico battle royale está gratuito para todas plataformas](https://marriedgames.com.br/noticias/pubg-gratis/)
-- [Avira Crypto: Avira também tem um minerador de Ethereum](https://marriedgames.com.br/noticias/avira-crypto-minerador-ethereum/)
-- [Como instalar o Amazon Prime Video nas Smart TVs em 5 passos](https://marriedgames.com.br/dicas-guias/instalacao-amazon-prime-video/)
-- [Veja o que vem na nova Temporada de League of Legends 2022](https://marriedgames.com.br/noticias/temporada-de-league-of-legends/)
-- [Team Liquid anuncia equipe brasileira feminina de VALORANT](https://marriedgames.com.br/noticias/team-liquid-anuncia-equipe/)
+- [Vagante chega aos consoles em Janeiro](https://marriedgames.com.br/noticias/vagante-chega-aos-consoles/)
+- [SOEDESCO anuncia colaboração com a desenvolvedora Lemon Cake e Bunny Park](https://marriedgames.com.br/noticias/lemon-cake-e-bunny-park/)
+- [Estúdio Afterverse abre vagas para pessoas trans](https://marriedgames.com.br/noticias/afterverse-abre-vagas/)
+- [LBFF voltará a ser transmitida na TV aberta em 2022](https://marriedgames.com.br/noticias/lbff-voltara-a-ser-transmitida/)
+- [Culturas da África de HUMANKIND já está em pré-venda](https://marriedgames.com.br/noticias/culturas-da-africa-de-humankind/)
 <!-- BLOG-POST-LIST:END -->
 
 
