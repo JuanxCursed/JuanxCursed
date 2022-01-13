@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vagante chega aos consoles em Janeiro](https://marriedgames.com.br/noticias/vagante-chega-aos-consoles/)
-- [SOEDESCO anuncia colaboração com a desenvolvedora Lemon Cake e Bunny Park](https://marriedgames.com.br/noticias/lemon-cake-e-bunny-park/)
-- [Estúdio Afterverse abre vagas para pessoas trans](https://marriedgames.com.br/noticias/afterverse-abre-vagas/)
-- [LBFF voltará a ser transmitida na TV aberta em 2022](https://marriedgames.com.br/noticias/lbff-voltara-a-ser-transmitida/)
-- [Culturas da África de HUMANKIND já está em pré-venda](https://marriedgames.com.br/noticias/culturas-da-africa-de-humankind/)
+- [Jogos Playstation 2022: Veja 10 títulos que estão para chegar no PS4 e PS5](https://marriedgames.com.br/dicas-guias/jogos-playstation-2022/)
+- [Raven Software anuncia correção para Warzone em consoles](https://marriedgames.com.br/noticias/warzone-consoles/)
+- [15 trilhas sonoras incríveis que fazem os filmes ficarem ainda melhores](https://marriedgames.com.br/filmes-series/trilhas-sonoras-incriveis/)
+- [Sage em Valorant: Aprenda 4 dicas para jogar com a agente de Suporte e Cura](https://marriedgames.com.br/dicas-guias/jogar-com-sage-em-valorant/)
+- [Black Desert tem aumento de 165% no número de jogadores diários](https://marriedgames.com.br/noticias/black-desert-tem-aumento/)
 <!-- BLOG-POST-LIST:END -->
 
 
