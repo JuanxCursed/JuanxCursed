@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jogos Playstation 2022: Veja 10 títulos que estão para chegar no PS4 e PS5](https://marriedgames.com.br/dicas-guias/jogos-playstation-2022/)
-- [Raven Software anuncia correção para Warzone em consoles](https://marriedgames.com.br/noticias/warzone-consoles/)
-- [15 trilhas sonoras incríveis que fazem os filmes ficarem ainda melhores](https://marriedgames.com.br/filmes-series/trilhas-sonoras-incriveis/)
-- [Sage em Valorant: Aprenda 4 dicas para jogar com a agente de Suporte e Cura](https://marriedgames.com.br/dicas-guias/jogar-com-sage-em-valorant/)
-- [Black Desert tem aumento de 165% no número de jogadores diários](https://marriedgames.com.br/noticias/black-desert-tem-aumento/)
+- [Fortnite está voltando ao IOS, mas não como você imagina](https://marriedgames.com.br/noticias/fortnite-esta-voltando-ao-ios/)
+- [Como jogar com Brimstone em Valorant. Tome o controle desse agente em 5 passos](https://marriedgames.com.br/dicas-guias/jogar-com-brimstone-em-valorant/)
+- [SNK VS. Capcom: Card Fighters Clash é lançado para Nintendo Switch](https://marriedgames.com.br/noticias/snk-capcom-card-fighters-clash/)
+- [Episódio final de Dying 2 Know mostra coop de 4 jogadores de Dying Light 2](https://marriedgames.com.br/noticias/episodio-final-de-dying-2-know/)
+- [Mushroom Wars 2 já disponível para consoles](https://marriedgames.com.br/noticias/mushroom-wars-2-ja-disponivel/)
 <!-- BLOG-POST-LIST:END -->
 
 
