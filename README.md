@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fortnite está voltando ao IOS, mas não como você imagina](https://marriedgames.com.br/noticias/fortnite-esta-voltando-ao-ios/)
-- [Como jogar com Brimstone em Valorant. Tome o controle desse agente em 5 passos](https://marriedgames.com.br/dicas-guias/jogar-com-brimstone-em-valorant/)
-- [SNK VS. Capcom: Card Fighters Clash é lançado para Nintendo Switch](https://marriedgames.com.br/noticias/snk-capcom-card-fighters-clash/)
-- [Episódio final de Dying 2 Know mostra coop de 4 jogadores de Dying Light 2](https://marriedgames.com.br/noticias/episodio-final-de-dying-2-know/)
-- [Mushroom Wars 2 já disponível para consoles](https://marriedgames.com.br/noticias/mushroom-wars-2-ja-disponivel/)
+- [Como jogar em conta compartilhada no Xbox One e Xbox Series X/S](https://marriedgames.com.br/dicas-guias/conta-compartilhada/)
+- [Derrote os dragartos Defensores do Coral em Genshin Impact](https://marriedgames.com.br/noticias/defensores-do-coral-em-genshin-impact/)
+- [Como jogar com a Reyna em Valorant. Todos truques e dicas para 2022](https://marriedgames.com.br/dicas-guias/jogar-com-reyna-em-valorant/)
+- [Revelado o tema do próximo Kit de The Sims 4: Carnaval Streetwear](https://marriedgames.com.br/noticias/proximo-kit-de-the-sims-4/)
+- [PlayStation divulga os jogos mais baixados na PS Store brasileira em 2021](https://marriedgames.com.br/noticias/jogos-mais-baixados-playstation/)
 <!-- BLOG-POST-LIST:END -->
 
 
