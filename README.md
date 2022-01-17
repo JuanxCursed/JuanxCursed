@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dicas e Segredos de Enkanomyia em Genshin Impact](https://marriedgames.com.br/dicas-guias/enkanomyia-em-genshin-impact/)
 - [Como jogar em conta compartilhada no Xbox One e Xbox Series X/S](https://marriedgames.com.br/dicas-guias/conta-compartilhada/)
 - [Derrote os dragartos Defensores do Coral em Genshin Impact](https://marriedgames.com.br/noticias/defensores-do-coral-em-genshin-impact/)
 - [Como jogar com a Reyna em Valorant. Todos truques e dicas para 2022](https://marriedgames.com.br/dicas-guias/jogar-com-reyna-em-valorant/)
 - [Revelado o tema do próximo Kit de The Sims 4: Carnaval Streetwear](https://marriedgames.com.br/noticias/proximo-kit-de-the-sims-4/)
-- [PlayStation divulga os jogos mais baixados na PS Store brasileira em 2021](https://marriedgames.com.br/noticias/jogos-mais-baixados-playstation/)
 <!-- BLOG-POST-LIST:END -->
 
 
