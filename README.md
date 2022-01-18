@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dicas e Segredos de Enkanomyia em Genshin Impact](https://marriedgames.com.br/dicas-guias/enkanomyia-em-genshin-impact/)
-- [Como jogar em conta compartilhada no Xbox One e Xbox Series X/S](https://marriedgames.com.br/dicas-guias/conta-compartilhada/)
-- [Derrote os dragartos Defensores do Coral em Genshin Impact](https://marriedgames.com.br/noticias/defensores-do-coral-em-genshin-impact/)
-- [Como jogar com a Reyna em Valorant. Todos truques e dicas para 2022](https://marriedgames.com.br/dicas-guias/jogar-com-reyna-em-valorant/)
-- [Revelado o tema do próximo Kit de The Sims 4: Carnaval Streetwear](https://marriedgames.com.br/noticias/proximo-kit-de-the-sims-4/)
+- [Dicas Rainbow Six Siege: 38 truques importantes para vencer](https://marriedgames.com.br/dicas-guias/dicas-rainbow-six-siege/)
+- [Veja os 16 finalistas da grande final da PUBG MOBILE Global Championship](https://marriedgames.com.br/noticias/grande-final-da-pubg-mobile/)
+- [MIBR anuncia lines-ups e novo uniforme com homenagem ao mundial de 2006](https://marriedgames.com.br/noticias/mibr-anuncia-lines-ups/)
+- [PUBG MOBILE traz Homem-Aranha e novo mapa na versão 1.8](https://marriedgames.com.br/noticias/pubg-mobile-traz-homem-aranha/)
+- [Free Fire World Series 2022 volta para Singapura nesta edição](https://marriedgames.com.br/noticias/free-fire-world-series-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 
