@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dicas Rainbow Six Siege: 38 truques importantes para vencer](https://marriedgames.com.br/dicas-guias/dicas-rainbow-six-siege/)
-- [Veja os 16 finalistas da grande final da PUBG MOBILE Global Championship](https://marriedgames.com.br/noticias/grande-final-da-pubg-mobile/)
-- [MIBR anuncia lines-ups e novo uniforme com homenagem ao mundial de 2006](https://marriedgames.com.br/noticias/mibr-anuncia-lines-ups/)
-- [PUBG MOBILE traz Homem-Aranha e novo mapa na versão 1.8](https://marriedgames.com.br/noticias/pubg-mobile-traz-homem-aranha/)
-- [Free Fire World Series 2022 volta para Singapura nesta edição](https://marriedgames.com.br/noticias/free-fire-world-series-2022/)
+- [Techland divulga entrevista sobre o parkour em Dying Light 2](https://marriedgames.com.br/noticias/parkour-em-dying-light-2/)
+- [Veja os jogos mais vendidos pela OLX em 2021](https://marriedgames.com.br/noticias/jogos-mais-vendidos-pela-olx/)
+- [Airoheart revela nova arte e logo](https://marriedgames.com.br/noticias/airoheart-revela-nova-arte-e-logo/)
+- [Como jogar com a Raze em Valorant. A personagem mais arretada para 2022](https://marriedgames.com.br/dicas-guias/raze-em-valorant-como-jogar/)
+- [Conhece o MetaSoccer? O Elifoot dos jogos de NFT](https://marriedgames.com.br/dicas-guias/conhece-o-metasoccer/)
 <!-- BLOG-POST-LIST:END -->
 
 
