@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Techland divulga entrevista sobre o parkour em Dying Light 2](https://marriedgames.com.br/noticias/parkour-em-dying-light-2/)
-- [Veja os jogos mais vendidos pela OLX em 2021](https://marriedgames.com.br/noticias/jogos-mais-vendidos-pela-olx/)
-- [Airoheart revela nova arte e logo](https://marriedgames.com.br/noticias/airoheart-revela-nova-arte-e-logo/)
-- [Como jogar com a Raze em Valorant. A personagem mais arretada para 2022](https://marriedgames.com.br/dicas-guias/raze-em-valorant-como-jogar/)
-- [Conhece o MetaSoccer? O Elifoot dos jogos de NFT](https://marriedgames.com.br/dicas-guias/conhece-o-metasoccer/)
+- [Concurso de batalha de design Unleashed Hot Wheels](https://marriedgames.com.br/noticias/design-unleashed-hot-wheels/)
+- [Nova atualização do Free Fire traz áreas inéditas e novidades](https://marriedgames.com.br/noticias/nova-atualizacao-do-free-fire/)
+- [Positivo Casa Inteligente faz parceria com Salinas Maragogi](https://marriedgames.com.br/noticias/positivo-casa-inteligente-faz/)
+- [Techland os bastidores da websérie Dying 2 Know no Youtube](https://marriedgames.com.br/noticias/techland-os-bastidores-da-webserie/)
+- [CROSSFIRE: LEGION, RTS REPLETO DE AÇÃO, ANUNCIA TESTE BETA E ACESSO ANTECIPADO](https://marriedgames.com.br/noticias/crossfire-legion-anuncia-beta/)
 <!-- BLOG-POST-LIST:END -->
 
 
