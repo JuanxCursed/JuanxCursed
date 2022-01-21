@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurso de batalha de design Unleashed Hot Wheels](https://marriedgames.com.br/noticias/design-unleashed-hot-wheels/)
-- [Nova atualização do Free Fire traz áreas inéditas e novidades](https://marriedgames.com.br/noticias/nova-atualizacao-do-free-fire/)
-- [Positivo Casa Inteligente faz parceria com Salinas Maragogi](https://marriedgames.com.br/noticias/positivo-casa-inteligente-faz/)
-- [Techland os bastidores da websérie Dying 2 Know no Youtube](https://marriedgames.com.br/noticias/techland-os-bastidores-da-webserie/)
-- [CROSSFIRE: LEGION, RTS REPLETO DE AÇÃO, ANUNCIA TESTE BETA E ACESSO ANTECIPADO](https://marriedgames.com.br/noticias/crossfire-legion-anuncia-beta/)
+- [Quais os stats das armas do Valorant? Saiba mais sobre as 6 categorias de armas](https://marriedgames.com.br/dicas-guias/stats-das-armas-do-valorant/)
+- [Qual será seu legado em Expeditions Rome? O jogo já está disponível hoje](https://marriedgames.com.br/noticias/legado-em-expeditions-rome/)
+- [Novas terras e personagens renascidos na Era Medieval dos Waylanders](https://marriedgames.com.br/noticias/era-medieval-dos-waylanders/)
+- [Techland anuncia adiamento de Dying Light 2 Stay Human para Nintendo Switch](https://marriedgames.com.br/noticias/adiamento-de-dying-light-2/)
+- [Promoções de janeiro do Hype Games têm descontos de até 80%](https://marriedgames.com.br/noticias/hype-games-tem-descontos/)
 <!-- BLOG-POST-LIST:END -->
 
 
