@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quais os stats das armas do Valorant? Saiba mais sobre as 6 categorias de armas](https://marriedgames.com.br/dicas-guias/stats-das-armas-do-valorant/)
-- [Qual será seu legado em Expeditions Rome? O jogo já está disponível hoje](https://marriedgames.com.br/noticias/legado-em-expeditions-rome/)
-- [Novas terras e personagens renascidos na Era Medieval dos Waylanders](https://marriedgames.com.br/noticias/era-medieval-dos-waylanders/)
-- [Techland anuncia adiamento de Dying Light 2 Stay Human para Nintendo Switch](https://marriedgames.com.br/noticias/adiamento-de-dying-light-2/)
-- [Promoções de janeiro do Hype Games têm descontos de até 80%](https://marriedgames.com.br/noticias/hype-games-tem-descontos/)
+- [VALORANT error: 8 dicas de como corrigir a tela preta em inicialização](https://marriedgames.com.br/dicas-guias/valorant-error-8-dicas-corrigir/)
+- [LBFF 7 estreia no dia 5 de fevereiro e abre a temporada do competitivo de Free Fire 2022](https://marriedgames.com.br/noticias/lbff-7-estreia-no-dia-5-de-fevereiro/)
+- [Retrospectiva PlayStation: confira seu histórico e ganhe brindes!](https://marriedgames.com.br/noticias/retrospectiva-playstation/)
+- [15 dicas de Breath of the Wild antes de começar a jogar](https://marriedgames.com.br/dicas-guias/dicas-de-breath-of-the-wild/)
+- [A próxima grande atualização de Hearthstone já chegou!](https://marriedgames.com.br/noticias/atualizacao-de-hearthstone/)
 <!-- BLOG-POST-LIST:END -->
 
 
