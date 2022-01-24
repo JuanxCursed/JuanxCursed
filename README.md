@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Conheça a Linha do Tempo de Legend of Zelda e seus 18 jogos](https://marriedgames.com.br/dicas-guias/linha-do-tempo-de-legend-of-zelda/)
+- [Logitech G assina com Red Canids Kalunga e se torna a nova patrocinadora oficial](https://marriedgames.com.br/noticias/logitech-g-assina-com-red-canids/)
 - [Conheça ZED: mercenária de ENDLESS Dungeon](https://marriedgames.com.br/noticias/zed-mercenaria-de-endless-dungeon/)
 - [O que podemos esperar da nova temporada de The Boys](https://marriedgames.com.br/noticias/nova-temporada-de-the-boys/)
 - [Público acompanha mais de cinco streamers na Nimo TV todos os dias](https://marriedgames.com.br/noticias/cinco-streamers-na-nimo-tv/)
-- [2 Momentos Estranhos na Vida de Link: Zelda no Phillips Cdi e a animação da DIC](https://marriedgames.com.br/dicas-guias/zelda-no-phillips-cdi-animacao/)
-- [VALORANT error: 8 dicas de como corrigir a tela preta em inicialização](https://marriedgames.com.br/dicas-guias/valorant-error-8-dicas-corrigir/)
 <!-- BLOG-POST-LIST:END -->
 
 
