@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Conheça a Linha do Tempo de Legend of Zelda e seus 18 jogos](https://marriedgames.com.br/dicas-guias/linha-do-tempo-de-legend-of-zelda/)
-- [Logitech G assina com Red Canids Kalunga e se torna a nova patrocinadora oficial](https://marriedgames.com.br/noticias/logitech-g-assina-com-red-canids/)
-- [Conheça ZED: mercenária de ENDLESS Dungeon](https://marriedgames.com.br/noticias/zed-mercenaria-de-endless-dungeon/)
-- [O que podemos esperar da nova temporada de The Boys](https://marriedgames.com.br/noticias/nova-temporada-de-the-boys/)
-- [Público acompanha mais de cinco streamers na Nimo TV todos os dias](https://marriedgames.com.br/noticias/cinco-streamers-na-nimo-tv/)
+- [Farmbots em Stardew Valley: Tenha robôs ajudando na fazenda com esse mod](https://marriedgames.com.br/noticias/farmbots-em-stardew-valley/)
+- [Dying Light 2 terá upgrade gratuito para a nova geração de consoles](https://marriedgames.com.br/noticias/dying-light-2-tera-upgrade-gratuito/)
+- [Descubra o quanto os assinantes da PS Plus economizaram em 2021](https://marriedgames.com.br/noticias/assinantes-da-ps-plus/)
+- [Gnosia é lançado hoje no Steam](https://marriedgames.com.br/noticias/gnosia-e-lancado-hoje-no-steam/)
+- [Ronaldo TV e Gaules transmitirão o Campeonato Carioca](https://marriedgames.com.br/noticias/ronaldo-tv-e-gaules-campeonato/)
 <!-- BLOG-POST-LIST:END -->
 
 
