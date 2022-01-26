@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Farmbots em Stardew Valley: Tenha robôs ajudando na fazenda com esse mod](https://marriedgames.com.br/noticias/farmbots-em-stardew-valley/)
-- [Dying Light 2 terá upgrade gratuito para a nova geração de consoles](https://marriedgames.com.br/noticias/dying-light-2-tera-upgrade-gratuito/)
-- [Descubra o quanto os assinantes da PS Plus economizaram em 2021](https://marriedgames.com.br/noticias/assinantes-da-ps-plus/)
-- [Gnosia é lançado hoje no Steam](https://marriedgames.com.br/noticias/gnosia-e-lancado-hoje-no-steam/)
-- [Ronaldo TV e Gaules transmitirão o Campeonato Carioca](https://marriedgames.com.br/noticias/ronaldo-tv-e-gaules-campeonato/)
+- [O que esperar da quarta temporada de Stranger Things, teaser oficial e previsão de estreia](https://marriedgames.com.br/filmes-series/quarta-temporada-de-stranger-things/)
+- [Techland apresenta nova história em áudio intitulada de “Takeshi”](https://marriedgames.com.br/noticias/techland-apresenta-nova-historia/)
+- [Disney+ revela nova Linha do Tempo do MCU com 33 filmes, séries e curtas](https://marriedgames.com.br/noticias/linha-do-tempo-do-mcu/)
+- [Rainbow Six Extraction #R6E – Review](https://marriedgames.com.br/analises/rainbow-six-extraction-review/)
+- [10 Dicas para Evitar o Superaquecimento do PC e Celular](https://marriedgames.com.br/dicas-guias/superaquecimento-do-pc-e-celular/)
 <!-- BLOG-POST-LIST:END -->
 
 
