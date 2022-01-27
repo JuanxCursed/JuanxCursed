@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [O que esperar da quarta temporada de Stranger Things, teaser oficial e previsão de estreia](https://marriedgames.com.br/filmes-series/quarta-temporada-de-stranger-things/)
-- [Techland apresenta nova história em áudio intitulada de “Takeshi”](https://marriedgames.com.br/noticias/techland-apresenta-nova-historia/)
-- [Disney+ revela nova Linha do Tempo do MCU com 33 filmes, séries e curtas](https://marriedgames.com.br/noticias/linha-do-tempo-do-mcu/)
-- [Rainbow Six Extraction #R6E – Review](https://marriedgames.com.br/analises/rainbow-six-extraction-review/)
-- [10 Dicas para Evitar o Superaquecimento do PC e Celular](https://marriedgames.com.br/dicas-guias/superaquecimento-do-pc-e-celular/)
+- [Como se casar em Skyrim e seus mais de 60 pretendentes](https://marriedgames.com.br/dicas-guias/como-se-casar-em-skyrim/)
+- [Kamisato Ayato em Genshin Impact tem novos detalhes revelados](https://marriedgames.com.br/noticias/kamisato-ayato-em-genshin-impact-2/)
+- [Black Desert Mobile recebe a espetacular classe Solaris](https://marriedgames.com.br/noticias/black-desert-classe-solaris/)
+- [Sanrio lança novos personagens no metaverso no Habbo e Woozworl](https://marriedgames.com.br/noticias/sanrio-lanca-novos-personagens/)
+- [About An Elf chegará em breve ao Nintendo Switch em 10 de fevereiro](https://marriedgames.com.br/noticias/about-an-elf-chegara-em-breve-ao-nintendo-switch-em-10-de-fevereiro/)
 <!-- BLOG-POST-LIST:END -->
 
 
