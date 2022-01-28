@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Como se casar em Skyrim e seus mais de 60 pretendentes](https://marriedgames.com.br/dicas-guias/como-se-casar-em-skyrim/)
-- [Kamisato Ayato em Genshin Impact tem novos detalhes revelados](https://marriedgames.com.br/noticias/kamisato-ayato-em-genshin-impact-2/)
-- [Black Desert Mobile recebe a espetacular classe Solaris](https://marriedgames.com.br/noticias/black-desert-classe-solaris/)
-- [Sanrio lança novos personagens no metaverso no Habbo e Woozworl](https://marriedgames.com.br/noticias/sanrio-lanca-novos-personagens/)
-- [About An Elf chegará em breve ao Nintendo Switch em 10 de fevereiro](https://marriedgames.com.br/noticias/about-an-elf-chegara-em-breve-ao-nintendo-switch-em-10-de-fevereiro/)
+- [10 Melhores Jogos com Multiplayer local para sentar no sofá e jogar junto](https://marriedgames.com.br/dicas-guias/jogos-com-multiplayer-local/)
+- [Crusader Kings 3 adicionará casamentos entre pessoas do mesmo sexo](https://marriedgames.com.br/noticias/crusader-kings-3-adicionara-casamento/)
+- [Como jogar Gods Unchained: Um guia para iniciantes em 5 passos](https://marriedgames.com.br/dicas-guias/como-jogar-gods-unchained/)
+- [All of us Are Dead: versão mirim de The Walking Dead chega a Netflix 28/01](https://marriedgames.com.br/noticias/all-of-us-are-dead/)
+- [Catálogo atualizado: Lost Canvas está na HBO Max](https://marriedgames.com.br/noticias/lost-canvas/)
 <!-- BLOG-POST-LIST:END -->
 
 
