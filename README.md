@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Melhores Jogos com Multiplayer local para sentar no sofá e jogar junto](https://marriedgames.com.br/dicas-guias/jogos-com-multiplayer-local/)
-- [Crusader Kings 3 adicionará casamentos entre pessoas do mesmo sexo](https://marriedgames.com.br/noticias/crusader-kings-3-adicionara-casamento/)
-- [Como jogar Gods Unchained: Um guia para iniciantes em 5 passos](https://marriedgames.com.br/dicas-guias/como-jogar-gods-unchained/)
-- [All of us Are Dead: versão mirim de The Walking Dead chega a Netflix 28/01](https://marriedgames.com.br/noticias/all-of-us-are-dead/)
-- [Catálogo atualizado: Lost Canvas está na HBO Max](https://marriedgames.com.br/noticias/lost-canvas/)
+- [Pathfinder: Wrath Of The Righteous Console Planejado para 2022](https://marriedgames.com.br/noticias/wrath-of-the-righteous/)
+- [HyperX lança novos produtos para jogadores de smartphones e Nintendo Switch](https://marriedgames.com.br/noticias/hyperx-lanca-novos-produtos/)
+- [Infinix detalha conjunto completo de câmeras do NOTE 10 Pro](https://marriedgames.com.br/noticias/cameras-do-note-10-pro/)
+- [Jogos de Super Nintendo: Veja 10 títulos que marcaram época](https://marriedgames.com.br/dicas-guias/jogos-de-super-nintendo/)
+- [Riot incluirá NFTs em Valorant?](https://marriedgames.com.br/noticias/riot-incluira-nfts-em-valorant/)
 <!-- BLOG-POST-LIST:END -->
 
 
