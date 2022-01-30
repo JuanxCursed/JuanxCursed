@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HUNT: SHOWDOWN DÁ AS BOAS-VINDAS AO ANO NOVO LUNAR COM DLC](https://marriedgames.com.br/noticias/showdown-da-as-boas-vindas/)
+- [Kingston FURY se torna fornecedor oficial de memórias para a G2 Esports](https://marriedgames.com.br/noticias/memorias-para-a-g2-esports/)
+- [NOVO TRAILER DE HISTÓRIA DE STAR WARS: THE OLD REPUBLIC](https://marriedgames.com.br/noticias/trailer-de-historia-de-star-wars/)
 - [Pathfinder: Wrath Of The Righteous Console Planejado para 2022](https://marriedgames.com.br/noticias/wrath-of-the-righteous/)
 - [HyperX lança novos produtos para jogadores de smartphones e Nintendo Switch](https://marriedgames.com.br/noticias/hyperx-lanca-novos-produtos/)
-- [Infinix detalha conjunto completo de câmeras do NOTE 10 Pro](https://marriedgames.com.br/noticias/cameras-do-note-10-pro/)
-- [Jogos de Super Nintendo: Veja 10 títulos que marcaram época](https://marriedgames.com.br/dicas-guias/jogos-de-super-nintendo/)
-- [Riot incluirá NFTs em Valorant?](https://marriedgames.com.br/noticias/riot-incluira-nfts-em-valorant/)
 <!-- BLOG-POST-LIST:END -->
 
 
