@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HUNT: SHOWDOWN DÁ AS BOAS-VINDAS AO ANO NOVO LUNAR COM DLC](https://marriedgames.com.br/noticias/showdown-da-as-boas-vindas/)
-- [Kingston FURY se torna fornecedor oficial de memórias para a G2 Esports](https://marriedgames.com.br/noticias/memorias-para-a-g2-esports/)
-- [NOVO TRAILER DE HISTÓRIA DE STAR WARS: THE OLD REPUBLIC](https://marriedgames.com.br/noticias/trailer-de-historia-de-star-wars/)
-- [Pathfinder: Wrath Of The Righteous Console Planejado para 2022](https://marriedgames.com.br/noticias/wrath-of-the-righteous/)
-- [HyperX lança novos produtos para jogadores de smartphones e Nintendo Switch](https://marriedgames.com.br/noticias/hyperx-lanca-novos-produtos/)
+- [30 Melhores Jogos Grátis de PC tanto Singleplayer e Multiplayer](https://marriedgames.com.br/dicas-guias/jogos-gratis-de-pc/)
+- [O Roguelite de Plataformas Vagante Já Está Disponível no PS4/5 Switch e XBOX](https://marriedgames.com.br/noticias/o-roguelite-de-plataformas-vagante-ja-esta-disponivel-no-ps4-5-switch-e-xbox/)
+- [BANDAI NAMCO Anuncia a Chegada de Taiko no Tatsujin: The Drum Master às Plataformas Xbox](https://marriedgames.com.br/noticias/bandai-namco-anuncia-a-chegada-de-taiko-no-tatsujin-the-drum-master-as-plataformas-xbox/)
+- [Vale a pena comprar um notebook usado?](https://marriedgames.com.br/noticias/notebook-usado-e-bom/)
+- [Raide do Ataque o Templo Negro: novos raides de BCC disponíveis](https://marriedgames.com.br/noticias/raide-do-ataque-o-templo/)
 <!-- BLOG-POST-LIST:END -->
 
 
