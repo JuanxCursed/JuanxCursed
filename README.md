@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [30 Melhores Jogos Grátis de PC tanto Singleplayer e Multiplayer](https://marriedgames.com.br/dicas-guias/jogos-gratis-de-pc/)
-- [O Roguelite de Plataformas Vagante Já Está Disponível no PS4/5 Switch e XBOX](https://marriedgames.com.br/noticias/o-roguelite-de-plataformas-vagante-ja-esta-disponivel-no-ps4-5-switch-e-xbox/)
-- [BANDAI NAMCO Anuncia a Chegada de Taiko no Tatsujin: The Drum Master às Plataformas Xbox](https://marriedgames.com.br/noticias/bandai-namco-anuncia-a-chegada-de-taiko-no-tatsujin-the-drum-master-as-plataformas-xbox/)
-- [Vale a pena comprar um notebook usado?](https://marriedgames.com.br/noticias/notebook-usado-e-bom/)
-- [Raide do Ataque o Templo Negro: novos raides de BCC disponíveis](https://marriedgames.com.br/noticias/raide-do-ataque-o-templo/)
+- [Como instalar o WSL2 para Windows](https://marriedgames.com.br/dicas-guias/como-instalar-o-wsl2-para-windows/)
+- [Estúdio de games Afterverse patrocina Global Game Jam em São Paulo](https://marriedgames.com.br/noticias/afterverse-patrocina-global-game-jam/)
+- [Uncharted: Coleção Legado dos Ladrões já está disponível para PS5￼](https://marriedgames.com.br/noticias/colecao-legado-dos-ladroes-2/)
+- [Encouraçados italianos cruzam o caminho para World of Warships: Legends](https://marriedgames.com.br/noticias/world-of-warships-legends/)
+- [12 filmes de viagem no tempo para explodir sua cabeça](https://marriedgames.com.br/filmes-series/filmes-de-viagem-no-tempo/)
 <!-- BLOG-POST-LIST:END -->
 
 
