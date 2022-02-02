@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Como instalar o WSL2 para Windows](https://marriedgames.com.br/dicas-guias/como-instalar-o-wsl2-para-windows/)
-- [Estúdio de games Afterverse patrocina Global Game Jam em São Paulo](https://marriedgames.com.br/noticias/afterverse-patrocina-global-game-jam/)
-- [Uncharted: Coleção Legado dos Ladrões já está disponível para PS5￼](https://marriedgames.com.br/noticias/colecao-legado-dos-ladroes-2/)
-- [Encouraçados italianos cruzam o caminho para World of Warships: Legends](https://marriedgames.com.br/noticias/world-of-warships-legends/)
-- [12 filmes de viagem no tempo para explodir sua cabeça](https://marriedgames.com.br/filmes-series/filmes-de-viagem-no-tempo/)
+- [SAGA dá desconto na matrícula de seu curso para consumidores de produtos Kaspersky](https://marriedgames.com.br/noticias/saga-da-desconto-na-matricula/)
+- [Techland revela mais detalhes sobre o ciclo dia e noite de Dying Light 2 Stay Human](https://marriedgames.com.br/noticias/ciclo-dia-e-noite-de-dying-light/)
+- [Z8 eSports é o vencedor da 1ª edição da Copa Sem1 de PUBG MOBILE](https://marriedgames.com.br/noticias/copa-sem1-de-pubg-mobile/)
+- [Evento in-game “Road to Six Invitational” retorna a Tom Clancy’s Rainbow Six Siege](https://marriedgames.com.br/noticias/road-to-six-invitational/)
+- [Séries de acesso da Liga Brasileira de Free Fire &lpar;LBFF&rpar; têm detalhes definidos](https://marriedgames.com.br/noticias/acesso-da-liga-brasileira-de-free-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 
