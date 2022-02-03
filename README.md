@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SAGA dá desconto na matrícula de seu curso para consumidores de produtos Kaspersky](https://marriedgames.com.br/noticias/saga-da-desconto-na-matricula/)
-- [Techland revela mais detalhes sobre o ciclo dia e noite de Dying Light 2 Stay Human](https://marriedgames.com.br/noticias/ciclo-dia-e-noite-de-dying-light/)
-- [Z8 eSports é o vencedor da 1ª edição da Copa Sem1 de PUBG MOBILE](https://marriedgames.com.br/noticias/copa-sem1-de-pubg-mobile/)
-- [Evento in-game “Road to Six Invitational” retorna a Tom Clancy’s Rainbow Six Siege](https://marriedgames.com.br/noticias/road-to-six-invitational/)
-- [Séries de acesso da Liga Brasileira de Free Fire &lpar;LBFF&rpar; têm detalhes definidos](https://marriedgames.com.br/noticias/acesso-da-liga-brasileira-de-free-fire/)
+- [Team17 desiste dos NFTs e enterra de vez sua minhoca colorida](https://marriedgames.com.br/noticias/team17-desiste-dos-nfts/)
+- [10 dicas profissionais para iniciantes em League of Legends Wild Rift](https://marriedgames.com.br/dicas-guias/iniciantes-em-league-of-legends/)
+- [Realme revela a aparência do realme 9 Pro Series, seu novo smartphone com design exclusivo](https://marriedgames.com.br/noticias/realme-9-pro-series/)
+- [Los Grandes está pronta para a 7ª LBFF](https://marriedgames.com.br/noticias/los-grandes-pronta-7a-lbff/)
+- [Epic x Apple: Briga fica mais complicada](https://marriedgames.com.br/noticias/epic-x-apple-briga-complicada/)
 <!-- BLOG-POST-LIST:END -->
 
 
