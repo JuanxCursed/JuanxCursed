@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Team17 desiste dos NFTs e enterra de vez sua minhoca colorida](https://marriedgames.com.br/noticias/team17-desiste-dos-nfts/)
-- [10 dicas profissionais para iniciantes em League of Legends Wild Rift](https://marriedgames.com.br/dicas-guias/iniciantes-em-league-of-legends/)
-- [Realme revela a aparência do realme 9 Pro Series, seu novo smartphone com design exclusivo](https://marriedgames.com.br/noticias/realme-9-pro-series/)
-- [Los Grandes está pronta para a 7ª LBFF](https://marriedgames.com.br/noticias/los-grandes-pronta-7a-lbff/)
-- [Epic x Apple: Briga fica mais complicada](https://marriedgames.com.br/noticias/epic-x-apple-briga-complicada/)
+- [MiHoYo revela oficialmente Kamisato Ayato em Genshin Impact](https://marriedgames.com.br/noticias/kamisato-ayato-em-genshin-impact-3/)
+- [SSD ou HD? Qual devo comprar? E qual o melhor em 2022](https://marriedgames.com.br/dicas-guias/ssd-ou-hd-qual-devo-comprar/)
+- [Veja o vídeo de desenvolvimento das missões de campanha de Company of Heroes 3](https://marriedgames.com.br/noticias/campanha-de-company-of-heroes-2/)
+- [SkillCore recebe investimento de fundo espanhol e planeja expansão](https://marriedgames.com.br/noticias/skillcore-recebe-investimento/)
+- [Ano Novo Lunar da Ubisoft Store dá até 80% de desconto em jogos](https://marriedgames.com.br/noticias/ano-novo-lunar-da-ubisoft-store/)
 <!-- BLOG-POST-LIST:END -->
 
 
