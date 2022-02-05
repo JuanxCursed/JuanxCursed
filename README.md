@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [World War 3 terá acesso gratuito neste fim de semana](https://marriedgames.com.br/noticias/world-war-3-tera-acesso-gratuito/)
+- [Lançamento de Dying Light 2 Stay Human já está disponível globalmente nas principais lojas](https://marriedgames.com.br/noticias/lancamento-de-dying-light-2/)
+- [Squad BEATz é a nova campanha do Free Fire para inspirar os jogadores](https://marriedgames.com.br/noticias/squad-beatz-free-fire/)
+- [Como capturar Arceus em Pokémon: Legends Arceus](https://marriedgames.com.br/dicas-guias/capturar-arceus-em-pokemon/)
 - [MiHoYo revela oficialmente Kamisato Ayato em Genshin Impact](https://marriedgames.com.br/noticias/kamisato-ayato-em-genshin-impact-3/)
-- [SSD ou HD? Qual devo comprar? E qual o melhor em 2022](https://marriedgames.com.br/dicas-guias/ssd-ou-hd-qual-devo-comprar/)
-- [Veja o vídeo de desenvolvimento das missões de campanha de Company of Heroes 3](https://marriedgames.com.br/noticias/campanha-de-company-of-heroes-2/)
-- [SkillCore recebe investimento de fundo espanhol e planeja expansão](https://marriedgames.com.br/noticias/skillcore-recebe-investimento/)
-- [Ano Novo Lunar da Ubisoft Store dá até 80% de desconto em jogos](https://marriedgames.com.br/noticias/ano-novo-lunar-da-ubisoft-store/)
 <!-- BLOG-POST-LIST:END -->
 
 
