@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HyperX anuncia parceria com a organização de eSports Misfits Gaming Group &lpar;MGG&rpar;](https://marriedgames.com.br/noticias/hyperx-anuncia-parceria/)
+- [Nova grande expansão de Far Cry 6 Joseph: Collapse, será lançada em 8 de fevereiro](https://marriedgames.com.br/noticias/far-cry-6-joseph-collapse/)
 - [Kawaki Deixa Sua Marca em NARUTO TO BORUTO: SHINOBI STRIKERS Nesta Sexta](https://marriedgames.com.br/noticias/kawaki-deixa-sua-marca/)
 - [Já fez seu Check-up de Privacidade do Google em 2022?](https://marriedgames.com.br/noticias/check-up-de-privacidade-do-google/)
 - [World War 3 terá acesso gratuito neste fim de semana](https://marriedgames.com.br/noticias/world-war-3-tera-acesso-gratuito/)
-- [Lançamento de Dying Light 2 Stay Human já está disponível globalmente nas principais lojas](https://marriedgames.com.br/noticias/lancamento-de-dying-light-2/)
-- [Squad BEATz é a nova campanha do Free Fire para inspirar os jogadores](https://marriedgames.com.br/noticias/squad-beatz-free-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 
