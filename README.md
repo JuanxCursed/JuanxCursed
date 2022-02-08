@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HyperX anuncia parceria com a organização de eSports Misfits Gaming Group &lpar;MGG&rpar;](https://marriedgames.com.br/noticias/hyperx-anuncia-parceria/)
-- [Nova grande expansão de Far Cry 6 Joseph: Collapse, será lançada em 8 de fevereiro](https://marriedgames.com.br/noticias/far-cry-6-joseph-collapse/)
-- [Kawaki Deixa Sua Marca em NARUTO TO BORUTO: SHINOBI STRIKERS Nesta Sexta](https://marriedgames.com.br/noticias/kawaki-deixa-sua-marca/)
-- [Já fez seu Check-up de Privacidade do Google em 2022?](https://marriedgames.com.br/noticias/check-up-de-privacidade-do-google/)
-- [World War 3 terá acesso gratuito neste fim de semana](https://marriedgames.com.br/noticias/world-war-3-tera-acesso-gratuito/)
+- [Jump Force está fora das lojas a partir do dia 7 de fevereiro](https://marriedgames.com.br/noticias/jump-force-esta-fora-das-lojas/)
+- [Sifu – Você no controle de um filme de artes marciais](https://marriedgames.com.br/analises/review-sifu/)
+- [Como fazer o Download de Genshin Impact – Android, iOS, PlayStation 4/5 e PC](https://marriedgames.com.br/dicas-guias/download-de-genshin-impact/)
+- [Guia de sobreviventes em Dying Light 2 Stay Human. Dicas e truques para se manter humano](https://marriedgames.com.br/dicas-guias/guia-de-sobreviventes-em-dying-light/)
+- [Os Melhores smartphones para Fortnite de 2022](https://marriedgames.com.br/dicas-guias/melhores-smartphones-para-fortnite/)
 <!-- BLOG-POST-LIST:END -->
 
 
