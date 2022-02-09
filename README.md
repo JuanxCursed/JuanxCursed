@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jump Force está fora das lojas a partir do dia 7 de fevereiro](https://marriedgames.com.br/noticias/jump-force-esta-fora-das-lojas/)
-- [Sifu – Você no controle de um filme de artes marciais](https://marriedgames.com.br/analises/review-sifu/)
-- [Como fazer o Download de Genshin Impact – Android, iOS, PlayStation 4/5 e PC](https://marriedgames.com.br/dicas-guias/download-de-genshin-impact/)
-- [Guia de sobreviventes em Dying Light 2 Stay Human. Dicas e truques para se manter humano](https://marriedgames.com.br/dicas-guias/guia-de-sobreviventes-em-dying-light/)
-- [Os Melhores smartphones para Fortnite de 2022](https://marriedgames.com.br/dicas-guias/melhores-smartphones-para-fortnite/)
+- [TNT Sports exibirá com exclusividade os torneios da KOEL maior liga de futebol virtual da América Latina](https://marriedgames.com.br/noticias/tnt-sports-exibira-com-exclusividade-os-torneios-da-koel-maior-liga-de-futebol-virtual-da-america-latina/)
+- [A LIGA BBVA MXY e a Konami anunciam acordo de exclusividade histórico para a franquia de eFOOTBALL](https://marriedgames.com.br/noticias/a-liga-bbva-mxy-e-a-konami-anunciam-acordo-de-exclusividade-historico-para-a-franquia-de-efootball/)
+- [Riders Republic terá evento in-game com a Prada e fim de semana gratuito](https://marriedgames.com.br/noticias/riders-republic-tera-evento-in-game-com-a-prada-e-fim-de-semana-gratuito/)
+- [Boletim Liga Brasileira de Free Fire 7 – Semana 1](https://marriedgames.com.br/noticias/liga-brasileira-de-free-fire-7/)
+- [BOOYAH! anuncia eventos para receber recompensas no Free Fire](https://marriedgames.com.br/noticias/recompensas-no-free-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 
