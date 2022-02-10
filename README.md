@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TNT Sports exibirá com exclusividade os torneios da KOEL maior liga de futebol virtual da América Latina](https://marriedgames.com.br/noticias/tnt-sports-exibira-com-exclusividade-os-torneios-da-koel-maior-liga-de-futebol-virtual-da-america-latina/)
-- [A LIGA BBVA MXY e a Konami anunciam acordo de exclusividade histórico para a franquia de eFOOTBALL](https://marriedgames.com.br/noticias/a-liga-bbva-mxy-e-a-konami-anunciam-acordo-de-exclusividade-historico-para-a-franquia-de-efootball/)
-- [Riders Republic terá evento in-game com a Prada e fim de semana gratuito](https://marriedgames.com.br/noticias/riders-republic-tera-evento-in-game-com-a-prada-e-fim-de-semana-gratuito/)
-- [Boletim Liga Brasileira de Free Fire 7 – Semana 1](https://marriedgames.com.br/noticias/liga-brasileira-de-free-fire-7/)
-- [BOOYAH! anuncia eventos para receber recompensas no Free Fire](https://marriedgames.com.br/noticias/recompensas-no-free-fire/)
+- [Call of Duty: Entre no combate com Máquinas de Guerra Blindadas na Temporada 2 de Call of Duty Vanguard e Warzone que estreia em 14 de fevereiro](https://marriedgames.com.br/noticias/temporada-2-de-call-of-duty-vanguard-e-warzone/)
+- [Compaq lista cinco dicas para navegar na internet com mais segurança](https://marriedgames.com.br/noticias/internet-com-mais-seguranca/)
+- [Metaverso já é realidade e revela novo perfil gamer](https://marriedgames.com.br/noticias/metaverso-ja-e-realidade/)
+- [XIS OG Life está pronta para disputa da Série B da LBFF](https://marriedgames.com.br/noticias/xis-og-life-esta-pronta/)
+- [Nova expansão de Far Cry 6, Joseph Colapso já está disponível](https://marriedgames.com.br/noticias/joseph-colapso-ja-esta-disponivel/)
 <!-- BLOG-POST-LIST:END -->
 
 
