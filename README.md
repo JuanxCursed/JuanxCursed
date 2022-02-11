@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Como formatar um Notebook ou PC FÁCIL e do JEITO CERTO com Windows 10 e Windows 11 em 2022](https://www.youtube.com/watch?v=PgHKBuOxdUA)
 - [Como Ativar Windows 10 e Windows 11: Sem instalar nada e de forma OFICIAL e 100% segura](https://www.youtube.com/watch?v=JKk44wbmbv8)
 - [Unboxing: Water Cooler Cooler Master MasterLiquid ML360L V2 ARGB](https://www.youtube.com/watch?v=y8zdG8ayy-E)
 - [Como fazer backup - Seguro, de graça e infinito! &lpar;Dale gambiarra&rpar;](https://www.youtube.com/watch?v=jC8-d5MJ6bA)
 - [Lista 10: Os melhores editores de vídeo &lpar;DE GRAÇA!!&rpar;](https://www.youtube.com/watch?v=ykXirRLTYgA)
-- [Como fazer um pendrive ORIGINAL do Windows 10 ou Windows 11 atualizado, oficial e de graça!](https://www.youtube.com/watch?v=qE50OIDDnYA)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
