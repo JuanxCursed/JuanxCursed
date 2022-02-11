@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Call of Duty: Entre no combate com Máquinas de Guerra Blindadas na Temporada 2 de Call of Duty Vanguard e Warzone que estreia em 14 de fevereiro](https://marriedgames.com.br/noticias/temporada-2-de-call-of-duty-vanguard-e-warzone/)
-- [Compaq lista cinco dicas para navegar na internet com mais segurança](https://marriedgames.com.br/noticias/internet-com-mais-seguranca/)
-- [Metaverso já é realidade e revela novo perfil gamer](https://marriedgames.com.br/noticias/metaverso-ja-e-realidade/)
-- [XIS OG Life está pronta para disputa da Série B da LBFF](https://marriedgames.com.br/noticias/xis-og-life-esta-pronta/)
-- [Nova expansão de Far Cry 6, Joseph Colapso já está disponível](https://marriedgames.com.br/noticias/joseph-colapso-ja-esta-disponivel/)
+- [Os 60 melhores Mods de The Sims 4 para PC e como instalar](https://marriedgames.com.br/dicas-guias/mods-de-the-sims-4-para-pc/)
+- [Ubisoft faz parceria com The Sandbox e leva os Rabbids para o metaverso](https://marriedgames.com.br/noticias/ubisoft-faz-parceria-com-the-sandbox/)
+- [Bang-On Balls: Chronicles lança o novo Space Race Chronicle com uma grande promoção!](https://marriedgames.com.br/noticias/bang-on-balls-chronicles/)
+- [Harry Potter Desperta a Magia já está disponível no Brasil para pré-registro](https://marriedgames.com.br/noticias/harry-potter-desperta-a-magia/)
+- [Sinal Wi-Fi fraco? Confira as dicas para contornar o problema](https://marriedgames.com.br/noticias/sinal-wi-fi-fraco/)
 <!-- BLOG-POST-LIST:END -->
 
 
