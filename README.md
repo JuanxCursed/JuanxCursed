@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Os 60 melhores Mods de The Sims 4 para PC e como instalar](https://marriedgames.com.br/dicas-guias/mods-de-the-sims-4-para-pc/)
-- [Ubisoft faz parceria com The Sandbox e leva os Rabbids para o metaverso](https://marriedgames.com.br/noticias/ubisoft-faz-parceria-com-the-sandbox/)
-- [Bang-On Balls: Chronicles lança o novo Space Race Chronicle com uma grande promoção!](https://marriedgames.com.br/noticias/bang-on-balls-chronicles/)
-- [Harry Potter Desperta a Magia já está disponível no Brasil para pré-registro](https://marriedgames.com.br/noticias/harry-potter-desperta-a-magia/)
-- [Sinal Wi-Fi fraco? Confira as dicas para contornar o problema](https://marriedgames.com.br/noticias/sinal-wi-fi-fraco/)
+- [Agora tem comida brasileira em The Sims 4](https://marriedgames.com.br/noticias/comida-brasileira-em-the-sims-4/)
+- [Notebooks GeForce RTX estão em oferta em site promocional](https://marriedgames.com.br/noticias/notebooks-geforce-rtx/)
+- [Riot passará a gravar áudios dos jogadores tóxicos em Valorant](https://marriedgames.com.br/noticias/jogadores-toxicos-em-valorant/)
+- [Como fazer trade FIFA 22? Saiba como lidar com o mercado de transferências](https://marriedgames.com.br/dicas-guias/como-fazer-trade-fifa-22/)
+- [Como derrotar a CEO em Sifu – guia de batalha contra Jinfeng, a 4° chefe](https://marriedgames.com.br/dicas-guias/como-derrotar-a-ceo-em-sifu/)
 <!-- BLOG-POST-LIST:END -->
 
 
