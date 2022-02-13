@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Modo Saque Warzone: 15 dicas precisas para coletar mais dinheiro](https://marriedgames.com.br/dicas-guias/modo-saque-warzone/)
+- [Live Streaming: A melhor configuração de 2022 para suas lives](https://marriedgames.com.br/dicas-guias/live-streaming-configuracao/)
+- [Shadowlands: Fim da Eternidade &lpar;9.2&rpar; será lançado em 22 de fevereiro!](https://marriedgames.com.br/noticias/fim-da-eternidade/)
 - [Agora tem comida brasileira em The Sims 4](https://marriedgames.com.br/noticias/comida-brasileira-em-the-sims-4/)
 - [Notebooks GeForce RTX estão em oferta em site promocional](https://marriedgames.com.br/noticias/notebooks-geforce-rtx/)
-- [Riot passará a gravar áudios dos jogadores tóxicos em Valorant](https://marriedgames.com.br/noticias/jogadores-toxicos-em-valorant/)
-- [Como fazer trade FIFA 22? Saiba como lidar com o mercado de transferências](https://marriedgames.com.br/dicas-guias/como-fazer-trade-fifa-22/)
-- [Como derrotar a CEO em Sifu – guia de batalha contra Jinfeng, a 4° chefe](https://marriedgames.com.br/dicas-guias/como-derrotar-a-ceo-em-sifu/)
 <!-- BLOG-POST-LIST:END -->
 
 
