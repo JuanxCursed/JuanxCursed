@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Modo Saque Warzone: 15 dicas precisas para coletar mais dinheiro](https://marriedgames.com.br/dicas-guias/modo-saque-warzone/)
-- [Live Streaming: A melhor configuração de 2022 para suas lives](https://marriedgames.com.br/dicas-guias/live-streaming-configuracao/)
-- [Shadowlands: Fim da Eternidade &lpar;9.2&rpar; será lançado em 22 de fevereiro!](https://marriedgames.com.br/noticias/fim-da-eternidade/)
-- [Agora tem comida brasileira em The Sims 4](https://marriedgames.com.br/noticias/comida-brasileira-em-the-sims-4/)
-- [Notebooks GeForce RTX estão em oferta em site promocional](https://marriedgames.com.br/noticias/notebooks-geforce-rtx/)
+- [Saiba tudo sobre o Passe de Batalha e os pacotes para a Season 2 do CoD Vanguard e Warzone](https://marriedgames.com.br/noticias/season-2-do-cod-vanguard-e-warzone/)
+- [NEW STATE MOBILE recebe o modo Mata-mata em Rodadas](https://marriedgames.com.br/noticias/new-state-mobile-recebe-o-modo-mata-mata-em-rodadas/)
+- [Novo mapa Arena Santorini chega ao PUBG MOBILE](https://marriedgames.com.br/noticias/arena-santorini-chega-ao-pubg-mobile/)
+- [Dinastia Neon chega a Magic: The Gathering Arena com cards futurísticos](https://marriedgames.com.br/noticias/dinastia-neon-magic/)
+- [Pam e Tommy: 7 curiosidades sobre a série que estreiou no Star +](https://marriedgames.com.br/filmes-series/pam-e-tommy/)
 <!-- BLOG-POST-LIST:END -->
 
 
