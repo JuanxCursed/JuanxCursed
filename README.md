@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Saiba tudo sobre o Passe de Batalha e os pacotes para a Season 2 do CoD Vanguard e Warzone](https://marriedgames.com.br/noticias/season-2-do-cod-vanguard-e-warzone/)
-- [NEW STATE MOBILE recebe o modo Mata-mata em Rodadas](https://marriedgames.com.br/noticias/new-state-mobile-recebe-o-modo-mata-mata-em-rodadas/)
-- [Novo mapa Arena Santorini chega ao PUBG MOBILE](https://marriedgames.com.br/noticias/arena-santorini-chega-ao-pubg-mobile/)
-- [Dinastia Neon chega a Magic: The Gathering Arena com cards futurísticos](https://marriedgames.com.br/noticias/dinastia-neon-magic/)
-- [Pam e Tommy: 7 curiosidades sobre a série que estreiou no Star +](https://marriedgames.com.br/filmes-series/pam-e-tommy/)
+- [Você sabe o que é o HappyMod? 6 Perguntas mais comuns sobre o Nexus dos Mobiles](https://marriedgames.com.br/dicas-guias/o-que-e-o-happymod/)
+- [Cinco jogos NFT de 2022 para aguardar e investir](https://marriedgames.com.br/dicas-guias/cinco-jogos-nft-de-2022/)
+- [Novidades sobre a Temporada Dois de Call of Duty: Vanguard e Warzone e o futuro de Call of Duty](https://marriedgames.com.br/noticias/temporada-dois-de-call-of-duty/)
+- [HyperX destaca os jogos mais aguardados de 2022](https://marriedgames.com.br/noticias/hyperx-destaca-os-jogos/)
+- [20 Melhores Jogos NFT Grátis para jogar](https://marriedgames.com.br/dicas-guias/jogos-nft-gratis/)
 <!-- BLOG-POST-LIST:END -->
 
 
