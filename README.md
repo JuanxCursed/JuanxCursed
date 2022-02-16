@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Você sabe o que é o HappyMod? 6 Perguntas mais comuns sobre o Nexus dos Mobiles](https://marriedgames.com.br/dicas-guias/o-que-e-o-happymod/)
-- [Cinco jogos NFT de 2022 para aguardar e investir](https://marriedgames.com.br/dicas-guias/cinco-jogos-nft-de-2022/)
-- [Novidades sobre a Temporada Dois de Call of Duty: Vanguard e Warzone e o futuro de Call of Duty](https://marriedgames.com.br/noticias/temporada-dois-de-call-of-duty/)
-- [HyperX destaca os jogos mais aguardados de 2022](https://marriedgames.com.br/noticias/hyperx-destaca-os-jogos/)
-- [20 Melhores Jogos NFT Grátis para jogar](https://marriedgames.com.br/dicas-guias/jogos-nft-gratis/)
+- [38 melhores jogos para ganhar criptomoedas e jogar de maneira casual &lpar;ou não&rpar;](https://marriedgames.com.br/dicas-guias/jogos-para-ganhar-criptomoedas/)
+- [Realme 9i, primeiro com Snapdragon 680 de 6nm, será lançado no Brasil em 22 de fevereiro](https://marriedgames.com.br/noticias/realme-9i-primeiro-snapdragon/)
+- [Saiba mais sobre o DLC de Dying Light 2 Stay Human e o concurso que dará um PC gamer](https://marriedgames.com.br/noticias/dlc-de-dying-light-2/)
+- [Jogadores GeForce estão prontos para Elden Ring, Destiny 2 e mais](https://marriedgames.com.br/noticias/jogadores-geforce-estao-prontos/)
+- [Veja os requisitos para jogar Elden Ring no PC](https://marriedgames.com.br/noticias/requisitos-para-jogar-elden-ring/)
 <!-- BLOG-POST-LIST:END -->
 
 
