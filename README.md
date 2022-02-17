@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [38 melhores jogos para ganhar criptomoedas e jogar de maneira casual &lpar;ou não&rpar;](https://marriedgames.com.br/dicas-guias/jogos-para-ganhar-criptomoedas/)
-- [Realme 9i, primeiro com Snapdragon 680 de 6nm, será lançado no Brasil em 22 de fevereiro](https://marriedgames.com.br/noticias/realme-9i-primeiro-snapdragon/)
-- [Saiba mais sobre o DLC de Dying Light 2 Stay Human e o concurso que dará um PC gamer](https://marriedgames.com.br/noticias/dlc-de-dying-light-2/)
-- [Jogadores GeForce estão prontos para Elden Ring, Destiny 2 e mais](https://marriedgames.com.br/noticias/jogadores-geforce-estao-prontos/)
-- [Veja os requisitos para jogar Elden Ring no PC](https://marriedgames.com.br/noticias/requisitos-para-jogar-elden-ring/)
+- [Mod Objetos Funcionais em The Sims 4 faz decorações ganharem utilidade](https://marriedgames.com.br/noticias/objetos-funcionais-em-the-sims-4/)
+- [O que é o HoYoverse e como isso afetará os jogos](https://marriedgames.com.br/noticias/o-que-e-o-hoyoverse/)
+- [Saiba mais sobre o Curso de Arqueologia em Two Point Campus](https://marriedgames.com.br/noticias/arqueologia-em-two-point-campus/)
+- [A Versão Beta Limitada do Pokémon Estampas Ilustradas Live Estará Disponível em Breve](https://marriedgames.com.br/noticias/beta-limitada-do-pokemon/)
+- [O Nostálgico Jogo de Terror Daymare: 1994 Sandcastle Estará no Steam Next Fest](https://marriedgames.com.br/noticias/jogo-de-terror-daymare/)
 <!-- BLOG-POST-LIST:END -->
 
 
