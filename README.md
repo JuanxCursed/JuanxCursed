@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mod Objetos Funcionais em The Sims 4 faz decorações ganharem utilidade](https://marriedgames.com.br/noticias/objetos-funcionais-em-the-sims-4/)
-- [O que é o HoYoverse e como isso afetará os jogos](https://marriedgames.com.br/noticias/o-que-e-o-hoyoverse/)
-- [Saiba mais sobre o Curso de Arqueologia em Two Point Campus](https://marriedgames.com.br/noticias/arqueologia-em-two-point-campus/)
-- [A Versão Beta Limitada do Pokémon Estampas Ilustradas Live Estará Disponível em Breve](https://marriedgames.com.br/noticias/beta-limitada-do-pokemon/)
-- [O Nostálgico Jogo de Terror Daymare: 1994 Sandcastle Estará no Steam Next Fest](https://marriedgames.com.br/noticias/jogo-de-terror-daymare/)
+- [Como gravar a tela do PC sem instalar programas no Windows 10 e macOS](https://marriedgames.com.br/dicas-guias/como-gravar-a-tela-do-pc/)
+- [Amazon anuncia Echo Buds, o primeiro dispositivo para usar Alexa em qualquer lugar](https://marriedgames.com.br/noticias/amazon-anuncia-echo-buds/)
+- [Conheça o estúdio Rebel Wolves dos ex-co-desenvolvedores de Witcher e Cyberpunk](https://marriedgames.com.br/noticias/estudio-rebel-wolves/)
+- [Semana Gamer da Dell oferece promoções especiais em todas as linhas de produtos](https://marriedgames.com.br/noticias/semana-gamer-da-dell/)
+- [Otimizações para jogos em janela no Windows 11 chega aos Insiders](https://marriedgames.com.br/noticias/jogos-em-janela-no-windows-11/)
 <!-- BLOG-POST-LIST:END -->
 
 
