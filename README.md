@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Como gravar a tela do PC sem instalar programas no Windows 10 e macOS](https://marriedgames.com.br/dicas-guias/como-gravar-a-tela-do-pc/)
-- [Amazon anuncia Echo Buds, o primeiro dispositivo para usar Alexa em qualquer lugar](https://marriedgames.com.br/noticias/amazon-anuncia-echo-buds/)
-- [Conheça o estúdio Rebel Wolves dos ex-co-desenvolvedores de Witcher e Cyberpunk](https://marriedgames.com.br/noticias/estudio-rebel-wolves/)
-- [Semana Gamer da Dell oferece promoções especiais em todas as linhas de produtos](https://marriedgames.com.br/noticias/semana-gamer-da-dell/)
-- [Otimizações para jogos em janela no Windows 11 chega aos Insiders](https://marriedgames.com.br/noticias/jogos-em-janela-no-windows-11/)
+- [Como tirar teclas do teclado: keycaps e 4 dicas de como trocá-las](https://marriedgames.com.br/tecnologia/tirar-teclas-do-teclado/)
+- [Truque cancela a animação do upgrade de artefatos em Genshin Impact](https://marriedgames.com.br/noticias/upgrade-de-artefatos-em-genshin/)
+- [BOOYAH! anuncia eventos para receber recompensas no Free Fire](https://marriedgames.com.br/noticias/receber-recompensas-no-free-fire/)
+- [Samsung Galaxy S22 5G chega no Submarino com até R＄1.500 de cashback e frete grátis](https://marriedgames.com.br/noticias/smartphone-samsung-galaxy-s22/)
+- [A realme será o parceiro oficial do PUBG MOBILE Pro League Brasil Spring em 2022](https://marriedgames.com.br/noticias/pubg-mobile-pro-league/)
 <!-- BLOG-POST-LIST:END -->
 
 
