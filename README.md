@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Brasil Open de PUBG MOBILE: Saiba o que aconteceu na 1º edição de 2022](https://marriedgames.com.br/noticias/brasil-open-de-pubg-mobile/)
+- [GETSUFUMADEN: UNDYING MOON DISPONÍVEL PARA PC FORA DO ACESSO ANTECIPADO](https://marriedgames.com.br/noticias/undying-moon-disponivel-para-pc/)
+- [NVIDIA Reflex chega à versão beta de ‘iRacing’ e ‘SUPER PEOPLE’](https://marriedgames.com.br/noticias/nvidia-reflex-chega-a-versao-beta/)
+- [8 séries Prime Video para maratonar no fim de semana](https://marriedgames.com.br/filmes-series/series-prime-video/)
 - [Como tirar teclas do teclado: keycaps e 4 dicas de como trocá-las](https://marriedgames.com.br/tecnologia/tirar-teclas-do-teclado/)
-- [Truque cancela a animação do upgrade de artefatos em Genshin Impact](https://marriedgames.com.br/noticias/upgrade-de-artefatos-em-genshin/)
-- [BOOYAH! anuncia eventos para receber recompensas no Free Fire](https://marriedgames.com.br/noticias/receber-recompensas-no-free-fire/)
-- [Samsung Galaxy S22 5G chega no Submarino com até R＄1.500 de cashback e frete grátis](https://marriedgames.com.br/noticias/smartphone-samsung-galaxy-s22/)
-- [A realme será o parceiro oficial do PUBG MOBILE Pro League Brasil Spring em 2022](https://marriedgames.com.br/noticias/pubg-mobile-pro-league/)
 <!-- BLOG-POST-LIST:END -->
 
 
