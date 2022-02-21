@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Brasil Open de PUBG MOBILE: Saiba o que aconteceu na 1º edição de 2022](https://marriedgames.com.br/noticias/brasil-open-de-pubg-mobile/)
-- [GETSUFUMADEN: UNDYING MOON DISPONÍVEL PARA PC FORA DO ACESSO ANTECIPADO](https://marriedgames.com.br/noticias/undying-moon-disponivel-para-pc/)
-- [NVIDIA Reflex chega à versão beta de ‘iRacing’ e ‘SUPER PEOPLE’](https://marriedgames.com.br/noticias/nvidia-reflex-chega-a-versao-beta/)
-- [8 séries Prime Video para maratonar no fim de semana](https://marriedgames.com.br/filmes-series/series-prime-video/)
-- [Como tirar teclas do teclado: keycaps e 4 dicas de como trocá-las](https://marriedgames.com.br/tecnologia/tirar-teclas-do-teclado/)
+- [Street Fighter 6 ganha um trailer de revelação](https://marriedgames.com.br/noticias/street-fighter-6-ganha-um-trailer/)
+- [Lançamento de SpellForce III Reforced ganha nova data em junho](https://marriedgames.com.br/noticias/lancamento-de-spellforce-iii-reforced/)
+- [HyperX lista produtos gamer ideais para conciliar momentos de estudo e diversão](https://marriedgames.com.br/noticias/hyperx-lista-produtos-gamer/)
+- [Metaverso e a digitalização social obrigam universidades a rever métodos de avaliação](https://marriedgames.com.br/noticias/metaverso-e-a-digitalizacao/)
+- [HyperX anuncia patrocínio ao time russo de futebol profissional Spartak Moscow](https://marriedgames.com.br/noticias/hyperx-anuncia-patrocinio/)
 <!-- BLOG-POST-LIST:END -->
 
 
