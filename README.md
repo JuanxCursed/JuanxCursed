@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Street Fighter 6 ganha um trailer de revelação](https://marriedgames.com.br/noticias/street-fighter-6-ganha-um-trailer/)
-- [Lançamento de SpellForce III Reforced ganha nova data em junho](https://marriedgames.com.br/noticias/lancamento-de-spellforce-iii-reforced/)
-- [HyperX lista produtos gamer ideais para conciliar momentos de estudo e diversão](https://marriedgames.com.br/noticias/hyperx-lista-produtos-gamer/)
-- [Metaverso e a digitalização social obrigam universidades a rever métodos de avaliação](https://marriedgames.com.br/noticias/metaverso-e-a-digitalizacao/)
-- [HyperX anuncia patrocínio ao time russo de futebol profissional Spartak Moscow](https://marriedgames.com.br/noticias/hyperx-anuncia-patrocinio/)
+- [PUBG BATTLEGROUNDS lança atualização 16.1](https://marriedgames.com.br/noticias/pubg-battlegrounds-lanca-atualizacao/)
+- [Anker dá dicas de como escolher a caixa de som portátil ideal para curtir o verão](https://marriedgames.com.br/noticias/anker-da-dicas-de-caixa-de-som/)
+- [A THE POKÉMON COMPANY INTERNATIONAL REVELA PLANOS PARA O DIA DE POKÉMON 2022](https://marriedgames.com.br/noticias/dia-de-pokemon-2022/)
+- [Está para começar o Brasil Spring 2022 de PUBG MOBILE Pro League](https://marriedgames.com.br/noticias/brasil-spring-2022-de-pubg-mobile/)
+- [Evento Spillover acaba de chegar a Tom Clancy’s Rainbow Six Extraction](https://marriedgames.com.br/noticias/evento-spillover/)
 <!-- BLOG-POST-LIST:END -->
 
 
