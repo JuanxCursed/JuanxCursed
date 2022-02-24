@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Street Fighter chega ao Magic: The Gathering. Veja as cartas dos guerreiros mundiais](https://marriedgames.com.br/noticias/street-fighter-chega-ao-magic/)
-- [PUBG BATTLEGROUNDS lança atualização 16.1](https://marriedgames.com.br/noticias/pubg-battlegrounds-lanca-atualizacao/)
-- [Anker dá dicas de como escolher a caixa de som portátil ideal para curtir o verão](https://marriedgames.com.br/noticias/anker-da-dicas-de-caixa-de-som/)
-- [A THE POKÉMON COMPANY INTERNATIONAL REVELA PLANOS PARA O DIA DE POKÉMON 2022](https://marriedgames.com.br/noticias/dia-de-pokemon-2022/)
-- [Está para começar o Brasil Spring 2022 de PUBG MOBILE Pro League](https://marriedgames.com.br/noticias/brasil-spring-2022-de-pubg-mobile/)
+- [Crossover épico de Brawlhalla com personagens de G.I. JOE já está disponível](https://marriedgames.com.br/noticias/crossover-epico-de-brawlhalla/)
+- [Black Desert Online revela teaser oficial de Montanha do Inverno Sem Fim](https://marriedgames.com.br/noticias/montanha-do-inverno-sem-fim/)
+- [Saiba mais sobre o mod QuestCraft. Um modo VR para o Minecraft Java Edition](https://marriedgames.com.br/noticias/mod-questcraft-vr-minecraft/)
+- [Curta o carnaval: 10 séries para você que não gosta de folia assistir no Carnaval](https://marriedgames.com.br/filmes-series/carnaval/)
+- [realme expande portfólio AIoT com lançamento oficial com realme Band 2 e realme Buds Q2](https://marriedgames.com.br/noticias/realme-expande-portfolio/)
 <!-- BLOG-POST-LIST:END -->
 
 
