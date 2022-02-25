@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Crossover épico de Brawlhalla com personagens de G.I. JOE já está disponível](https://marriedgames.com.br/noticias/crossover-epico-de-brawlhalla/)
-- [Black Desert Online revela teaser oficial de Montanha do Inverno Sem Fim](https://marriedgames.com.br/noticias/montanha-do-inverno-sem-fim/)
-- [Saiba mais sobre o mod QuestCraft. Um modo VR para o Minecraft Java Edition](https://marriedgames.com.br/noticias/mod-questcraft-vr-minecraft/)
-- [Curta o carnaval: 10 séries para você que não gosta de folia assistir no Carnaval](https://marriedgames.com.br/filmes-series/carnaval/)
-- [realme expande portfólio AIoT com lançamento oficial com realme Band 2 e realme Buds Q2](https://marriedgames.com.br/noticias/realme-expande-portfolio/)
+- [Como melhorar o FPS do seu jogo em 2022? Saiba como visualizá-lo e mais](https://marriedgames.com.br/dicas-guias/como-melhorar-o-fps/)
+- [Aproveite a Promoção de Jogos na Amazon! Ofertas especiais para PlayStation 4/5 e Xbox](https://marriedgames.com.br/dicas-guias/promocao-de-jogos-na-amazon/)
+- [Ucrânia e Rússia: 5 filmes, séries e documentários que vão te ajudar a entender a Guerra](https://marriedgames.com.br/filmes-series/ucrania-e-russia/)
+- [Linha Positivo Master ganha destaque com a demanda por computadores corporativos](https://marriedgames.com.br/noticias/linha-positivo-master/)
+- [Realme abre agenda de lançamentos 2022 no Brasil, com lançamento do realme 9i](https://marriedgames.com.br/noticias/lancamento-do-realme-9i/)
 <!-- BLOG-POST-LIST:END -->
 
 
