@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Como melhorar o FPS do seu jogo em 2022? Saiba como visualizá-lo e mais](https://marriedgames.com.br/dicas-guias/como-melhorar-o-fps/)
-- [Aproveite a Promoção de Jogos na Amazon! Ofertas especiais para PlayStation 4/5 e Xbox](https://marriedgames.com.br/dicas-guias/promocao-de-jogos-na-amazon/)
-- [Ucrânia e Rússia: 5 filmes, séries e documentários que vão te ajudar a entender a Guerra](https://marriedgames.com.br/filmes-series/ucrania-e-russia/)
-- [Linha Positivo Master ganha destaque com a demanda por computadores corporativos](https://marriedgames.com.br/noticias/linha-positivo-master/)
-- [Realme abre agenda de lançamentos 2022 no Brasil, com lançamento do realme 9i](https://marriedgames.com.br/noticias/lancamento-do-realme-9i/)
+- [É Carnaval em Arena of Valor. Participe dos eventos e ganhe skins exclusivas](https://marriedgames.com.br/noticias/carnaval-em-arena-of-valor/)
+- [Evento de Carnaval de PUBG oferece premiação de 100.000 G-Coins](https://marriedgames.com.br/noticias/evento-de-carnaval-de-pubg/)
+- [Assassins Creed Valhalla grátis. Jogue de graça até 28 de fevereiro](https://marriedgames.com.br/noticias/assassins-creed-valhalla-gratis/)
+- [Trovo faz evento especial de Carnaval](https://marriedgames.com.br/noticias/trovo-faz-evento-especial/)
+- [Novo malware infecta mais de 5 mil máquinas por meio de aplicativos da loja Microsoft](https://marriedgames.com.br/noticias/novo-malware-infecta/)
 <!-- BLOG-POST-LIST:END -->
 
 
