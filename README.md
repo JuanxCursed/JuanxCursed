@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Myth of Empires International Vanguard Edition será lançado em 2 de março](https://marriedgames.com.br/noticias/myth-of-empires/)
+- [Como usar controles de movimento em Horizon Forbidden West e por que você deveria usá-lo](https://marriedgames.com.br/dicas-guias/controles-de-movimento-em-horizon/)
+- [12 Dicas de iniciantes em Elden Ring: aprendendo os caminhos das Terras Intermédias](https://marriedgames.com.br/noticias/dicas-de-iniciantes-em-elden-ring/)
 - [É Carnaval em Arena of Valor. Participe dos eventos e ganhe skins exclusivas](https://marriedgames.com.br/noticias/carnaval-em-arena-of-valor/)
 - [Evento de Carnaval de PUBG oferece premiação de 100.000 G-Coins](https://marriedgames.com.br/noticias/evento-de-carnaval-de-pubg/)
-- [Assassins Creed Valhalla grátis. Jogue de graça até 28 de fevereiro](https://marriedgames.com.br/noticias/assassins-creed-valhalla-gratis/)
-- [Trovo faz evento especial de Carnaval](https://marriedgames.com.br/noticias/trovo-faz-evento-especial/)
-- [Novo malware infecta mais de 5 mil máquinas por meio de aplicativos da loja Microsoft](https://marriedgames.com.br/noticias/novo-malware-infecta/)
 <!-- BLOG-POST-LIST:END -->
 
 
