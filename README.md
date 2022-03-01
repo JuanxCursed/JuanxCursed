@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Myth of Empires International Vanguard Edition será lançado em 2 de março](https://marriedgames.com.br/noticias/myth-of-empires/)
-- [Como usar controles de movimento em Horizon Forbidden West e por que você deveria usá-lo](https://marriedgames.com.br/dicas-guias/controles-de-movimento-em-horizon/)
-- [12 Dicas de iniciantes em Elden Ring: aprendendo os caminhos das Terras Intermédias](https://marriedgames.com.br/noticias/dicas-de-iniciantes-em-elden-ring/)
-- [É Carnaval em Arena of Valor. Participe dos eventos e ganhe skins exclusivas](https://marriedgames.com.br/noticias/carnaval-em-arena-of-valor/)
-- [Evento de Carnaval de PUBG oferece premiação de 100.000 G-Coins](https://marriedgames.com.br/noticias/evento-de-carnaval-de-pubg/)
+- [As gravações da série Percy Jackson devem começar em junho de 2022](https://marriedgames.com.br/noticias/serie-percy-jackson/)
+- [8 Sites para assistir a filmes e séries de graça](https://marriedgames.com.br/filmes-series/sites-para-assistir-a-filmes-e-series-de-graca/)
+- [Tudo o que sabemos sobre Sonic 2, previsto para 08/04 nos cinemas](https://marriedgames.com.br/noticias/sonic-2/)
+- [Sucesso no Brasil, Free Fire é banido da Índia em nova retaliação de aplicativos chineses](https://marriedgames.com.br/noticias/sucesso-no-brasil-free-fire-e-banido-da-india-em-nova-retaliacao-de-aplicativos-chineses/)
+- [MWC 2022: realme entra no mercado global de smartphones premium com o GT 2 series](https://marriedgames.com.br/noticias/mwc-2022-realme-gt-2-series/)
 <!-- BLOG-POST-LIST:END -->
 
 
