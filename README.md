@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [As gravações da série Percy Jackson devem começar em junho de 2022](https://marriedgames.com.br/noticias/serie-percy-jackson/)
-- [8 Sites para assistir a filmes e séries de graça](https://marriedgames.com.br/filmes-series/sites-para-assistir-a-filmes-e-series-de-graca/)
-- [Tudo o que sabemos sobre Sonic 2, previsto para 08/04 nos cinemas](https://marriedgames.com.br/noticias/sonic-2/)
-- [Sucesso no Brasil, Free Fire é banido da Índia em nova retaliação de aplicativos chineses](https://marriedgames.com.br/noticias/sucesso-no-brasil-free-fire-e-banido-da-india-em-nova-retaliacao-de-aplicativos-chineses/)
-- [MWC 2022: realme entra no mercado global de smartphones premium com o GT 2 series](https://marriedgames.com.br/noticias/mwc-2022-realme-gt-2-series/)
+- [Mod de Elden Ring permite Pausar o jogo](https://marriedgames.com.br/noticias/mod-de-elden-ring/)
+- [Boletim da Semana 4 da LBFF – Liga Brasileira de Free Fire 7](https://marriedgames.com.br/noticias/boletim-da-semana-4-da-lbff/)
+- [Adoção do Windows 11 ainda não superou o Windows 10](https://marriedgames.com.br/noticias/adocao-do-windows-11/)
+- [Estreia The Batman: tudo o que sabemos sobre o novo filme do morcegão previsto para 3/3](https://marriedgames.com.br/filmes-series/estreia-the-batman/)
+- [Animes mais populares da temporada de inverno 2022](https://marriedgames.com.br/filmes-series/animes-mais-populares-da-temporada-de-inverno-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 
