@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Two Point Hospital: Speedy Recovery DLC chega ao Steam e à Microsoft Store](https://marriedgames.com.br/noticias/speedy-recovery-dlc/)
+- [Lenovo atrai estudantes gamers com os novos IdeaPad Gaming e o mouse Legion wireless](https://marriedgames.com.br/noticias/lenovo-atrai-estudantes-gamers/)
+- [Os principais lançamentos da Disney Plus em março de 2022](https://marriedgames.com.br/filmes-series/disney-plus-em-marco-de-2022/)
+- [Melhores sites de skins gratuitas de CS:GO em 2022](https://marriedgames.com.br/dicas-guias/sites-de-skins-gratuitas-de-cs/)
 - [Mod de Elden Ring permite Pausar o jogo](https://marriedgames.com.br/noticias/mod-de-elden-ring/)
-- [Boletim da Semana 4 da LBFF – Liga Brasileira de Free Fire 7](https://marriedgames.com.br/noticias/boletim-da-semana-4-da-lbff/)
-- [Adoção do Windows 11 ainda não superou o Windows 10](https://marriedgames.com.br/noticias/adocao-do-windows-11/)
-- [Estreia The Batman: tudo o que sabemos sobre o novo filme do morcegão previsto para 3/3](https://marriedgames.com.br/filmes-series/estreia-the-batman/)
-- [Animes mais populares da temporada de inverno 2022](https://marriedgames.com.br/filmes-series/animes-mais-populares-da-temporada-de-inverno-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 
