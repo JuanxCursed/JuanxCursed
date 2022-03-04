@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Point Hospital: Speedy Recovery DLC chega ao Steam e à Microsoft Store](https://marriedgames.com.br/noticias/speedy-recovery-dlc/)
-- [Lenovo atrai estudantes gamers com os novos IdeaPad Gaming e o mouse Legion wireless](https://marriedgames.com.br/noticias/lenovo-atrai-estudantes-gamers/)
-- [Os principais lançamentos da Disney Plus em março de 2022](https://marriedgames.com.br/filmes-series/disney-plus-em-marco-de-2022/)
-- [Melhores sites de skins gratuitas de CS:GO em 2022](https://marriedgames.com.br/dicas-guias/sites-de-skins-gratuitas-de-cs/)
-- [Mod de Elden Ring permite Pausar o jogo](https://marriedgames.com.br/noticias/mod-de-elden-ring/)
+- [Euphoria é o título mais assistido da HBO Max latina e 2° mais visto na HBO americana](https://marriedgames.com.br/noticias/euphoria-e-o-titulo-mais-assistido-da-hbo-max/)
+- [Review de Cuphead – Don’t Deal with the Devil – O gun and run dos anos 30](https://marriedgames.com.br/analises/review-de-cuphead/)
+- [Stattrak e PUBG MOBILE se unem para criação de Fantasy Game da PMPL Brasil Spring](https://marriedgames.com.br/noticias/stattrak-e-pubg-mobile/)
+- [BOOYAH inicia campeonato com mapas criados pela comunidade](https://marriedgames.com.br/noticias/booyah-inicia-campeonato/)
+- [Garena e Arcor lançam ovo de Páscoa temático de Free Fire](https://marriedgames.com.br/noticias/garena-e-arcor/)
 <!-- BLOG-POST-LIST:END -->
 
 
