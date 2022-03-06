@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 melhores filmes de Spike Lee](https://marriedgames.com.br/filmes-series/filmes-de-spike-lee/)
-- [Todos lançamentos do Marvel MCU nos cinemas e TV até 2023!](https://marriedgames.com.br/filmes-series/novidades-marvel-mcu/)
-- [Ordem dos filmes da Marvel em 2022: cronológica e por data de lançamento](https://marriedgames.com.br/dicas-guias/ordem-dos-filmes-da-marvel/)
-- [HyperX anuncia HyperX Loot Drop 2, a segunda edição de seu evento global de promoções](https://marriedgames.com.br/noticias/hyperx-loot-drop-2/)
-- [Monte sua liga com a Stattrak e PUBG MOBILE se na Fantasy Game da PMPL Brasil Spring](https://marriedgames.com.br/noticias/pmpl-brasil-spring/)
+- [Como completar sua Pokedex em Pokémon Red e Blue em 2022](https://marriedgames.com.br/noticias/completar-sua-pokedex/)
+- [Confira os lançamentos da HBO Max Março de 2022](https://marriedgames.com.br/filmes-series/hbo-max-marco-de-2022/)
+- [Kingston lança memória Kingston FURY Impact DDR5](https://marriedgames.com.br/noticias/kingston-fury-impact-ddr5/)
+- [SAGA dá dicas para quem planeja trabalhar com ilustração](https://marriedgames.com.br/noticias/saga-da-dicas/)
+- [Como refazer seu personagem em Elden Ring e encontrar Lágrimas Larvais](https://marriedgames.com.br/dicas-guias/personagem-em-elden-ring/)
 <!-- BLOG-POST-LIST:END -->
 
 
