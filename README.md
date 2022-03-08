@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Como completar sua Pokedex em Pokémon Red e Blue em 2022](https://marriedgames.com.br/noticias/completar-sua-pokedex/)
-- [Confira os lançamentos da HBO Max Março de 2022](https://marriedgames.com.br/filmes-series/hbo-max-marco-de-2022/)
-- [Kingston lança memória Kingston FURY Impact DDR5](https://marriedgames.com.br/noticias/kingston-fury-impact-ddr5/)
-- [SAGA dá dicas para quem planeja trabalhar com ilustração](https://marriedgames.com.br/noticias/saga-da-dicas/)
-- [Como refazer seu personagem em Elden Ring e encontrar Lágrimas Larvais](https://marriedgames.com.br/dicas-guias/personagem-em-elden-ring/)
+- [Positivo Tecnologia lista dispositivos ideais para usuários que trabalham em modelo híbrido](https://marriedgames.com.br/noticias/positivo-tecnologia-lista/)
+- [Gran Turismo 7 já está disponível e está ainda mais convidativo para jogadores iniciantes](https://marriedgames.com.br/noticias/gran-turismo-7-ja-esta-disponivel/)
+- [MEGA MAN X DiVE Já Disponível no Steam na América do Sul!](https://marriedgames.com.br/noticias/mega-man-x-dive-ja-disponivel/)
+- [CNB LG UltraGear anuncia peneira inédita para descobrir talentos de Valorant](https://marriedgames.com.br/noticias/cnb-lg-ultragear/)
+- [Magalu expõe estátua de game Horizon Forbidden West na loja da Marginal Tietê](https://marriedgames.com.br/noticias/magalu-expoe-estatua-de-game/)
 <!-- BLOG-POST-LIST:END -->
 
 
