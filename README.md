@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Positivo Tecnologia lista dispositivos ideais para usuários que trabalham em modelo híbrido](https://marriedgames.com.br/noticias/positivo-tecnologia-lista/)
-- [Gran Turismo 7 já está disponível e está ainda mais convidativo para jogadores iniciantes](https://marriedgames.com.br/noticias/gran-turismo-7-ja-esta-disponivel/)
-- [MEGA MAN X DiVE Já Disponível no Steam na América do Sul!](https://marriedgames.com.br/noticias/mega-man-x-dive-ja-disponivel/)
-- [CNB LG UltraGear anuncia peneira inédita para descobrir talentos de Valorant](https://marriedgames.com.br/noticias/cnb-lg-ultragear/)
-- [Magalu expõe estátua de game Horizon Forbidden West na loja da Marginal Tietê](https://marriedgames.com.br/noticias/magalu-expoe-estatua-de-game/)
+- [Sadako Rising, 23° capítulo de Dead by Daylight já está disponível](https://marriedgames.com.br/noticias/sadako-rising-dead-by-daylight/)
+- [Dicas para Detonar no competitivo de Mortal Kombat 11](https://marriedgames.com.br/dicas-guias/competitivo-de-mortal-kombat-11/)
+- [Garotas no PUBG – Conheça as jogadoras que se destacam no PUBG MOBILE](https://marriedgames.com.br/noticias/garotas-no-pubg/)
+- [Boletim Semana 5 da LBFF 7 – a Liga Brasileira de Free Fire](https://marriedgames.com.br/noticias/boletim-semana-5-da-lbff-7/)
+- [Dying Light recebe atualização para a nova geração de consoles](https://marriedgames.com.br/noticias/dying-light-recebe-atualizacao/)
 <!-- BLOG-POST-LIST:END -->
 
 
