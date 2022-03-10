@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sadako Rising, 23° capítulo de Dead by Daylight já está disponível](https://marriedgames.com.br/noticias/sadako-rising-dead-by-daylight/)
-- [Dicas para Detonar no competitivo de Mortal Kombat 11](https://marriedgames.com.br/dicas-guias/competitivo-de-mortal-kombat-11/)
-- [Garotas no PUBG – Conheça as jogadoras que se destacam no PUBG MOBILE](https://marriedgames.com.br/noticias/garotas-no-pubg/)
-- [Boletim Semana 5 da LBFF 7 – a Liga Brasileira de Free Fire](https://marriedgames.com.br/noticias/boletim-semana-5-da-lbff-7/)
-- [Dying Light recebe atualização para a nova geração de consoles](https://marriedgames.com.br/noticias/dying-light-recebe-atualizacao/)
+- [Novo State of Play acontece nesta quarta-feira, 9 de março￼](https://marriedgames.com.br/noticias/novo-state-of-play/)
+- [Segunda edição do campeonato Platina do Brasil tem Mortal Kombat 11 e muitos prêmios](https://marriedgames.com.br/noticias/campeonato-platina-do-brasil/)
+- [F-Zero X chega ao Nintendo Switch esta semana com multiplayer online](https://marriedgames.com.br/noticias/f-zero-x-chega-ao-nintendo-switch/)
+- [On E Stadium 2022 projeto para streamers iniciantes e campeonato feminino de Valorant](https://marriedgames.com.br/noticias/on-e-stadium-2022/)
+- [Green Hells Spirits of Amazonia chega a uma conclusão épica](https://marriedgames.com.br/noticias/green-hells-spirits-of-amazonia/)
 <!-- BLOG-POST-LIST:END -->
 
 
