@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Novo State of Play acontece nesta quarta-feira, 9 de março￼](https://marriedgames.com.br/noticias/novo-state-of-play/)
-- [Segunda edição do campeonato Platina do Brasil tem Mortal Kombat 11 e muitos prêmios](https://marriedgames.com.br/noticias/campeonato-platina-do-brasil/)
-- [F-Zero X chega ao Nintendo Switch esta semana com multiplayer online](https://marriedgames.com.br/noticias/f-zero-x-chega-ao-nintendo-switch/)
-- [On E Stadium 2022 projeto para streamers iniciantes e campeonato feminino de Valorant](https://marriedgames.com.br/noticias/on-e-stadium-2022/)
-- [Green Hells Spirits of Amazonia chega a uma conclusão épica](https://marriedgames.com.br/noticias/green-hells-spirits-of-amazonia/)
+- [Punhos de Repúdio adia lançamento para Julho de 2022](https://marriedgames.com.br/noticias/punhos-de-repudio-adia-lancamento/)
+- [Melhores jogos para Android em 2022 – Grátis, Pagos e com Mods para baixar agora](https://marriedgames.com.br/dicas-guias/melhores-jogos-para-android/)
+- [Trajes Futurístico e Feras Pré-históricas se Encontram em Exoprimal da Capcom](https://marriedgames.com.br/noticias/exoprimal-da-capcom/)
+- [Confira todos os anúncios do State of Play 2022](https://marriedgames.com.br/noticias/anuncios-da-state-of-play/)
+- [PUBG MOBILE e Warframe: Krafton anuncia colaboração com MMO futurista](https://marriedgames.com.br/noticias/pubg-mobile-e-warframe/)
 <!-- BLOG-POST-LIST:END -->
 
 
