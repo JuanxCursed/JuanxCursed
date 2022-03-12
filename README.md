@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Punhos de Repúdio adia lançamento para Julho de 2022](https://marriedgames.com.br/noticias/punhos-de-repudio-adia-lancamento/)
-- [Melhores jogos para Android em 2022 – Grátis, Pagos e com Mods para baixar agora](https://marriedgames.com.br/dicas-guias/melhores-jogos-para-android/)
-- [Trajes Futurístico e Feras Pré-históricas se Encontram em Exoprimal da Capcom](https://marriedgames.com.br/noticias/exoprimal-da-capcom/)
-- [Confira todos os anúncios do State of Play 2022](https://marriedgames.com.br/noticias/anuncios-da-state-of-play/)
-- [PUBG MOBILE e Warframe: Krafton anuncia colaboração com MMO futurista](https://marriedgames.com.br/noticias/pubg-mobile-e-warframe/)
+- [Mario Day: Você pode economizar jogos do encanador no Nintendo Switch](https://marriedgames.com.br/noticias/mario-day-promocoes-amazon/)
+- [Atualização da comunidade sobre o desenvolvimento de Overwatch 2](https://marriedgames.com.br/noticias/desenvolvimento-de-overwatch-2/)
+- [Transmissão ao vivo Sobre o Desenvolvimento de Dead Space](https://marriedgames.com.br/noticias/desenvolvimento-de-dead-space/)
+- [Paragons, nova temporada de Conquerors Blade, chega em 17 de março](https://marriedgames.com.br/noticias/temporada-de-conquerors-blade-2/)
+- [Aplicativo de Elden Ring permite rastrear missões, locais e NPCs](https://marriedgames.com.br/noticias/aplicativo-de-elden-ring/)
 <!-- BLOG-POST-LIST:END -->
 
 
