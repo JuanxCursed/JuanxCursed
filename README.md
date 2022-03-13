@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Free Fire ganha evento de Assassin’s Creed com direito a referências e itens colecionáveis](https://marriedgames.com.br/noticias/free-fire-ganha-evento/)
+- [Montanha do Inverno Sem Fim chega ao Black Desert Online em 6 de abril](https://marriedgames.com.br/noticias/montanha-do-inverno-sem-fim-2/)
+- [Os 24 melhores jogos de mundo aberto para Android e iOS em 2022](https://marriedgames.com.br/dicas-guias/jogos-de-mundo-aberto-para-android/)
+- [Dark Side Mágico de Oz: o que o clássico filme de  1939 tem a ver com o álbum do Pink Floyd](https://marriedgames.com.br/filmes-series/dark-side-magico-de-oz/)
 - [Mario Day: Você pode economizar jogos do encanador no Nintendo Switch](https://marriedgames.com.br/noticias/mario-day-promocoes-amazon/)
-- [Atualização da comunidade sobre o desenvolvimento de Overwatch 2](https://marriedgames.com.br/noticias/desenvolvimento-de-overwatch-2/)
-- [Transmissão ao vivo Sobre o Desenvolvimento de Dead Space](https://marriedgames.com.br/noticias/desenvolvimento-de-dead-space/)
-- [Paragons, nova temporada de Conquerors Blade, chega em 17 de março](https://marriedgames.com.br/noticias/temporada-de-conquerors-blade-2/)
-- [Aplicativo de Elden Ring permite rastrear missões, locais e NPCs](https://marriedgames.com.br/noticias/aplicativo-de-elden-ring/)
 <!-- BLOG-POST-LIST:END -->
 
 
