@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SAGA anuncia torneio de Free Fire com premiação de R＄3 mil](https://marriedgames.com.br/noticias/saga-anuncia-torneio-de-free-fire/)
+- [A Nova Expansão Espada e Escudo apresentará a Mecânica de Jogo Pokémon Radiante](https://marriedgames.com.br/noticias/expansao-espada-e-escudo/)
+- [Qual a Cronologia dos filmes da DC](https://marriedgames.com.br/filmes-series/cronologia-dos-filmes-da-dc/)
 - [Free Fire ganha evento de Assassin’s Creed com direito a referências e itens colecionáveis](https://marriedgames.com.br/noticias/free-fire-ganha-evento/)
 - [Montanha do Inverno Sem Fim chega ao Black Desert Online em 6 de abril](https://marriedgames.com.br/noticias/montanha-do-inverno-sem-fim-2/)
-- [Os 24 melhores jogos de mundo aberto para Android e iOS em 2022](https://marriedgames.com.br/dicas-guias/jogos-de-mundo-aberto-para-android/)
-- [Dark Side Mágico de Oz: o que o clássico filme de  1939 tem a ver com o álbum do Pink Floyd](https://marriedgames.com.br/filmes-series/dark-side-magico-de-oz/)
-- [Mario Day: Você pode economizar jogos do encanador no Nintendo Switch](https://marriedgames.com.br/noticias/mario-day-promocoes-amazon/)
 <!-- BLOG-POST-LIST:END -->
 
 
