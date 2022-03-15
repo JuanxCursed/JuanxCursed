@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SAGA anuncia torneio de Free Fire com premiação de R＄3 mil](https://marriedgames.com.br/noticias/saga-anuncia-torneio-de-free-fire/)
-- [A Nova Expansão Espada e Escudo apresentará a Mecânica de Jogo Pokémon Radiante](https://marriedgames.com.br/noticias/expansao-espada-e-escudo/)
-- [Qual a Cronologia dos filmes da DC](https://marriedgames.com.br/filmes-series/cronologia-dos-filmes-da-dc/)
-- [Free Fire ganha evento de Assassin’s Creed com direito a referências e itens colecionáveis](https://marriedgames.com.br/noticias/free-fire-ganha-evento/)
-- [Montanha do Inverno Sem Fim chega ao Black Desert Online em 6 de abril](https://marriedgames.com.br/noticias/montanha-do-inverno-sem-fim-2/)
+- [Lançamento: Kit de roteadores Mesh garante cobertura Wi-Fi para ambientes de até 320m2](https://marriedgames.com.br/noticias/roteadores-mesh/)
+- [O Call of Duty: Mobile World Championship retorna com prêmios](https://marriedgames.com.br/noticias/mobile-world-championship/)
+- [Qualificatório aberto para Circuito Feminino de Rainbow Six Siege começa no dia 19 de março](https://marriedgames.com.br/noticias/circuito-feminino-de-rainbow-six/)
+- [Corinthians Free Fire anuncia acordo centro de treinamento passa a se chamar CT Dazz](https://marriedgames.com.br/noticias/ct-dazz-corinthians-free-fire/)
+- [Build Definitiva para Bennett em Genshin Impact para vencer todos pisos do Abismo](https://marriedgames.com.br/dicas-guias/bennett-em-genshin-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 
