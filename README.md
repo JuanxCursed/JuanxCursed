@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lançamento: Kit de roteadores Mesh garante cobertura Wi-Fi para ambientes de até 320m2](https://marriedgames.com.br/noticias/roteadores-mesh/)
-- [O Call of Duty: Mobile World Championship retorna com prêmios](https://marriedgames.com.br/noticias/mobile-world-championship/)
-- [Qualificatório aberto para Circuito Feminino de Rainbow Six Siege começa no dia 19 de março](https://marriedgames.com.br/noticias/circuito-feminino-de-rainbow-six/)
-- [Corinthians Free Fire anuncia acordo centro de treinamento passa a se chamar CT Dazz](https://marriedgames.com.br/noticias/ct-dazz-corinthians-free-fire/)
-- [Build Definitiva para Bennett em Genshin Impact para vencer todos pisos do Abismo](https://marriedgames.com.br/dicas-guias/bennett-em-genshin-impact/)
+- [LG DAY: LG oferece imersão tecnológica no gexperience, da Globo](https://marriedgames.com.br/noticias/lg-day-no-gexperience/)
+- [HyperX destaca as vantagens dos mousepads e explica porque ele segue sendo obrigatório](https://marriedgames.com.br/noticias/hyperx-destaca-as-vantagens/)
+- [Bandai América Lança o Novo Tamagotchi Star Wars R2-D2 Oficialmente no Brasil](https://marriedgames.com.br/noticias/tamagotchi-star-wars-r2-d2/)
+- [Warzone Mobile poderá trazer Verdansk de volta para os fãs do battle royale](https://marriedgames.com.br/noticias/warzone-mobile/)
+- [Os 18 melhores jogos de navegador online e offline em 2022](https://marriedgames.com.br/dicas-guias/melhores-jogos-de-navegador-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
