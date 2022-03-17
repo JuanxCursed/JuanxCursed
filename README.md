@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LG DAY: LG oferece imersão tecnológica no gexperience, da Globo](https://marriedgames.com.br/noticias/lg-day-no-gexperience/)
-- [HyperX destaca as vantagens dos mousepads e explica porque ele segue sendo obrigatório](https://marriedgames.com.br/noticias/hyperx-destaca-as-vantagens/)
-- [Bandai América Lança o Novo Tamagotchi Star Wars R2-D2 Oficialmente no Brasil](https://marriedgames.com.br/noticias/tamagotchi-star-wars-r2-d2/)
-- [Warzone Mobile poderá trazer Verdansk de volta para os fãs do battle royale](https://marriedgames.com.br/noticias/warzone-mobile/)
-- [Os 18 melhores jogos de navegador online e offline em 2022](https://marriedgames.com.br/dicas-guias/melhores-jogos-de-navegador-2/)
+- [Brisa Geek SV: Brisamar Shopping realiza 2ª edição de evento geek neste final de semana](https://marriedgames.com.br/noticias/brisa-geek-sv/)
+- [Realme é a marca de smartphones 5G que mais cresce no mundo](https://marriedgames.com.br/noticias/realme-e-a-marca-de-smartphones-2/)
+- [Take4Games, startup com expertise em tecnologia que oferece entretenimento por NFTs](https://marriedgames.com.br/noticias/take4games/)
+- [Reserva X: Reserva prepara sua marca na Web3, metaverso e tecnologias insurgentes](https://marriedgames.com.br/noticias/reserva-x/)
+- [Novo Trailer de DIGIMON SURVIVE Apresenta os Personagens do Futuro RPG Tático](https://marriedgames.com.br/noticias/trailer-de-digimon-survive/)
 <!-- BLOG-POST-LIST:END -->
 
 
