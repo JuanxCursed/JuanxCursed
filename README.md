@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Brisa Geek SV: Brisamar Shopping realiza 2ª edição de evento geek neste final de semana](https://marriedgames.com.br/noticias/brisa-geek-sv/)
-- [Realme é a marca de smartphones 5G que mais cresce no mundo](https://marriedgames.com.br/noticias/realme-e-a-marca-de-smartphones-2/)
-- [Take4Games, startup com expertise em tecnologia que oferece entretenimento por NFTs](https://marriedgames.com.br/noticias/take4games/)
-- [Reserva X: Reserva prepara sua marca na Web3, metaverso e tecnologias insurgentes](https://marriedgames.com.br/noticias/reserva-x/)
-- [Novo Trailer de DIGIMON SURVIVE Apresenta os Personagens do Futuro RPG Tático](https://marriedgames.com.br/noticias/trailer-de-digimon-survive/)
+- [Especialista explica atual cenário dos jogos NFT e os limites legais envolvidos](https://marriedgames.com.br/noticias/cenario-dos-jogos-nft/)
+- [Jogadores já podem carregar a conta Razer Gold para jogar Call of Duty: Mobile](https://marriedgames.com.br/noticias/razer-gold-para-jogar-call-of-duty/)
+- [Últimos dias de inscrições para a fase classificatória do Platina do Brasil PlayStation](https://marriedgames.com.br/noticias/platina-do-brasil-playstation-2/)
+- [Recepcione a nova estação do ano com o evento Holi em HUMANKIND](https://marriedgames.com.br/noticias/evento-holi-em-humankind/)
+- [Lançamento de Wildcat Gun Machine: afia suas garras para jogar no dia 4 de maio](https://marriedgames.com.br/noticias/lancamento-de-wildcat-gun/)
 <!-- BLOG-POST-LIST:END -->
 
 
