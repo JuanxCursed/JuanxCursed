@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Especialista explica atual cenário dos jogos NFT e os limites legais envolvidos](https://marriedgames.com.br/noticias/cenario-dos-jogos-nft/)
-- [Jogadores já podem carregar a conta Razer Gold para jogar Call of Duty: Mobile](https://marriedgames.com.br/noticias/razer-gold-para-jogar-call-of-duty/)
-- [Últimos dias de inscrições para a fase classificatória do Platina do Brasil PlayStation](https://marriedgames.com.br/noticias/platina-do-brasil-playstation-2/)
-- [Recepcione a nova estação do ano com o evento Holi em HUMANKIND](https://marriedgames.com.br/noticias/evento-holi-em-humankind/)
-- [Lançamento de Wildcat Gun Machine: afia suas garras para jogar no dia 4 de maio](https://marriedgames.com.br/noticias/lancamento-de-wildcat-gun/)
+- [É oficial: Ayato, Ayaka e Venti voltando aos banners de Genshin Impact 2.6](https://marriedgames.com.br/noticias/banners-de-genshin-impact/)
+- [Khizha e Hera: MIBR apresenta duas novas jogadores na line feminina de CS:GO](https://marriedgames.com.br/noticias/khizha-e-hera-mibr/)
+- [TNT Sports exibirá a Final da Copa eLibertadores de FIFA 2022](https://marriedgames.com.br/noticias/final-da-copa-elibertadores/)
+- [Aragami 2 ganha homenagem ao jogo original com modo Clássico](https://marriedgames.com.br/noticias/aragami-2-ganha-homenagem/)
+- [The King of Fighters XV lança hoje os primeiros personagens DLC](https://marriedgames.com.br/noticias/primeiros-personagens-dlc-kof/)
 <!-- BLOG-POST-LIST:END -->
 
 
