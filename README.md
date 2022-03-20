@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Melhor Build para Venti: Deixe o Arconte Anemo ainda mais poderoso em Genshin Impact](https://marriedgames.com.br/dicas-guias/melhor-build-para-venti/)
+- [A nova expansão de Hearthstone, Viagem à Cidade Submersa, chega dia 12 de abril!](https://marriedgames.com.br/noticias/viagem-a-cidade-submersa/)
+- [NEW STATE MOBILE: PUBG anuncia parceria com McLaren](https://marriedgames.com.br/noticias/pubg-anuncia-parceria/)
+- [HEROÍNA VETERANA MIDNIGHT JUNTA-SE HOJE AO ELENCO DE MY HERO ONE’S JUSTICE 2!](https://marriedgames.com.br/noticias/heroina-veterana-midnight/)
 - [É oficial: Ayato, Ayaka e Venti voltando aos banners de Genshin Impact 2.6](https://marriedgames.com.br/noticias/banners-de-genshin-impact/)
-- [Khizha e Hera: MIBR apresenta duas novas jogadores na line feminina de CS:GO](https://marriedgames.com.br/noticias/khizha-e-hera-mibr/)
-- [TNT Sports exibirá a Final da Copa eLibertadores de FIFA 2022](https://marriedgames.com.br/noticias/final-da-copa-elibertadores/)
-- [Aragami 2 ganha homenagem ao jogo original com modo Clássico](https://marriedgames.com.br/noticias/aragami-2-ganha-homenagem/)
-- [The King of Fighters XV lança hoje os primeiros personagens DLC](https://marriedgames.com.br/noticias/primeiros-personagens-dlc-kof/)
 <!-- BLOG-POST-LIST:END -->
 
 
