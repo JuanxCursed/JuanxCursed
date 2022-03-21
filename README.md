@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Abragames anuncia participação na GDC 2022 com 25 estúdios brasileiros](https://marriedgames.com.br/noticias/abragames-anuncia-participacao-na-gdc/)
+- [Copa VamosGG: competitividade e criação de conteúdo aliadas em mais um case dos e-sports](https://marriedgames.com.br/noticias/copa-vamosgg/)
+- [Chegam novos desafios de parkour ao Dying Light 2 Stay Human](https://marriedgames.com.br/noticias/desafios-de-parkour-ao-dying-light/)
+- [O que é Dolby Vision, HDR e HDR10; Qual a diferença entre eles?](https://marriedgames.com.br/dicas-guias/o-que-e-dolby-vision-hdr-e-hdr10/)
 - [A Melhor Build para Venti: Deixe o Arconte Anemo ainda mais poderoso em Genshin Impact](https://marriedgames.com.br/dicas-guias/melhor-build-para-venti/)
-- [A nova expansão de Hearthstone, Viagem à Cidade Submersa, chega dia 12 de abril!](https://marriedgames.com.br/noticias/viagem-a-cidade-submersa/)
-- [NEW STATE MOBILE: PUBG anuncia parceria com McLaren](https://marriedgames.com.br/noticias/pubg-anuncia-parceria/)
-- [HEROÍNA VETERANA MIDNIGHT JUNTA-SE HOJE AO ELENCO DE MY HERO ONE’S JUSTICE 2!](https://marriedgames.com.br/noticias/heroina-veterana-midnight/)
-- [É oficial: Ayato, Ayaka e Venti voltando aos banners de Genshin Impact 2.6](https://marriedgames.com.br/noticias/banners-de-genshin-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 
