@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Abragames anuncia participação na GDC 2022 com 25 estúdios brasileiros](https://marriedgames.com.br/noticias/abragames-anuncia-participacao-na-gdc/)
-- [Copa VamosGG: competitividade e criação de conteúdo aliadas em mais um case dos e-sports](https://marriedgames.com.br/noticias/copa-vamosgg/)
-- [Chegam novos desafios de parkour ao Dying Light 2 Stay Human](https://marriedgames.com.br/noticias/desafios-de-parkour-ao-dying-light/)
-- [O que é Dolby Vision, HDR e HDR10; Qual a diferença entre eles?](https://marriedgames.com.br/dicas-guias/o-que-e-dolby-vision-hdr-e-hdr10/)
-- [A Melhor Build para Venti: Deixe o Arconte Anemo ainda mais poderoso em Genshin Impact](https://marriedgames.com.br/dicas-guias/melhor-build-para-venti/)
+- [Próximo jogo de The Witcher está em desenvolvimento na Unreal Engine 5](https://marriedgames.com.br/noticias/proximo-jogo-de-the-witcher/)
+- [HyperX Loot Drop 2 vai até 24 de março com descontos que chegam a 55%](https://marriedgames.com.br/noticias/hyperx-loot-drop-2-2/)
+- [Quanto tempo jogando videogame uma pessoa consegue adquirir mais concentração?](https://marriedgames.com.br/noticias/jogando-videogame/)
+- [Players Bank: Itaú cocria com gamers nova solução financeira](https://marriedgames.com.br/noticias/players-bank/)
+- [Jogo líder de audiência, Roblox mostra a importância de aprender ciência da computação](https://marriedgames.com.br/noticias/roblox-mostra-a-importancia/)
 <!-- BLOG-POST-LIST:END -->
 
 
