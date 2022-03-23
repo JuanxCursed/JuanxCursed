@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Próximo jogo de The Witcher está em desenvolvimento na Unreal Engine 5](https://marriedgames.com.br/noticias/proximo-jogo-de-the-witcher/)
-- [HyperX Loot Drop 2 vai até 24 de março com descontos que chegam a 55%](https://marriedgames.com.br/noticias/hyperx-loot-drop-2-2/)
-- [Quanto tempo jogando videogame uma pessoa consegue adquirir mais concentração?](https://marriedgames.com.br/noticias/jogando-videogame/)
-- [Players Bank: Itaú cocria com gamers nova solução financeira](https://marriedgames.com.br/noticias/players-bank/)
-- [Jogo líder de audiência, Roblox mostra a importância de aprender ciência da computação](https://marriedgames.com.br/noticias/roblox-mostra-a-importancia/)
+- [DLC gratuito de Omega Rugal chegará em The King of Fighters XV em 14 de abril](https://marriedgames.com.br/noticias/dlc-gratuito-de-omega-rugal/)
+- [Ghostbusters: Spirits Unleashed é um novo título multiplayer dos criadores de Predator: Hunting Grounds](https://marriedgames.com.br/noticias/ghostbusters-spirits-unleashed/)
+- [2A.M. explica por que os notebooks gamer são ideais para diversas áreas de atuação](https://marriedgames.com.br/noticias/notebooks-gamer-sao-ideais/)
+- [A aventura peruana desenhada a mão, Imp of the Sun chega ao pc e consoles dia 24 de março](https://marriedgames.com.br/noticias/imp-of-the-sun/)
+- [PUBG MOBILE comemora seu aniversário de 4 anos com ações globais](https://marriedgames.com.br/noticias/pubg-mobile-comemora/)
 <!-- BLOG-POST-LIST:END -->
 
 
