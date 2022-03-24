@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DLC gratuito de Omega Rugal chegará em The King of Fighters XV em 14 de abril](https://marriedgames.com.br/noticias/dlc-gratuito-de-omega-rugal/)
-- [Ghostbusters: Spirits Unleashed é um novo título multiplayer dos criadores de Predator: Hunting Grounds](https://marriedgames.com.br/noticias/ghostbusters-spirits-unleashed/)
-- [2A.M. explica por que os notebooks gamer são ideais para diversas áreas de atuação](https://marriedgames.com.br/noticias/notebooks-gamer-sao-ideais/)
-- [A aventura peruana desenhada a mão, Imp of the Sun chega ao pc e consoles dia 24 de março](https://marriedgames.com.br/noticias/imp-of-the-sun/)
-- [PUBG MOBILE comemora seu aniversário de 4 anos com ações globais](https://marriedgames.com.br/noticias/pubg-mobile-comemora/)
+- [Requisitos para Ghostwire: Tokyo – Mínimos e Recomendados no PC revelados](https://marriedgames.com.br/noticias/requisitos-para-ghostwire-tokyo/)
+- [NVIDIA: NVIDIA DLSS melhora de Ghost Wire: Tokyo em até 2x e lança o NVIDIA Omniverse](https://marriedgames.com.br/noticias/nvidia-omniverse/)
+- [Atualização “Levante de Heróis” traz novas um personagem inédito para o Free Fire](https://marriedgames.com.br/noticias/levante-de-herois/)
+- [Positivo Casa Inteligente lança a 2ª geração da Smart Câmera Bot 360° Wi-Fi](https://marriedgames.com.br/noticias/smart-camera-bot/)
+- [Souldiers RPG de ação retrô será lançado em 19 de maio](https://marriedgames.com.br/noticias/souldiers-rpg-de-acao/)
 <!-- BLOG-POST-LIST:END -->
 
 
