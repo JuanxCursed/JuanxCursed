@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Requisitos para Ghostwire: Tokyo – Mínimos e Recomendados no PC revelados](https://marriedgames.com.br/noticias/requisitos-para-ghostwire-tokyo/)
-- [NVIDIA: NVIDIA DLSS melhora de Ghost Wire: Tokyo em até 2x e lança o NVIDIA Omniverse](https://marriedgames.com.br/noticias/nvidia-omniverse/)
-- [Atualização “Levante de Heróis” traz novas um personagem inédito para o Free Fire](https://marriedgames.com.br/noticias/levante-de-herois/)
-- [Positivo Casa Inteligente lança a 2ª geração da Smart Câmera Bot 360° Wi-Fi](https://marriedgames.com.br/noticias/smart-camera-bot/)
-- [Souldiers RPG de ação retrô será lançado em 19 de maio](https://marriedgames.com.br/noticias/souldiers-rpg-de-acao/)
+- [Novo evento de Apex Legends trazendo de volta o controle](https://marriedgames.com.br/noticias/novo-evento-de-apex-legends/)
+- [Promoção da Positivo Tecnologia dá descontos em produtos até o fim de março](https://marriedgames.com.br/noticias/promocao-da-positivo-tecnologia/)
+- [Cartas Brilham por Tempo Limitado no Novo Evento do Yu-Gi-Oh! Master Duel](https://marriedgames.com.br/noticias/novo-evento-do-yu-gi-oh/)
+- [On E-Stadium inicia 2022 projeto para streamers iniciantes e campeonato feminino de Valorant](https://marriedgames.com.br/noticias/projeto-para-streamers-iniciantes/)
+- [Brasil Game Show anuncia campeonatos masculino e feminino de CS:GO](https://marriedgames.com.br/noticias/brasil-game-show-anuncia-campeonatos/)
 <!-- BLOG-POST-LIST:END -->
 
 
