@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Novo evento de Apex Legends trazendo de volta o controle](https://marriedgames.com.br/noticias/novo-evento-de-apex-legends/)
-- [Promoção da Positivo Tecnologia dá descontos em produtos até o fim de março](https://marriedgames.com.br/noticias/promocao-da-positivo-tecnologia/)
-- [Cartas Brilham por Tempo Limitado no Novo Evento do Yu-Gi-Oh! Master Duel](https://marriedgames.com.br/noticias/novo-evento-do-yu-gi-oh/)
-- [On E-Stadium inicia 2022 projeto para streamers iniciantes e campeonato feminino de Valorant](https://marriedgames.com.br/noticias/projeto-para-streamers-iniciantes/)
-- [Brasil Game Show anuncia campeonatos masculino e feminino de CS:GO](https://marriedgames.com.br/noticias/brasil-game-show-anuncia-campeonatos/)
+- [Sony revelará concorrente do Xbox Game Pass em breve](https://marriedgames.com.br/noticias/concorrente-do-xbox-game-pass/)
+- [PUBG anuncia sorteio de PC no valor de R$ 15 mil](https://marriedgames.com.br/noticias/pubg-anuncia-sorteio/)
+- [Final do torneio Platina do Brasil PlayStation acontece no domingo, dia 27](https://marriedgames.com.br/noticias/platina-do-brasil-playstation-3/)
+- [Polyphony anuncia nova atualização de Gran Turismo 7](https://marriedgames.com.br/noticias/atualizacao-de-gran-turismo/)
+- [PAC-MAN Virtual Challenge: Level Up 2022 Data e Informações para Registro são Anunciadas](https://marriedgames.com.br/noticias/pac-man-virtual-challenge/)
 <!-- BLOG-POST-LIST:END -->
 
 
