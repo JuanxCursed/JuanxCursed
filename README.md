@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Riot Games e Sportv renovam parceria de transmissão do CBLOL até 2024](https://marriedgames.com.br/noticias/riot-games-e-sportv/)
+- [Los Dollars é a grande campeã da 3ª edição da La Copa](https://marriedgames.com.br/noticias/los-dollars-grande-campea/)
+- [Lamborghini chega em Erangel no PUBG MOBILE](https://marriedgames.com.br/noticias/erangel-no-pubg-mobile/)
+- [24 melhores filmes do Keanu Reeves que você precisa conhecer](https://marriedgames.com.br/filmes-series/filmes-do-keanu-reeves/)
 - [Sony revelará concorrente do Xbox Game Pass em breve](https://marriedgames.com.br/noticias/concorrente-do-xbox-game-pass/)
-- [PUBG anuncia sorteio de PC no valor de R$ 15 mil](https://marriedgames.com.br/noticias/pubg-anuncia-sorteio/)
-- [Final do torneio Platina do Brasil PlayStation acontece no domingo, dia 27](https://marriedgames.com.br/noticias/platina-do-brasil-playstation-3/)
-- [Polyphony anuncia nova atualização de Gran Turismo 7](https://marriedgames.com.br/noticias/atualizacao-de-gran-turismo/)
-- [PAC-MAN Virtual Challenge: Level Up 2022 Data e Informações para Registro são Anunciadas](https://marriedgames.com.br/noticias/pac-man-virtual-challenge/)
 <!-- BLOG-POST-LIST:END -->
 
 
