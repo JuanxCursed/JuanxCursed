@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Riot Games e Sportv renovam parceria de transmissão do CBLOL até 2024](https://marriedgames.com.br/noticias/riot-games-e-sportv/)
-- [Los Dollars é a grande campeã da 3ª edição da La Copa](https://marriedgames.com.br/noticias/los-dollars-grande-campea/)
-- [Lamborghini chega em Erangel no PUBG MOBILE](https://marriedgames.com.br/noticias/erangel-no-pubg-mobile/)
-- [24 melhores filmes do Keanu Reeves que você precisa conhecer](https://marriedgames.com.br/filmes-series/filmes-do-keanu-reeves/)
-- [Sony revelará concorrente do Xbox Game Pass em breve](https://marriedgames.com.br/noticias/concorrente-do-xbox-game-pass/)
+- [Os 25 melhores jogos de terror para jogar em 2022](https://marriedgames.com.br/dicas-guias/os-25-melhores-jogos-de-terror/)
+- [Riot Games e a Coca-Cola se juntam no crescente cenário de jogos mobile e esports](https://marriedgames.com.br/noticias/riot-games-e-a-coca-cola/)
+- [Warzone: Saiba onde encontrar todos os projetos de armas escondidos em Rebirth Island](https://marriedgames.com.br/noticias/todos-os-projetos-de-armas-escondidos-em-rebirth-island/)
+- [Snoop Dogg está na área! Call of Duty: Mobile tá um estouro com o tema anos 80 da Temporada Três: Incursão Irada](https://marriedgames.com.br/noticias/snoop-dogg-cod-mobile/)
+- [Dicas para manter dispositivos domésticos inteligentes fora das mãos de cibercriminosos](https://marriedgames.com.br/noticias/dispositivos-domesticos-inteligentes/)
 <!-- BLOG-POST-LIST:END -->
 
 
