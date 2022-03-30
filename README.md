@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Dicas para Iniciantes em Ghostwire: Tokyo](https://marriedgames.com.br/dicas-guias/dicas-para-iniciantes-em-ghostwire/)
+- [Black Desert Online revela nova classe Drakania durante CalpheON](https://marriedgames.com.br/noticias/nova-classe-drakania/)
+- [Olimpíadas da BOOYAH! reúne streamers para competir em dia de jogos e brincadeiras](https://marriedgames.com.br/noticias/olimpiadas-da-booyah/)
+- [PMPL Brasil: Tudo o que você precisa saber sobre as partidas até agora](https://marriedgames.com.br/noticias/pmpl-brasil/)
 - [Trajes Fatais: Entrevista com Ygor Serpa da Onanim Game Studios](https://marriedgames.com.br/dicas-guias/trajes-fatais-entrevista/)
-- [AFTER THE FALL CONTINUA A EXPANDIR À MEDIDA QUE LIBERA NOVA ATUALIZAÇÃO](https://marriedgames.com.br/noticias/after-the-fall/)
-- [Streamline: NVIDIA apresenta novas ferramentas de desenvolvimento de jogos na GDC](https://marriedgames.com.br/noticias/streamline-nvidia-apresenta/)
-- [Nemus inicia a Genesis Drop: NFTs voltadas para conservação da Floresta Amazônica](https://marriedgames.com.br/noticias/genesis-drop/)
+- [Diablo Immortal: Novidades e Updates](https://marriedgames.com.br/noticias/diablo-immortal-novidades/)
 <!-- BLOG-POST-LIST:END -->
 
 
