@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [15 melhores aplicativos similares ao HappyMod para baixar jogos modificados](https://marriedgames.com.br/dicas-guias/aplicativos-similares-ao-happymod/)
-- [O que é water cooler? Descubra tudo o que você precisa saber sobre isso em 5 tópicos](https://marriedgames.com.br/dicas-guias/o-que-e-water-cooler/)
-- [Aplicativo Positivo Casa Inteligente supera marca de 600 mil usuários em dois anos e meio](https://marriedgames.com.br/noticias/aplicativo-positivo-casa-inteligente/)
-- [Atualização de Diablo IV do 1º trimestre mostra mais sobre a arte de ambiente e já disponível](https://marriedgames.com.br/noticias/atualizacao-de-diablo-iv/)
-- [RisingWings anuncia Competz, serviço de esports com base em blockchain](https://marriedgames.com.br/noticias/risingwings-anuncia-competz/)
+- [Vampire: The Masquerade – Bloodhunt chega as lojas no final de abril](https://marriedgames.com.br/noticias/the-masquerade-bloodhunt/)
+- [Yelan em Genshin Impact: Gameplay da próxima arqueira 5 estrelas vaza no Youtube](https://marriedgames.com.br/noticias/yelan-em-genshin-impact/)
+- [Deco X60: lançamento da TP-Link conecta até 150 dispositivos com alta velocidade Wi-Fi 6](https://marriedgames.com.br/noticias/deco-x60/)
+- [Natura promove festival de música no metaverso que convida à liberdade de expressão](https://marriedgames.com.br/noticias/natura-promove-festival-de-musica/)
+- [Jogos disponíveis para assinantes PS Plus em abril são revelados](https://marriedgames.com.br/noticias/ps-plus-em-abril/)
 <!-- BLOG-POST-LIST:END -->
 
 
