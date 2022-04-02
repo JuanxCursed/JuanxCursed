@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vampire: The Masquerade – Bloodhunt chega as lojas no final de abril](https://marriedgames.com.br/noticias/the-masquerade-bloodhunt/)
-- [Yelan em Genshin Impact: Gameplay da próxima arqueira 5 estrelas vaza no Youtube](https://marriedgames.com.br/noticias/yelan-em-genshin-impact/)
-- [Deco X60: lançamento da TP-Link conecta até 150 dispositivos com alta velocidade Wi-Fi 6](https://marriedgames.com.br/noticias/deco-x60/)
-- [Natura promove festival de música no metaverso que convida à liberdade de expressão](https://marriedgames.com.br/noticias/natura-promove-festival-de-musica/)
-- [Jogos disponíveis para assinantes PS Plus em abril são revelados](https://marriedgames.com.br/noticias/ps-plus-em-abril/)
+- [Mod de Elden Ring para Tekken 7 impressiona Diretor de Tekken e pede para os fãs “pararem”](https://marriedgames.com.br/noticias/mod-de-elden-ring-para-tekken-7/)
+- [Lenovo celebra Todo Mundo Joga, projeto que fomenta diversidade no universo gamer](https://marriedgames.com.br/noticias/todo-mundo-joga/)
+- [realme 9 Pro+ chega oficialmente ao mercado brasileiro. Intermediário com câmera de flagship](https://marriedgames.com.br/noticias/realme-9-pro/)
+- [Wizards of the Coast anuncia o retorno dos torneios presenciais de Magic: The Gathering](https://marriedgames.com.br/noticias/torneios-presenciais-de-magic/)
+- [Novo teaser revela ‘The Void’, nova grande atualização de Saint Kotar](https://marriedgames.com.br/noticias/the-void/)
 <!-- BLOG-POST-LIST:END -->
 
 
