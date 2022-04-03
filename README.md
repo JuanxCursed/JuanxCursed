@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS Retorna Com Atualização](https://marriedgames.com.br/noticias/rise-of-new-champions-retorna/)
+- [FIFA World Cup lança perfil no TiKToK](https://marriedgames.com.br/noticias/fifa-world-cup-lanca-perfil-no-tiktok/)
 - [Mod de Elden Ring para Tekken 7 impressiona Diretor de Tekken e pede para os fãs “pararem”](https://marriedgames.com.br/noticias/mod-de-elden-ring-para-tekken-7/)
 - [Lenovo celebra Todo Mundo Joga, projeto que fomenta diversidade no universo gamer](https://marriedgames.com.br/noticias/todo-mundo-joga/)
 - [realme 9 Pro+ chega oficialmente ao mercado brasileiro. Intermediário com câmera de flagship](https://marriedgames.com.br/noticias/realme-9-pro/)
-- [Wizards of the Coast anuncia o retorno dos torneios presenciais de Magic: The Gathering](https://marriedgames.com.br/noticias/torneios-presenciais-de-magic/)
-- [Novo teaser revela ‘The Void’, nova grande atualização de Saint Kotar](https://marriedgames.com.br/noticias/the-void/)
 <!-- BLOG-POST-LIST:END -->
 
 
