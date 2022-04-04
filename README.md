@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Os Mundos de RPG Colidem no Crossover de Entre Tales of Arise e SCARLET NEXUS](https://marriedgames.com.br/noticias/tales-of-arise-e-scarlet-nexus/)
+- [Orbi Gaming será incubadora de novos projetos](https://marriedgames.com.br/noticias/orbi-gaming/)
+- [TikTok agora tem gifs com a nova ferramenta Biblioteca](https://marriedgames.com.br/noticias/tiktok-agora-tem-gifs/)
 - [CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS Retorna Com Atualização](https://marriedgames.com.br/noticias/rise-of-new-champions-retorna/)
 - [FIFA World Cup lança perfil no TiKToK](https://marriedgames.com.br/noticias/fifa-world-cup-lanca-perfil-no-tiktok/)
-- [Mod de Elden Ring para Tekken 7 impressiona Diretor de Tekken e pede para os fãs “pararem”](https://marriedgames.com.br/noticias/mod-de-elden-ring-para-tekken-7/)
-- [Lenovo celebra Todo Mundo Joga, projeto que fomenta diversidade no universo gamer](https://marriedgames.com.br/noticias/todo-mundo-joga/)
-- [realme 9 Pro+ chega oficialmente ao mercado brasileiro. Intermediário com câmera de flagship](https://marriedgames.com.br/noticias/realme-9-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 
