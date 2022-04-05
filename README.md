@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Os Mundos de RPG Colidem no Crossover de Entre Tales of Arise e SCARLET NEXUS](https://marriedgames.com.br/noticias/tales-of-arise-e-scarlet-nexus/)
-- [Orbi Gaming será incubadora de novos projetos](https://marriedgames.com.br/noticias/orbi-gaming/)
-- [TikTok agora tem gifs com a nova ferramenta Biblioteca](https://marriedgames.com.br/noticias/tiktok-agora-tem-gifs/)
-- [CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS Retorna Com Atualização](https://marriedgames.com.br/noticias/rise-of-new-champions-retorna/)
-- [FIFA World Cup lança perfil no TiKToK](https://marriedgames.com.br/noticias/fifa-world-cup-lanca-perfil-no-tiktok/)
+- [A atualização Stinger de EVERSPACE 2 está agora disponível no Steam, GOG e na Windows Store](https://marriedgames.com.br/noticias/atualizacao-stinger-de-everspace-2/)
+- [BTS x Free Fire: Conteúdo da parceria começou a ser liberado](https://marriedgames.com.br/noticias/bts-x-free-fire/)
+- [Promise of the West: DJ brasileiro apresenta remix oficial da música de Horizon Forbidden West](https://marriedgames.com.br/noticias/promise-of-the-west/)
+- [Serviço de Streaming Pluto TV agora está disponível nos consoles Xbox e PCs Windows](https://marriedgames.com.br/noticias/streaming-pluto-tv/)
+- [Green Hell VR: Quest Edition chegando ao Oculus em 7 de abril](https://marriedgames.com.br/noticias/green-hell-vr/)
 <!-- BLOG-POST-LIST:END -->
 
 
