@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A atualização Stinger de EVERSPACE 2 está agora disponível no Steam, GOG e na Windows Store](https://marriedgames.com.br/noticias/atualizacao-stinger-de-everspace-2/)
-- [BTS x Free Fire: Conteúdo da parceria começou a ser liberado](https://marriedgames.com.br/noticias/bts-x-free-fire/)
-- [Promise of the West: DJ brasileiro apresenta remix oficial da música de Horizon Forbidden West](https://marriedgames.com.br/noticias/promise-of-the-west/)
-- [Serviço de Streaming Pluto TV agora está disponível nos consoles Xbox e PCs Windows](https://marriedgames.com.br/noticias/streaming-pluto-tv/)
-- [Green Hell VR: Quest Edition chegando ao Oculus em 7 de abril](https://marriedgames.com.br/noticias/green-hell-vr/)
+- [Como fazer live na Twitch pelo PC? Aprenda como streamar em 4 etapas](https://marriedgames.com.br/dicas-guias/como-fazer-live-na-twitch/)
+- [Boletim de Semana 9 da LBFF – Liga Brasileira de Free Fire 7](https://marriedgames.com.br/noticias/semana-9-da-lbff/)
+- [Garena lança linha de chinelos do Free Fire em parceria com a Ipanema](https://marriedgames.com.br/noticias/chinelos-do-free-fire/)
+- [BAYZ faz aporte de 500 mil dólares no MetaSoccer](https://marriedgames.com.br/noticias/bayz-faz-aporte/)
+- [Call of Duty: Passe de batalha do CoD Warzone será corrigido em breve, diz Raven](https://marriedgames.com.br/noticias/passe-de-batalha-do-cod-warzone/)
 <!-- BLOG-POST-LIST:END -->
 
 
