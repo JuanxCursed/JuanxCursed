@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Como fazer live na Twitch pelo PC? Aprenda como streamar em 4 etapas](https://marriedgames.com.br/dicas-guias/como-fazer-live-na-twitch/)
-- [Boletim de Semana 9 da LBFF – Liga Brasileira de Free Fire 7](https://marriedgames.com.br/noticias/semana-9-da-lbff/)
-- [Garena lança linha de chinelos do Free Fire em parceria com a Ipanema](https://marriedgames.com.br/noticias/chinelos-do-free-fire/)
-- [BAYZ faz aporte de 500 mil dólares no MetaSoccer](https://marriedgames.com.br/noticias/bayz-faz-aporte/)
-- [Call of Duty: Passe de batalha do CoD Warzone será corrigido em breve, diz Raven](https://marriedgames.com.br/noticias/passe-de-batalha-do-cod-warzone/)
+- [Black Desert Online lança expansão Inverno Sem Fim](https://marriedgames.com.br/noticias/expansao-inverno-sem-fim/)
+- [Estudo da IDC Brasil aponta que mercado brasileiro de PCs cresceu 37% em 2021](https://marriedgames.com.br/noticias/mercado-brasileiro-de-pcs/)
+- [Fortnite recebe skins de Eivor e Ezio, ambos de Assassin’s Creed Valhalla](https://marriedgames.com.br/noticias/fortnite-recebe-skins-de-eivor-e-ezio/)
+- [Os 15 maiores jogos realistas da atualidade!](https://marriedgames.com.br/dicas-guias/jogos-realistas/)
+- [Os 15 melhores jogos hack and slash para jogar hoje!](https://marriedgames.com.br/dicas-guias/melhores-jogos-hack-and-slash/)
 <!-- BLOG-POST-LIST:END -->
 
 
