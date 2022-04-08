@@ -116,10 +116,10 @@ I've just born to do it.
   </a> 
 </p>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#634](https://github.com/Intervention/image/issues/634) in [Intervention/image](https://github.com/Intervention/image)
-2. 🗣 Commented on [#563](https://github.com/Flutterando/modular/issues/563) in [Flutterando/modular](https://github.com/Flutterando/modular)
-3. 🗣 Commented on [#568](https://github.com/Flutterando/modular/issues/568) in [Flutterando/modular](https://github.com/Flutterando/modular)
-4. 🗣 Commented on [#46804](https://github.com/dart-lang/sdk/issues/46804) in [dart-lang/sdk](https://github.com/dart-lang/sdk)
+1. 🎉 Merged PR [#2](https://github.com/JuanxCursed/calendar/pull/2) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
+2. 💪 Opened PR [#2](https://github.com/JuanxCursed/calendar/pull/2) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
+3. ❌ Closed PR [#1](https://github.com/JuanxCursed/calendar/pull/1) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
+4. 💪 Opened PR [#1](https://github.com/JuanxCursed/calendar/pull/1) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
 5. 🗣 Commented on [#568](https://github.com/Flutterando/modular/issues/568) in [Flutterando/modular](https://github.com/Flutterando/modular)
 <!--END_SECTION:activity-->
 
