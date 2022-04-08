@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Desert Online lança expansão Inverno Sem Fim](https://marriedgames.com.br/noticias/expansao-inverno-sem-fim/)
-- [Estudo da IDC Brasil aponta que mercado brasileiro de PCs cresceu 37% em 2021](https://marriedgames.com.br/noticias/mercado-brasileiro-de-pcs/)
-- [Fortnite recebe skins de Eivor e Ezio, ambos de Assassin’s Creed Valhalla](https://marriedgames.com.br/noticias/fortnite-recebe-skins-de-eivor-e-ezio/)
-- [Os 15 maiores jogos realistas da atualidade!](https://marriedgames.com.br/dicas-guias/jogos-realistas/)
-- [Os 15 melhores jogos hack and slash para jogar hoje!](https://marriedgames.com.br/dicas-guias/melhores-jogos-hack-and-slash/)
+- [Fórmula Negócio Online: Treinamento para aprender a criar seu negócio e faturar muito](https://marriedgames.com.br/noticias/formula-negocio-online/)
+- [Team Ray&amp;Milena é a grande vencedora do Desafio das Minas, de Call of Duty: Warzone](https://marriedgames.com.br/noticias/team-raymilena/)
+- [Edtech Labenu disponibiliza curso gratuito de programação para iniciantes](https://marriedgames.com.br/noticias/labenu-disponibiliza-curso/)
+- [Out Run e Ridge Racer se encontram em Slipstream](https://marriedgames.com.br/noticias/slipstream/)
+- [Halo H30G: kit de roteadores Mesh garante cobertura Wi-Fi para ambientes de até 320 m²](https://marriedgames.com.br/noticias/halo-h30g/)
 <!-- BLOG-POST-LIST:END -->
 
 
