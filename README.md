@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fórmula Negócio Online: Treinamento para aprender a criar seu negócio e faturar muito](https://marriedgames.com.br/noticias/formula-negocio-online/)
-- [Team Ray&amp;Milena é a grande vencedora do Desafio das Minas, de Call of Duty: Warzone](https://marriedgames.com.br/noticias/team-raymilena/)
-- [Edtech Labenu disponibiliza curso gratuito de programação para iniciantes](https://marriedgames.com.br/noticias/labenu-disponibiliza-curso/)
-- [Out Run e Ridge Racer se encontram em Slipstream](https://marriedgames.com.br/noticias/slipstream/)
-- [Halo H30G: kit de roteadores Mesh garante cobertura Wi-Fi para ambientes de até 320 m²](https://marriedgames.com.br/noticias/halo-h30g/)
+- [Ubisoft Quartz está fora de Ghost Recon Breakpoint](https://marriedgames.com.br/noticias/quartz-esta-fora-de-ghost-recon/)
+- [Final de semana trará decisões das séries B e C da LBFF – A Liga Brasileira de Free Fire 7 &lpar;LBFF&rpar;](https://marriedgames.com.br/noticias/series-b-e-c-da-lbff/)
+- [HyperX lista diferenciais de microfones de alta performance adequados ao seu perfil](https://marriedgames.com.br/noticias/hyperx-lista-diferenciais/)
+- [Financiamento coletivo de Tales of Shadowland já está no ar!](https://marriedgames.com.br/noticias/tales-of-shadowland/)
+- [Serpente das Ruínas em Genshin Impact: Vença esse novo e desafiante chefe do Despenhadeiro](https://marriedgames.com.br/dicas-guias/serpente-das-ruinas-em-genshin/)
 <!-- BLOG-POST-LIST:END -->
 
 
