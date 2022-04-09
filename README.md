@@ -116,11 +116,11 @@ I've just born to do it.
   </a> 
 </p>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/JuanxCursed/calendar/pull/2) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
-2. 💪 Opened PR [#2](https://github.com/JuanxCursed/calendar/pull/2) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
-3. ❌ Closed PR [#1](https://github.com/JuanxCursed/calendar/pull/1) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
-4. 💪 Opened PR [#1](https://github.com/JuanxCursed/calendar/pull/1) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
-5. 🗣 Commented on [#568](https://github.com/Flutterando/modular/issues/568) in [Flutterando/modular](https://github.com/Flutterando/modular)
+1. 🎉 Merged PR [#7](https://github.com/JuanxCursed/calendar/pull/7) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
+2. 💪 Opened PR [#7](https://github.com/JuanxCursed/calendar/pull/7) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
+3. 🎉 Merged PR [#6](https://github.com/JuanxCursed/calendar/pull/6) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
+4. 💪 Opened PR [#6](https://github.com/JuanxCursed/calendar/pull/6) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
+5. 🎉 Merged PR [#5](https://github.com/JuanxCursed/calendar/pull/5) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
 <!--END_SECTION:activity-->
 
 <br/>
