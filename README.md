@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Betsul comemora sucesso e lança promoção para a Final da Liga dos Campeões, em Paris](https://marriedgames.com.br/noticias/betsul-comemora-sucesso/)
+- [Gossip, Muse, Rob Zombie e Slayer estrelam novo Riff Pack de Unplugged](https://marriedgames.com.br/noticias/riff-pack-de-unplugged/)
+- [Positivo Tecnologia consolida a operação da Infinix, 4º maior grupo global de celulares](https://marriedgames.com.br/noticias/operacao-da-infinix/)
 - [SporTV transmitirá a PUBG MOBILE Pro League Brasil Spring](https://marriedgames.com.br/noticias/pubg-mobile-pro-league-2/)
 - [Gen FF terá sua última onda de comemorações e o lançamento de Free Fire x BTS O Show](https://marriedgames.com.br/noticias/free-fire-x-bts-o-show/)
-- [BIG Festival 2022 abre chamadas para concursos e competições de desenvolvedores de jogos](https://marriedgames.com.br/noticias/big-festival-2022/)
-- [Ubisoft Quartz está fora de Ghost Recon Breakpoint](https://marriedgames.com.br/noticias/quartz-esta-fora-de-ghost-recon/)
-- [Final de semana trará decisões das séries B e C da LBFF – A Liga Brasileira de Free Fire 7 &lpar;LBFF&rpar;](https://marriedgames.com.br/noticias/series-b-e-c-da-lbff/)
 <!-- BLOG-POST-LIST:END -->
 
 
