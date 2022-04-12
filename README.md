@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Betsul comemora sucesso e lança promoção para a Final da Liga dos Campeões, em Paris](https://marriedgames.com.br/noticias/betsul-comemora-sucesso/)
-- [Gossip, Muse, Rob Zombie e Slayer estrelam novo Riff Pack de Unplugged](https://marriedgames.com.br/noticias/riff-pack-de-unplugged/)
-- [Positivo Tecnologia consolida a operação da Infinix, 4º maior grupo global de celulares](https://marriedgames.com.br/noticias/operacao-da-infinix/)
-- [SporTV transmitirá a PUBG MOBILE Pro League Brasil Spring](https://marriedgames.com.br/noticias/pubg-mobile-pro-league-2/)
-- [Gen FF terá sua última onda de comemorações e o lançamento de Free Fire x BTS O Show](https://marriedgames.com.br/noticias/free-fire-x-bts-o-show/)
+- [SuperGame da Sega poderá ter NFTs e tecnologia em nuvem inclusos, segundo Shuji Utsumi](https://marriedgames.com.br/noticias/supergame-da-sega/)
+- [Inverno Sem Fim de Black Desert: Pearl Abyss dá 5 dicas para aproveitar a nova expansão](https://marriedgames.com.br/noticias/inverno-sem-fim-de-black-desert/)
+- [O que é NVIDIA Reflex? Alexandre Ziebert explica o que é e sua importância na hora de competir](https://marriedgames.com.br/noticias/o-que-e-nvidia-reflex/)
+- [DreamMax se mantém na primeira colocação da MPL Brasil](https://marriedgames.com.br/noticias/mpl-brasil/)
+- [Garena e Panini lançam o primeiro álbum de figurinhas dedicado ao universo do Free Fire](https://marriedgames.com.br/noticias/garena-e-panini/)
 <!-- BLOG-POST-LIST:END -->
 
 
