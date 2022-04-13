@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SuperGame da Sega poderá ter NFTs e tecnologia em nuvem inclusos, segundo Shuji Utsumi](https://marriedgames.com.br/noticias/supergame-da-sega/)
-- [Inverno Sem Fim de Black Desert: Pearl Abyss dá 5 dicas para aproveitar a nova expansão](https://marriedgames.com.br/noticias/inverno-sem-fim-de-black-desert/)
-- [O que é NVIDIA Reflex? Alexandre Ziebert explica o que é e sua importância na hora de competir](https://marriedgames.com.br/noticias/o-que-e-nvidia-reflex/)
-- [DreamMax se mantém na primeira colocação da MPL Brasil](https://marriedgames.com.br/noticias/mpl-brasil/)
-- [Garena e Panini lançam o primeiro álbum de figurinhas dedicado ao universo do Free Fire](https://marriedgames.com.br/noticias/garena-e-panini/)
+- [Primeiro gameplay The Fabulous Fear Machine chega ao Steam esta semana](https://marriedgames.com.br/noticias/the-fabulous-fear-machine/)
+- [W7M se mantém invicta no Campeonato Brasileiro de Rainbow Six Siege 2022](https://marriedgames.com.br/noticias/w7m-se-mantem-invicta/)
+- [SOEDESCO expande operações e abre novo escritório em Madrid, Espanha](https://marriedgames.com.br/noticias/soedesco-expande-operacoes/)
+- [Spotify anuncia o elenco de Batman Despertar, áudiossérie original que estreia em 03 de maio](https://marriedgames.com.br/noticias/original-spotify-batman-despertar/)
+- [MOBILE SUIT GUNDAM BATTLE OPERATION 2 Está Chegando ao Steam](https://marriedgames.com.br/noticias/mobile-suit-gundam-battle-operation-2-esta-chegando-ao-steam/)
 <!-- BLOG-POST-LIST:END -->
 
 
