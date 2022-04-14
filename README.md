@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Financiamento de Tales of Shadowland será reformulado](https://marriedgames.com.br/noticias/financiamento-de-tales-of-shadowland/)
 - [Primeiro gameplay The Fabulous Fear Machine chega ao Steam esta semana](https://marriedgames.com.br/noticias/the-fabulous-fear-machine/)
 - [W7M se mantém invicta no Campeonato Brasileiro de Rainbow Six Siege 2022](https://marriedgames.com.br/noticias/w7m-se-mantem-invicta/)
 - [SOEDESCO expande operações e abre novo escritório em Madrid, Espanha](https://marriedgames.com.br/noticias/soedesco-expande-operacoes/)
 - [Spotify anuncia o elenco de Batman Despertar, áudiossérie original que estreia em 03 de maio](https://marriedgames.com.br/noticias/original-spotify-batman-despertar/)
-- [MOBILE SUIT GUNDAM BATTLE OPERATION 2 Está Chegando ao Steam](https://marriedgames.com.br/noticias/mobile-suit-gundam-battle-operation-2-esta-chegando-ao-steam/)
 <!-- BLOG-POST-LIST:END -->
 
 
