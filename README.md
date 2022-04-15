@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Financiamento de Tales of Shadowland será reformulado](https://marriedgames.com.br/noticias/financiamento-de-tales-of-shadowland/)
-- [Primeiro gameplay The Fabulous Fear Machine chega ao Steam esta semana](https://marriedgames.com.br/noticias/the-fabulous-fear-machine/)
-- [W7M se mantém invicta no Campeonato Brasileiro de Rainbow Six Siege 2022](https://marriedgames.com.br/noticias/w7m-se-mantem-invicta/)
-- [SOEDESCO expande operações e abre novo escritório em Madrid, Espanha](https://marriedgames.com.br/noticias/soedesco-expande-operacoes/)
-- [Spotify anuncia o elenco de Batman Despertar, áudiossérie original que estreia em 03 de maio](https://marriedgames.com.br/noticias/original-spotify-batman-despertar/)
+- [Promoções de Páscoa do Hype Games têm descontos de até 90%](https://marriedgames.com.br/noticias/pascoa-do-hype-games/)
+- [Netmarble detalha acesso antecipado e pré-venda adicional de ‘Golden Bros’](https://marriedgames.com.br/noticias/golden-bros/)
+- [SAGA inaugura projeto de espaço gamer com dezenas de atrações dentro de shopping centers](https://marriedgames.com.br/noticias/saga-inaugura-projeto/)
+- [Corinthians Free Fire disputa a final da LBFF 7 em busca do título e de uma vaga no mundial](https://marriedgames.com.br/noticias/corinthians-free-fire/)
+- [Call of Duty Mobile e Codashop: Final do campeonato ocorrerá em 30 de abril](https://marriedgames.com.br/noticias/call-of-duty-mobile-e-codashop/)
 <!-- BLOG-POST-LIST:END -->
 
 
