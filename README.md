@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Final da Série A da LBFF: Liga Brasileira de Free Fire acontece neste sábado, 16 de abril](https://marriedgames.com.br/noticias/serie-a-da-lbff/)
-- [Promoções de Páscoa do Hype Games têm descontos de até 90%](https://marriedgames.com.br/noticias/pascoa-do-hype-games/)
-- [Netmarble detalha acesso antecipado e pré-venda adicional de ‘Golden Bros’](https://marriedgames.com.br/noticias/golden-bros/)
-- [SAGA inaugura projeto de espaço gamer com dezenas de atrações dentro de shopping centers](https://marriedgames.com.br/noticias/saga-inaugura-projeto/)
-- [Corinthians Free Fire disputa a final da LBFF 7 em busca do título e de uma vaga no mundial](https://marriedgames.com.br/noticias/corinthians-free-fire/)
+- [Sonic chega ao Roblox pela primeira vez em parceria da Gamefam e Sega](https://marriedgames.com.br/noticias/sonic-chega-ao-roblox/)
+- [Shaders de Minecraft: Os 6 melhores pacotes de shaders de 2022](https://marriedgames.com.br/dicas-guias/shaders-de-minecraft/)
+- [Cadeira gamer barata? Descubra aqui qual comprar em 2022!](https://marriedgames.com.br/dicas-guias/cadeira-gamer-barata/)
+- [Liga Brasileira de Free Fire: LBFF e Casas Bahia fecham nova parceria](https://marriedgames.com.br/noticias/lbff-e-casas-bahia/)
+- [Explore o início da história do Free Fire com Contos de Free Fire: A Primeira Batalha](https://marriedgames.com.br/noticias/contos-de-free-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 
