@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pacote de Expansão de SUPER ROBOT WARS 30 Já Está Disponível na Steam](https://marriedgames.com.br/noticias/super-robot-wars/)
+- [Os Melhores mods de Minecraft de 2022](https://marriedgames.com.br/dicas-guias/melhores-mods-de-minecraft/)
 - [Sonic chega ao Roblox pela primeira vez em parceria da Gamefam e Sega](https://marriedgames.com.br/noticias/sonic-chega-ao-roblox/)
 - [Shaders de Minecraft: Os 6 melhores pacotes de shaders de 2022](https://marriedgames.com.br/dicas-guias/shaders-de-minecraft/)
 - [Cadeira gamer barata? Descubra aqui qual comprar em 2022!](https://marriedgames.com.br/dicas-guias/cadeira-gamer-barata/)
-- [Liga Brasileira de Free Fire: LBFF e Casas Bahia fecham nova parceria](https://marriedgames.com.br/noticias/lbff-e-casas-bahia/)
-- [Explore o início da história do Free Fire com Contos de Free Fire: A Primeira Batalha](https://marriedgames.com.br/noticias/contos-de-free-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 
