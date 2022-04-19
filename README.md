@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Os Melhores volantes para jogos de corrida para PC e Consoles em 2022](https://marriedgames.com.br/dicas-guias/volantes-para-jogos-de-corrida/)
 - [Pacote de Expansão de SUPER ROBOT WARS 30 Já Está Disponível na Steam](https://marriedgames.com.br/noticias/super-robot-wars/)
 - [Os Melhores mods de Minecraft de 2022](https://marriedgames.com.br/dicas-guias/melhores-mods-de-minecraft/)
 - [Sonic chega ao Roblox pela primeira vez em parceria da Gamefam e Sega](https://marriedgames.com.br/noticias/sonic-chega-ao-roblox/)
 - [Shaders de Minecraft: Os 6 melhores pacotes de shaders de 2022](https://marriedgames.com.br/dicas-guias/shaders-de-minecraft/)
-- [Cadeira gamer barata? Descubra aqui qual comprar em 2022!](https://marriedgames.com.br/dicas-guias/cadeira-gamer-barata/)
 <!-- BLOG-POST-LIST:END -->
 
 
