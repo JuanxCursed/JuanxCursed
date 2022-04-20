@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Os Melhores volantes para jogos de corrida para PC e Consoles em 2022](https://marriedgames.com.br/dicas-guias/volantes-para-jogos-de-corrida/)
-- [Pacote de Expansão de SUPER ROBOT WARS 30 Já Está Disponível na Steam](https://marriedgames.com.br/noticias/super-robot-wars/)
-- [Os Melhores mods de Minecraft de 2022](https://marriedgames.com.br/dicas-guias/melhores-mods-de-minecraft/)
-- [Sonic chega ao Roblox pela primeira vez em parceria da Gamefam e Sega](https://marriedgames.com.br/noticias/sonic-chega-ao-roblox/)
-- [Shaders de Minecraft: Os 6 melhores pacotes de shaders de 2022](https://marriedgames.com.br/dicas-guias/shaders-de-minecraft/)
+- [Conheça os 3 melhores celulares de marcas chinesas para jogar](https://marriedgames.com.br/dicas-guias/conheca-os-3-melhores-celulares-de-marcas-chinesas-para-jogar/)
+- [Free Fire World Series 2022: Times em Sentosa disputarão prêmio total de US$ 2 milhões](https://marriedgames.com.br/noticias/free-fire-world-series-2022-2/)
+- [SAGA aposta em novo modelo e renova a operação com cursos e unidades em shopping](https://marriedgames.com.br/noticias/saga-aposta-em-novo-modelo/)
+- [Público de jogos eletrônicos sobe para 74,5% no Brasil, aponta a PGB 2022](https://marriedgames.com.br/noticias/publico-de-jogos-eletronicos/)
+- [ASUS anuncia notebook ROG Strix G15 no Brasil](https://marriedgames.com.br/noticias/rog-strix-g15/)
 <!-- BLOG-POST-LIST:END -->
 
 
