@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Conheça os 3 melhores celulares de marcas chinesas para jogar](https://marriedgames.com.br/dicas-guias/conheca-os-3-melhores-celulares-de-marcas-chinesas-para-jogar/)
-- [Free Fire World Series 2022: Times em Sentosa disputarão prêmio total de US$ 2 milhões](https://marriedgames.com.br/noticias/free-fire-world-series-2022-2/)
-- [SAGA aposta em novo modelo e renova a operação com cursos e unidades em shopping](https://marriedgames.com.br/noticias/saga-aposta-em-novo-modelo/)
-- [Público de jogos eletrônicos sobe para 74,5% no Brasil, aponta a PGB 2022](https://marriedgames.com.br/noticias/publico-de-jogos-eletronicos/)
-- [ASUS anuncia notebook ROG Strix G15 no Brasil](https://marriedgames.com.br/noticias/rog-strix-g15/)
+- [Estudantes podem se inscrever gratuitamente no São Paulo Jogos de E-Sports 2022](https://marriedgames.com.br/noticias/sao-paulo-jogos-de-e-sports-2022-2/)
+- [Deep Silver &amp; Volition para mostrar o trailer final de personalização de Saints Row](https://marriedgames.com.br/noticias/personalizacao-de-saints-row/)
+- [Atualização de Battlefield 2042 traz Voip, Placar de Pontos no Fim da Rodada e Correção de Bugs](https://marriedgames.com.br/noticias/atualizacao-de-battlefield-2042/)
+- [Descobrindo easter eggs em Horizon Forbidden West](https://marriedgames.com.br/noticias/easter-eggs-em-horizon-forbidden/)
+- [Vivencie a Sequência de Abertura de SCARLET NEXUS Com Sua Nova Demo de História](https://marriedgames.com.br/noticias/abertura-de-scarlet-nexus/)
 <!-- BLOG-POST-LIST:END -->
 
 
