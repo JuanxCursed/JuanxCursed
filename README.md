@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Road 96: Prepare-se para uma aventura como nenhuma outra](https://marriedgames.com.br/noticias/road-96/)
+- [Moon, primeira plataforma de publicidade para criptomoedas é lançada no Brasil](https://marriedgames.com.br/noticias/publicidade-para-criptomoedas/)
+- [Wrath of the Lich King Classic transportará os jogadores de volta ao reino gélido da Nortúndria](https://marriedgames.com.br/noticias/wrath-of-the-lich-king-classic/)
 - [Estudantes podem se inscrever gratuitamente no São Paulo Jogos de E-Sports 2022](https://marriedgames.com.br/noticias/sao-paulo-jogos-de-e-sports-2022-2/)
 - [Deep Silver &amp; Volition para mostrar o trailer final de personalização de Saints Row](https://marriedgames.com.br/noticias/personalizacao-de-saints-row/)
-- [Atualização de Battlefield 2042 traz Voip, Placar de Pontos no Fim da Rodada e Correção de Bugs](https://marriedgames.com.br/noticias/atualizacao-de-battlefield-2042/)
-- [Descobrindo easter eggs em Horizon Forbidden West](https://marriedgames.com.br/noticias/easter-eggs-em-horizon-forbidden/)
-- [Vivencie a Sequência de Abertura de SCARLET NEXUS Com Sua Nova Demo de História](https://marriedgames.com.br/noticias/abertura-de-scarlet-nexus/)
 <!-- BLOG-POST-LIST:END -->
 
 
