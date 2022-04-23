@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Road 96: Prepare-se para uma aventura como nenhuma outra](https://marriedgames.com.br/noticias/road-96/)
-- [Moon, primeira plataforma de publicidade para criptomoedas é lançada no Brasil](https://marriedgames.com.br/noticias/publicidade-para-criptomoedas/)
-- [Wrath of the Lich King Classic transportará os jogadores de volta ao reino gélido da Nortúndria](https://marriedgames.com.br/noticias/wrath-of-the-lich-king-classic/)
-- [Estudantes podem se inscrever gratuitamente no São Paulo Jogos de E-Sports 2022](https://marriedgames.com.br/noticias/sao-paulo-jogos-de-e-sports-2022-2/)
-- [Deep Silver &amp; Volition para mostrar o trailer final de personalização de Saints Row](https://marriedgames.com.br/noticias/personalizacao-de-saints-row/)
+- [Meta de NEW STATE MOBILE: Atualização de abril faz mudanças drásticas](https://marriedgames.com.br/noticias/meta-de-new-state-mobile/)
+- [Trovo e editora NewPop se unem em campanha para o Dia Mundial do Livro](https://marriedgames.com.br/noticias/dia-mundial-do-livro/)
+- [A Lenda da Talon e a Heroína de Numbani: As reformulações dos tanques Doomfist e Orisa](https://marriedgames.com.br/noticias/doomfist-e-orisa/)
+- [O que é o NVIDIA Broadcast e como funciona?](https://marriedgames.com.br/noticias/nvidia-broadcast/)
+- [Perfect World recebe nova expansão Despertar Selvagem](https://marriedgames.com.br/noticias/despertar-selvagem/)
 <!-- BLOG-POST-LIST:END -->
 
 
