@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HOT WHEELS – MONSTER TRUCKS EXPANSION JÁ ESTÁ DISPONÍVEL](https://marriedgames.com.br/noticias/monster-trucks-expansion/)
+- [Acompanhe Hayato na jornada pelo mundo de Free Fire em Como Acender a Chama](https://marriedgames.com.br/noticias/como-acender-a-chama/)
+- [LEGO STAR WARS: A SAGA SKYWALKER estabelece recorde de maior lançamento LEGO](https://marriedgames.com.br/noticias/a-saga-skywalker-2/)
+- [Atualização Vitruviana e evento Da Vinci já estão disponíveis em HUMANKIND](https://marriedgames.com.br/noticias/atualizacao-vitruviana-e-evento/)
 - [Meta de NEW STATE MOBILE: Atualização de abril faz mudanças drásticas](https://marriedgames.com.br/noticias/meta-de-new-state-mobile/)
-- [Trovo e editora NewPop se unem em campanha para o Dia Mundial do Livro](https://marriedgames.com.br/noticias/dia-mundial-do-livro/)
-- [A Lenda da Talon e a Heroína de Numbani: As reformulações dos tanques Doomfist e Orisa](https://marriedgames.com.br/noticias/doomfist-e-orisa/)
-- [O que é o NVIDIA Broadcast e como funciona?](https://marriedgames.com.br/noticias/nvidia-broadcast/)
-- [Perfect World recebe nova expansão Despertar Selvagem](https://marriedgames.com.br/noticias/despertar-selvagem/)
 <!-- BLOG-POST-LIST:END -->
 
 
