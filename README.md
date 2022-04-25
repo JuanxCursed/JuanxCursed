@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daedalic comemora aniversário de 15 anos com três novos lançamentos](https://marriedgames.com.br/noticias/daedalic-comemora-aniversario/)
+- [FLASHOUT 3 está chegando as lojas este ano](https://marriedgames.com.br/noticias/flashout-3/)
+- [LG ThinQ reúne soluções para um estilo de vida mais sustentável](https://marriedgames.com.br/noticias/lg-thinq/)
+- [Achilles Legends Untold chega ao Early Access em 12 de maio](https://marriedgames.com.br/noticias/achilles-legends-untold/)
 - [HOT WHEELS – MONSTER TRUCKS EXPANSION JÁ ESTÁ DISPONÍVEL](https://marriedgames.com.br/noticias/monster-trucks-expansion/)
-- [Acompanhe Hayato na jornada pelo mundo de Free Fire em Como Acender a Chama](https://marriedgames.com.br/noticias/como-acender-a-chama/)
-- [LEGO STAR WARS: A SAGA SKYWALKER estabelece recorde de maior lançamento LEGO](https://marriedgames.com.br/noticias/a-saga-skywalker-2/)
-- [Atualização Vitruviana e evento Da Vinci já estão disponíveis em HUMANKIND](https://marriedgames.com.br/noticias/atualizacao-vitruviana-e-evento/)
-- [Meta de NEW STATE MOBILE: Atualização de abril faz mudanças drásticas](https://marriedgames.com.br/noticias/meta-de-new-state-mobile/)
 <!-- BLOG-POST-LIST:END -->
 
 
