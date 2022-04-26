@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Daedalic comemora aniversário de 15 anos com três novos lançamentos](https://marriedgames.com.br/noticias/daedalic-comemora-aniversario/)
-- [FLASHOUT 3 está chegando as lojas este ano](https://marriedgames.com.br/noticias/flashout-3/)
-- [LG ThinQ reúne soluções para um estilo de vida mais sustentável](https://marriedgames.com.br/noticias/lg-thinq/)
-- [Achilles Legends Untold chega ao Early Access em 12 de maio](https://marriedgames.com.br/noticias/achilles-legends-untold/)
-- [HOT WHEELS – MONSTER TRUCKS EXPANSION JÁ ESTÁ DISPONÍVEL](https://marriedgames.com.br/noticias/monster-trucks-expansion/)
+- [Dying Light 2 receberá o modo Novo Jogo + na atualização 1.3](https://marriedgames.com.br/noticias/dying-light-2-recebera-o-modo-novo/)
+- [Confira a programação de entretenimento Geek Here para a quarta semana de abril](https://marriedgames.com.br/noticias/geek-here/)
+- [ViewSonic anuncia monitor de jogos ELITE XG321UG 4K Mini-LED de 32 polegadas](https://marriedgames.com.br/noticias/elite-xg321ug/)
+- [TL-SX3016F: TP-Link apresenta novo switch gerenciável para redes corporativas](https://marriedgames.com.br/noticias/tp-link-apresenta-novo-switch/)
+- [Vencedores do Campeonato Internacional Pokémon da Europa 2022](https://marriedgames.com.br/noticias/campeonato-internacional-pokemon/)
 <!-- BLOG-POST-LIST:END -->
 
 
