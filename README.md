@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dying Light 2 receberá o modo Novo Jogo + na atualização 1.3](https://marriedgames.com.br/noticias/dying-light-2-recebera-o-modo-novo/)
-- [Confira a programação de entretenimento Geek Here para a quarta semana de abril](https://marriedgames.com.br/noticias/geek-here/)
-- [ViewSonic anuncia monitor de jogos ELITE XG321UG 4K Mini-LED de 32 polegadas](https://marriedgames.com.br/noticias/elite-xg321ug/)
-- [TL-SX3016F: TP-Link apresenta novo switch gerenciável para redes corporativas](https://marriedgames.com.br/noticias/tp-link-apresenta-novo-switch/)
-- [Vencedores do Campeonato Internacional Pokémon da Europa 2022](https://marriedgames.com.br/noticias/campeonato-internacional-pokemon/)
+- [Codashop Brasil: Free Fire e Call Of Duty: Mobile são os jogos mais populares para gastos in-game](https://marriedgames.com.br/noticias/codashop-brasil/)
+- [Huawei lança seu novo roteador HUAWEI WiFi AX2 para consumidores no Brasil](https://marriedgames.com.br/noticias/huawei-wifi-ax2/)
+- [A Pokémon anuncia a nova série de animação “Pokémon: As Neves de Hisui”](https://marriedgames.com.br/noticias/pokemon-as-neves-de-hisui/)
+- [“Monitoramento e IA são caminhos para a proteção virtual”, diz especialista](https://marriedgames.com.br/noticias/protecao-virtual/)
+- [PUBG MOBILE terá parceria com grupo de K-Pop BLACKPINK e anime Evangelion](https://marriedgames.com.br/noticias/pubg-mobile-tera-parceria/)
 <!-- BLOG-POST-LIST:END -->
 
 
