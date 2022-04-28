@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [O que é HDR? Comparação entre seus formatos e mais](https://marriedgames.com.br/tecnologia/o-que-e-hdr/)
 - [Codashop Brasil: Free Fire e Call Of Duty: Mobile são os jogos mais populares para gastos in-game](https://marriedgames.com.br/noticias/codashop-brasil/)
 - [Huawei lança seu novo roteador HUAWEI WiFi AX2 para consumidores no Brasil](https://marriedgames.com.br/noticias/huawei-wifi-ax2/)
 - [A Pokémon anuncia a nova série de animação “Pokémon: As Neves de Hisui”](https://marriedgames.com.br/noticias/pokemon-as-neves-de-hisui/)
-- [“Monitoramento e IA são caminhos para a proteção virtual”, diz especialista](https://marriedgames.com.br/noticias/protecao-virtual/)
-- [PUBG MOBILE terá parceria com grupo de K-Pop BLACKPINK e anime Evangelion](https://marriedgames.com.br/noticias/pubg-mobile-tera-parceria/)
+- [Conheça o POCO F4 GT, um novo smartphone poderoso da POCO](https://marriedgames.com.br/analises/poco-f4-gt/)
 <!-- BLOG-POST-LIST:END -->
 
 
