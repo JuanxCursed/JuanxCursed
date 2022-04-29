@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [O que é HDR? Comparação entre seus formatos e mais](https://marriedgames.com.br/tecnologia/o-que-e-hdr/)
-- [Codashop Brasil: Free Fire e Call Of Duty: Mobile são os jogos mais populares para gastos in-game](https://marriedgames.com.br/noticias/codashop-brasil/)
-- [Huawei lança seu novo roteador HUAWEI WiFi AX2 para consumidores no Brasil](https://marriedgames.com.br/noticias/huawei-wifi-ax2/)
-- [A Pokémon anuncia a nova série de animação “Pokémon: As Neves de Hisui”](https://marriedgames.com.br/noticias/pokemon-as-neves-de-hisui/)
-- [Conheça o POCO F4 GT, um novo smartphone poderoso da POCO](https://marriedgames.com.br/analises/poco-f4-gt/)
+- [TV para jogos em 2022: tudo o que você precisa saber](https://marriedgames.com.br/tecnologia/tv-para-jogos-em-2022/)
+- [ESL Gaming e Nielsen expandem parceria de medição de eSports](https://marriedgames.com.br/noticias/esl-gaming-e-nielsen/)
+- [Soulcode Academy abre inscrições para cursos 100% gratuitos de Martech e Java Full Stack](https://marriedgames.com.br/noticias/soulcode-academy/)
+- [iFood lança filme “Fome de Game” em parceria com Fluxo](https://marriedgames.com.br/noticias/fome-de-game/)
+- [PUBG MOBILE bane 8 milhões de contas por trapaças no 1º trimestre de 2022](https://marriedgames.com.br/noticias/pubg-mobile-bane/)
 <!-- BLOG-POST-LIST:END -->
 
 
