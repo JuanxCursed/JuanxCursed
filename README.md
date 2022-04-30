@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dicas de como economizar bateria do iPhone em 2022](https://marriedgames.com.br/dicas-guias/economizar-bateria/)
 - [TV para jogos em 2022: tudo o que você precisa saber](https://marriedgames.com.br/tecnologia/tv-para-jogos-em-2022/)
 - [ESL Gaming e Nielsen expandem parceria de medição de eSports](https://marriedgames.com.br/noticias/esl-gaming-e-nielsen/)
 - [Soulcode Academy abre inscrições para cursos 100% gratuitos de Martech e Java Full Stack](https://marriedgames.com.br/noticias/soulcode-academy/)
 - [iFood lança filme “Fome de Game” em parceria com Fluxo](https://marriedgames.com.br/noticias/fome-de-game/)
-- [PUBG MOBILE bane 8 milhões de contas por trapaças no 1º trimestre de 2022](https://marriedgames.com.br/noticias/pubg-mobile-bane/)
 <!-- BLOG-POST-LIST:END -->
 
 
