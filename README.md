@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dicas de como economizar bateria do iPhone em 2022](https://marriedgames.com.br/dicas-guias/economizar-bateria/)
-- [TV para jogos em 2022: tudo o que você precisa saber](https://marriedgames.com.br/tecnologia/tv-para-jogos-em-2022/)
-- [ESL Gaming e Nielsen expandem parceria de medição de eSports](https://marriedgames.com.br/noticias/esl-gaming-e-nielsen/)
-- [Soulcode Academy abre inscrições para cursos 100% gratuitos de Martech e Java Full Stack](https://marriedgames.com.br/noticias/soulcode-academy/)
-- [iFood lança filme “Fome de Game” em parceria com Fluxo](https://marriedgames.com.br/noticias/fome-de-game/)
+- [Painel TN vs IPS vs VA: qual o melhor? Saiba tudo sobre esses 3 tipos painéis e suas vantagens](https://marriedgames.com.br/dicas-guias/tn-vs-ips-vs-va-qual-a-melhor/)
+- [HyperX dá dicas para configurar e otimizar seu microfone para games e conversas on-line](https://marriedgames.com.br/noticias/hyperx-da-dicas-para-configurar/)
+- [Abertura de inscrições para o Torneio Internacional Esl Play de Crossfire: Legion](https://marriedgames.com.br/noticias/torneio-internacional-esl-play/)
+- [A Expansão Pokémon Go do Pokémon Estampas Ilustradas apresenta artes fotorrealistas](https://marriedgames.com.br/noticias/pokemon-estampas-ilustradas-apresenta/)
+- [Riot Games anuncia novos planos para os Esports do VALORANT](https://marriedgames.com.br/noticias/riot-games-anuncia/)
 <!-- BLOG-POST-LIST:END -->
 
 
