@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como posicionar seu roteador corretamente e melhorar o sinal Wi-Fi?](https://marriedgames.com.br/noticias/melhorar-o-sinal-wi-fi/)
+- [Star Wars Day na Loja Integrada: 5 e-commerces geeks com produtos para celebrar a data](https://marriedgames.com.br/noticias/star-wars-day-na-loja-integrada/)
+- [Veja como se especializar nas promissoras carreiras do metaverso](https://marriedgames.com.br/noticias/carreiras-do-metaverso/)
+- [Como excluir Instagram em 2022?](https://marriedgames.com.br/tecnologia/como-excluir-instagram/)
 - [Painel TN vs IPS vs VA: qual o melhor? Saiba tudo sobre esses 3 tipos painéis e suas vantagens](https://marriedgames.com.br/dicas-guias/tn-vs-ips-vs-va-qual-a-melhor/)
-- [HyperX dá dicas para configurar e otimizar seu microfone para games e conversas on-line](https://marriedgames.com.br/noticias/hyperx-da-dicas-para-configurar/)
-- [Abertura de inscrições para o Torneio Internacional Esl Play de Crossfire: Legion](https://marriedgames.com.br/noticias/torneio-internacional-esl-play/)
-- [A Expansão Pokémon Go do Pokémon Estampas Ilustradas apresenta artes fotorrealistas](https://marriedgames.com.br/noticias/pokemon-estampas-ilustradas-apresenta/)
-- [Riot Games anuncia novos planos para os Esports do VALORANT](https://marriedgames.com.br/noticias/riot-games-anuncia/)
 <!-- BLOG-POST-LIST:END -->
 
 
