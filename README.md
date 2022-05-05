@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Como posicionar seu roteador corretamente e melhorar o sinal Wi-Fi?](https://marriedgames.com.br/noticias/melhorar-o-sinal-wi-fi/)
-- [Star Wars Day na Loja Integrada: 5 e-commerces geeks com produtos para celebrar a data](https://marriedgames.com.br/noticias/star-wars-day-na-loja-integrada/)
-- [Veja como se especializar nas promissoras carreiras do metaverso](https://marriedgames.com.br/noticias/carreiras-do-metaverso/)
-- [Como excluir Instagram em 2022?](https://marriedgames.com.br/tecnologia/como-excluir-instagram/)
-- [Painel TN vs IPS vs VA: qual o melhor? Saiba tudo sobre esses 3 tipos painéis e suas vantagens](https://marriedgames.com.br/dicas-guias/tn-vs-ips-vs-va-qual-a-melhor/)
+- [Razer anuncia laptop Blade 15 com primeiro display OLED de 240Hz do mundo](https://marriedgames.com.br/noticias/laptop-blade-15/)
+- [Pearl Abyss lança 8ª Temporada do Caminho da Glória e o Black Desert Jazz Project Soundtrack](https://marriedgames.com.br/noticias/black-desert-jazz-project/)
+- [Warcraft Arclight Rumble: Blizzard traz um jogo de estratégia cheio de ação para mobile](https://marriedgames.com.br/noticias/warcraft-arclight-rumble/)
+- [Dia das Mães LG: Marca apresenta presentes tech para as mães tech de 2022](https://marriedgames.com.br/noticias/dia-das-maes-lg/)
+- [CCXP Awards abre inscrições para obras e artistas concorrerem na maior premiação da cultura pop](https://marriedgames.com.br/noticias/ccxp-awards/)
 <!-- BLOG-POST-LIST:END -->
 
 
