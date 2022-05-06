@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Razer anuncia laptop Blade 15 com primeiro display OLED de 240Hz do mundo](https://marriedgames.com.br/noticias/laptop-blade-15/)
-- [Pearl Abyss lança 8ª Temporada do Caminho da Glória e o Black Desert Jazz Project Soundtrack](https://marriedgames.com.br/noticias/black-desert-jazz-project/)
-- [Warcraft Arclight Rumble: Blizzard traz um jogo de estratégia cheio de ação para mobile](https://marriedgames.com.br/noticias/warcraft-arclight-rumble/)
-- [Dia das Mães LG: Marca apresenta presentes tech para as mães tech de 2022](https://marriedgames.com.br/noticias/dia-das-maes-lg/)
-- [CCXP Awards abre inscrições para obras e artistas concorrerem na maior premiação da cultura pop](https://marriedgames.com.br/noticias/ccxp-awards/)
+- [Dying Light recebe atualização gratuita para a Enhanced Edition](https://marriedgames.com.br/noticias/dying-light-recebe-atualizacao-2/)
+- [Jam.gg chega ao Brasil gratuitamente com populares jogos retrôs e modernos](https://marriedgames.com.br/noticias/jogos-retros-e-modernos/)
+- [Em ação com a Panini, Razer Gold distribui codiguins de Free Fire](https://marriedgames.com.br/noticias/codiguins-de-free-fire/)
+- [BIG Festival 2022 acontece de 7 a 10 de julho no São Paulo Expo](https://marriedgames.com.br/noticias/big-festival-2022-2/)
+- [Havaianas X Star Wars: Que a Força esteja com você](https://marriedgames.com.br/noticias/havaianas-x-star-wars/)
 <!-- BLOG-POST-LIST:END -->
 
 
