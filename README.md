@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dying Light recebe atualização gratuita para a Enhanced Edition](https://marriedgames.com.br/noticias/dying-light-recebe-atualizacao-2/)
-- [Jam.gg chega ao Brasil gratuitamente com populares jogos retrôs e modernos](https://marriedgames.com.br/noticias/jogos-retros-e-modernos/)
-- [Em ação com a Panini, Razer Gold distribui codiguins de Free Fire](https://marriedgames.com.br/noticias/codiguins-de-free-fire/)
-- [BIG Festival 2022 acontece de 7 a 10 de julho no São Paulo Expo](https://marriedgames.com.br/noticias/big-festival-2022-2/)
-- [Havaianas X Star Wars: Que a Força esteja com você](https://marriedgames.com.br/noticias/havaianas-x-star-wars/)
+- [As melhores Bitcoin exchanges de 2022](https://marriedgames.com.br/dicas-guias/melhores-bitcoin-exchanges/)
+- [Call of Duty Mobile Modo Torneio — Guia para um novo campo de provas competitivo](https://marriedgames.com.br/noticias/modo-torneio-call-of-duty/)
+- [Riot Games anuncia parcerias para o cenário feminino competitivo de League of Legends](https://marriedgames.com.br/noticias/riot-games-anuncia-parcerias/)
+- [MIBR e Bybit: corretora global de criptomoedas chega Brasil e faz parceria com time de E-Sports](https://marriedgames.com.br/noticias/mibr-e-bybit/)
+- [W7M Esports anuncia oficialmente sua equipe de Free Fire Feminino](https://marriedgames.com.br/noticias/free-fire-feminino/)
 <!-- BLOG-POST-LIST:END -->
 
 
