@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anunciada a nova line-up feminina da MIBR em Valorant para 2022](https://marriedgames.com.br/noticias/line-up-feminina-da-mibr/)
+- [Globoplay na CCXP: Streaming da Globo é a primeira plataforma na CCXP22](https://marriedgames.com.br/noticias/globoplay-na-ccxp/)
+- [Dell amplia portfólio de notebooks Inspiron 15 3000 com a 11ª geração Intel Core](https://marriedgames.com.br/noticias/dell-amplia-portfolio/)
 - [As melhores Bitcoin exchanges de 2022](https://marriedgames.com.br/dicas-guias/melhores-bitcoin-exchanges/)
 - [Call of Duty Mobile Modo Torneio — Guia para um novo campo de provas competitivo](https://marriedgames.com.br/noticias/modo-torneio-call-of-duty/)
-- [Riot Games anuncia parcerias para o cenário feminino competitivo de League of Legends](https://marriedgames.com.br/noticias/riot-games-anuncia-parcerias/)
-- [MIBR e Bybit: corretora global de criptomoedas chega Brasil e faz parceria com time de E-Sports](https://marriedgames.com.br/noticias/mibr-e-bybit/)
-- [W7M Esports anuncia oficialmente sua equipe de Free Fire Feminino](https://marriedgames.com.br/noticias/free-fire-feminino/)
 <!-- BLOG-POST-LIST:END -->
 
 
