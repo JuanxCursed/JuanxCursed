@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CCXP anuncia Amazon Prime Video, primeiros quadrinistas e novidades para a edição 2022](https://marriedgames.com.br/noticias/ccxp-anuncia-amazon-prime/)
-- [Linha Harry Potter Sunny: Repleta de magia e encanto, Sunny anuncia novidades do bruxo](https://marriedgames.com.br/noticias/harry-potter-sunny/)
-- [Grinding Gear Games Revela Trailer de Sentinel, Nova Expansão de Path of Exile](https://marriedgames.com.br/noticias/trailer-de-sentinel/)
-- [Anunciada a nova line-up feminina da MIBR em Valorant para 2022](https://marriedgames.com.br/noticias/line-up-feminina-da-mibr/)
-- [Globoplay na CCXP: Streaming da Globo é a primeira plataforma na CCXP22](https://marriedgames.com.br/noticias/globoplay-na-ccxp/)
+- [MIBR e Logitech G: Marca é a nova patrocinadora e marca oficial de periféricos](https://marriedgames.com.br/noticias/mibr-e-logitech-g/)
+- [De forma inédita, 00 Nation conquista Copa do Brasil de Rainbow Six Siege](https://marriedgames.com.br/noticias/copa-do-brasil-de-rainbow-six/)
+- [Gaules abre inscrições para 256 times casuais e amadores participarem da Tribo Cup](https://marriedgames.com.br/noticias/tribo-cup/)
+- [CCXP22 terá parada de Cosplays, área com fliperamas e finais do CBCS, Just Dance e R6](https://marriedgames.com.br/noticias/ccxp22/)
+- [MIBR apresenta novidades no time de influenciadores](https://marriedgames.com.br/noticias/time-de-influenciadores/)
 <!-- BLOG-POST-LIST:END -->
 
 
