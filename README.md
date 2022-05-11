@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MIBR e Logitech G: Marca é a nova patrocinadora e marca oficial de periféricos](https://marriedgames.com.br/noticias/mibr-e-logitech-g/)
-- [De forma inédita, 00 Nation conquista Copa do Brasil de Rainbow Six Siege](https://marriedgames.com.br/noticias/copa-do-brasil-de-rainbow-six/)
-- [Gaules abre inscrições para 256 times casuais e amadores participarem da Tribo Cup](https://marriedgames.com.br/noticias/tribo-cup/)
-- [CCXP22 terá parada de Cosplays, área com fliperamas e finais do CBCS, Just Dance e R6](https://marriedgames.com.br/noticias/ccxp22/)
-- [MIBR apresenta novidades no time de influenciadores](https://marriedgames.com.br/noticias/time-de-influenciadores/)
+- [Evento Digital de Monster Hunter Rise: Sunbreak de Maio Revela Novos Monstros Ferozes](https://marriedgames.com.br/noticias/evento-digital-de-monster-hunter-rise/)
+- [As Jornadas 1 e 2 retornam ao GWENT: The Witcher Card Game!](https://marriedgames.com.br/noticias/the-witcher-card-game/)
+- [Dia do Cashback: Cuponomia tem cashback até 170% maior em lojas parceiras](https://marriedgames.com.br/noticias/dia-do-cashback/)
+- [Shopee promove “3 Super Dias de Tecnologia” com cupons especiais](https://marriedgames.com.br/noticias/3-super-dias-de-tecnologia/)
+- [Razer e TECHERS anunciam colaboração em projeto voltado à educação de jovens](https://marriedgames.com.br/noticias/razer-e-techers/)
 <!-- BLOG-POST-LIST:END -->
 
 
