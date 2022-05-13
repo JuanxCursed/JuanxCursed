@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Evento Digital de Monster Hunter Rise: Sunbreak de Maio Revela Novos Monstros Ferozes](https://marriedgames.com.br/noticias/evento-digital-de-monster-hunter-rise/)
-- [As Jornadas 1 e 2 retornam ao GWENT: The Witcher Card Game!](https://marriedgames.com.br/noticias/the-witcher-card-game/)
-- [Dia do Cashback: Cuponomia tem cashback até 170% maior em lojas parceiras](https://marriedgames.com.br/noticias/dia-do-cashback/)
-- [Shopee promove “3 Super Dias de Tecnologia” com cupons especiais](https://marriedgames.com.br/noticias/3-super-dias-de-tecnologia/)
-- [Razer e TECHERS anunciam colaboração em projeto voltado à educação de jovens](https://marriedgames.com.br/noticias/razer-e-techers/)
+- [A nova versão do Pokémon Home traz compatibilidade com mais jogos](https://marriedgames.com.br/noticias/pokemon-home/)
+- [Segurança digital: entenda a importância da proteção antivírus em roteadores](https://marriedgames.com.br/noticias/importancia-da-protecao-antivirus/)
+- [Revelado curso da Escola de Espionagem em Two Point Campus](https://marriedgames.com.br/noticias/escola-de-espionagem-em-two-point/)
+- [realme anuncia edição limitada de Ecobox com realme GT 2 Pro e dispositivos AIoT](https://marriedgames.com.br/noticias/edicao-limitada-de-ecobox/)
+- [Amazon Music chega a Argentina com milhões de músicas em alta qualidade](https://marriedgames.com.br/noticias/amazon-music/)
 <!-- BLOG-POST-LIST:END -->
 
 
