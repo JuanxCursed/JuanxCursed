@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A nova versão do Pokémon Home traz compatibilidade com mais jogos](https://marriedgames.com.br/noticias/pokemon-home/)
-- [Segurança digital: entenda a importância da proteção antivírus em roteadores](https://marriedgames.com.br/noticias/importancia-da-protecao-antivirus/)
-- [Revelado curso da Escola de Espionagem em Two Point Campus](https://marriedgames.com.br/noticias/escola-de-espionagem-em-two-point/)
-- [realme anuncia edição limitada de Ecobox com realme GT 2 Pro e dispositivos AIoT](https://marriedgames.com.br/noticias/edicao-limitada-de-ecobox/)
-- [Amazon Music chega a Argentina com milhões de músicas em alta qualidade](https://marriedgames.com.br/noticias/amazon-music/)
+- [VAIO lança notebook com Alexa integrada](https://marriedgames.com.br/noticias/vaio-notebook-com-alexa/)
+- [Cinco práticas que ajudam a preservar o bom funcionamento dos computadores](https://marriedgames.com.br/noticias/cinco-praticas-que-ajudam-a-preservar/)
+- [Free Fire World Series 2022 Sentosa começa com dez times e quatro vagas na final](https://marriedgames.com.br/noticias/free-fire-world-series-2022-3/)
+- [Crossfire Legion: 24 unidades de batalha e três novos comandantes adicionados ao acesso antecipado](https://marriedgames.com.br/noticias/crossfire-legion/)
+- [Valorant Masters Brasil: Los Grandes está preparada para sua primeira participação](https://marriedgames.com.br/noticias/valorant-masters-brasil/)
 <!-- BLOG-POST-LIST:END -->
 
 
