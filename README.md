@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Riot Games anuncia novidades nos esports de VALORANT](https://marriedgames.com.br/noticias/riot-games-anuncia-novidades/)
+- [CS GO Feminino da W7M Esports: Time anuncia a contratação de Gabriela “Bokor“ para sua equipe](https://marriedgames.com.br/noticias/cs-go-feminino-da-w7m-esports/)
 - [VAIO lança notebook com Alexa integrada](https://marriedgames.com.br/noticias/vaio-notebook-com-alexa/)
 - [Cinco práticas que ajudam a preservar o bom funcionamento dos computadores](https://marriedgames.com.br/noticias/cinco-praticas-que-ajudam-a-preservar/)
 - [Free Fire World Series 2022 Sentosa começa com dez times e quatro vagas na final](https://marriedgames.com.br/noticias/free-fire-world-series-2022-3/)
-- [Crossfire Legion: 24 unidades de batalha e três novos comandantes adicionados ao acesso antecipado](https://marriedgames.com.br/noticias/crossfire-legion/)
-- [Valorant Masters Brasil: Los Grandes está preparada para sua primeira participação](https://marriedgames.com.br/noticias/valorant-masters-brasil/)
 <!-- BLOG-POST-LIST:END -->
 
 
