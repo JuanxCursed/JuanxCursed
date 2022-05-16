@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pesquisa da Codashop: Pix é o meio de pagamento favorito dos gamers para recargas](https://marriedgames.com.br/noticias/pesquisa-da-codashop/)
+- [realme comemora forte começo em 2022 com estreia no segmento premium e público jovem](https://marriedgames.com.br/noticias/realme-comemora/)
 - [Riot Games anuncia novidades nos esports de VALORANT](https://marriedgames.com.br/noticias/riot-games-anuncia-novidades/)
 - [CS GO Feminino da W7M Esports: Time anuncia a contratação de Gabriela “Bokor“ para sua equipe](https://marriedgames.com.br/noticias/cs-go-feminino-da-w7m-esports/)
 - [VAIO lança notebook com Alexa integrada](https://marriedgames.com.br/noticias/vaio-notebook-com-alexa/)
-- [Cinco práticas que ajudam a preservar o bom funcionamento dos computadores](https://marriedgames.com.br/noticias/cinco-praticas-que-ajudam-a-preservar/)
-- [Free Fire World Series 2022 Sentosa começa com dez times e quatro vagas na final](https://marriedgames.com.br/noticias/free-fire-world-series-2022-3/)
 <!-- BLOG-POST-LIST:END -->
 
 
