@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quatro mitos e verdades sobre o Metaverso](https://marriedgames.com.br/noticias/mitos-e-verdades-sobre-o-metaverso/)
+- [World of Warships celebra novas temporadas com uma enxurrada de atualizações de conteúdo](https://marriedgames.com.br/noticias/warships-celebra-novas-temporadas/)
+- [Fluxo anuncia Hudson como novo influenciador](https://marriedgames.com.br/noticias/fluxo-anuncia-hudson/)
+- [A Equipe South Town de Fatal Fury se junta ao elenco de KOF XV em 17 de Maio](https://marriedgames.com.br/noticias/equipe-south-town/)
 - [Pesquisa da Codashop: Pix é o meio de pagamento favorito dos gamers para recargas](https://marriedgames.com.br/noticias/pesquisa-da-codashop/)
-- [realme comemora forte começo em 2022 com estreia no segmento premium e público jovem](https://marriedgames.com.br/noticias/realme-comemora/)
-- [Riot Games anuncia novidades nos esports de VALORANT](https://marriedgames.com.br/noticias/riot-games-anuncia-novidades/)
-- [CS GO Feminino da W7M Esports: Time anuncia a contratação de Gabriela “Bokor“ para sua equipe](https://marriedgames.com.br/noticias/cs-go-feminino-da-w7m-esports/)
-- [VAIO lança notebook com Alexa integrada](https://marriedgames.com.br/noticias/vaio-notebook-com-alexa/)
 <!-- BLOG-POST-LIST:END -->
 
 
