@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quatro mitos e verdades sobre o Metaverso](https://marriedgames.com.br/noticias/mitos-e-verdades-sobre-o-metaverso/)
-- [World of Warships celebra novas temporadas com uma enxurrada de atualizações de conteúdo](https://marriedgames.com.br/noticias/warships-celebra-novas-temporadas/)
-- [Fluxo anuncia Hudson como novo influenciador](https://marriedgames.com.br/noticias/fluxo-anuncia-hudson/)
-- [A Equipe South Town de Fatal Fury se junta ao elenco de KOF XV em 17 de Maio](https://marriedgames.com.br/noticias/equipe-south-town/)
-- [Pesquisa da Codashop: Pix é o meio de pagamento favorito dos gamers para recargas](https://marriedgames.com.br/noticias/pesquisa-da-codashop/)
+- [Counter Strike e League of Legends: comparando o popularidade dos maiores campeonatos de e-sports](https://marriedgames.com.br/noticias/counter-strike-e-league-of-legends/)
+- [Techland abre vagas para trabalhar numa nova IP de mundo aberto](https://marriedgames.com.br/noticias/techland-abre-vagas/)
+- [Fortnite Golden Frame: Fortnite ganha álbum de figurinhas da Panini](https://marriedgames.com.br/noticias/fortnite-golden-frame/)
+- [Corintianos lideram o Cartola Express em valor total ganho no game](https://marriedgames.com.br/noticias/cartola-express/)
+- [A espiritualidade dá uma volta escura com o emocionante horror psicodélico o The Chant](https://marriedgames.com.br/noticias/horror-the-chant/)
 <!-- BLOG-POST-LIST:END -->
 
 
