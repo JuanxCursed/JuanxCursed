@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Counter Strike e League of Legends: comparando o popularidade dos maiores campeonatos de e-sports](https://marriedgames.com.br/noticias/counter-strike-e-league-of-legends/)
-- [Techland abre vagas para trabalhar numa nova IP de mundo aberto](https://marriedgames.com.br/noticias/techland-abre-vagas/)
-- [Fortnite Golden Frame: Fortnite ganha álbum de figurinhas da Panini](https://marriedgames.com.br/noticias/fortnite-golden-frame/)
-- [Corintianos lideram o Cartola Express em valor total ganho no game](https://marriedgames.com.br/noticias/cartola-express/)
-- [A espiritualidade dá uma volta escura com o emocionante horror psicodélico o The Chant](https://marriedgames.com.br/noticias/horror-the-chant/)
+- [Semana de acesso gratuito em Call of Duty Vanguard](https://marriedgames.com.br/noticias/call-of-duty-vanguard/)
+- [Chromebooks da Positivo facilitam atividades de ensino em escolas de todo o país](https://marriedgames.com.br/noticias/chromebooks-da-positivo/)
+- [Pearl Abyss lança a nova classe Yacha ao Black Desert Mobile](https://marriedgames.com.br/noticias/yacha-ao-black-desert-mobile/)
+- [OUTWARD DEFINITIVE EDITION JÁ DISPONÍVEL](https://marriedgames.com.br/noticias/outward-definitive-edition/)
+- [Roller Champions será lançado em 25 de maio junto com sua primeira temporada](https://marriedgames.com.br/noticias/roller-champions/)
 <!-- BLOG-POST-LIST:END -->
 
 
