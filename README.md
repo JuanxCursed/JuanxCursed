@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [As tendências mais importantes nos eSports em 2022](https://marriedgames.com.br/noticias/as-tendencias-mais-importantes-nos-esports-em-2022/)
+- [Realme lança o GT 2 Pro no Brasil e nós fomos lá ver](https://marriedgames.com.br/tecnologia/realme-lanca-o-gt-2-pro/)
 - [Semana de acesso gratuito em Call of Duty Vanguard](https://marriedgames.com.br/noticias/call-of-duty-vanguard/)
 - [Chromebooks da Positivo facilitam atividades de ensino em escolas de todo o país](https://marriedgames.com.br/noticias/chromebooks-da-positivo/)
 - [Pearl Abyss lança a nova classe Yacha ao Black Desert Mobile](https://marriedgames.com.br/noticias/yacha-ao-black-desert-mobile/)
-- [OUTWARD DEFINITIVE EDITION JÁ DISPONÍVEL](https://marriedgames.com.br/noticias/outward-definitive-edition/)
-- [Roller Champions será lançado em 25 de maio junto com sua primeira temporada](https://marriedgames.com.br/noticias/roller-champions/)
 <!-- BLOG-POST-LIST:END -->
 
 
