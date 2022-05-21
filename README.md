@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [As tendências mais importantes nos eSports em 2022](https://marriedgames.com.br/noticias/as-tendencias-mais-importantes-nos-esports-em-2022/)
-- [Realme lança o GT 2 Pro no Brasil e nós fomos lá ver](https://marriedgames.com.br/tecnologia/realme-lanca-o-gt-2-pro/)
-- [Semana de acesso gratuito em Call of Duty Vanguard](https://marriedgames.com.br/noticias/call-of-duty-vanguard/)
-- [Chromebooks da Positivo facilitam atividades de ensino em escolas de todo o país](https://marriedgames.com.br/noticias/chromebooks-da-positivo/)
-- [Pearl Abyss lança a nova classe Yacha ao Black Desert Mobile](https://marriedgames.com.br/noticias/yacha-ao-black-desert-mobile/)
+- [Anunciados os vencedores da Gala ‘Team Of The Season’ da LaLiga com a EA Sports](https://marriedgames.com.br/noticias/laliga-com-a-ea-sports/)
+- [Path of Exile: Sentinel Já Está Disponível Para os Consoles PlayStation 4 e Xbox One](https://marriedgames.com.br/noticias/path-of-exile-sentinel/)
+- [Final do Free Fire World Series &lpar;FFWS&rpar; acontece neste sábado &lpar;21&rpar;](https://marriedgames.com.br/noticias/final-do-free-fire-world-series/)
+- [Santa Monica revela novos recursos de acessibilidade em God of War Ragnarok](https://marriedgames.com.br/noticias/god-of-war-ragnarok/)
+- [Eliminatórias da primeira edição da Liga Brasileira de Sinuquinha começam neste sábado](https://marriedgames.com.br/noticias/liga-brasileira-de-sinuquinha/)
 <!-- BLOG-POST-LIST:END -->
 
 
