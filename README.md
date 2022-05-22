@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PUBG: BATTLEGROUNDS lança atualização 17.2](https://marriedgames.com.br/noticias/pubg-lanca-atualizacao-17-2/)
+- [NEW STATE MOBILE recebe atualização de maio](https://marriedgames.com.br/noticias/new-state-mobile/)
 - [Anunciados os vencedores da Gala ‘Team Of The Season’ da LaLiga com a EA Sports](https://marriedgames.com.br/noticias/laliga-com-a-ea-sports/)
 - [Path of Exile: Sentinel Já Está Disponível Para os Consoles PlayStation 4 e Xbox One](https://marriedgames.com.br/noticias/path-of-exile-sentinel/)
 - [Final do Free Fire World Series &lpar;FFWS&rpar; acontece neste sábado &lpar;21&rpar;](https://marriedgames.com.br/noticias/final-do-free-fire-world-series/)
-- [Santa Monica revela novos recursos de acessibilidade em God of War Ragnarok](https://marriedgames.com.br/noticias/god-of-war-ragnarok/)
-- [Eliminatórias da primeira edição da Liga Brasileira de Sinuquinha começam neste sábado](https://marriedgames.com.br/noticias/liga-brasileira-de-sinuquinha/)
 <!-- BLOG-POST-LIST:END -->
 
 
