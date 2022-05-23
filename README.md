@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Omelete e BIG Festival 2022 se juntam para anunciar o evento de games, criação e negócios](https://marriedgames.com.br/noticias/big-festival-2022-3/)
+- [WhastCipa: Game coloca cotidiano dos condomínios de forma divertida no mundo virtual](https://marriedgames.com.br/noticias/whastcipa-game-cotidiano-condominios/)
 - [PUBG: BATTLEGROUNDS lança atualização 17.2](https://marriedgames.com.br/noticias/pubg-lanca-atualizacao-17-2/)
 - [NEW STATE MOBILE recebe atualização de maio](https://marriedgames.com.br/noticias/new-state-mobile/)
 - [Anunciados os vencedores da Gala ‘Team Of The Season’ da LaLiga com a EA Sports](https://marriedgames.com.br/noticias/laliga-com-a-ea-sports/)
-- [Path of Exile: Sentinel Já Está Disponível Para os Consoles PlayStation 4 e Xbox One](https://marriedgames.com.br/noticias/path-of-exile-sentinel/)
-- [Final do Free Fire World Series &lpar;FFWS&rpar; acontece neste sábado &lpar;21&rpar;](https://marriedgames.com.br/noticias/final-do-free-fire-world-series/)
 <!-- BLOG-POST-LIST:END -->
 
 
