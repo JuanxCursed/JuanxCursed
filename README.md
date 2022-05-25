@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Omelete e BIG Festival 2022 se juntam para anunciar o evento de games, criação e negócios](https://marriedgames.com.br/noticias/big-festival-2022-3/)
-- [WhastCipa: Game coloca cotidiano dos condomínios de forma divertida no mundo virtual](https://marriedgames.com.br/noticias/whastcipa-game-cotidiano-condominios/)
-- [PUBG: BATTLEGROUNDS lança atualização 17.2](https://marriedgames.com.br/noticias/pubg-lanca-atualizacao-17-2/)
-- [NEW STATE MOBILE recebe atualização de maio](https://marriedgames.com.br/noticias/new-state-mobile/)
-- [Anunciados os vencedores da Gala ‘Team Of The Season’ da LaLiga com a EA Sports](https://marriedgames.com.br/noticias/laliga-com-a-ea-sports/)
+- [Semana do Orgulho Nerd: Hype Games têm até 90% de desconto](https://marriedgames.com.br/noticias/semana-do-orgulho-nerd/)
+- [NVIDIA na COMPUTEX: ‘F1 22’ e ‘HITMAN 3’ entre os 12 novos jogos com DLSS](https://marriedgames.com.br/noticias/nvidia-na-computex/)
+- [Começa o lançamento da nova PlayStation Plus – Brasil será contemplado em 13 de junho](https://marriedgames.com.br/noticias/nova-playstation-plus/)
+- [Expansão Looney Tunes anunciada para Hot Wheels Unleashed](https://marriedgames.com.br/noticias/expansao-looney-tunes/)
+- [Apex Legends Mobile já pode ser recarregado na Codashop com cashback](https://marriedgames.com.br/noticias/apex-legends-mobile/)
 <!-- BLOG-POST-LIST:END -->
 
 
