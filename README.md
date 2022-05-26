@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Semana do Orgulho Nerd: Hype Games têm até 90% de desconto](https://marriedgames.com.br/noticias/semana-do-orgulho-nerd/)
-- [NVIDIA na COMPUTEX: ‘F1 22’ e ‘HITMAN 3’ entre os 12 novos jogos com DLSS](https://marriedgames.com.br/noticias/nvidia-na-computex/)
-- [Começa o lançamento da nova PlayStation Plus – Brasil será contemplado em 13 de junho](https://marriedgames.com.br/noticias/nova-playstation-plus/)
-- [Expansão Looney Tunes anunciada para Hot Wheels Unleashed](https://marriedgames.com.br/noticias/expansao-looney-tunes/)
-- [Apex Legends Mobile já pode ser recarregado na Codashop com cashback](https://marriedgames.com.br/noticias/apex-legends-mobile/)
+- [Trovo e Hype Games se unem no Dia do Orgulho Nerd em parceria](https://marriedgames.com.br/noticias/trovo-e-hype-games-se-unem-no-dia-do-orgulho-nerd-em-parceria/)
+- [Stock Car lança primeiro campeonato virtual oficial para a temporada 2022](https://marriedgames.com.br/noticias/stock-car-lanca-primeiro/)
+- [Nova Temporada Helheim chega a Conqueror’s Blade em 9 de junho!](https://marriedgames.com.br/noticias/nova-temporada-helheim-chega-a-conquerors-blade-em-9-de-junho/)
+- [Pearl Abyss anuncia que assumirá publicação de Black Desert Online na América do Sul](https://marriedgames.com.br/noticias/publicacao-de-black-desert-online/)
+- [5ª edição do torneio oficial de Gran Turismo começa dia 27 de maio](https://marriedgames.com.br/noticias/torneio-oficial-de-gran-turismo/)
 <!-- BLOG-POST-LIST:END -->
 
 
