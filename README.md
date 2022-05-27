@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [História em Quadrinhos: Como fazer e ganhar dinheiro publicando suas HQs](https://marriedgames.com.br/dicas-guias/criar-historia-em-quadrinhos/)
 - [Trovo e Hype Games se unem no Dia do Orgulho Nerd em parceria](https://marriedgames.com.br/noticias/trovo-e-hype-games-se-unem-no-dia-do-orgulho-nerd-em-parceria/)
 - [Stock Car lança primeiro campeonato virtual oficial para a temporada 2022](https://marriedgames.com.br/noticias/stock-car-lanca-primeiro/)
 - [Nova Temporada Helheim chega a Conqueror’s Blade em 9 de junho!](https://marriedgames.com.br/noticias/nova-temporada-helheim-chega-a-conquerors-blade-em-9-de-junho/)
 - [Pearl Abyss anuncia que assumirá publicação de Black Desert Online na América do Sul](https://marriedgames.com.br/noticias/publicacao-de-black-desert-online/)
-- [5ª edição do torneio oficial de Gran Turismo começa dia 27 de maio](https://marriedgames.com.br/noticias/torneio-oficial-de-gran-turismo/)
 <!-- BLOG-POST-LIST:END -->
 
 
