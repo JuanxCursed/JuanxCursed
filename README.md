@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como Ganhar Dinheiro Aprendendo a Desenhar Melhor? O Segredo para Transformar Ilustrações em Fonte de Renda](https://marriedgames.com.br/dicas-guias/desenhar-melhor/)
+- [Avell lança HYB, nova linha de notebooks e atualiza o Storm com refrigeração por água](https://marriedgames.com.br/noticias/avell-lanca-hyb/)
+- [NVIDIA finaliza 1º trimestre com receita recorde de US$ 8,29 bilhões](https://marriedgames.com.br/noticias/nvidia-finaliza/)
 - [Os 8 melhores aplicativos de Desenho para Desenhar no Android de GRAÇA](https://marriedgames.com.br/dicas-guias/app-de-desenho-para-desenhar/)
 - [Atualização de The Witcher: Monster Slayer já disponível!](https://marriedgames.com.br/noticias/the-witcher-monster-slayer/)
-- [Conheça os times que participarão da Taça da Patroa](https://marriedgames.com.br/noticias/taca-da-patroa/)
-- [Confira os melhores momentos da PUBG MOBILE Club Open 2022](https://marriedgames.com.br/noticias/pubg-mobile-club-open/)
-- [História em Quadrinhos: Como fazer e ganhar dinheiro publicando suas HQs](https://marriedgames.com.br/dicas-guias/criar-historia-em-quadrinhos/)
 <!-- BLOG-POST-LIST:END -->
 
 
