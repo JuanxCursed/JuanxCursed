@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [O cultuado jogo de turnos The Battle of Polytopia lança expansão de Diplomacia](https://marriedgames.com.br/noticias/the-battle-of-polytopia/)
+- [Novo State of Play trará novidades do PS VR 2](https://marriedgames.com.br/noticias/novidades-do-ps-vr-2/)
+- [Segredos de Desenhistas: 6 Personagens com Desenhos Fáceis para você Copiar e Aprender](https://marriedgames.com.br/dicas-guias/desenhos-faceis-para-copiar/)
 - [Como Ganhar Dinheiro Aprendendo a Desenhar Melhor? O Segredo para Transformar Ilustrações em Fonte de Renda](https://marriedgames.com.br/dicas-guias/desenhar-melhor/)
 - [Avell lança HYB, nova linha de notebooks e atualiza o Storm com refrigeração por água](https://marriedgames.com.br/noticias/avell-lanca-hyb/)
-- [NVIDIA finaliza 1º trimestre com receita recorde de US$ 8,29 bilhões](https://marriedgames.com.br/noticias/nvidia-finaliza/)
-- [Os 8 melhores aplicativos de Desenho para Desenhar no Android de GRAÇA](https://marriedgames.com.br/dicas-guias/app-de-desenho-para-desenhar/)
-- [Atualização de The Witcher: Monster Slayer já disponível!](https://marriedgames.com.br/noticias/the-witcher-monster-slayer/)
 <!-- BLOG-POST-LIST:END -->
 
 
