@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Estrelas Radiantes do Pokémon Estampas Ilustradas está sendo lançada hoje](https://marriedgames.com.br/noticias/estrelas-radiantes-do-pokemon/)
+- [Fintechs abraçam o mundo gamer e investem para viabilizar acesso ao universo virtual](https://marriedgames.com.br/noticias/mundo-gamer/)
+- [Diablo Immortal: As portas do inferno se abrirão](https://marriedgames.com.br/noticias/portas-do-inferno/)
+- [Compositor e produtor Shota Nakama é uma das atrações confirmadas da BGS 2022](https://marriedgames.com.br/noticias/shota-nakama-bgs-2022/)
 - [O cultuado jogo de turnos The Battle of Polytopia lança expansão de Diplomacia](https://marriedgames.com.br/noticias/the-battle-of-polytopia/)
-- [Novo State of Play trará novidades do PS VR 2](https://marriedgames.com.br/noticias/novidades-do-ps-vr-2/)
-- [Segredos de Desenhistas: 6 Personagens com Desenhos Fáceis para você Copiar e Aprender](https://marriedgames.com.br/dicas-guias/desenhos-faceis-para-copiar/)
-- [Como Ganhar Dinheiro Aprendendo a Desenhar Melhor? O Segredo para Transformar Ilustrações em Fonte de Renda](https://marriedgames.com.br/dicas-guias/desenhar-melhor/)
-- [Avell lança HYB, nova linha de notebooks e atualiza o Storm com refrigeração por água](https://marriedgames.com.br/noticias/avell-lanca-hyb/)
 <!-- BLOG-POST-LIST:END -->
 
 
