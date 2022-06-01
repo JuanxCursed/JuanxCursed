@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Estrelas Radiantes do Pokémon Estampas Ilustradas está sendo lançada hoje](https://marriedgames.com.br/noticias/estrelas-radiantes-do-pokemon/)
-- [Fintechs abraçam o mundo gamer e investem para viabilizar acesso ao universo virtual](https://marriedgames.com.br/noticias/mundo-gamer/)
-- [Diablo Immortal: As portas do inferno se abrirão](https://marriedgames.com.br/noticias/portas-do-inferno/)
-- [Compositor e produtor Shota Nakama é uma das atrações confirmadas da BGS 2022](https://marriedgames.com.br/noticias/shota-nakama-bgs-2022/)
-- [O cultuado jogo de turnos The Battle of Polytopia lança expansão de Diplomacia](https://marriedgames.com.br/noticias/the-battle-of-polytopia/)
+- [Razer leva o estilo gamer para as ruas com a nova linha de headsets gamer Razer Barracuda](https://marriedgames.com.br/noticias/headsets-gamer-razer-barracuda/)
+- [PUBG: BATTLEGROUNDS anuncia atualização 18.1](https://marriedgames.com.br/noticias/atualizacao-18-1/)
+- [Quantas estradas um homem deve percorrer antes que possamos chamá-lo de gamer hardcore?](https://marriedgames.com.br/dicas-guias/gamer-hardcore/)
+- [Atualização de Hearthstone chega trazendo Miniconjunto Trono das Marés, e muito mais!](https://marriedgames.com.br/noticias/atualizacao-de-hearthstone-2/)
+- [Panorama Brasil apresenta 30 jogos no BIG Festival 2022](https://marriedgames.com.br/noticias/panorama-brasil/)
 <!-- BLOG-POST-LIST:END -->
 
 
