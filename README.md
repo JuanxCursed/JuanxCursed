@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Razer leva o estilo gamer para as ruas com a nova linha de headsets gamer Razer Barracuda](https://marriedgames.com.br/noticias/headsets-gamer-razer-barracuda/)
-- [PUBG: BATTLEGROUNDS anuncia atualização 18.1](https://marriedgames.com.br/noticias/atualizacao-18-1/)
-- [Quantas estradas um homem deve percorrer antes que possamos chamá-lo de gamer hardcore?](https://marriedgames.com.br/dicas-guias/gamer-hardcore/)
-- [Atualização de Hearthstone chega trazendo Miniconjunto Trono das Marés, e muito mais!](https://marriedgames.com.br/noticias/atualizacao-de-hearthstone-2/)
-- [Panorama Brasil apresenta 30 jogos no BIG Festival 2022](https://marriedgames.com.br/noticias/panorama-brasil/)
+- [EA realiza Apex Legends Global Series Ano 2 Championship na PNC Arena](https://marriedgames.com.br/noticias/apex-legends-global-series/)
+- [O metroidvania indispensável, Souldiers, já está disponível](https://marriedgames.com.br/noticias/o-metroidvania-indispensavel-souldiers-ja-esta-disponivel/)
+- [Fueled Up Multiplayer Demo já está disponível no Steam antes do próximo festival do Steam](https://marriedgames.com.br/noticias/fueled-up-multiplayer/)
+- [Você viu: Quarta temporada de Stranger Things atinge recorde de visualizações na Netflix](https://marriedgames.com.br/noticias/quarta-temporada-de-stranger-things-2/)
+- [Influence Rage é a grande vencedora da PUBG MOBILE Pro League Américas Spring 2022](https://marriedgames.com.br/noticias/influence-rage/)
 <!-- BLOG-POST-LIST:END -->
 
 
