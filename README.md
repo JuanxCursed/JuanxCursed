@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [EA realiza Apex Legends Global Series Ano 2 Championship na PNC Arena](https://marriedgames.com.br/noticias/apex-legends-global-series/)
-- [O metroidvania indispensável, Souldiers, já está disponível](https://marriedgames.com.br/noticias/o-metroidvania-indispensavel-souldiers-ja-esta-disponivel/)
-- [Fueled Up Multiplayer Demo já está disponível no Steam antes do próximo festival do Steam](https://marriedgames.com.br/noticias/fueled-up-multiplayer/)
-- [Você viu: Quarta temporada de Stranger Things atinge recorde de visualizações na Netflix](https://marriedgames.com.br/noticias/quarta-temporada-de-stranger-things-2/)
-- [Influence Rage é a grande vencedora da PUBG MOBILE Pro League Américas Spring 2022](https://marriedgames.com.br/noticias/influence-rage/)
+- [Razer celebra o Dia Mundial do Meio Ambiente com anúncio dos primeiros mouses gamer com certificação ecológica](https://marriedgames.com.br/noticias/mouses-gamer-com-certificacao/)
+- [Série ‘The Boys’ chega ao campo de batalha de PUBG MOBILE](https://marriedgames.com.br/noticias/serie-the-boys/)
+- [Tradicional Arraiá Free Fire retorna com recompensas gratuitas até o dia 22 de junho](https://marriedgames.com.br/noticias/tradicional-arraia-free-fire/)
+- [Pokémon GO celebra o lançamento da expansão em Pokémon Estampas Ilustradas com eventos temáticos no jogo](https://marriedgames.com.br/noticias/pokemon-go-celebra/)
+- [Shopping Tamboré recebe novo parque conceito da Game Station](https://marriedgames.com.br/noticias/game-station/)
 <!-- BLOG-POST-LIST:END -->
 
 
