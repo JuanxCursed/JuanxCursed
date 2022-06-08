@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Razer celebra o Dia Mundial do Meio Ambiente com anúncio dos primeiros mouses gamer com certificação ecológica](https://marriedgames.com.br/noticias/mouses-gamer-com-certificacao/)
-- [Série ‘The Boys’ chega ao campo de batalha de PUBG MOBILE](https://marriedgames.com.br/noticias/serie-the-boys/)
-- [Tradicional Arraiá Free Fire retorna com recompensas gratuitas até o dia 22 de junho](https://marriedgames.com.br/noticias/tradicional-arraia-free-fire/)
-- [Pokémon GO celebra o lançamento da expansão em Pokémon Estampas Ilustradas com eventos temáticos no jogo](https://marriedgames.com.br/noticias/pokemon-go-celebra/)
-- [Shopping Tamboré recebe novo parque conceito da Game Station](https://marriedgames.com.br/noticias/game-station/)
+- [Charon’s Staircase é o novo jogo de terror da SOEDESCO e chega neste ano para PCs e consoles](https://marriedgames.com.br/noticias/charons-staircase/)
+- [Spike Ladies, 3ª edição do torneio parceiro oficial do VCT Game Changers Academy retorna neste mês](https://marriedgames.com.br/noticias/spike-ladies/)
+- [REVELADA A DATA DE LANÇAMENTO DE POKÉMON SCARLET E POKÉMON VIOLET](https://marriedgames.com.br/noticias/lancamento-de-pokemon/)
+- [DUX, startup brasileira de Web 3.0, lança Dubdogz no metaverso](https://marriedgames.com.br/noticias/dubdogz-no-metaverso/)
+- [Riot Games e Gamers Club anunciam parceria para o cenário semiprofissional de VALORANT](https://marriedgames.com.br/noticias/riot-games-e-gamers-club/)
 <!-- BLOG-POST-LIST:END -->
 
 
