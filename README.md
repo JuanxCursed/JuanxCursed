@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Charon’s Staircase é o novo jogo de terror da SOEDESCO e chega neste ano para PCs e consoles](https://marriedgames.com.br/noticias/charons-staircase/)
-- [Spike Ladies, 3ª edição do torneio parceiro oficial do VCT Game Changers Academy retorna neste mês](https://marriedgames.com.br/noticias/spike-ladies/)
-- [REVELADA A DATA DE LANÇAMENTO DE POKÉMON SCARLET E POKÉMON VIOLET](https://marriedgames.com.br/noticias/lancamento-de-pokemon/)
-- [DUX, startup brasileira de Web 3.0, lança Dubdogz no metaverso](https://marriedgames.com.br/noticias/dubdogz-no-metaverso/)
-- [Riot Games e Gamers Club anunciam parceria para o cenário semiprofissional de VALORANT](https://marriedgames.com.br/noticias/riot-games-e-gamers-club/)
+- [BATTLEFIELD 2042: HORA ZERO LEVA A LUTA PARA AS MONTANHAS NA TEMPORADA 1](https://marriedgames.com.br/noticias/battlefield-2042-hora-zero/)
+- [Teamfight Tactics revela novo trailer de animação para comemorar o lançamento do próximo conjunto, Terras Dracônicas](https://marriedgames.com.br/noticias/terras-draconicas/)
+- [Viper Pro Gamer faz pré-lançamento da sua linha de periféricos gamers](https://marriedgames.com.br/noticias/viper-pro-gamer/)
+- [Razer transforma experiência de jogos mobile com o novo Kishi V2](https://marriedgames.com.br/noticias/razer-transforma-experiencia/)
+- [SEGA revela programação do ouriço azul no Sonic Central](https://marriedgames.com.br/noticias/ourico-azul-no-sonic-central/)
 <!-- BLOG-POST-LIST:END -->
 
 
