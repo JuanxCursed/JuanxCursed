@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BATTLEFIELD 2042: HORA ZERO LEVA A LUTA PARA AS MONTANHAS NA TEMPORADA 1](https://marriedgames.com.br/noticias/battlefield-2042-hora-zero/)
-- [Teamfight Tactics revela novo trailer de animação para comemorar o lançamento do próximo conjunto, Terras Dracônicas](https://marriedgames.com.br/noticias/terras-draconicas/)
-- [Viper Pro Gamer faz pré-lançamento da sua linha de periféricos gamers](https://marriedgames.com.br/noticias/viper-pro-gamer/)
-- [Razer transforma experiência de jogos mobile com o novo Kishi V2](https://marriedgames.com.br/noticias/razer-transforma-experiencia/)
-- [SEGA revela programação do ouriço azul no Sonic Central](https://marriedgames.com.br/noticias/ourico-azul-no-sonic-central/)
+- [Tumblr.com: Saiba o que é e como ter Sucesso ao Expor seus Desenhos nesta Rede Social](https://marriedgames.com.br/dicas-guias/tumblr-desenhos/)
+- [Call of Duty: Modern Warfare II chega em 28 de outubro para consoles Playstation, Xbox e PC e está disponível para pré-venda](https://marriedgames.com.br/noticias/call-of-duty-modern-warfare/)
+- [Semifinal e final da Taça da Patroa acontecem neste fim de semana](https://marriedgames.com.br/noticias/final-da-taca-da-patroa/)
+- [Saiba como Montar seu PC Gamer: Segredos que você não verá por aí sobre montar um computador para jogos](https://marriedgames.com.br/dicas-guias/montar-seu-pc-gamer/)
+- [NTT DATA apoia iniciativas para incentivar a presença de mulheres na tecnologia](https://marriedgames.com.br/noticias/ntt-data-apoia-iniciativas/)
 <!-- BLOG-POST-LIST:END -->
 
 
