@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tumblr.com: Saiba o que é e como ter Sucesso ao Expor seus Desenhos nesta Rede Social](https://marriedgames.com.br/dicas-guias/tumblr-desenhos/)
-- [Call of Duty: Modern Warfare II chega em 28 de outubro para consoles Playstation, Xbox e PC e está disponível para pré-venda](https://marriedgames.com.br/noticias/call-of-duty-modern-warfare/)
-- [Semifinal e final da Taça da Patroa acontecem neste fim de semana](https://marriedgames.com.br/noticias/final-da-taca-da-patroa/)
-- [Saiba como Montar seu PC Gamer: Segredos que você não verá por aí sobre montar um computador para jogos](https://marriedgames.com.br/dicas-guias/montar-seu-pc-gamer/)
-- [NTT DATA apoia iniciativas para incentivar a presença de mulheres na tecnologia](https://marriedgames.com.br/noticias/ntt-data-apoia-iniciativas/)
+- [Os 5 melhores sites para pintar desenhos online e de graça](https://marriedgames.com.br/dicas-guias/desenhos-para-pintar-online/)
+- [Conheça Asa Noturna, novo super-herói de Gotham Knights, em trailer inédito](https://marriedgames.com.br/noticias/asa-noturna-gotham-knights/)
+- [‘Warhammer 40.000: Darktide’ será lançado com NVIDIA DLSS, NVIDIA Reflex e Ray Tracing](https://marriedgames.com.br/noticias/warhammer-40-000-darktide/)
+- [Shopee marca presença em programas de domingo da TV aberta](https://marriedgames.com.br/noticias/shopee-marca-presenca/)
+- [HUMANKIND entra em pré-venda para consoles e recebe DLC já disponível “Culturas da América Latina”](https://marriedgames.com.br/noticias/humankind-entra-em-pre-venda/)
 <!-- BLOG-POST-LIST:END -->
 
 
