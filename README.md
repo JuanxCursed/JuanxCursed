@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Melhores programas para fazer desenho animado online e de graça](https://marriedgames.com.br/dicas-guias/desenho-animado/)
+- [Com equipes na arena, Campeonato Brasileiro de Rainbow Six Siege 2022 retorna com disputas válidas pelo segundo turno](https://marriedgames.com.br/noticias/campeonato-brasileiro-de-rainbow-six-2/)
+- [GOAT SIMULATOR 3 SERÁ LANÇADO NESTE OUTONO COM MULTIPLAYER ONLINE PARA 4 “PESSOAS”](https://marriedgames.com.br/noticias/goat-simulator-3/)
 - [Os 5 melhores sites para pintar desenhos online e de graça](https://marriedgames.com.br/dicas-guias/desenhos-para-pintar-online/)
 - [Conheça Asa Noturna, novo super-herói de Gotham Knights, em trailer inédito](https://marriedgames.com.br/noticias/asa-noturna-gotham-knights/)
-- [‘Warhammer 40.000: Darktide’ será lançado com NVIDIA DLSS, NVIDIA Reflex e Ray Tracing](https://marriedgames.com.br/noticias/warhammer-40-000-darktide/)
-- [Shopee marca presença em programas de domingo da TV aberta](https://marriedgames.com.br/noticias/shopee-marca-presenca/)
-- [HUMANKIND entra em pré-venda para consoles e recebe DLC já disponível “Culturas da América Latina”](https://marriedgames.com.br/noticias/humankind-entra-em-pre-venda/)
 <!-- BLOG-POST-LIST:END -->
 
 
