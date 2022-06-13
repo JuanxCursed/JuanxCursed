@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Passe de Temporada 5 de NARUTO TO BORUTO: SHINOBI STRIKER SEASON PASS 5 é Lançado](https://marriedgames.com.br/noticias/temporada-5-de-naruto-to-boruto/)
+- [HEINEKEN 0.0 FIRMA PARCERIAS COM CBLOL E TORNEIOS DE iRACING E INAUGURA PLATAFORMA FOCADA EM GAMES](https://marriedgames.com.br/noticias/cblol-e-torneios-de-iracing/)
+- [Presidente da Positivo Tecnologia representa o Brasil em iniciativa global sobre empreendedorismo](https://marriedgames.com.br/noticias/presidente-da-positivo-tecnologia/)
 - [10 Melhores programas para fazer desenho animado online e de graça](https://marriedgames.com.br/dicas-guias/desenho-animado/)
 - [Com equipes na arena, Campeonato Brasileiro de Rainbow Six Siege 2022 retorna com disputas válidas pelo segundo turno](https://marriedgames.com.br/noticias/campeonato-brasileiro-de-rainbow-six-2/)
-- [GOAT SIMULATOR 3 SERÁ LANÇADO NESTE OUTONO COM MULTIPLAYER ONLINE PARA 4 “PESSOAS”](https://marriedgames.com.br/noticias/goat-simulator-3/)
-- [Os 5 melhores sites para pintar desenhos online e de graça](https://marriedgames.com.br/dicas-guias/desenhos-para-pintar-online/)
-- [Conheça Asa Noturna, novo super-herói de Gotham Knights, em trailer inédito](https://marriedgames.com.br/noticias/asa-noturna-gotham-knights/)
 <!-- BLOG-POST-LIST:END -->
 
 
