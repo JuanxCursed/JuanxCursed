@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Passe de Temporada 5 de NARUTO TO BORUTO: SHINOBI STRIKER SEASON PASS 5 é Lançado](https://marriedgames.com.br/noticias/temporada-5-de-naruto-to-boruto/)
-- [HEINEKEN 0.0 FIRMA PARCERIAS COM CBLOL E TORNEIOS DE iRACING E INAUGURA PLATAFORMA FOCADA EM GAMES](https://marriedgames.com.br/noticias/cblol-e-torneios-de-iracing/)
-- [Presidente da Positivo Tecnologia representa o Brasil em iniciativa global sobre empreendedorismo](https://marriedgames.com.br/noticias/presidente-da-positivo-tecnologia/)
-- [10 Melhores programas para fazer desenho animado online e de graça](https://marriedgames.com.br/dicas-guias/desenho-animado/)
-- [Com equipes na arena, Campeonato Brasileiro de Rainbow Six Siege 2022 retorna com disputas válidas pelo segundo turno](https://marriedgames.com.br/noticias/campeonato-brasileiro-de-rainbow-six-2/)
+- [Guia Definitivo para Desenhar Anime e Mangá: 5 dicas que você precisa saber para fazer bons desenhos](https://marriedgames.com.br/dicas-guias/desenhos-de-animes/)
+- [CBLOL estreia da 2ª etapa e é marcada por retorno da torcida e ativações do mês do Orgulho LGBTQIA+](https://marriedgames.com.br/noticias/cblol-estreia-da-2/)
+- [Fintech Rapyd lança concurso “de outro mundo”: Hack the Galaxy vai premiar desenvolvedores](https://marriedgames.com.br/noticias/hack-the-galaxy/)
+- [Esports: projetos exclusivos furam bolha gamer e conseguem atrair novos anunciantes](https://marriedgames.com.br/noticias/gamers-club/)
+- [BULLETS – BEAUTY – BADASS, NOVO TRAILER DE GUNGRAVE QUE É 100% G.O.R.E](https://marriedgames.com.br/noticias/novo-trailer-de-gungrave/)
 <!-- BLOG-POST-LIST:END -->
 
 
