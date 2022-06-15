@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Guia Definitivo para Desenhar Anime e Mangá: 5 dicas que você precisa saber para fazer bons desenhos](https://marriedgames.com.br/dicas-guias/desenhos-de-animes/)
-- [CBLOL estreia da 2ª etapa e é marcada por retorno da torcida e ativações do mês do Orgulho LGBTQIA+](https://marriedgames.com.br/noticias/cblol-estreia-da-2/)
-- [Fintech Rapyd lança concurso “de outro mundo”: Hack the Galaxy vai premiar desenvolvedores](https://marriedgames.com.br/noticias/hack-the-galaxy/)
-- [Esports: projetos exclusivos furam bolha gamer e conseguem atrair novos anunciantes](https://marriedgames.com.br/noticias/gamers-club/)
-- [BULLETS – BEAUTY – BADASS, NOVO TRAILER DE GUNGRAVE QUE É 100% G.O.R.E](https://marriedgames.com.br/noticias/novo-trailer-de-gungrave/)
+- [APEX LEGENDS MOBILE: ONDA DE FRIO É LANÇADA TRAZENDO A LOBA PARA OS JOGOS](https://marriedgames.com.br/noticias/apex-legends-mobile-2/)
+- [Brasil Game Show anuncia Webedia Gaming como parceira de mídia](https://marriedgames.com.br/noticias/webedia-gaming/)
+- [EA SPORTS FIFA 22 ANUNCIA A SELEÇÃO DA TEMPORADA ULTIMATE](https://marriedgames.com.br/noticias/ea-sports-fifa-22/)
+- [Nova Playstation Plus: Privacidade, titularidade e outros aspectos contratuais](https://marriedgames.com.br/noticias/nova-playstation-plus-2/)
+- [Ana Maria Braga estrela campanha de empresa global de Braintaiment](https://marriedgames.com.br/noticias/braintaiment/)
 <!-- BLOG-POST-LIST:END -->
 
 
