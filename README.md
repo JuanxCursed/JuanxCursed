@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [APEX LEGENDS MOBILE: ONDA DE FRIO É LANÇADA TRAZENDO A LOBA PARA OS JOGOS](https://marriedgames.com.br/noticias/apex-legends-mobile-2/)
-- [Brasil Game Show anuncia Webedia Gaming como parceira de mídia](https://marriedgames.com.br/noticias/webedia-gaming/)
-- [EA SPORTS FIFA 22 ANUNCIA A SELEÇÃO DA TEMPORADA ULTIMATE](https://marriedgames.com.br/noticias/ea-sports-fifa-22/)
-- [Nova Playstation Plus: Privacidade, titularidade e outros aspectos contratuais](https://marriedgames.com.br/noticias/nova-playstation-plus-2/)
-- [Ana Maria Braga estrela campanha de empresa global de Braintaiment](https://marriedgames.com.br/noticias/braintaiment/)
+- [Como fazer História em Quadrinhos e Ganhar Dinheiro Publicando Elas](https://marriedgames.com.br/dicas-guias/criar-historia-em-quadrinhos/)
+- [Black Desert Online iniciará transferência de servidor na próxima semana](https://marriedgames.com.br/noticias/black-desert-online/)
+- [Nobru anuncia data da nova temporada da CPN Arena 4×4](https://marriedgames.com.br/noticias/nova-temporada-da-cpn-arena/)
+- [Segurança digital: entenda a importância da proteção antivírus em roteadores](https://marriedgames.com.br/noticias/seguranca-digital-tp-link/)
+- [Com tema “Corrida do Milhão”, C.O.P.A. FF acontece na próxima semana](https://marriedgames.com.br/noticias/corrida-do-milhao/)
 <!-- BLOG-POST-LIST:END -->
 
 
