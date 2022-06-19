@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Modo Redenção: Uni-vos já está disponível](https://marriedgames.com.br/noticias/modo-redencao/)
+- [Overwatch está de volta!](https://marriedgames.com.br/noticias/overwatch-esta-de-volta/)
+- [Hot Wheels Unleashed – Jurassic World Racing Season já está disponível](https://marriedgames.com.br/noticias/jurassic-world-racing/)
 - [2° turno do Campeonato Brasileiro de Rainbow Six Siege 2022 começa no fim de semana](https://marriedgames.com.br/noticias/brasileiro-de-rainbow-six-siege-2022/)
 - [Temporada 2 em ação total e móvel atualizada do PES para “eFootball 2022”](https://marriedgames.com.br/noticias/efootball-2022/)
-- [World of Warships e World of Warships: Legends celebram o inverno com novos conteúdos](https://marriedgames.com.br/noticias/inverno-com-novos-conteudos/)
-- [Brasil Game Show anuncia a participação do YouTube Gaming na edição presencial de outubro](https://marriedgames.com.br/noticias/youtube-gaming-na-bgs/)
-- [Como fazer História em Quadrinhos e Ganhar Dinheiro Publicando Elas](https://marriedgames.com.br/dicas-guias/criar-historia-em-quadrinhos/)
 <!-- BLOG-POST-LIST:END -->
 
 
