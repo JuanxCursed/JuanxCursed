@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [O VI Torneio Internacional LaLiga Promises Santander viaja para Walt Disney World](https://marriedgames.com.br/noticias/laliga-promises-santander/)
 - [Modo Redenção: Uni-vos já está disponível](https://marriedgames.com.br/noticias/modo-redencao/)
 - [Overwatch está de volta!](https://marriedgames.com.br/noticias/overwatch-esta-de-volta/)
 - [Hot Wheels Unleashed – Jurassic World Racing Season já está disponível](https://marriedgames.com.br/noticias/jurassic-world-racing/)
 - [2° turno do Campeonato Brasileiro de Rainbow Six Siege 2022 começa no fim de semana](https://marriedgames.com.br/noticias/brasileiro-de-rainbow-six-siege-2022/)
-- [Temporada 2 em ação total e móvel atualizada do PES para “eFootball 2022”](https://marriedgames.com.br/noticias/efootball-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 
