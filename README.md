@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [O VI Torneio Internacional LaLiga Promises Santander viaja para Walt Disney World](https://marriedgames.com.br/noticias/laliga-promises-santander/)
-- [Modo Redenção: Uni-vos já está disponível](https://marriedgames.com.br/noticias/modo-redencao/)
-- [Overwatch está de volta!](https://marriedgames.com.br/noticias/overwatch-esta-de-volta/)
-- [Hot Wheels Unleashed – Jurassic World Racing Season já está disponível](https://marriedgames.com.br/noticias/jurassic-world-racing/)
-- [2° turno do Campeonato Brasileiro de Rainbow Six Siege 2022 começa no fim de semana](https://marriedgames.com.br/noticias/brasileiro-de-rainbow-six-siege-2022/)
+- [RRQ Akira é a grande vencedora da LIGA LATAM 2022!](https://marriedgames.com.br/noticias/liga-latam-2022/)
+- [Apresentando sua nova identidade visual de Free Fire se prepara para a temporada de novidades](https://marriedgames.com.br/noticias/identidade-visual-de-free-fire/)
+- [VOE NOS CÉUS DO HAZEL SKY](https://marriedgames.com.br/noticias/hazel-sky/)
+- [Xis OG Life conquista título das Finais Regionais e garante vaga para o mundial de Pokémon Unite](https://marriedgames.com.br/noticias/xis-og-life-pokemon-unite/)
+- [Xbox se junta a Gaules e sua Tribo para competição inédita de jogos do PC Game Pass](https://marriedgames.com.br/noticias/pc-game-pass/)
 <!-- BLOG-POST-LIST:END -->
 
 
