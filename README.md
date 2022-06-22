@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [RRQ Akira é a grande vencedora da LIGA LATAM 2022!](https://marriedgames.com.br/noticias/liga-latam-2022/)
-- [Apresentando sua nova identidade visual de Free Fire se prepara para a temporada de novidades](https://marriedgames.com.br/noticias/identidade-visual-de-free-fire/)
-- [VOE NOS CÉUS DO HAZEL SKY](https://marriedgames.com.br/noticias/hazel-sky/)
-- [Xis OG Life conquista título das Finais Regionais e garante vaga para o mundial de Pokémon Unite](https://marriedgames.com.br/noticias/xis-og-life-pokemon-unite/)
-- [Xbox se junta a Gaules e sua Tribo para competição inédita de jogos do PC Game Pass](https://marriedgames.com.br/noticias/pc-game-pass/)
+- [Company of Heroes 3 – Comemoração do 25º aniversário da Relic dá o game Armor of Heroes grátis](https://marriedgames.com.br/noticias/armor-of-heroes-gratis/)
+- [KONAMI anuncia “Free Weekend” para CRIMESIGHT, com 33% de desconto](https://marriedgames.com.br/noticias/crimesight/)
+- [B4 eSports está pronta para a disputa da C.O.P.A FF](https://marriedgames.com.br/noticias/b4-esports-esta-pronta-para-a-disputa-da-c-o-p-a-ff/)
+- [Influence Rage vence a 1º edição do Snapdragon Master Series de PUBG MOBILE](https://marriedgames.com.br/noticias/snapdragon-master-series/)
+- [CPN 4×4 bate mais de 5 milhões de views e 200 mil espectadores simultâneos](https://marriedgames.com.br/noticias/cpn-4x4-bate-mais-de-5-milhoes-de-views-e-200-mil-espectadores-simultaneos/)
 <!-- BLOG-POST-LIST:END -->
 
 
