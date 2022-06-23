@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Company of Heroes 3 – Comemoração do 25º aniversário da Relic dá o game Armor of Heroes grátis](https://marriedgames.com.br/noticias/armor-of-heroes-gratis/)
-- [KONAMI anuncia “Free Weekend” para CRIMESIGHT, com 33% de desconto](https://marriedgames.com.br/noticias/crimesight/)
-- [B4 eSports está pronta para a disputa da C.O.P.A FF](https://marriedgames.com.br/noticias/b4-esports-esta-pronta-para-a-disputa-da-c-o-p-a-ff/)
-- [Influence Rage vence a 1º edição do Snapdragon Master Series de PUBG MOBILE](https://marriedgames.com.br/noticias/snapdragon-master-series/)
-- [CPN 4×4 bate mais de 5 milhões de views e 200 mil espectadores simultâneos](https://marriedgames.com.br/noticias/cpn-4x4-bate-mais-de-5-milhoes-de-views-e-200-mil-espectadores-simultaneos/)
+- [Call of Duty: Vanguard e Warzone – Mercenários da Fortuna chega com novo mapa gratuito](https://marriedgames.com.br/noticias/mercenarios-da-fortuna/)
+- [Programação das transmissões do campeonato internacional Pokémon da América do Norte](https://marriedgames.com.br/noticias/campeonato-internacional-pokemon-2/)
+- [SEGA anuncia HYENAS, novo e chamativo jogo de tiro multiplayer](https://marriedgames.com.br/noticias/sega-anuncia-hyenas/)
+- [League of Legends: Nilah, A Alegria Irrestrita, defende o Rift de ameaças ancestrais](https://marriedgames.com.br/noticias/league-of-legends-nilah/)
+- [Indie Games Accelerator: Google Play oferece mentoria grátis para desenvolvedores de jogos](https://marriedgames.com.br/noticias/indie-games-accelerator/)
 <!-- BLOG-POST-LIST:END -->
 
 
