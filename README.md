@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Call of Duty: Vanguard e Warzone – Mercenários da Fortuna chega com novo mapa gratuito](https://marriedgames.com.br/noticias/mercenarios-da-fortuna/)
-- [Programação das transmissões do campeonato internacional Pokémon da América do Norte](https://marriedgames.com.br/noticias/campeonato-internacional-pokemon-2/)
-- [SEGA anuncia HYENAS, novo e chamativo jogo de tiro multiplayer](https://marriedgames.com.br/noticias/sega-anuncia-hyenas/)
-- [League of Legends: Nilah, A Alegria Irrestrita, defende o Rift de ameaças ancestrais](https://marriedgames.com.br/noticias/league-of-legends-nilah/)
-- [Indie Games Accelerator: Google Play oferece mentoria grátis para desenvolvedores de jogos](https://marriedgames.com.br/noticias/indie-games-accelerator/)
+- [Modo Redenção: Uni-vos chega ao Free Fire no próximo dia 25](https://marriedgames.com.br/noticias/modo-redencao-2/)
+- [Eleve sua experiência de entretenimento doméstico com o roteador HUAWEI WiFi AX2](https://marriedgames.com.br/noticias/huawei-wifi-ax2-2/)
+- [Los Grandes é indicada a categoria Gaming Heroes no MTV MIAW 2022](https://marriedgames.com.br/noticias/categoria-gaming-heroes/)
+- [Decole em 29 de junho com a Temporada 6 Call of Duty: Mobile – Nas Nuvens](https://marriedgames.com.br/noticias/temporada-6-call-of-duty/)
+- [Sonic Origins traz Sonic clássico para consoles da atual geração, Switch e PC hoje](https://marriedgames.com.br/noticias/sonic-classico-para-consoles/)
 <!-- BLOG-POST-LIST:END -->
 
 
