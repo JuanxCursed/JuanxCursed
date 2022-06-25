@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Modo Redenção: Uni-vos chega ao Free Fire no próximo dia 25](https://marriedgames.com.br/noticias/modo-redencao-2/)
-- [Eleve sua experiência de entretenimento doméstico com o roteador HUAWEI WiFi AX2](https://marriedgames.com.br/noticias/huawei-wifi-ax2-2/)
-- [Los Grandes é indicada a categoria Gaming Heroes no MTV MIAW 2022](https://marriedgames.com.br/noticias/categoria-gaming-heroes/)
-- [Decole em 29 de junho com a Temporada 6 Call of Duty: Mobile – Nas Nuvens](https://marriedgames.com.br/noticias/temporada-6-call-of-duty/)
-- [Sonic Origins traz Sonic clássico para consoles da atual geração, Switch e PC hoje](https://marriedgames.com.br/noticias/sonic-classico-para-consoles/)
+- [Capcom Fighting Collection Chega Hoje com um Combo de 10 Jogos de Luta Clássicos](https://marriedgames.com.br/noticias/capcom-fighting-collection/)
+- [Personagens da Great British Teddy Bear Company chegam ao PUBG MOBILE](https://marriedgames.com.br/noticias/great-british-teddy-bear/)
+- [BIG Festival 2022: veja o que jogar no evento](https://marriedgames.com.br/noticias/big-festival-2022-5/)
+- [Infinix destaca benefícios de smartphones com tela grande e alta taxa de atualização](https://marriedgames.com.br/noticias/infinix-destaca-beneficios/)
+- [Confronto de revelações do cenário movimenta segunda semana do Campeonato Brasileiro de Rainbow Six Siege 2022](https://marriedgames.com.br/noticias/campeonato-brasileiro-de-rainbow-six-3/)
 <!-- BLOG-POST-LIST:END -->
 
 
