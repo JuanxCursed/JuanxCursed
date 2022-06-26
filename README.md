@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [W7M Esports assume 50% da operação e anuncia nova fase do Podcast GGIZZI](https://marriedgames.com.br/noticias/w7m-esports-assume/)
 - [Capcom Fighting Collection Chega Hoje com um Combo de 10 Jogos de Luta Clássicos](https://marriedgames.com.br/noticias/capcom-fighting-collection/)
 - [Personagens da Great British Teddy Bear Company chegam ao PUBG MOBILE](https://marriedgames.com.br/noticias/great-british-teddy-bear/)
 - [BIG Festival 2022: veja o que jogar no evento](https://marriedgames.com.br/noticias/big-festival-2022-5/)
 - [Infinix destaca benefícios de smartphones com tela grande e alta taxa de atualização](https://marriedgames.com.br/noticias/infinix-destaca-beneficios/)
-- [Confronto de revelações do cenário movimenta segunda semana do Campeonato Brasileiro de Rainbow Six Siege 2022](https://marriedgames.com.br/noticias/campeonato-brasileiro-de-rainbow-six-3/)
 <!-- BLOG-POST-LIST:END -->
 
 
