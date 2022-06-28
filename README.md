@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Way of the Hunter: Traga a Camuflagem, Munição, Patos e Bucks!](https://marriedgames.com.br/noticias/way-of-the-hunter/)
-- [Após crescimento de 190%, AliExpress oferecerá descontos progressivos a usuários](https://marriedgames.com.br/noticias/aliexpress/)
-- [W7M Esports assume 50% da operação e anuncia nova fase do Podcast GGIZZI](https://marriedgames.com.br/noticias/w7m-esports-assume/)
-- [Capcom Fighting Collection Chega Hoje com um Combo de 10 Jogos de Luta Clássicos](https://marriedgames.com.br/noticias/capcom-fighting-collection/)
-- [Personagens da Great British Teddy Bear Company chegam ao PUBG MOBILE](https://marriedgames.com.br/noticias/great-british-teddy-bear/)
+- [POCO X4 GT: Velocidade Sem Limites para os Jogadores e Amantes de Tecnologia](https://marriedgames.com.br/noticias/poco-x4-gt/)
+- [POCO F4: Conheça esse FlagShip Feito sob medida para Mobile Gamers e Amantes de Tecnologia](https://marriedgames.com.br/noticias/poco-f4/)
+- [LG lança ar-condicionado Dual Inverter Voice com capacidade exclusiva de 15.000 BTUs](https://marriedgames.com.br/noticias/dual-inverter-voice/)
+- [O maravilhoso mundo do blockchain games. Sua marca está preparada?](https://marriedgames.com.br/noticias/blockchain-games/)
+- [Genetec: Cinco passos para construir sua estratégia de proteção de privacidade](https://marriedgames.com.br/noticias/genetec-cinco-passos/)
 <!-- BLOG-POST-LIST:END -->
 
 
