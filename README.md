@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [POCO X4 GT: Velocidade Sem Limites para os Jogadores e Amantes de Tecnologia](https://marriedgames.com.br/noticias/poco-x4-gt/)
-- [POCO F4: Conheça esse FlagShip Feito sob medida para Mobile Gamers e Amantes de Tecnologia](https://marriedgames.com.br/noticias/poco-f4/)
-- [LG lança ar-condicionado Dual Inverter Voice com capacidade exclusiva de 15.000 BTUs](https://marriedgames.com.br/noticias/dual-inverter-voice/)
-- [O maravilhoso mundo do blockchain games. Sua marca está preparada?](https://marriedgames.com.br/noticias/blockchain-games/)
-- [Genetec: Cinco passos para construir sua estratégia de proteção de privacidade](https://marriedgames.com.br/noticias/genetec-cinco-passos/)
+- [DLSS chega ao F1 22 mais que dobrando a performance do jogo](https://marriedgames.com.br/noticias/dlss-chega-ao-f1-22/)
+- [Metaverso: especialista alerta para saúde mental nas profissões do futuro](https://marriedgames.com.br/noticias/profissoes-do-futuro/)
+- [Mario + Rabbids Sparks of Hope será lançado em 20 de outubro de 2022](https://marriedgames.com.br/noticias/rabbids-sparks-of-hope/)
+- [GKS Esports é a campeã da PUBG MOBILE Club Open 2022](https://marriedgames.com.br/noticias/pubg-mobile-club-open-2022/)
+- [Mega Man Battle Network Legacy Collection Faz Upload de 10 Títulos .EXElentes para os Consoles Atuais e PC](https://marriedgames.com.br/noticias/mega-man-battle-network-legacy/)
 <!-- BLOG-POST-LIST:END -->
 
 
