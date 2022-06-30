@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DLSS chega ao F1 22 mais que dobrando a performance do jogo](https://marriedgames.com.br/noticias/dlss-chega-ao-f1-22/)
-- [Metaverso: especialista alerta para saúde mental nas profissões do futuro](https://marriedgames.com.br/noticias/profissoes-do-futuro/)
-- [Mario + Rabbids Sparks of Hope será lançado em 20 de outubro de 2022](https://marriedgames.com.br/noticias/rabbids-sparks-of-hope/)
-- [GKS Esports é a campeã da PUBG MOBILE Club Open 2022](https://marriedgames.com.br/noticias/pubg-mobile-club-open-2022/)
-- [Mega Man Battle Network Legacy Collection Faz Upload de 10 Títulos .EXElentes para os Consoles Atuais e PC](https://marriedgames.com.br/noticias/mega-man-battle-network-legacy/)
+- [Trovo promove copa de Wild Rift para a comunidade brasileira](https://marriedgames.com.br/noticias/trovo-promove-copa-de-wild-rift-para-a-comunidade-brasileira/)
+- [Gazeus marca presença no App Growth Summit São Paulo 2022](https://marriedgames.com.br/noticias/app-growth-summit/)
+- [Brasil é um dos mercados mais promissores para o iGaming](https://marriedgames.com.br/noticias/brasil-e-um-dos-mercados-mais-promissores-para-o-igaming/)
+- [Novo Trailer de Monster Hunter Rise: Sunbreak Apresenta novos monstros na Primeira Atualização Gratuita](https://marriedgames.com.br/noticias/novo-trailer-de-monster-hunter/)
+- [Com patrocínio da Betnacional, B4 eSports anuncia equipe de CS:GO Feminino](https://marriedgames.com.br/noticias/time-feminino-da-b4-esports/)
 <!-- BLOG-POST-LIST:END -->
 
 
