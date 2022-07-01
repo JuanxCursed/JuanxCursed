@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify expande iniciativa RADAR para podcasters](https://marriedgames.com.br/noticias/spotify-niciativa-radar/)
+- [Made in Brazil &lpar;MIBR&rpar; é o primeiro time de esports a fechar parceria com a Socios.com](https://marriedgames.com.br/noticias/made-in-brazil-mibr/)
 - [Trovo promove copa de Wild Rift para a comunidade brasileira](https://marriedgames.com.br/noticias/trovo-promove-copa-de-wild-rift-para-a-comunidade-brasileira/)
 - [Gazeus marca presença no App Growth Summit São Paulo 2022](https://marriedgames.com.br/noticias/app-growth-summit/)
 - [Brasil é um dos mercados mais promissores para o iGaming](https://marriedgames.com.br/noticias/brasil-e-um-dos-mercados-mais-promissores-para-o-igaming/)
-- [Novo Trailer de Monster Hunter Rise: Sunbreak Apresenta novos monstros na Primeira Atualização Gratuita](https://marriedgames.com.br/noticias/novo-trailer-de-monster-hunter/)
-- [Com patrocínio da Betnacional, B4 eSports anuncia equipe de CS:GO Feminino](https://marriedgames.com.br/noticias/time-feminino-da-b4-esports/)
 <!-- BLOG-POST-LIST:END -->
 
 
