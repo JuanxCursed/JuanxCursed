@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify expande iniciativa RADAR para podcasters](https://marriedgames.com.br/noticias/spotify-niciativa-radar/)
-- [Made in Brazil &lpar;MIBR&rpar; é o primeiro time de esports a fechar parceria com a Socios.com](https://marriedgames.com.br/noticias/made-in-brazil-mibr/)
-- [Trovo promove copa de Wild Rift para a comunidade brasileira](https://marriedgames.com.br/noticias/trovo-promove-copa-de-wild-rift-para-a-comunidade-brasileira/)
-- [Gazeus marca presença no App Growth Summit São Paulo 2022](https://marriedgames.com.br/noticias/app-growth-summit/)
-- [Brasil é um dos mercados mais promissores para o iGaming](https://marriedgames.com.br/noticias/brasil-e-um-dos-mercados-mais-promissores-para-o-igaming/)
+- [A expansão Pokémon GO do Pokémon Estampas Ilustradas já está disponível](https://marriedgames.com.br/noticias/pokemon-go-do-pokemon-estampas-ilustradas/)
+- [PRE-PA-RA! A Patroa chega ao Free Fire neste sábado &lpar;2&rpar;](https://marriedgames.com.br/noticias/a-patroa-free-fire/)
+- [Como melhorar a sua live com sua GeForce RTX](https://marriedgames.com.br/noticias/geforce-rtx-lives/)
+- [Trailer de Gameplay de DIGIMON SURVIVE Revela um Mundo Tomado por Mistérios e Monstros](https://marriedgames.com.br/noticias/gameplay-de-digimon/)
+- [PUBG MOBILE World Invitational 2022 retorna com premiação de mais de R$ 15 milhões](https://marriedgames.com.br/noticias/pubg-mobile-world-invitational/)
 <!-- BLOG-POST-LIST:END -->
 
 
