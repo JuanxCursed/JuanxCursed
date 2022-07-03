@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A expansão Pokémon GO do Pokémon Estampas Ilustradas já está disponível](https://marriedgames.com.br/noticias/pokemon-go-do-pokemon-estampas-ilustradas/)
-- [PRE-PA-RA! A Patroa chega ao Free Fire neste sábado &lpar;2&rpar;](https://marriedgames.com.br/noticias/a-patroa-free-fire/)
-- [Como melhorar a sua live com sua GeForce RTX](https://marriedgames.com.br/noticias/geforce-rtx-lives/)
-- [Trailer de Gameplay de DIGIMON SURVIVE Revela um Mundo Tomado por Mistérios e Monstros](https://marriedgames.com.br/noticias/gameplay-de-digimon/)
-- [PUBG MOBILE World Invitational 2022 retorna com premiação de mais de R$ 15 milhões](https://marriedgames.com.br/noticias/pubg-mobile-world-invitational/)
+- [Blizzard adquire estúdio Proletariat para o desenvolvimento de World of Warcraft](https://marriedgames.com.br/noticias/proletariat-blizzard/)
+- [Centro Universitário Facens promove LIGA Game Jam](https://marriedgames.com.br/noticias/liga-game-jam/)
+- [Principais atualizações de jogabilidade para Crossfire: Legion em acesso antecipado](https://marriedgames.com.br/noticias/atualizacoes-de-jogabilidade-para-crossfire/)
+- [Free Fire e Anitta lançam música e clipe oficial para a chegada da “Patroa”](https://marriedgames.com.br/noticias/free-fire-e-anitta-2/)
+- [Conheça os lançamentos da CRITICAL REFLEX no BIG, converse com a equipe e  teste os jogos](https://marriedgames.com.br/noticias/critical-reflex/)
 <!-- BLOG-POST-LIST:END -->
 
 
