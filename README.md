@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blizzard adquire estúdio Proletariat para o desenvolvimento de World of Warcraft](https://marriedgames.com.br/noticias/proletariat-blizzard/)
-- [Centro Universitário Facens promove LIGA Game Jam](https://marriedgames.com.br/noticias/liga-game-jam/)
-- [Principais atualizações de jogabilidade para Crossfire: Legion em acesso antecipado](https://marriedgames.com.br/noticias/atualizacoes-de-jogabilidade-para-crossfire/)
-- [Free Fire e Anitta lançam música e clipe oficial para a chegada da “Patroa”](https://marriedgames.com.br/noticias/free-fire-e-anitta-2/)
-- [Conheça os lançamentos da CRITICAL REFLEX no BIG, converse com a equipe e  teste os jogos](https://marriedgames.com.br/noticias/critical-reflex/)
+- [CD PROJEKT RED celebra seus 20 anos!](https://marriedgames.com.br/noticias/cd-projekt-red-celebra-seus-20-anos/)
+- [Revisite a Nortúndria na Série Construindo Azeroth](https://marriedgames.com.br/noticias/revisite-a-nortundria/)
+- [De olho no mercado brasileiro, Digitain esteve no Brazilian iGaming Summit em São Paulo](https://marriedgames.com.br/noticias/brazilian-igaming-summit/)
+- [Level Up apresenta reposicionamento de marca, diversidade de serviços e traz novidades para o mercado de games](https://marriedgames.com.br/noticias/level-up-apresenta-reposicionamento/)
+- [PESADELOS PSICODÉLICOS APARECEM NO TRAILER COMPLETO DE THE CHANT](https://marriedgames.com.br/noticias/pesadelos-the-chant/)
 <!-- BLOG-POST-LIST:END -->
 
 
