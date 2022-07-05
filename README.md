@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CD PROJEKT RED celebra seus 20 anos!](https://marriedgames.com.br/noticias/cd-projekt-red-celebra-seus-20-anos/)
-- [Revisite a Nortúndria na Série Construindo Azeroth](https://marriedgames.com.br/noticias/revisite-a-nortundria/)
-- [De olho no mercado brasileiro, Digitain esteve no Brazilian iGaming Summit em São Paulo](https://marriedgames.com.br/noticias/brazilian-igaming-summit/)
-- [Level Up apresenta reposicionamento de marca, diversidade de serviços e traz novidades para o mercado de games](https://marriedgames.com.br/noticias/level-up-apresenta-reposicionamento/)
-- [PESADELOS PSICODÉLICOS APARECEM NO TRAILER COMPLETO DE THE CHANT](https://marriedgames.com.br/noticias/pesadelos-the-chant/)
+- [Confira os ganhadores do PUBG MOBILE Xiaomi Challenge, novo torneio aberto da América Latina](https://marriedgames.com.br/noticias/pubg-mobile-xiaomi-challenge-2/)
+- [Bandai Namco Entertainment Inc. Traz Um Favorito dos Animes ao Battle Royale com MY HERO ULTRA RUMBLE](https://marriedgames.com.br/noticias/my-hero-ultra-rumble/)
+- [W7M se isola na liderança no segundo turno do Campeonato Brasileiro de Rainbow Six Siege 2022](https://marriedgames.com.br/noticias/w7m-se-isola-na-lideranca/)
+- [Na Eletrolar, BLACK+DECKER lança linha de eletrodomésticos compactos e ferramenta com 3 cabeçotes intercambiáveis](https://marriedgames.com.br/noticias/blackdecker-eletrolar/)
+- [Mind Potion: suco que melhora energia física e mental de gamers é destaque na Consulfarma](https://marriedgames.com.br/noticias/mind-potion/)
 <!-- BLOG-POST-LIST:END -->
 
 
