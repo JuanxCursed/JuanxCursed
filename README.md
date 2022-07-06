@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adrenalina Pura oferece assinatura por R＄5,90 durante o Prime Day](https://marriedgames.com.br/noticias/prime-day/)
+- [Alienígenas com benefícios: trailer cooperativo para Destroy All Humans! 2 lançamentos hoje!](https://marriedgames.com.br/noticias/destroy-all-humans-2/)
+- [Submarino tem convidados especiais e programação diversificada na Bienal do Livro de São Paulo](https://marriedgames.com.br/noticias/bienal-do-livro-de-sao-paulo/)
+- [Netflix lança últimos episódios da quarta temporada de Stranger Things](https://marriedgames.com.br/noticias/quarta-temporada-de-stranger-things-3/)
 - [Confira os ganhadores do PUBG MOBILE Xiaomi Challenge, novo torneio aberto da América Latina](https://marriedgames.com.br/noticias/pubg-mobile-xiaomi-challenge-2/)
-- [Bandai Namco Entertainment Inc. Traz Um Favorito dos Animes ao Battle Royale com MY HERO ULTRA RUMBLE](https://marriedgames.com.br/noticias/my-hero-ultra-rumble/)
-- [W7M se isola na liderança no segundo turno do Campeonato Brasileiro de Rainbow Six Siege 2022](https://marriedgames.com.br/noticias/w7m-se-isola-na-lideranca/)
-- [Na Eletrolar, BLACK+DECKER lança linha de eletrodomésticos compactos e ferramenta com 3 cabeçotes intercambiáveis](https://marriedgames.com.br/noticias/blackdecker-eletrolar/)
-- [Mind Potion: suco que melhora energia física e mental de gamers é destaque na Consulfarma](https://marriedgames.com.br/noticias/mind-potion/)
 <!-- BLOG-POST-LIST:END -->
 
 
