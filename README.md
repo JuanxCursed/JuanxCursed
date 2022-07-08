@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [THE DARK PICTURES ANTHOLOGY: THE DEVIL IN ME REVELA SEU PERTURBADOR AMBIENTE EM UM NOVO TRAILER](https://marriedgames.com.br/noticias/dark-pictures-anthology/)
+- [GWENT: Rogue Mage, expansão independente para um jogador já está disponível](https://marriedgames.com.br/noticias/gwent-rogue-mage/)
 - [Adrenalina Pura oferece assinatura por R＄5,90 durante o Prime Day](https://marriedgames.com.br/noticias/prime-day/)
 - [Alienígenas com benefícios: trailer cooperativo para Destroy All Humans! 2 lançamentos hoje!](https://marriedgames.com.br/noticias/destroy-all-humans-2/)
 - [Submarino tem convidados especiais e programação diversificada na Bienal do Livro de São Paulo](https://marriedgames.com.br/noticias/bienal-do-livro-de-sao-paulo/)
-- [Netflix lança últimos episódios da quarta temporada de Stranger Things](https://marriedgames.com.br/noticias/quarta-temporada-de-stranger-things-3/)
-- [Confira os ganhadores do PUBG MOBILE Xiaomi Challenge, novo torneio aberto da América Latina](https://marriedgames.com.br/noticias/pubg-mobile-xiaomi-challenge-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
