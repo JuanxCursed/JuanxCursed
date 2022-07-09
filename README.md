@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [THE DARK PICTURES ANTHOLOGY: THE DEVIL IN ME REVELA SEU PERTURBADOR AMBIENTE EM UM NOVO TRAILER](https://marriedgames.com.br/noticias/dark-pictures-anthology/)
-- [GWENT: Rogue Mage, expansão independente para um jogador já está disponível](https://marriedgames.com.br/noticias/gwent-rogue-mage/)
-- [Adrenalina Pura oferece assinatura por R＄5,90 durante o Prime Day](https://marriedgames.com.br/noticias/prime-day/)
-- [Alienígenas com benefícios: trailer cooperativo para Destroy All Humans! 2 lançamentos hoje!](https://marriedgames.com.br/noticias/destroy-all-humans-2/)
-- [Submarino tem convidados especiais e programação diversificada na Bienal do Livro de São Paulo](https://marriedgames.com.br/noticias/bienal-do-livro-de-sao-paulo/)
+- [Novo RPG da Level Infinite, Tower of Fantasy, marca presença no Anime Friends](https://marriedgames.com.br/noticias/presenca-no-anime-friends/)
+- [LG reforça domínio na tecnologia OLED TV e lança novidades na CASACOR 2022](https://marriedgames.com.br/noticias/lg-reforca-dominio/)
+- [Panini levará demo de ‘One Piece Odyssey’ para Anime Friends](https://marriedgames.com.br/noticias/one-piece-odyssey/)
+- [realme 9 será o primeiro smartphone com sensor Samsung Isocell HM6 de 108MP no Brasil](https://marriedgames.com.br/noticias/sensor-samsung-isocell-hm6/)
+- [Prepare-se para o implacável ORX! Invadindo o Steam e a Epic Games Store em 30 de Agosto](https://marriedgames.com.br/noticias/orx/)
 <!-- BLOG-POST-LIST:END -->
 
 
