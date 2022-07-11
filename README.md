@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Com distribuição exclusiva da Allied, Kross lança linha de tablets no mercado brasileiro](https://marriedgames.com.br/noticias/kross-lanca-linha-de-tablets/)
-- [Novo RPG da Level Infinite, Tower of Fantasy, marca presença no Anime Friends](https://marriedgames.com.br/noticias/presenca-no-anime-friends/)
-- [LG reforça domínio na tecnologia OLED TV e lança novidades na CASACOR 2022](https://marriedgames.com.br/noticias/lg-reforca-dominio/)
-- [Panini levará demo de ‘One Piece Odyssey’ para Anime Friends](https://marriedgames.com.br/noticias/one-piece-odyssey/)
-- [realme 9 será o primeiro smartphone com sensor Samsung Isocell HM6 de 108MP no Brasil](https://marriedgames.com.br/noticias/sensor-samsung-isocell-hm6/)
+- [Promoção Hype Games de Inverno têm até 90% de desconto](https://marriedgames.com.br/noticias/promocao-hype-games-de-inverno/)
+- [Músicas de Anitta invadem o Free Fire e inspiram itens temáticos da “Patroa”](https://marriedgames.com.br/noticias/anitta-invadem-o-free-fire/)
+- [Episódio 4 de Sonic Origins Speed Strats já disponível](https://marriedgames.com.br/noticias/episodio-4-de-sonic-origins-speed/)
+- [Ubisoft lançará Skull and Bones em 8 de novembro](https://marriedgames.com.br/noticias/skull-and-bones/)
+- [Novos jogos entraram para a lista de mais de 200 jogos e aplicativos com tecnologia NVIDIA DLSS](https://marriedgames.com.br/noticias/tecnologia-nvidia-dlss/)
 <!-- BLOG-POST-LIST:END -->
 
 
