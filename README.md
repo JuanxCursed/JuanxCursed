@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Promoção Hype Games de Inverno têm até 90% de desconto](https://marriedgames.com.br/noticias/promocao-hype-games-de-inverno/)
-- [Músicas de Anitta invadem o Free Fire e inspiram itens temáticos da “Patroa”](https://marriedgames.com.br/noticias/anitta-invadem-o-free-fire/)
-- [Episódio 4 de Sonic Origins Speed Strats já disponível](https://marriedgames.com.br/noticias/episodio-4-de-sonic-origins-speed/)
-- [Ubisoft lançará Skull and Bones em 8 de novembro](https://marriedgames.com.br/noticias/skull-and-bones/)
-- [Novos jogos entraram para a lista de mais de 200 jogos e aplicativos com tecnologia NVIDIA DLSS](https://marriedgames.com.br/noticias/tecnologia-nvidia-dlss/)
+- [Dollars anuncia Six9 como novo reforço da equipe](https://marriedgames.com.br/noticias/dollars-anuncia-six9/)
+- [Cuidado com a segurança do seu roteador: suas fotos e dados bancários podem estar sendo roubados](https://marriedgames.com.br/noticias/seguranca-do-seu-roteador/)
+- [Localiza Labs inaugura espaço em Recife com a presença de nomes importantes do mercado de tecnologia](https://marriedgames.com.br/noticias/localiza-labs-inaugura-espaco/)
+- [É preciso fortalecer a segurança física contra ataques cibernéticos em tempos de conflito geopolítico](https://marriedgames.com.br/noticias/ataques-ciberneticos/)
+- [PRIME MATTER CONFIRMA SYSTEM SHOCK, GUNGRAVE G.O.R.E E MAIS, JOGÁVEIS NA GAMESCOM 2022](https://marriedgames.com.br/noticias/prime-matter-confirma/)
 <!-- BLOG-POST-LIST:END -->
 
 
