@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dollars anuncia Six9 como novo reforço da equipe](https://marriedgames.com.br/noticias/dollars-anuncia-six9/)
-- [Cuidado com a segurança do seu roteador: suas fotos e dados bancários podem estar sendo roubados](https://marriedgames.com.br/noticias/seguranca-do-seu-roteador/)
-- [Localiza Labs inaugura espaço em Recife com a presença de nomes importantes do mercado de tecnologia](https://marriedgames.com.br/noticias/localiza-labs-inaugura-espaco/)
-- [É preciso fortalecer a segurança física contra ataques cibernéticos em tempos de conflito geopolítico](https://marriedgames.com.br/noticias/ataques-ciberneticos/)
-- [PRIME MATTER CONFIRMA SYSTEM SHOCK, GUNGRAVE G.O.R.E E MAIS, JOGÁVEIS NA GAMESCOM 2022](https://marriedgames.com.br/noticias/prime-matter-confirma/)
+- [AfroGames é finalista na CCXP Awards 2022](https://marriedgames.com.br/noticias/afrogames-e-finalista-na-ccxp/)
+- [Avenue Cup realiza campeonato de CS no Gamers Club](https://marriedgames.com.br/noticias/avenue-cup/)
+- [Amazon Prime Day: até 56% de desconto em produtos de iluminação conectada das linhas WiZ e Philips Hue](https://marriedgames.com.br/noticias/amazon-prime-day/)
+- [Com influenciadores de peso do mercado gamer, Hitwork lança full service para criadores de conteúdo que querem alavancar suas carreiras](https://marriedgames.com.br/noticias/hitwork-lanca-full-service/)
+- [Show online no PUBG MOBILE marca o retorno da parceria com BLACKPINK na atualização 2.1](https://marriedgames.com.br/noticias/show-online-no-pubg-mobile/)
 <!-- BLOG-POST-LIST:END -->
 
 
