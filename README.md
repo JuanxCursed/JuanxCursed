@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AfroGames é finalista na CCXP Awards 2022](https://marriedgames.com.br/noticias/afrogames-e-finalista-na-ccxp/)
-- [Avenue Cup realiza campeonato de CS no Gamers Club](https://marriedgames.com.br/noticias/avenue-cup/)
-- [Amazon Prime Day: até 56% de desconto em produtos de iluminação conectada das linhas WiZ e Philips Hue](https://marriedgames.com.br/noticias/amazon-prime-day/)
-- [Com influenciadores de peso do mercado gamer, Hitwork lança full service para criadores de conteúdo que querem alavancar suas carreiras](https://marriedgames.com.br/noticias/hitwork-lanca-full-service/)
-- [Show online no PUBG MOBILE marca o retorno da parceria com BLACKPINK na atualização 2.1](https://marriedgames.com.br/noticias/show-online-no-pubg-mobile/)
+- [Company of Heroes 3 chega em 17 de novembro; reserve agora para receber itens bônus](https://marriedgames.com.br/noticias/company-of-heroes-3/)
+- [NVIDIA anuncia descontos em placas de vídeo GeForce RTX e GTX no Prime Day](https://marriedgames.com.br/noticias/nvidia-anuncia-descontos/)
+- [Startup brasileira investe R＄ 1 milhão em criação de metaverso Myland usando software da Autodesk](https://marriedgames.com.br/noticias/metaverso-myland/)
+- [AliExpress celebra o Dia do Rock com produtos exclusivos](https://marriedgames.com.br/noticias/aliexpress-celebra-o-dia-do-rock/)
+- [Primeira atualização do Garena Blockman GO traz muitas novidades para os jogadores](https://marriedgames.com.br/noticias/atualizacao-do-garena-blockman/)
 <!-- BLOG-POST-LIST:END -->
 
 
