@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Company of Heroes 3 chega em 17 de novembro; reserve agora para receber itens bônus](https://marriedgames.com.br/noticias/company-of-heroes-3/)
-- [NVIDIA anuncia descontos em placas de vídeo GeForce RTX e GTX no Prime Day](https://marriedgames.com.br/noticias/nvidia-anuncia-descontos/)
-- [Startup brasileira investe R＄ 1 milhão em criação de metaverso Myland usando software da Autodesk](https://marriedgames.com.br/noticias/metaverso-myland/)
-- [AliExpress celebra o Dia do Rock com produtos exclusivos](https://marriedgames.com.br/noticias/aliexpress-celebra-o-dia-do-rock/)
-- [Primeira atualização do Garena Blockman GO traz muitas novidades para os jogadores](https://marriedgames.com.br/noticias/atualizacao-do-garena-blockman/)
+- [VIGI: TP-Link apresenta sua nova marca de vigilância profissional](https://marriedgames.com.br/noticias/vigi-tp-link-apresenta/)
+- [Razer Stream Controller: Razer anuncia novo controlador de streaming com comando instantâneo e infinitas possibilidades criativas](https://marriedgames.com.br/noticias/razer-stream-controller/)
+- [W7M Esports anuncia PlayCoffee como sua nova patrocinadora](https://marriedgames.com.br/noticias/w7m-esports-anuncia-playcoffee/)
+- [Neymar Jr. se torna o novo embaixador do PUBG: BATTLEGROUNDS](https://marriedgames.com.br/noticias/embaixador-do-pubg/)
+- [Profane: atualizações do mês de junho](https://marriedgames.com.br/noticias/profane/)
 <!-- BLOG-POST-LIST:END -->
 
 
