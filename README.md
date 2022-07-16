@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VIGI: TP-Link apresenta sua nova marca de vigilância profissional](https://marriedgames.com.br/noticias/vigi-tp-link-apresenta/)
-- [Razer Stream Controller: Razer anuncia novo controlador de streaming com comando instantâneo e infinitas possibilidades criativas](https://marriedgames.com.br/noticias/razer-stream-controller/)
-- [W7M Esports anuncia PlayCoffee como sua nova patrocinadora](https://marriedgames.com.br/noticias/w7m-esports-anuncia-playcoffee/)
-- [Neymar Jr. se torna o novo embaixador do PUBG: BATTLEGROUNDS](https://marriedgames.com.br/noticias/embaixador-do-pubg/)
-- [Profane: atualizações do mês de junho](https://marriedgames.com.br/noticias/profane/)
+- [Coleção PlayStation da Renner: lançada primeira coleção para o público gamer criada 100% digital](https://marriedgames.com.br/noticias/colecao-playstation-da-renner/)
+- [Brasil Game Show estreia vídeo comercial com veiculação em grandes emissoras de TV, salas de cinema e internet](https://marriedgames.com.br/noticias/brasil-game-show-estreia-video-comercial/)
+- [Skate.:Electronic Arts e a Full Circle revelam “The Board Room”](https://marriedgames.com.br/noticias/the-board-room/)
+- [Novo trailer de MultiVersus revela gameplay de Gigante de Ferro e Beta Aberto em 26 de julho](https://marriedgames.com.br/noticias/novo-trailer-de-multiversus/)
+- [Conheça a INSANE, desenvolvedora que quer revolucionar os jogos de MMORPG](https://marriedgames.com.br/noticias/conheca-a-insane/)
 <!-- BLOG-POST-LIST:END -->
 
 
