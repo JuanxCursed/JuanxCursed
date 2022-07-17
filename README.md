@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Começa hoje a pré-venda de God of War Ragnarök](https://marriedgames.com.br/noticias/pre-venda-de-god-of-war-ragnarok/)
+- [Prime Matter anuncia Mato Anomalies, um acordo de publicação global com a Arrowiz](https://marriedgames.com.br/noticias/mato-anomalies/)
 - [Coleção PlayStation da Renner: lançada primeira coleção para o público gamer criada 100% digital](https://marriedgames.com.br/noticias/colecao-playstation-da-renner/)
 - [Brasil Game Show estreia vídeo comercial com veiculação em grandes emissoras de TV, salas de cinema e internet](https://marriedgames.com.br/noticias/brasil-game-show-estreia-video-comercial/)
 - [Skate.:Electronic Arts e a Full Circle revelam “The Board Room”](https://marriedgames.com.br/noticias/the-board-room/)
-- [Novo trailer de MultiVersus revela gameplay de Gigante de Ferro e Beta Aberto em 26 de julho](https://marriedgames.com.br/noticias/novo-trailer-de-multiversus/)
-- [Conheça a INSANE, desenvolvedora que quer revolucionar os jogos de MMORPG](https://marriedgames.com.br/noticias/conheca-a-insane/)
 <!-- BLOG-POST-LIST:END -->
 
 
