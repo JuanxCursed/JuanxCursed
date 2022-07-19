@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Começa hoje a pré-venda de God of War Ragnarök](https://marriedgames.com.br/noticias/pre-venda-de-god-of-war-ragnarok/)
-- [Prime Matter anuncia Mato Anomalies, um acordo de publicação global com a Arrowiz](https://marriedgames.com.br/noticias/mato-anomalies/)
-- [Coleção PlayStation da Renner: lançada primeira coleção para o público gamer criada 100% digital](https://marriedgames.com.br/noticias/colecao-playstation-da-renner/)
-- [Brasil Game Show estreia vídeo comercial com veiculação em grandes emissoras de TV, salas de cinema e internet](https://marriedgames.com.br/noticias/brasil-game-show-estreia-video-comercial/)
-- [Skate.:Electronic Arts e a Full Circle revelam “The Board Room”](https://marriedgames.com.br/noticias/the-board-room/)
+- [Genetec oferece ao mercado nova solução HID Mobile Access](https://marriedgames.com.br/noticias/hid-mobile-access/)
+- [AfroGames dá início a atividades em novas unidades da Maré](https://marriedgames.com.br/noticias/afrogames-da-inicio-a-atividades/)
+- [Defenda o Lado Luminoso ou o Lado Sombrio em Star Wars e Mobile Legends: Bang Bang!](https://marriedgames.com.br/noticias/star-wars-e-mobile-legends/)
+- [CCXP Awards faz edição histórica, com audiência recorde e premiação com artistas e celebridades](https://marriedgames.com.br/noticias/ccxp-awards-faz-edicao-historica/)
+- [Experiências que conectam: etermax apresenta eterfy e eleva a gamificação a outro patamar](https://marriedgames.com.br/noticias/etermax-apresenta-eterfy/)
 <!-- BLOG-POST-LIST:END -->
 
 
