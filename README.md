@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Genetec oferece ao mercado nova solução HID Mobile Access](https://marriedgames.com.br/noticias/hid-mobile-access/)
-- [AfroGames dá início a atividades em novas unidades da Maré](https://marriedgames.com.br/noticias/afrogames-da-inicio-a-atividades/)
-- [Defenda o Lado Luminoso ou o Lado Sombrio em Star Wars e Mobile Legends: Bang Bang!](https://marriedgames.com.br/noticias/star-wars-e-mobile-legends/)
-- [CCXP Awards faz edição histórica, com audiência recorde e premiação com artistas e celebridades](https://marriedgames.com.br/noticias/ccxp-awards-faz-edicao-historica/)
-- [Experiências que conectam: etermax apresenta eterfy e eleva a gamificação a outro patamar](https://marriedgames.com.br/noticias/etermax-apresenta-eterfy/)
+- [Novo trailer de Punhos de Repúdio revela data de lançamento do game](https://marriedgames.com.br/noticias/trailer-de-punhos-de-repudio/)
+- [Novo trailer de jogabilidade para Way of the Hunter é lançado hoje!](https://marriedgames.com.br/noticias/jogabilidade-para-way-of-the-hunter/)
+- [Champions of Chaos chega ao Total War: WARHAMMER III em 23 de agosto](https://marriedgames.com.br/noticias/champions-of-chaos/)
+- [RIOT GAMES LANÇA WEBSÉRIE EXCLUSIVAS PARA O BRASIL DE GUARDIÃS ESTELARES](https://marriedgames.com.br/noticias/riot-games-lanca-webserie/)
+- [Riot Games se une à AWS para reimaginar experiências de eSports](https://marriedgames.com.br/noticias/riot-games-se-une-a-aws/)
 <!-- BLOG-POST-LIST:END -->
 
 
