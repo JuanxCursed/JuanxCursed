@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Entenda como os streamings podem contribuir para quem levará a cobiçada estatueta do Emmy](https://marriedgames.com.br/noticias/streamings-podem-contribuir/)
-- [BIG Festival 2022 termina com cerca de 30 mil visitantes, 6 mil negócios e alcance de 420 milhões online](https://marriedgames.com.br/noticias/big-festival-2022-termina/)
-- [CORSAIR integra NVIDIA Broadcast com inovações nos softwares iCUE e Elgato](https://marriedgames.com.br/noticias/corsair-integra-nvidia/)
-- [Conheça 10 marcas presentes do The Sandbox](https://marriedgames.com.br/noticias/marcas-presentes-do-the-sandbox/)
-- [Omelete e Chippu se unem para a maior cobertura da San Diego Comic Con da internet](https://marriedgames.com.br/noticias/omelete-e-chippu/)
+- [TikTok lança ferramenta de tradução simultânea disponível em diversos idiomas](https://marriedgames.com.br/noticias/tiktok-lanca-ferramenta-de-traducao/)
+- [Começa neste fim de semana o Americas All Stars de PUBG MOBILE](https://marriedgames.com.br/noticias/americas-all-stars-de-pubg-mobile/)
+- [Multilaser agora é Multi – Nova estratégia de marca tem como objetivo fortalecer o propósito da companhia](https://marriedgames.com.br/noticias/multilaser-agora-e-multi/)
+- [OXENFREE chega em OlliOlli World: VOID Riders](https://marriedgames.com.br/noticias/oxenfree-chega-em-ollioll/)
+- [Free Fire Nova Era: Garena inicia uma nova logo com a atualização da marca](https://marriedgames.com.br/noticias/free-fire-nova-era/)
 <!-- BLOG-POST-LIST:END -->
 
 
