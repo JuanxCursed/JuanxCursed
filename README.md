@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok lança ferramenta de tradução simultânea disponível em diversos idiomas](https://marriedgames.com.br/noticias/tiktok-lanca-ferramenta-de-traducao/)
-- [Começa neste fim de semana o Americas All Stars de PUBG MOBILE](https://marriedgames.com.br/noticias/americas-all-stars-de-pubg-mobile/)
-- [Multilaser agora é Multi – Nova estratégia de marca tem como objetivo fortalecer o propósito da companhia](https://marriedgames.com.br/noticias/multilaser-agora-e-multi/)
-- [OXENFREE chega em OlliOlli World: VOID Riders](https://marriedgames.com.br/noticias/oxenfree-chega-em-ollioll/)
-- [Free Fire Nova Era: Garena inicia uma nova logo com a atualização da marca](https://marriedgames.com.br/noticias/free-fire-nova-era/)
+- [Tower of Fantasy revela novo trailer de personagens](https://marriedgames.com.br/noticias/tower-of-fantasy-revela-novo-trailer/)
+- [PlayStation inicia nesta quarta-feira &lpar;20/7&rpar; pré-venda de Marvel’s Spider-Man Remasterizado para PC e revela novos recursos para o game](https://marriedgames.com.br/noticias/spider-man-remasterizado/)
+- [Episódio 6 de Sonic Origins Speed Strats já disponível](https://marriedgames.com.br/noticias/episodio-6-de-sonic-origins/)
+- [Filme que lança Neymar Jr. como embaixador de PUBG:BATTLEGROUNDS é veiculado globalmente](https://marriedgames.com.br/noticias/neymar-jr-como-embaixador-de-pubg/)
+- [PUBG MOBILE leva BLACKPINK para 1º show virtual dentro do jogo](https://marriedgames.com.br/noticias/pubg-mobile-leva-blackpink/)
 <!-- BLOG-POST-LIST:END -->
 
 
