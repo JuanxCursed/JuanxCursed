@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Naughty Dog dá mais detalhes de The Last of Us Part I remake](https://marriedgames.com.br/noticias/detalhes-de-the-last-of-us/)
+- [Sunny Brinquedos anuncia lançamento da linha Rubik’s – Cubo Mágico Original no Brasil](https://marriedgames.com.br/noticias/cubo-magico-original/)
+- [Promoção de Inverno da PS Store com descontos que chegam a 90% e é por tempo limitado](https://marriedgames.com.br/noticias/promocao-de-inverno-da-ps-store/)
 - [Tower of Fantasy revela novo trailer de personagens](https://marriedgames.com.br/noticias/tower-of-fantasy-revela-novo-trailer/)
 - [PlayStation inicia nesta quarta-feira &lpar;20/7&rpar; pré-venda de Marvel’s Spider-Man Remasterizado para PC e revela novos recursos para o game](https://marriedgames.com.br/noticias/spider-man-remasterizado/)
-- [Episódio 6 de Sonic Origins Speed Strats já disponível](https://marriedgames.com.br/noticias/episodio-6-de-sonic-origins/)
-- [Filme que lança Neymar Jr. como embaixador de PUBG:BATTLEGROUNDS é veiculado globalmente](https://marriedgames.com.br/noticias/neymar-jr-como-embaixador-de-pubg/)
-- [PUBG MOBILE leva BLACKPINK para 1º show virtual dentro do jogo](https://marriedgames.com.br/noticias/pubg-mobile-leva-blackpink/)
 <!-- BLOG-POST-LIST:END -->
 
 
