@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Novo trailer de gameplay de Gotham Knights destaca Batgirl](https://marriedgames.com.br/noticias/gotham-knights-destaca-batgirl/)
+- [Dell Pro Series e Webedia Brasil voltam para terceira temporada](https://marriedgames.com.br/noticias/dell-pro-series-e-webedia-brasil/)
+- [Blacken Slash já está disponível no Steam e em dispositivos móveis!](https://marriedgames.com.br/noticias/blacken-slash-ja-esta-disponivel/)
 - [Naughty Dog dá mais detalhes de The Last of Us Part I remake](https://marriedgames.com.br/noticias/detalhes-de-the-last-of-us/)
 - [Sunny Brinquedos anuncia lançamento da linha Rubik’s – Cubo Mágico Original no Brasil](https://marriedgames.com.br/noticias/cubo-magico-original/)
-- [Promoção de Inverno da PS Store com descontos que chegam a 90% e é por tempo limitado](https://marriedgames.com.br/noticias/promocao-de-inverno-da-ps-store/)
-- [Tower of Fantasy revela novo trailer de personagens](https://marriedgames.com.br/noticias/tower-of-fantasy-revela-novo-trailer/)
-- [PlayStation inicia nesta quarta-feira &lpar;20/7&rpar; pré-venda de Marvel’s Spider-Man Remasterizado para PC e revela novos recursos para o game](https://marriedgames.com.br/noticias/spider-man-remasterizado/)
 <!-- BLOG-POST-LIST:END -->
 
 
