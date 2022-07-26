@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Novo trailer de gameplay de Gotham Knights destaca Batgirl](https://marriedgames.com.br/noticias/gotham-knights-destaca-batgirl/)
-- [Dell Pro Series e Webedia Brasil voltam para terceira temporada](https://marriedgames.com.br/noticias/dell-pro-series-e-webedia-brasil/)
-- [Blacken Slash já está disponível no Steam e em dispositivos móveis!](https://marriedgames.com.br/noticias/blacken-slash-ja-esta-disponivel/)
-- [Naughty Dog dá mais detalhes de The Last of Us Part I remake](https://marriedgames.com.br/noticias/detalhes-de-the-last-of-us/)
-- [Sunny Brinquedos anuncia lançamento da linha Rubik’s – Cubo Mágico Original no Brasil](https://marriedgames.com.br/noticias/cubo-magico-original/)
+- [Os jogos que “floparam” em suas estreias podem se “redimir” com o passar do tempo?](https://marriedgames.com.br/noticias/os-jogos-que-floparam-em-suas-estreias-podem-se-redimir-com-o-passar-do-tempo/)
+- [World of Warships: Legends comemora aniversário de três anos](https://marriedgames.com.br/noticias/world-of-warships-legends-3/)
+- [Desfrute da Melhor Experiência do Arcade em Casa com Capcom Arcade 2nd Stadium](https://marriedgames.com.br/noticias/capcom-arcade-2nd-stadium-2/)
+- [Começa a nova fase de Gran Turismo World Series com pilotos brasileiros na disputa](https://marriedgames.com.br/noticias/nova-fase-de-gran-turismo/)
+- [Fashion Dream: começa hoje o pré-registro do novo jogo de fantasia e aventura](https://marriedgames.com.br/noticias/fashion-dream/)
 <!-- BLOG-POST-LIST:END -->
 
 
