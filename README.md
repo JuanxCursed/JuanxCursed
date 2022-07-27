@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Os jogos que “floparam” em suas estreias podem se “redimir” com o passar do tempo?](https://marriedgames.com.br/noticias/os-jogos-que-floparam-em-suas-estreias-podem-se-redimir-com-o-passar-do-tempo/)
-- [World of Warships: Legends comemora aniversário de três anos](https://marriedgames.com.br/noticias/world-of-warships-legends-3/)
-- [Desfrute da Melhor Experiência do Arcade em Casa com Capcom Arcade 2nd Stadium](https://marriedgames.com.br/noticias/capcom-arcade-2nd-stadium-2/)
-- [Começa a nova fase de Gran Turismo World Series com pilotos brasileiros na disputa](https://marriedgames.com.br/noticias/nova-fase-de-gran-turismo/)
-- [Fashion Dream: começa hoje o pré-registro do novo jogo de fantasia e aventura](https://marriedgames.com.br/noticias/fashion-dream/)
+- [Alpha7 é o vencedor do Americas All Stars de PUBG MOBILE](https://marriedgames.com.br/noticias/alpha7-e-o-vencedor-do-americas-all-stars/)
+- [Um vilão memorável renascido Wrath of the Lich King Classic chega em setembro](https://marriedgames.com.br/noticias/wrath-of-the-lich-king-classic-2/)
+- [Com cadastros complexos, 81% dos brasileiros se queixam de burocracia na hora de consumir](https://marriedgames.com.br/noticias/cadastros-complexos/)
+- [Campeonato Paulista Universitário de Esports 2022 abre inscrições](https://marriedgames.com.br/noticias/universitario-de-esports-2022/)
+- [Call of Duty se junta a GHOST IN THE SHELL na 7ª Temporada: Nova Visão](https://marriedgames.com.br/noticias/call-of-duty-se-junta-a-ghost-in-the-shell/)
 <!-- BLOG-POST-LIST:END -->
 
 
