@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Alpha7 é o vencedor do Americas All Stars de PUBG MOBILE](https://marriedgames.com.br/noticias/alpha7-e-o-vencedor-do-americas-all-stars/)
-- [Um vilão memorável renascido Wrath of the Lich King Classic chega em setembro](https://marriedgames.com.br/noticias/wrath-of-the-lich-king-classic-2/)
-- [Com cadastros complexos, 81% dos brasileiros se queixam de burocracia na hora de consumir](https://marriedgames.com.br/noticias/cadastros-complexos/)
-- [Campeonato Paulista Universitário de Esports 2022 abre inscrições](https://marriedgames.com.br/noticias/universitario-de-esports-2022/)
-- [Call of Duty se junta a GHOST IN THE SHELL na 7ª Temporada: Nova Visão](https://marriedgames.com.br/noticias/call-of-duty-se-junta-a-ghost-in-the-shell/)
+- [Brasil Game Show terá HyperX e FURIA em estande repleto de surpresas e atrações](https://marriedgames.com.br/noticias/hyperx-e-furia/)
+- [OPPO chega ao mercado brasileiro com o smartphone Reno7](https://marriedgames.com.br/noticias/reno7/)
+- [O que é Input Lag e como ele pode DESTRUIR seu gameplay](https://marriedgames.com.br/dicas-guias/input-lag-tempo-resposta/)
+- [15 Melhores Monitores Gamers para comprar em 2022 para Todos os Bolsos](https://marriedgames.com.br/dicas-guias/melhores-monitores-gamers/)
+- [PlayStation anuncia novos recursos do PlayStation VR 2](https://marriedgames.com.br/noticias/novos-recursos-do-playstation-vr/)
 <!-- BLOG-POST-LIST:END -->
 
 
