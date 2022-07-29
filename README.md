@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Brasil Game Show terá HyperX e FURIA em estande repleto de surpresas e atrações](https://marriedgames.com.br/noticias/hyperx-e-furia/)
-- [OPPO chega ao mercado brasileiro com o smartphone Reno7](https://marriedgames.com.br/noticias/reno7/)
-- [O que é Input Lag e como ele pode DESTRUIR seu gameplay](https://marriedgames.com.br/dicas-guias/input-lag-tempo-resposta/)
-- [15 Melhores Monitores Gamers para comprar em 2022 para Todos os Bolsos](https://marriedgames.com.br/dicas-guias/melhores-monitores-gamers/)
-- [PlayStation anuncia novos recursos do PlayStation VR 2](https://marriedgames.com.br/noticias/novos-recursos-do-playstation-vr/)
+- [Matchbet é a primeira plataforma de intermediação de desafios de jogos com NFTs](https://marriedgames.com.br/noticias/matchbet-plataforma-com-nfts/)
+- [8 games da série Yakuza chegam em breve ao PS Plus](https://marriedgames.com.br/noticias/games-da-serie-yakuza/)
+- [Riot Games anuncia detalhes da segunda etapa do VCT: Game Changers](https://marriedgames.com.br/noticias/vct-game-changers/)
+- [BYJU’S JAM: Crianças desenvolvem jogos que já têm mais 7,3 mil acessos no Roblox](https://marriedgames.com.br/noticias/byjus-jam/)
+- [Ubisoft anuncia Summer Break, terceira temporada de Riders Republic](https://marriedgames.com.br/noticias/riders-republic/)
 <!-- BLOG-POST-LIST:END -->
 
 
