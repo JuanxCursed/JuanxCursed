@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Matchbet é a primeira plataforma de intermediação de desafios de jogos com NFTs](https://marriedgames.com.br/noticias/matchbet-plataforma-com-nfts/)
-- [8 games da série Yakuza chegam em breve ao PS Plus](https://marriedgames.com.br/noticias/games-da-serie-yakuza/)
-- [Riot Games anuncia detalhes da segunda etapa do VCT: Game Changers](https://marriedgames.com.br/noticias/vct-game-changers/)
-- [BYJU’S JAM: Crianças desenvolvem jogos que já têm mais 7,3 mil acessos no Roblox](https://marriedgames.com.br/noticias/byjus-jam/)
-- [Ubisoft anuncia Summer Break, terceira temporada de Riders Republic](https://marriedgames.com.br/noticias/riders-republic/)
+- [Compre um lançamento de TVs LG 2022 e leve um Sound Bar por apenas R＄159](https://marriedgames.com.br/noticias/lancamento-de-tvs-lg-2022/)
+- [Riot Games e 7 Minutoz lançam músicas exclusivas de Guardiãs Estelares](https://marriedgames.com.br/noticias/riot-games-e-7-minutoz/)
+- [Inter Shop lança gift card de Roblox com 5% de cashback](https://marriedgames.com.br/noticias/inter-shop-lanca-gift-card/)
+- [B4 eSports fecha contratação de W1 para sua equipe de CS:GO](https://marriedgames.com.br/noticias/b4-esports-fecha-contratacao-de-w1/)
+- [Painel TN vs IPS vs VA: qual o melhor? Saiba tudo sobre esses 3 tipos painéis e suas vantagens](https://marriedgames.com.br/dicas-guias/tn-vs-ips-vs-va-qual-a-melhor/)
 <!-- BLOG-POST-LIST:END -->
 
 
