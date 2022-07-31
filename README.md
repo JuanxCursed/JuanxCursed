@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Revele os mistérios de Digimon Survive, já disponível nos consoles e pc](https://marriedgames.com.br/noticias/misterios-de-digimon-survive/)
+- [Affogato já tem demo gratuito no Steam](https://marriedgames.com.br/noticias/affogato-ja-tem-demo/)
+- [THE SIEGE AND THE SANDFOX: ESQUISE SEU CAMINHO ATRAVÉS DE “STEALTHVANIA”](https://marriedgames.com.br/noticias/siege-and-the-sandfox/)
 - [Compre um lançamento de TVs LG 2022 e leve um Sound Bar por apenas R＄159](https://marriedgames.com.br/noticias/lancamento-de-tvs-lg-2022/)
 - [Riot Games e 7 Minutoz lançam músicas exclusivas de Guardiãs Estelares](https://marriedgames.com.br/noticias/riot-games-e-7-minutoz/)
-- [Inter Shop lança gift card de Roblox com 5% de cashback](https://marriedgames.com.br/noticias/inter-shop-lanca-gift-card/)
-- [B4 eSports fecha contratação de W1 para sua equipe de CS:GO](https://marriedgames.com.br/noticias/b4-esports-fecha-contratacao-de-w1/)
-- [Painel TN vs IPS vs VA: qual o melhor? Saiba tudo sobre esses 3 tipos painéis e suas vantagens](https://marriedgames.com.br/dicas-guias/tn-vs-ips-vs-va-qual-a-melhor/)
 <!-- BLOG-POST-LIST:END -->
 
 
