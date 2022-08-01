@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [BLACKPINK e PUBG MOBILE lançam videoclipe da faixa especial ‘Ready for Love’](https://marriedgames.com.br/noticias/blackpink-e-pubg-mobile/)
+- [GOAT SIMULATOR 3 TRAVA CONTRA PC E CONSOLES EM NOVEMBRO](https://marriedgames.com.br/noticias/goat-simulator-3-2/)
+- [Golden Bros, jogo de tiro casual da Netmarble, chega hoje para iOS, Android e PC](https://marriedgames.com.br/noticias/golden-bros-jogo-de-tiro/)
+- [Episódio 7 de Sonic Origins Speed Strats já disponível](https://marriedgames.com.br/noticias/episodio-7-de-sonic-origins/)
 - [Revele os mistérios de Digimon Survive, já disponível nos consoles e pc](https://marriedgames.com.br/noticias/misterios-de-digimon-survive/)
-- [Affogato já tem demo gratuito no Steam](https://marriedgames.com.br/noticias/affogato-ja-tem-demo/)
-- [THE SIEGE AND THE SANDFOX: ESQUISE SEU CAMINHO ATRAVÉS DE “STEALTHVANIA”](https://marriedgames.com.br/noticias/siege-and-the-sandfox/)
-- [Compre um lançamento de TVs LG 2022 e leve um Sound Bar por apenas R＄159](https://marriedgames.com.br/noticias/lancamento-de-tvs-lg-2022/)
-- [Riot Games e 7 Minutoz lançam músicas exclusivas de Guardiãs Estelares](https://marriedgames.com.br/noticias/riot-games-e-7-minutoz/)
 <!-- BLOG-POST-LIST:END -->
 
 
