@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BLACKPINK e PUBG MOBILE lançam videoclipe da faixa especial ‘Ready for Love’](https://marriedgames.com.br/noticias/blackpink-e-pubg-mobile/)
-- [GOAT SIMULATOR 3 TRAVA CONTRA PC E CONSOLES EM NOVEMBRO](https://marriedgames.com.br/noticias/goat-simulator-3-2/)
-- [Golden Bros, jogo de tiro casual da Netmarble, chega hoje para iOS, Android e PC](https://marriedgames.com.br/noticias/golden-bros-jogo-de-tiro/)
-- [Episódio 7 de Sonic Origins Speed Strats já disponível](https://marriedgames.com.br/noticias/episodio-7-de-sonic-origins/)
-- [Revele os mistérios de Digimon Survive, já disponível nos consoles e pc](https://marriedgames.com.br/noticias/misterios-de-digimon-survive/)
+- [2º capítulo de Dying Light 2 chegará em breve](https://marriedgames.com.br/noticias/capitulo-de-dying-light-2/)
+- [‘Acorda, Pedrinho’ dá o tom da campanha do Cartola Express reforçando a distribuição de prêmios](https://marriedgames.com.br/noticias/campanha-do-cartola-express/)
+- [Gran Turismo World Series continua este fim de semana com disputas eletrizantes ao vivo](https://marriedgames.com.br/noticias/gran-turismo-world-series-continua-este-fim-de-semana-com-disputas-eletrizantes-ao-vivo/)
+- [Guia para iniciantes de estratégias sem perda de roleta online 2022](https://marriedgames.com.br/noticias/roleta-online/)
+- [Golden Bros, jogo de tiro casual da Netmarble, chega hoje para iOS, Android e PC](https://marriedgames.com.br/noticias/jogo-de-tiro-casual-da-netmarble/)
 <!-- BLOG-POST-LIST:END -->
 
 
