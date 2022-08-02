@@ -116,7 +116,7 @@ I've just born to do it.
   </a> 
 </p>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/JuanxCursed/calendar/pull/7) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
+1. 🗣 Commented on [#70](https://github.com/nuxt-community/eslint-module/issues/70) in [nuxt-community/eslint-module](https://github.com/nuxt-community/eslint-module)
 2. 💪 Opened PR [#7](https://github.com/JuanxCursed/calendar/pull/7) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
 3. 🎉 Merged PR [#6](https://github.com/JuanxCursed/calendar/pull/6) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
 4. 💪 Opened PR [#6](https://github.com/JuanxCursed/calendar/pull/6) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
