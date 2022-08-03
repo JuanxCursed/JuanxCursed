@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Genshin Impact: Os 10 melhores celulares para jogar](https://marriedgames.com.br/dicas-guias/celulares-para-jogar-genshin/)
 - [2º capítulo de Dying Light 2 chegará em breve](https://marriedgames.com.br/noticias/capitulo-de-dying-light-2/)
 - [‘Acorda, Pedrinho’ dá o tom da campanha do Cartola Express reforçando a distribuição de prêmios](https://marriedgames.com.br/noticias/campanha-do-cartola-express/)
 - [Gran Turismo World Series continua este fim de semana com disputas eletrizantes ao vivo](https://marriedgames.com.br/noticias/gran-turismo-world-series-continua-este-fim-de-semana-com-disputas-eletrizantes-ao-vivo/)
 - [Guia para iniciantes de estratégias sem perda de roleta online 2022](https://marriedgames.com.br/noticias/roleta-online/)
-- [Golden Bros, jogo de tiro casual da Netmarble, chega hoje para iOS, Android e PC](https://marriedgames.com.br/noticias/jogo-de-tiro-casual-da-netmarble/)
 <!-- BLOG-POST-LIST:END -->
 
 
