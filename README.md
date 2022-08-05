@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Infoblox: Visibilidade eficaz vai muito além dos endereços IP](https://marriedgames.com.br/noticias/infoblox/)
-- [Supere os desafios do ensino online com o roteador doméstico HUAWEI WiFi AX2](https://marriedgames.com.br/noticias/huawei-wifi-ax2-3/)
-- [Free Fire celebra 5 anos em evento com Justin Bieber](https://marriedgames.com.br/noticias/free-fire-celebra-5-anos/)
-- [Hypados: Hype Games inicia programa de embaixadores](https://marriedgames.com.br/noticias/hype-games/)
-- [OutSystems fala sobre os desafios tecnológicos da indústria de seguros no Insurtech Latam Fórum 2022](https://marriedgames.com.br/noticias/insurtech-latam-forum-2022/)
+- [Melhores aplicativos para curtir São Paulo](https://marriedgames.com.br/noticias/melhores-aplicativos/)
+- [Genial inaugura espaço no Decentraland](https://marriedgames.com.br/noticias/genial-inaugura-espaco-no-decentraland/)
+- [Filmes da Sofa Digital estarão disponíveis nas plataformas para compra e aluguel e no cinema](https://marriedgames.com.br/noticias/filmes-da-sofa-digital/)
+- [Sony Music e Resso anunciam parceria em campanha exclusiva com Luísa Sonza](https://marriedgames.com.br/noticias/sony-music-e-resso/)
+- [Nova campanha de Gran Turismo 7 coloca super automóveis em grandes pontos de São Paulo](https://marriedgames.com.br/noticias/nova-campanha-de-gran-turismo/)
 <!-- BLOG-POST-LIST:END -->
 
 
