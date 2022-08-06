@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Melhores aplicativos para curtir São Paulo](https://marriedgames.com.br/noticias/melhores-aplicativos/)
-- [Genial inaugura espaço no Decentraland](https://marriedgames.com.br/noticias/genial-inaugura-espaco-no-decentraland/)
-- [Filmes da Sofa Digital estarão disponíveis nas plataformas para compra e aluguel e no cinema](https://marriedgames.com.br/noticias/filmes-da-sofa-digital/)
-- [Sony Music e Resso anunciam parceria em campanha exclusiva com Luísa Sonza](https://marriedgames.com.br/noticias/sony-music-e-resso/)
-- [Nova campanha de Gran Turismo 7 coloca super automóveis em grandes pontos de São Paulo](https://marriedgames.com.br/noticias/nova-campanha-de-gran-turismo/)
+- [Como montar um PC para jogos de até R$ 3000](https://marriedgames.com.br/dicas-guias/pc-para-jogos-montar-3000/)
+- [Para 2022, confira quatro dicas para uma casa conectada](https://marriedgames.com.br/noticias/casa-conectada-tplink/)
+- [Com três novos produtos, TP-Link amplia oferta de soluções para provedores](https://marriedgames.com.br/noticias/com-tres-novos-produtos-tp-link-amplia-oferta-de-solucoes-para-provedores/)
+- [Neymar Jr. enfrenta parceiros do PUBG no evento Deston Rise](https://marriedgames.com.br/noticias/neymar-jr-enfrenta-parceiros/)
+- [Stop, jogo que diverte diferentes gerações, lança Clube de Embaixadores](https://marriedgames.com.br/noticias/stop-clube-de-embaixadores/)
 <!-- BLOG-POST-LIST:END -->
 
 
