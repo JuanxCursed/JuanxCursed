@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gloob promove quarta edição do “Miraculous Day” em agosto](https://marriedgames.com.br/noticias/miraculous-day/)
+- [“Tudo em um” Super Apps dominam smartphones dos Brasileiros](https://marriedgames.com.br/noticias/super-apps-dominam/)
+- [Volta às aulas com o novo trailer de lançamento de Two Point Campus](https://marriedgames.com.br/noticias/volta-as-aulas-com-o-novo-trailer-de-lancamento-de-two-point-campus/)
 - [Como montar um PC para jogos de até R$ 3000](https://marriedgames.com.br/dicas-guias/pc-para-jogos-montar-3000/)
 - [Para 2022, confira quatro dicas para uma casa conectada](https://marriedgames.com.br/noticias/casa-conectada-tplink/)
-- [Com três novos produtos, TP-Link amplia oferta de soluções para provedores](https://marriedgames.com.br/noticias/com-tres-novos-produtos-tp-link-amplia-oferta-de-solucoes-para-provedores/)
-- [Neymar Jr. enfrenta parceiros do PUBG no evento Deston Rise](https://marriedgames.com.br/noticias/neymar-jr-enfrenta-parceiros/)
-- [Stop, jogo que diverte diferentes gerações, lança Clube de Embaixadores](https://marriedgames.com.br/noticias/stop-clube-de-embaixadores/)
 <!-- BLOG-POST-LIST:END -->
 
 
