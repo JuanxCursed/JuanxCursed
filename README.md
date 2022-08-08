@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ataque hacker: é importante conhecer o inimigo para se proteger dele](https://marriedgames.com.br/noticias/ataque-hacker/)
+- [4game abre pré-venda no Brasil para RAM Pressure Under Fire, novo jogo tático por turnos](https://marriedgames.com.br/noticias/ram-pressure-under-fire/)
+- [Dell Technologies participa do Startup Summit 2022 com palestras e estandes físico e virtual](https://marriedgames.com.br/noticias/dell-technologies/)
+- [Indy Santos, brasileira se livra do paredão no Big Brother USA](https://marriedgames.com.br/noticias/indy-santos/)
 - [Gloob promove quarta edição do “Miraculous Day” em agosto](https://marriedgames.com.br/noticias/miraculous-day/)
-- [“Tudo em um” Super Apps dominam smartphones dos Brasileiros](https://marriedgames.com.br/noticias/super-apps-dominam/)
-- [Volta às aulas com o novo trailer de lançamento de Two Point Campus](https://marriedgames.com.br/noticias/volta-as-aulas-com-o-novo-trailer-de-lancamento-de-two-point-campus/)
-- [Como montar um PC para jogos de até R$ 3000](https://marriedgames.com.br/dicas-guias/pc-para-jogos-montar-3000/)
-- [Para 2022, confira quatro dicas para uma casa conectada](https://marriedgames.com.br/noticias/casa-conectada-tplink/)
 <!-- BLOG-POST-LIST:END -->
 
 
