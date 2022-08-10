@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [O que é WordPress? Tudo sobre o Criador de Sites mais Importante da Internet](https://marriedgames.com.br/dicas-guias/o-que-e-wordpress/)
+- [Ganhar Dinheiro com Bitcoin? Veja Motivos para Investir Nelas](https://marriedgames.com.br/dicas-guias/ganhar-dinheiro-com-bitcoin/)
+- [Guia dos Melhores Monitores Gamers de 2022](https://marriedgames.com.br/dicas-guias/melhores-monitores-gamers/)
+- [WordPress: Tudo sobre o CMS mais Poderoso do Mundo](https://marriedgames.com.br/dicas-guias/o-que-e-wordpress/)
 - [Ataque hacker: é importante conhecer o inimigo para se proteger dele](https://marriedgames.com.br/noticias/ataque-hacker/)
 - [4game abre pré-venda no Brasil para RAM Pressure Under Fire, novo jogo tático por turnos](https://marriedgames.com.br/noticias/ram-pressure-under-fire/)
-- [Dell Technologies participa do Startup Summit 2022 com palestras e estandes físico e virtual](https://marriedgames.com.br/noticias/dell-technologies/)
-- [Indy Santos, brasileira se livra do paredão no Big Brother USA](https://marriedgames.com.br/noticias/indy-santos/)
 <!-- BLOG-POST-LIST:END -->
 
 
