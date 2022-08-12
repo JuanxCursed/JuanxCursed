@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ganhar Dinheiro com Bitcoin? Veja Motivos para Investir Nelas](https://marriedgames.com.br/dicas-guias/ganhar-dinheiro-com-bitcoin/)
-- [Guia dos Melhores Monitores Gamers de 2022](https://marriedgames.com.br/dicas-guias/melhores-monitores-gamers/)
-- [WordPress: Tudo sobre o CMS mais Poderoso do Mundo](https://marriedgames.com.br/dicas-guias/o-que-e-wordpress/)
-- [Ataque hacker: é importante conhecer o inimigo para se proteger dele](https://marriedgames.com.br/noticias/ataque-hacker/)
-- [4game abre pré-venda no Brasil para RAM Pressure Under Fire, novo jogo tático por turnos](https://marriedgames.com.br/noticias/ram-pressure-under-fire/)
+- [Megapix celebra o Dia do Pais com programação dedicada e ação interativa](https://marriedgames.com.br/noticias/megapix-celebra-o-dia-do-pais/)
+- [Hamburgueria O Burguês lança a centésima loja e escolhe o metaverso para novo endereço](https://marriedgames.com.br/noticias/hamburgueria-o-burgues-lanca-a-centesima-loja-e-escolhe-o-metaverso-para-novo-endereco/)
+- [Importante atualização para Yu-Gi-Oh! MASTER DUEL apresenta partidas casuais e muito mais](https://marriedgames.com.br/noticias/atualizacao-para-yu-gi-oh/)
+- [TIC Kids Online Brasil será lançada no 7° Simpósio Crianças e Adolescentes na Internet](https://marriedgames.com.br/noticias/tic-kids-online-brasil/)
+- [Watch Brasil indica cinco filmes e séries para chorar de rir](https://marriedgames.com.br/noticias/watch-brasil-indica/)
 <!-- BLOG-POST-LIST:END -->
 
 
