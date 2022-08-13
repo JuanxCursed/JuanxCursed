@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coringa promove a terceira edição da BGC com experiência imersiva em metaverso](https://marriedgames.com.br/noticias/terceira-edicao-da-bgc/)
+- [Naruto para Colorir: Mais de 100 Desenhos Grátis do Ninja para Você Imprimir e Colorir](https://marriedgames.com.br/noticias/naruto-para-colorir/)
 - [Megapix celebra o Dia do Pais com programação dedicada e ação interativa](https://marriedgames.com.br/noticias/megapix-celebra-o-dia-do-pais/)
 - [Hamburgueria O Burguês lança a centésima loja e escolhe o metaverso para novo endereço](https://marriedgames.com.br/noticias/hamburgueria-o-burgues-lanca-a-centesima-loja-e-escolhe-o-metaverso-para-novo-endereco/)
 - [Importante atualização para Yu-Gi-Oh! MASTER DUEL apresenta partidas casuais e muito mais](https://marriedgames.com.br/noticias/atualizacao-para-yu-gi-oh/)
-- [TIC Kids Online Brasil será lançada no 7° Simpósio Crianças e Adolescentes na Internet](https://marriedgames.com.br/noticias/tic-kids-online-brasil/)
-- [Watch Brasil indica cinco filmes e séries para chorar de rir](https://marriedgames.com.br/noticias/watch-brasil-indica/)
 <!-- BLOG-POST-LIST:END -->
 
 
