@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Coringa promove a terceira edição da BGC com experiência imersiva em metaverso](https://marriedgames.com.br/noticias/terceira-edicao-da-bgc/)
-- [Naruto para Colorir: Mais de 100 Desenhos Grátis do Ninja para Você Imprimir e Colorir](https://marriedgames.com.br/noticias/naruto-para-colorir/)
-- [Megapix celebra o Dia do Pais com programação dedicada e ação interativa](https://marriedgames.com.br/noticias/megapix-celebra-o-dia-do-pais/)
-- [Hamburgueria O Burguês lança a centésima loja e escolhe o metaverso para novo endereço](https://marriedgames.com.br/noticias/hamburgueria-o-burgues-lanca-a-centesima-loja-e-escolhe-o-metaverso-para-novo-endereco/)
-- [Importante atualização para Yu-Gi-Oh! MASTER DUEL apresenta partidas casuais e muito mais](https://marriedgames.com.br/noticias/atualizacao-para-yu-gi-oh/)
+- [Black Anvil, TCG da brasileira Animus Game Studio, é anunciado para PC e celulares](https://marriedgames.com.br/noticias/black-anvil-tcg-da-brasileira/)
+- [Take4Games e Flow Podcast fecham parceria](https://marriedgames.com.br/noticias/take4games-e-flow-podcast/)
+- [Boletim Liga Brasileira de Free Fire 8 – Semana 2](https://marriedgames.com.br/noticias/liga-brasileira-de-free-fire-8/)
+- [Riot Games anuncia novos detalhes sobre o VALORANT Champions Tour 2023](https://marriedgames.com.br/noticias/valorant-champions-tour/)
+- [SEO para WordPress: Dicas e Melhores Práticas [GUIA DEFINITIVO]](https://marriedgames.com.br/dicas-guias/guia-de-seo-para-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 
