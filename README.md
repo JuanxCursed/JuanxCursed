@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ingressos para a terceira edição do BGC esgotam em menos de 24 horas](https://marriedgames.com.br/noticias/terceira-edicao-do-bgc/)
+- [Black Desert Online dá início à Temporada de estreia da Arena Solare](https://marriedgames.com.br/noticias/estreia-da-arena-solare/)
+- [Techland libera 1º teaser do DLC de história de Dying Light 2](https://marriedgames.com.br/noticias/historia-de-dying-light-2/)
+- [NVIDIA GTC faz apresentação com CEO e anúncio de novas tecnologias de IA e Metaverso](https://marriedgames.com.br/noticias/nvidia-gtc-faz-apresentacao/)
 - [Black Anvil, TCG da brasileira Animus Game Studio, é anunciado para PC e celulares](https://marriedgames.com.br/noticias/black-anvil-tcg-da-brasileira/)
-- [Take4Games e Flow Podcast fecham parceria](https://marriedgames.com.br/noticias/take4games-e-flow-podcast/)
-- [Boletim Liga Brasileira de Free Fire 8 – Semana 2](https://marriedgames.com.br/noticias/liga-brasileira-de-free-fire-8/)
-- [Riot Games anuncia novos detalhes sobre o VALORANT Champions Tour 2023](https://marriedgames.com.br/noticias/valorant-champions-tour/)
-- [SEO para WordPress: Dicas e Melhores Práticas [GUIA DEFINITIVO]](https://marriedgames.com.br/dicas-guias/guia-de-seo-para-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 
