@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ingressos para a terceira edição do BGC esgotam em menos de 24 horas](https://marriedgames.com.br/noticias/terceira-edicao-do-bgc/)
-- [Black Desert Online dá início à Temporada de estreia da Arena Solare](https://marriedgames.com.br/noticias/estreia-da-arena-solare/)
-- [Techland libera 1º teaser do DLC de história de Dying Light 2](https://marriedgames.com.br/noticias/historia-de-dying-light-2/)
-- [NVIDIA GTC faz apresentação com CEO e anúncio de novas tecnologias de IA e Metaverso](https://marriedgames.com.br/noticias/nvidia-gtc-faz-apresentacao/)
-- [Black Anvil, TCG da brasileira Animus Game Studio, é anunciado para PC e celulares](https://marriedgames.com.br/noticias/black-anvil-tcg-da-brasileira/)
+- [B4 eSports anuncia Mands como streamer e criadora de conteúdo](https://marriedgames.com.br/noticias/b4-esports-anuncia-mands/)
+- [2A.M. lista grandes games brasileiros para jogar no PC](https://marriedgames.com.br/noticias/games-brasileiros-para-jogar/)
+- [CoD: Mobile World Championship tem final de semana inspirado e BRs conquistam vagas](https://marriedgames.com.br/noticias/cod-mobile-world-championship/)
+- [COMPANY OF HEROES 3 – Como a Relic dá vida à Segunda Guerra Mundial através do áudio](https://marriedgames.com.br/noticias/relic-da-vida-a-segunda-guerra-mundial/)
+- [Usando PIX ou boleto bancário, agora você pode  adquirir cartões presente no site da Nintendo!](https://marriedgames.com.br/noticias/cartoes-presente-no-site-da-nintendo/)
 <!-- BLOG-POST-LIST:END -->
 
 
