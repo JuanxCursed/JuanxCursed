@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [B4 eSports anuncia Mands como streamer e criadora de conteúdo](https://marriedgames.com.br/noticias/b4-esports-anuncia-mands/)
-- [2A.M. lista grandes games brasileiros para jogar no PC](https://marriedgames.com.br/noticias/games-brasileiros-para-jogar/)
-- [CoD: Mobile World Championship tem final de semana inspirado e BRs conquistam vagas](https://marriedgames.com.br/noticias/cod-mobile-world-championship/)
-- [COMPANY OF HEROES 3 – Como a Relic dá vida à Segunda Guerra Mundial através do áudio](https://marriedgames.com.br/noticias/relic-da-vida-a-segunda-guerra-mundial/)
-- [Usando PIX ou boleto bancário, agora você pode  adquirir cartões presente no site da Nintendo!](https://marriedgames.com.br/noticias/cartoes-presente-no-site-da-nintendo/)
+- [Tribo Cup abre inscrições para segundo split de 2022](https://marriedgames.com.br/noticias/tribo-cup-abre-inscricoes/)
+- [Lendas nunca morrem na Última Batalha, a temporada final de Call of Duty a partir de 24/08](https://marriedgames.com.br/noticias/temporada-final-de-call-of-duty/)
+- [XIS estreia no mundial de Pokémon Unite no próximo sábado &lpar;20&rpar;](https://marriedgames.com.br/noticias/xis-estreia-no-mundial/)
+- [Riot Games terá joalheria Tiffany como designer da Copa do Invocador de League of Legends](https://marriedgames.com.br/noticias/copa-do-invocador-de-league-of-legends/)
+- [Satiko entra no Cidade Alta e abre restaurante no metaverso](https://marriedgames.com.br/noticias/satiko-entra-no-cidade-alta/)
 <!-- BLOG-POST-LIST:END -->
 
 
