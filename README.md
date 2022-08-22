@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Terceira Temporada da Mobile Legends: Bang Bang Professional League &lpar;MPL&rpar; Brasil tem início](https://marriedgames.com.br/noticias/terceira-temporada-da-mobile-legends/)
+- [NEW STATE MOBILE recebe a atualização de agosto com novo modo experimental](https://marriedgames.com.br/noticias/new-state-mobile-recebe-a-atualizacao-de-agosto-com-novo-modo-experimental/)
+- [Gigolô Americano, nova série exclusiva do Paramount+, estreia em 10 de setembro](https://marriedgames.com.br/noticias/gigolo-americano/)
+- [KONAMI estende sua parceria com o Arsenal](https://marriedgames.com.br/noticias/konami-estende-sua-parceria/)
 - [Tribo Cup abre inscrições para segundo split de 2022](https://marriedgames.com.br/noticias/tribo-cup-abre-inscricoes/)
-- [Lendas nunca morrem na Última Batalha, a temporada final de Call of Duty a partir de 24/08](https://marriedgames.com.br/noticias/temporada-final-de-call-of-duty/)
-- [XIS estreia no mundial de Pokémon Unite no próximo sábado &lpar;20&rpar;](https://marriedgames.com.br/noticias/xis-estreia-no-mundial/)
-- [Riot Games terá joalheria Tiffany como designer da Copa do Invocador de League of Legends](https://marriedgames.com.br/noticias/copa-do-invocador-de-league-of-legends/)
-- [Satiko entra no Cidade Alta e abre restaurante no metaverso](https://marriedgames.com.br/noticias/satiko-entra-no-cidade-alta/)
 <!-- BLOG-POST-LIST:END -->
 
 
