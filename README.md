@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [O que é o BeTheme: Um tema multifuncional responsivo com mais de 600 sites prontos para usar no WordPress](https://marriedgames.com.br/dicas-guias/o-que-e-o-betheme/)
+- [Temas WordPress: Os Melhores Temas Pagos e Grátis](https://marriedgames.com.br/dicas-guias/temas-wordpress/)
+- [O que é CMS e Por Que Você Deve Aprender Sobre Isso](https://marriedgames.com.br/dicas-guias/o-que-e-cms/)
 - [Terceira Temporada da Mobile Legends: Bang Bang Professional League &lpar;MPL&rpar; Brasil tem início](https://marriedgames.com.br/noticias/terceira-temporada-da-mobile-legends/)
 - [NEW STATE MOBILE recebe a atualização de agosto com novo modo experimental](https://marriedgames.com.br/noticias/new-state-mobile-recebe-a-atualizacao-de-agosto-com-novo-modo-experimental/)
-- [Gigolô Americano, nova série exclusiva do Paramount+, estreia em 10 de setembro](https://marriedgames.com.br/noticias/gigolo-americano/)
-- [KONAMI estende sua parceria com o Arsenal](https://marriedgames.com.br/noticias/konami-estende-sua-parceria/)
-- [Tribo Cup abre inscrições para segundo split de 2022](https://marriedgames.com.br/noticias/tribo-cup-abre-inscricoes/)
 <!-- BLOG-POST-LIST:END -->
 
 
