@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pré-vendas de Sonic Frontiers já estão disponíveis](https://marriedgames.com.br/noticias/pre-vendas-de-sonic-frontiers/)
-- [Instalar BuddyPress: Configuração Passo a Passo [GUIA DEFINITIVO]](https://marriedgames.com.br/dicas-guias/instalar-buddypress/)
-- [CCXP22 abre inscrições para o Concurso Cosplay; vencedor leva carro 0km e ingressos para 2023](https://marriedgames.com.br/noticias/ccxp22-abre-inscricoes/)
-- [Champions of Chaos e Immortal Empires &lpar;Beta&rpar; já estão disponíveis para Total War: Warhammer III](https://marriedgames.com.br/noticias/champions-of-chaos-e-immortal-empires/)
-- [‘A CASA DO DRAGÃO’ TORNA-SE A ESTREIA MAIS VISTA NA HISTÓRIA DA HBO MAX](https://marriedgames.com.br/noticias/a-casa-do-dragao-torna-se-a-estreia-mais-vista-na-historia-da-hbo-max/)
+- [VERA, a nova expansão de Tower of Fantasy leva jogadores a um mundo cyberpunk](https://marriedgames.com.br/noticias/expansao-de-tower-of-fantasy/)
+- [The Callisto Protocol chega aos consoles e PC em pela Striking Distance Studios e Krafton](https://marriedgames.com.br/noticias/the-callisto-protocol/)
+- [A Temporada 2 dos Campos de Batalha de Hearthstone traz Missões, magia e mais](https://marriedgames.com.br/noticias/campos-de-batalha-de-hearthstone-2/)
+- [Free Fire celebra aniversário de 5 anos no dia 27 de agosto com muita ação, música e experiências](https://marriedgames.com.br/noticias/free-fire-celebra-aniversario/)
+- [Doraemon Story Of Seasons: Friends Of The Great Kingdom chega em novembro](https://marriedgames.com.br/noticias/doraemon-story-of-seasons-friends-of-the-great-kingdom-chega-em-novembro/)
 <!-- BLOG-POST-LIST:END -->
 
 
