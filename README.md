@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VERA, a nova expansão de Tower of Fantasy leva jogadores a um mundo cyberpunk](https://marriedgames.com.br/noticias/expansao-de-tower-of-fantasy/)
-- [The Callisto Protocol chega aos consoles e PC em pela Striking Distance Studios e Krafton](https://marriedgames.com.br/noticias/the-callisto-protocol/)
-- [A Temporada 2 dos Campos de Batalha de Hearthstone traz Missões, magia e mais](https://marriedgames.com.br/noticias/campos-de-batalha-de-hearthstone-2/)
-- [Free Fire celebra aniversário de 5 anos no dia 27 de agosto com muita ação, música e experiências](https://marriedgames.com.br/noticias/free-fire-celebra-aniversario/)
-- [Doraemon Story Of Seasons: Friends Of The Great Kingdom chega em novembro](https://marriedgames.com.br/noticias/doraemon-story-of-seasons-friends-of-the-great-kingdom-chega-em-novembro/)
+- [Dying Light 2 Stay Human: Bloody Ties ganha data de lançamento](https://marriedgames.com.br/noticias/bloody-ties-ganha-data-de-lancamento/)
+- [NVIDIA reúne melhores ofertas para semana do Gamer](https://marriedgames.com.br/noticias/nvidia-reune-melhores-ofertas/)
+- [Na Europa, Ninext joga com Ronaldo Fenômeno, Lucas Paquetá e outras estrelas do futebol](https://marriedgames.com.br/noticias/ninext-joga-com-ronaldo/)
+- [Com Stephen Graham, O Chef chega aos cinemas em 1º/9](https://marriedgames.com.br/noticias/o-chef-chega-aos-cinemas/)
+- [A Tensão Aumenta No Novo Trailer de The Dark Pictures Anthology: The Devil In Me](https://marriedgames.com.br/noticias/novo-trailer-de-the-dark-pictures/)
 <!-- BLOG-POST-LIST:END -->
 
 
