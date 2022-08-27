@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sorteio do 2º Split da Liga NFA acontece no próximo domingo &lpar;28&rpar;](https://marriedgames.com.br/noticias/split-da-liga-nfa/)
+- [Hogwarts Legacy já está em pré-venda digital](https://marriedgames.com.br/noticias/hogwarts-legacy-ja-esta-em-pre-venda/)
+- [eFootball 2023 dá o pontapé inicial com dados da nova temporada com equipes atualizadas](https://marriedgames.com.br/noticias/efootball-2023-da-o-pontape-inicial/)
 - [Dying Light 2 Stay Human: Bloody Ties ganha data de lançamento](https://marriedgames.com.br/noticias/bloody-ties-ganha-data-de-lancamento/)
 - [NVIDIA reúne melhores ofertas para semana do Gamer](https://marriedgames.com.br/noticias/nvidia-reune-melhores-ofertas/)
-- [Na Europa, Ninext joga com Ronaldo Fenômeno, Lucas Paquetá e outras estrelas do futebol](https://marriedgames.com.br/noticias/ninext-joga-com-ronaldo/)
-- [Com Stephen Graham, O Chef chega aos cinemas em 1º/9](https://marriedgames.com.br/noticias/o-chef-chega-aos-cinemas/)
-- [A Tensão Aumenta No Novo Trailer de The Dark Pictures Anthology: The Devil In Me](https://marriedgames.com.br/noticias/novo-trailer-de-the-dark-pictures/)
 <!-- BLOG-POST-LIST:END -->
 
 
