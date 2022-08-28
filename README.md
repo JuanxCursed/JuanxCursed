@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gamers profissionais e amadores com problemas ortopédicos, oftalmológicos e psicológicos](https://marriedgames.com.br/noticias/gamers-profissionais-e-amadores/)
+- [Detalhes do RTP do Patch 2.5 de Diablo II: Resurrected – Novo recurso “Áreas de Terror”](https://marriedgames.com.br/noticias/areas-de-terror/)
+- [Grupo LEGO comemora 90 anos de criatividade e brincadeiras](https://marriedgames.com.br/noticias/grupo-lego-comemora/)
 - [Sorteio do 2º Split da Liga NFA acontece no próximo domingo &lpar;28&rpar;](https://marriedgames.com.br/noticias/split-da-liga-nfa/)
 - [Hogwarts Legacy já está em pré-venda digital](https://marriedgames.com.br/noticias/hogwarts-legacy-ja-esta-em-pre-venda/)
-- [eFootball 2023 dá o pontapé inicial com dados da nova temporada com equipes atualizadas](https://marriedgames.com.br/noticias/efootball-2023-da-o-pontape-inicial/)
-- [Dying Light 2 Stay Human: Bloody Ties ganha data de lançamento](https://marriedgames.com.br/noticias/bloody-ties-ganha-data-de-lancamento/)
-- [NVIDIA reúne melhores ofertas para semana do Gamer](https://marriedgames.com.br/noticias/nvidia-reune-melhores-ofertas/)
 <!-- BLOG-POST-LIST:END -->
 
 
