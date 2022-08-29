@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rockwell Automation abre inscrições para a 31ª edição da Automation Fair](https://marriedgames.com.br/noticias/rockwell-automation/)
+- [Marisa oferece looks geeks para o Dia Internacional do Gamer](https://marriedgames.com.br/noticias/marisa-oferece-looks-geeks/)
+- [Rock in Rio 2022: Festival anuncia sua primeira experiência dentro do Metaverso, o Rock in Verse](https://marriedgames.com.br/noticias/rock-in-verse/)
 - [Gamers profissionais e amadores com problemas ortopédicos, oftalmológicos e psicológicos](https://marriedgames.com.br/noticias/gamers-profissionais-e-amadores/)
 - [Detalhes do RTP do Patch 2.5 de Diablo II: Resurrected – Novo recurso “Áreas de Terror”](https://marriedgames.com.br/noticias/areas-de-terror/)
-- [Grupo LEGO comemora 90 anos de criatividade e brincadeiras](https://marriedgames.com.br/noticias/grupo-lego-comemora/)
-- [Sorteio do 2º Split da Liga NFA acontece no próximo domingo &lpar;28&rpar;](https://marriedgames.com.br/noticias/split-da-liga-nfa/)
-- [Hogwarts Legacy já está em pré-venda digital](https://marriedgames.com.br/noticias/hogwarts-legacy-ja-esta-em-pre-venda/)
 <!-- BLOG-POST-LIST:END -->
 
 
