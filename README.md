@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rockwell Automation abre inscrições para a 31ª edição da Automation Fair](https://marriedgames.com.br/noticias/rockwell-automation/)
-- [Marisa oferece looks geeks para o Dia Internacional do Gamer](https://marriedgames.com.br/noticias/marisa-oferece-looks-geeks/)
-- [Rock in Rio 2022: Festival anuncia sua primeira experiência dentro do Metaverso, o Rock in Verse](https://marriedgames.com.br/noticias/rock-in-verse/)
-- [Gamers profissionais e amadores com problemas ortopédicos, oftalmológicos e psicológicos](https://marriedgames.com.br/noticias/gamers-profissionais-e-amadores/)
-- [Detalhes do RTP do Patch 2.5 de Diablo II: Resurrected – Novo recurso “Áreas de Terror”](https://marriedgames.com.br/noticias/areas-de-terror/)
+- [Controle cada passo para a vitória no Open Beta de RAM Pressure Under Fire](https://marriedgames.com.br/noticias/open-beta-de-ram/)
+- [Gaming é tema de mais de 324 mil playlists criadas por usuários brasileiros no Spotify](https://marriedgames.com.br/noticias/usuarios-brasileiros-no-spotify/)
+- [World of Warships: Legends anunciam o retorno heróico dos TRANSFORMERS em setembro](https://marriedgames.com.br/noticias/retorno-heroico-dos-transformers/)
+- [Destaques da semana no Comedy Central, MTV, Nickelodeon, Paramount Network e Pluto TV](https://marriedgames.com.br/noticias/destaques-da-semana-paramount/)
+- [Dia do Gamer: conheça 5 cursos para área de jogos digitais](https://marriedgames.com.br/noticias/cursos-para-area-de-jogos-digitais/)
 <!-- BLOG-POST-LIST:END -->
 
 
