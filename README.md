@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [8 Melhores plugins do WhatsApp para WordPress para 2022](https://marriedgames.com.br/dicas-guias/plugins-do-whatsapp-para-wordpress/)
+- [B4 eSports anuncia a contratação de Poppins para line-up de CS:GO Feminino](https://marriedgames.com.br/noticias/b4-esports-anuncia-a-contratacao/)
+- [WordPress: Melhor plugin para cache em 2022 &lpar;Guia definitivo&rpar;](https://marriedgames.com.br/dicas-guias/melhor-plugin-para-cache/)
+- [Como Instalar uma Fonte de Alimentação Passo-a-Passo](https://marriedgames.com.br/dicas-guias/instalar-uma-fonte-de-alimentacao/)
 - [Controle cada passo para a vitória no Open Beta de RAM Pressure Under Fire](https://marriedgames.com.br/noticias/open-beta-de-ram/)
-- [Gaming é tema de mais de 324 mil playlists criadas por usuários brasileiros no Spotify](https://marriedgames.com.br/noticias/usuarios-brasileiros-no-spotify/)
-- [World of Warships: Legends anunciam o retorno heróico dos TRANSFORMERS em setembro](https://marriedgames.com.br/noticias/retorno-heroico-dos-transformers/)
-- [Destaques da semana no Comedy Central, MTV, Nickelodeon, Paramount Network e Pluto TV](https://marriedgames.com.br/noticias/destaques-da-semana-paramount/)
-- [Dia do Gamer: conheça 5 cursos para área de jogos digitais](https://marriedgames.com.br/noticias/cursos-para-area-de-jogos-digitais/)
 <!-- BLOG-POST-LIST:END -->
 
 
