@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lady Gaga em Fortnite? Vazamentos sugerem que sim](https://marriedgames.com.br/noticias/lady-gaga-em-fortnite/)
+- [IBM apresenta 5 tendências que vão transformar os negócios no Brasil e na América Latina](https://marriedgames.com.br/noticias/ibm-apresenta-5-tendencias/)
+- [Semana Gamer na Inter anuncia ofertas e até R＄ 3 mil de desconto e até 30% de cashback](https://marriedgames.com.br/noticias/semana-gamer-na-inter/)
+- [WP Super Cache: Aprenda a Instalar e Configurar Passo-a-Passo [Definitivo]](https://marriedgames.com.br/dicas-guias/wp-super-cache/)
 - [8 Melhores plugins do WhatsApp para WordPress para 2022](https://marriedgames.com.br/dicas-guias/plugins-do-whatsapp-para-wordpress/)
-- [B4 eSports anuncia a contratação de Poppins para line-up de CS:GO Feminino](https://marriedgames.com.br/noticias/b4-esports-anuncia-a-contratacao/)
-- [WordPress: Melhor plugin para cache em 2022 &lpar;Guia definitivo&rpar;](https://marriedgames.com.br/dicas-guias/melhor-plugin-para-cache/)
-- [Como Instalar uma Fonte de Alimentação Passo-a-Passo](https://marriedgames.com.br/dicas-guias/instalar-uma-fonte-de-alimentacao/)
-- [Controle cada passo para a vitória no Open Beta de RAM Pressure Under Fire](https://marriedgames.com.br/noticias/open-beta-de-ram/)
 <!-- BLOG-POST-LIST:END -->
 
 
