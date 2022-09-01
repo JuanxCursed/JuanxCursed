@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Novos #monitores #GAMERS da #LG](https://www.youtube.com/watch?v=sWMusNW3Dfc)
 - [Davinci Resolve:  Como tratar audio com um segredo que NINGÉM VAI TE ENSINAR](https://www.youtube.com/watch?v=DXbNuKmKinc)
 - [Davinci Resolve: Como fazer tratamento de cores de cinema &lpar;color grading&rpar; - Guia completo e fácil](https://www.youtube.com/watch?v=oksx4dSq1o4)
 - [Davinci Resolve:  [SEM ENROLAÇÃO] Guia básico completo da edição de vídeo para iniciantes](https://www.youtube.com/watch?v=DPk9VspM0nA)
 - [Davinci Resolve: Como instalar fácil e de graça melhor editor de vídeo de 2022](https://www.youtube.com/watch?v=4jvlMLxXCuM)
-- [Como formatar um Notebook ou PC FÁCIL e do JEITO CERTO com Windows 10 e Windows 11 em 2022](https://www.youtube.com/watch?v=PgHKBuOxdUA)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
