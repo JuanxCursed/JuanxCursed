@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Minecraft: Download, Launcher, Mapas, Mods, Skins [COMPLETO]](https://marriedgames.com.br/analises/minecraft/)
 - [Lady Gaga em Fortnite? Vazamentos sugerem que sim](https://marriedgames.com.br/noticias/lady-gaga-em-fortnite/)
 - [IBM apresenta 5 tendências que vão transformar os negócios no Brasil e na América Latina](https://marriedgames.com.br/noticias/ibm-apresenta-5-tendencias/)
 - [Semana Gamer na Inter anuncia ofertas e até R＄ 3 mil de desconto e até 30% de cashback](https://marriedgames.com.br/noticias/semana-gamer-na-inter/)
 - [WP Super Cache: Aprenda a Instalar e Configurar Passo-a-Passo [Definitivo]](https://marriedgames.com.br/dicas-guias/wp-super-cache/)
-- [8 Melhores plugins do WhatsApp para WordPress para 2022](https://marriedgames.com.br/dicas-guias/plugins-do-whatsapp-para-wordpress/)
 <!-- BLOG-POST-LIST:END -->
 
 
