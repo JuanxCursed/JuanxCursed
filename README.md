@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Assassin’s Creed Mirage é oficialmente o próximo jogo de Assassin’s Creed](https://marriedgames.com.br/noticias/proximo-jogo-de-assassins-creed/)
 - [Minecraft: Download, Launcher, Mapas, Mods, Skins [COMPLETO]](https://marriedgames.com.br/analises/minecraft/)
+- [M5 e M5s são os novos smartphones gamers da Poco](https://marriedgames.com.br/noticias/smartphones-gamers-da-poco/)
 - [Lady Gaga em Fortnite? Vazamentos sugerem que sim](https://marriedgames.com.br/noticias/lady-gaga-em-fortnite/)
 - [IBM apresenta 5 tendências que vão transformar os negócios no Brasil e na América Latina](https://marriedgames.com.br/noticias/ibm-apresenta-5-tendencias/)
-- [Semana Gamer na Inter anuncia ofertas e até R＄ 3 mil de desconto e até 30% de cashback](https://marriedgames.com.br/noticias/semana-gamer-na-inter/)
-- [WP Super Cache: Aprenda a Instalar e Configurar Passo-a-Passo [Definitivo]](https://marriedgames.com.br/dicas-guias/wp-super-cache/)
 <!-- BLOG-POST-LIST:END -->
 
 
