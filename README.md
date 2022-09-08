@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vazamentos de Genshin Impact detalham os Poderes da Arconte Dendro](https://marriedgames.com.br/noticias/poderes-da-arconte-dendro/)
 - [Assassin’s Creed Mirage é oficialmente o próximo jogo de Assassin’s Creed](https://marriedgames.com.br/noticias/proximo-jogo-de-assassins-creed/)
 - [Minecraft: Download, Launcher, Mapas, Mods, Skins [COMPLETO]](https://marriedgames.com.br/analises/minecraft/)
 - [M5 e M5s são os novos smartphones gamers da Poco](https://marriedgames.com.br/noticias/smartphones-gamers-da-poco/)
 - [Lady Gaga em Fortnite? Vazamentos sugerem que sim](https://marriedgames.com.br/noticias/lady-gaga-em-fortnite/)
-- [IBM apresenta 5 tendências que vão transformar os negócios no Brasil e na América Latina](https://marriedgames.com.br/noticias/ibm-apresenta-5-tendencias/)
 <!-- BLOG-POST-LIST:END -->
 
 
