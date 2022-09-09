@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vazamentos de Genshin Impact detalham os Poderes da Arconte Dendro](https://marriedgames.com.br/noticias/poderes-da-arconte-dendro/)
-- [Assassin’s Creed Mirage é oficialmente o próximo jogo de Assassin’s Creed](https://marriedgames.com.br/noticias/proximo-jogo-de-assassins-creed/)
-- [Minecraft: Download, Launcher, Mapas, Mods, Skins [COMPLETO]](https://marriedgames.com.br/analises/minecraft/)
-- [M5 e M5s são os novos smartphones gamers da Poco](https://marriedgames.com.br/noticias/smartphones-gamers-da-poco/)
-- [Lady Gaga em Fortnite? Vazamentos sugerem que sim](https://marriedgames.com.br/noticias/lady-gaga-em-fortnite/)
+- [OPPO divulga canais de venda exclusivos para o smartphone Reno7 no Brasil](https://marriedgames.com.br/noticias/smartphone-reno7-no-brasil/)
+- [Abragames coordena comitiva com estúdios brasileiros para participar da XDS](https://marriedgames.com.br/noticias/abragames-coordena-comitiva/)
+- [Expansão de Cyberpunk 2077 é revelada durante o episódio especial do Night City Wire!](https://marriedgames.com.br/noticias/expansao-de-cyberpunk-2077/)
+- [‘Vandalize’, de ONE OK ROCK, se torna o tema de encerramento de Sonic Frontiers](https://marriedgames.com.br/noticias/vandalize-sonic-frontiers/)
+- [Libere sua diplomacia interna em “Together We Rule”, primeira expansão de HUMANKIND](https://marriedgames.com.br/noticias/together-we-rule/)
 <!-- BLOG-POST-LIST:END -->
 
 
