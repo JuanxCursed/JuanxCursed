@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OPPO divulga canais de venda exclusivos para o smartphone Reno7 no Brasil](https://marriedgames.com.br/noticias/smartphone-reno7-no-brasil/)
-- [Abragames coordena comitiva com estúdios brasileiros para participar da XDS](https://marriedgames.com.br/noticias/abragames-coordena-comitiva/)
-- [Expansão de Cyberpunk 2077 é revelada durante o episódio especial do Night City Wire!](https://marriedgames.com.br/noticias/expansao-de-cyberpunk-2077/)
-- [‘Vandalize’, de ONE OK ROCK, se torna o tema de encerramento de Sonic Frontiers](https://marriedgames.com.br/noticias/vandalize-sonic-frontiers/)
-- [Libere sua diplomacia interna em “Together We Rule”, primeira expansão de HUMANKIND](https://marriedgames.com.br/noticias/together-we-rule/)
+- [Em retorno para o cenário competitivo, Bastardos anuncia line-up oficial](https://marriedgames.com.br/noticias/bastardos-anuncia-line-up/)
+- [50 Desenhos FÁCEIS para colorir e pintar GRÁTIS](https://marriedgames.com.br/dicas-guias/desenhos-faceis-para-colorir/)
+- [Patch de MultiVersus altera habilidade passiva da Velma](https://marriedgames.com.br/noticias/patch-de-multiversus/)
+- [O que é Minecraft Hypixel e como você joga nele? [Guia COMPLETO]](https://marriedgames.com.br/dicas-guias/minecraft-hypixel/)
+- [Nobru anuncia data oficial da 8ª temporada da CPN](https://marriedgames.com.br/noticias/nobru-anuncia-data/)
 <!-- BLOG-POST-LIST:END -->
 
 
