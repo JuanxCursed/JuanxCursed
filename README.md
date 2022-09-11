@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Core Web Vitals &lpar;CLS&rpar;: O que é, como corrigir e como afeta seu SEO](https://marriedgames.com.br/dicas-guias/core-web-vitals/)
+- [WooCommerce no WordPress: 30 Melhores Plugins para Faturar Mais &lpar;Análise Completa&rpar;](https://marriedgames.com.br/dicas-guias/woocommerce-melhores-plugins/)
+- [Los Grandes anuncia Rafis como novo streamer e influenciador](https://marriedgames.com.br/noticias/los-grandes-anuncia-rafis/)
 - [Em retorno para o cenário competitivo, Bastardos anuncia line-up oficial](https://marriedgames.com.br/noticias/bastardos-anuncia-line-up/)
 - [50 Desenhos FÁCEIS para colorir e pintar GRÁTIS](https://marriedgames.com.br/dicas-guias/desenhos-faceis-para-colorir/)
-- [Patch de MultiVersus altera habilidade passiva da Velma](https://marriedgames.com.br/noticias/patch-de-multiversus/)
-- [O que é Minecraft Hypixel e como você joga nele? [Guia COMPLETO]](https://marriedgames.com.br/dicas-guias/minecraft-hypixel/)
-- [Nobru anuncia data oficial da 8ª temporada da CPN](https://marriedgames.com.br/noticias/nobru-anuncia-data/)
 <!-- BLOG-POST-LIST:END -->
 
 
