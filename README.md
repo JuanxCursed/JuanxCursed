@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Los Grandes anuncia EstrelaBet como nova patrocinadora da organização](https://marriedgames.com.br/noticias/los-grandes-anuncia-estrelabet/)
 - [Mod de Skyrim adiciona Magia de Sangue ao Jogo](https://marriedgames.com.br/noticias/mod-de-skyrim/)
-- [Pica Pau: História, Desenho animado e seus principais personagens](https://marriedgames.com.br/noticias/pica-pau-desenho-animado/)
+- [Pica Pau: História, Desenho animado e seus principais personagens](https://marriedgames.com.br/dicas-guias/pica-pau-desenho-animado/)
 - [Core Web Vitals &lpar;CLS&rpar;: O que é, como corrigir e como afeta seu SEO](https://marriedgames.com.br/dicas-guias/core-web-vitals/)
 - [WooCommerce no WordPress: 30 Melhores Plugins para Faturar Mais &lpar;Análise Completa&rpar;](https://marriedgames.com.br/dicas-guias/woocommerce-melhores-plugins/)
-- [Los Grandes anuncia Rafis como novo streamer e influenciador](https://marriedgames.com.br/noticias/los-grandes-anuncia-rafis/)
 <!-- BLOG-POST-LIST:END -->
 
 
