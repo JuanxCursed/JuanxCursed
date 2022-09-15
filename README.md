@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Los Grandes anuncia EstrelaBet como nova patrocinadora da organização](https://marriedgames.com.br/noticias/los-grandes-anuncia-estrelabet/)
-- [Mod de Skyrim adiciona Magia de Sangue ao Jogo](https://marriedgames.com.br/noticias/mod-de-skyrim/)
-- [Pica Pau: História, Desenho animado e seus principais personagens](https://marriedgames.com.br/dicas-guias/pica-pau-desenho-animado/)
-- [Core Web Vitals &lpar;CLS&rpar;: O que é, como corrigir e como afeta seu SEO](https://marriedgames.com.br/dicas-guias/core-web-vitals/)
-- [WooCommerce no WordPress: 30 Melhores Plugins para Faturar Mais &lpar;Análise Completa&rpar;](https://marriedgames.com.br/dicas-guias/woocommerce-melhores-plugins/)
+- [Começa a fase regular da PUBG MOBILE Pro League Brasil Fall 2022](https://marriedgames.com.br/noticias/pubg-mobile-pro-league-brasil-fall-2/)
+- [Conheça o segundo capítulo de Dying Light 2 Stay Human: “Uma Caçadora e uma Bruxa”](https://marriedgames.com.br/noticias/uma-cacadora-e-uma-bruxa/)
+- [Brasil Game Show 2022 terá PlayStation com o maior estande da história do evento](https://marriedgames.com.br/noticias/brasil-game-show-2022-tera-playstation/)
+- [The Sims 4 será Grátis a partir do dia 18](https://marriedgames.com.br/noticias/the-sims-4-sera-gratis/)
+- [Boletim Liga Brasileira de Free Fire 8 – Semana 6](https://marriedgames.com.br/noticias/boletim-liga-brasileira-de-free-fire-8/)
 <!-- BLOG-POST-LIST:END -->
 
 
