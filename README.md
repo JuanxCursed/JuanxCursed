@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Leaks indicam um possível card game de Genshin Impact vindo para o jogo](https://marriedgames.com.br/noticias/card-game-de-genshin-impact/)
-- [Começa a fase regular da PUBG MOBILE Pro League Brasil Fall 2022](https://marriedgames.com.br/noticias/pubg-mobile-pro-league-brasil-fall-2/)
-- [Conheça o segundo capítulo de Dying Light 2 Stay Human: “Uma Caçadora e uma Bruxa”](https://marriedgames.com.br/noticias/uma-cacadora-e-uma-bruxa/)
-- [Brasil Game Show 2022 terá PlayStation com o maior estande da história do evento](https://marriedgames.com.br/noticias/brasil-game-show-2022-tera-playstation/)
-- [The Sims 4 será Grátis a partir do dia 18](https://marriedgames.com.br/noticias/the-sims-4-sera-gratis/)
+- [Texturas Minecraft: As 20 Melhores e Como Instalar [GUIA COMPLETO]](https://marriedgames.com.br/dicas-guias/melhores-texturas-minecraft/)
+- [Comandos para Minecraft: Guia Definitivo com TODOS OS CÓDIGOS](https://marriedgames.com.br/dicas-guias/comandos-para-minecraft/)
+- [Tanium anuncia integração inovadora com o Microsoft Sentinel](https://marriedgames.com.br/noticias/tanium-anuncia-integracao/)
+- [HUAWEI WiFi Mesh 3: roteador com Wi-Fi 6 Plus chega em breve ao Brasil](https://marriedgames.com.br/noticias/huawei-wifi-mesh-3/)
+- [PARAMOUNT+ ANUNCIA INÍCIO DAS GRAVAÇÕES DA 2° TEMPORADA DE HALO](https://marriedgames.com.br/noticias/temporada-de-halo/)
 <!-- BLOG-POST-LIST:END -->
 
 
