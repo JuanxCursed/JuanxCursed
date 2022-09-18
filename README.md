@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Call of Duty: Warzone Mobile redefinindo o Battle Royale para jogadores em movimento](https://marriedgames.com.br/noticias/warzone-mobile-redefinindo-o-battle-royale/)
+- [Multijogador de Call of Duty: Modern Warfare II traz a mais imersiva experiência da franquia](https://marriedgames.com.br/noticias/multijogador-de-call-of-duty/)
+- [ÍCONE GLOBAL DA MÚSICA E MODA LIL NAS X SE UNE A RIOT GAMES COMO PRESIDENTE DE LEAGUE OF LEGENDS](https://marriedgames.com.br/noticias/lil-nas-x/)
+- [Johnnie Walker no Metaverso se torna primeira marca de whisky nesse universo no Brasil](https://marriedgames.com.br/noticias/johnnie-walker-no-metaverso/)
 - [Texturas Minecraft: As 20 Melhores e Como Instalar [GUIA COMPLETO]](https://marriedgames.com.br/dicas-guias/melhores-texturas-minecraft/)
-- [Comandos para Minecraft: Guia Definitivo com TODOS OS CÓDIGOS](https://marriedgames.com.br/dicas-guias/comandos-para-minecraft/)
-- [Tanium anuncia integração inovadora com o Microsoft Sentinel](https://marriedgames.com.br/noticias/tanium-anuncia-integracao/)
-- [HUAWEI WiFi Mesh 3: roteador com Wi-Fi 6 Plus chega em breve ao Brasil](https://marriedgames.com.br/noticias/huawei-wifi-mesh-3/)
-- [PARAMOUNT+ ANUNCIA INÍCIO DAS GRAVAÇÕES DA 2° TEMPORADA DE HALO](https://marriedgames.com.br/noticias/temporada-de-halo/)
 <!-- BLOG-POST-LIST:END -->
 
 
