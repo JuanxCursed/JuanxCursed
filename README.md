@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GeForce NOW passa da marca de 1.400 jogos suportados](https://marriedgames.com.br/noticias/geforce-now-passa-da-marca/)
+- [Prime Video Divulga Single Inédito “Amor”, de Paulo Miklos, para Manhãs de Setembro](https://marriedgames.com.br/noticias/prime-video-divulga-single/)
 - [Call of Duty: Warzone Mobile redefinindo o Battle Royale para jogadores em movimento](https://marriedgames.com.br/noticias/warzone-mobile-redefinindo-o-battle-royale/)
 - [Multijogador de Call of Duty: Modern Warfare II traz a mais imersiva experiência da franquia](https://marriedgames.com.br/noticias/multijogador-de-call-of-duty/)
 - [ÍCONE GLOBAL DA MÚSICA E MODA LIL NAS X SE UNE A RIOT GAMES COMO PRESIDENTE DE LEAGUE OF LEGENDS](https://marriedgames.com.br/noticias/lil-nas-x/)
-- [Johnnie Walker no Metaverso se torna primeira marca de whisky nesse universo no Brasil](https://marriedgames.com.br/noticias/johnnie-walker-no-metaverso/)
-- [Texturas Minecraft: As 20 Melhores e Como Instalar [GUIA COMPLETO]](https://marriedgames.com.br/dicas-guias/melhores-texturas-minecraft/)
 <!-- BLOG-POST-LIST:END -->
 
 
