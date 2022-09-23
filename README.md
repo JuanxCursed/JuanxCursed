@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Minecraft Download: Como baixar no Windows, Mac e Mobile](https://marriedgames.com.br/dicas-guias/minecraft-download/)
 - [Minecraft Skin: O que é e como fazer a sua [Guia completo]](https://marriedgames.com.br/dicas-guias/melhores-skins-de-minecraft/)
 - [Agência live cria live games e fecha parceria exclusiva com a XIS](https://marriedgames.com.br/noticias/agencia-live-cria-live-games/)
 - [Os jogos populares no eSports](https://marriedgames.com.br/noticias/os-jogos-populares-no-esports/)
 - [GeForce NOW passa da marca de 1.400 jogos suportados](https://marriedgames.com.br/noticias/geforce-now-passa-da-marca/)
-- [Prime Video Divulga Single Inédito “Amor”, de Paulo Miklos, para Manhãs de Setembro](https://marriedgames.com.br/noticias/prime-video-divulga-single/)
 <!-- BLOG-POST-LIST:END -->
 
 
