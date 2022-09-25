@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Casas no Minecraft: Como fazer a sua e 20 ideias para se inspirar [GUIA COMPLETO]](https://marriedgames.com.br/dicas-guias/casas-no-minecraft/)
+- [Mais de 100 desenhos de Personagens de Jogos e HQs para Colorir](https://marriedgames.com.br/noticias/personagens-de-jogos-e-hqs/)
+- [Minecraft Story Mode: A História nunca Terminada de Minecraft](https://marriedgames.com.br/dicas-guias/minecraft-story-mode/)
+- [OptiFine: O que é, Download e Instalação no PC [Guia COMPLETO]](https://marriedgames.com.br/dicas-guias/optifine-download/)
 - [Tumblr: Desenhos FÁCEIS DE FAZER e colorir](https://marriedgames.com.br/dicas-guias/desenhos-tumblr-faceis/)
-- [Tom e Jerry: A História do Desenho animado &lpar;Você não vai acreditar no que o Japão fez&rpar;](https://marriedgames.com.br/dicas-guias/desenho-do-tom-e-jerry/)
-- [Woocommerce O que é, e como pode aumentar seu faturamento](https://marriedgames.com.br/dicas-guias/woocommerce-o-que-e-e/)
-- [Jogador de Minecraft Ganha Um Ano de XP em 8 Segundos](https://marriedgames.com.br/noticias/jogador-de-minecraft/)
-- [Scooby-Doo: História do Desenho Animado e seus Principais Personagens](https://marriedgames.com.br/dicas-guias/desenho-do-scooby-doo/)
 <!-- BLOG-POST-LIST:END -->
 
 
