@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Desenhos de Animais &lpar;Dragões e Dinossauros inclusos&rpar; com Gatinho, Peixe, Galinha, Urso, Coelhos e muito mais](https://marriedgames.com.br/dicas-guias/desenhos-de-animais/)
+- [Desenho da Disney: Os 20 melhores e uma LISTA COMPLETA para Assistir](https://marriedgames.com.br/dicas-guias/desenho-da-disney/)
+- [Vue.js: O que é, estrutura e por que você deve aprender sobre ele AGORA!](https://marriedgames.com.br/noticias/vue-js-o-que-e/)
 - [Casas no Minecraft: Como fazer a sua e 20 ideias para se inspirar [GUIA COMPLETO]](https://marriedgames.com.br/dicas-guias/casas-no-minecraft/)
 - [Mais de 100 desenhos de Personagens de Jogos e HQs para Colorir](https://marriedgames.com.br/noticias/personagens-de-jogos-e-hqs/)
-- [Minecraft Story Mode: A História nunca Terminada de Minecraft](https://marriedgames.com.br/dicas-guias/minecraft-story-mode/)
-- [OptiFine: O que é, Download e Instalação no PC [Guia COMPLETO]](https://marriedgames.com.br/dicas-guias/optifine-download/)
-- [Tumblr: Desenhos FÁCEIS DE FAZER e colorir](https://marriedgames.com.br/dicas-guias/desenhos-tumblr-faceis/)
 <!-- BLOG-POST-LIST:END -->
 
 
