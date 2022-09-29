@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Revelado o próximo Monster Hunter, mas ele vem a EA](https://marriedgames.com.br/noticias/proximo-monster-hunter/)
 - [Overwatch 2 gravará conversas para combater a toxidade](https://marriedgames.com.br/noticias/overwatch-2-gravara-conversas/)
 - [Atualização do EA Sports F1 22 traz um visual especial da McLaren e novas notas para pilotos](https://marriedgames.com.br/noticias/atualizacao-do-ea-sports/)
 - [Desbrave o norte gélido em World of Warcraft: Wrath of the Lich King Classic, já disponível](https://marriedgames.com.br/noticias/wrath-of-the-lich-king-classic-3/)
 - [BIG Festival 2023 acontecerá de 28 junho a 2 de julho no São Paulo Expo](https://marriedgames.com.br/noticias/big-festival-2023/)
-- [Abragames anuncia participação inédita na Brasil Game Show](https://marriedgames.com.br/noticias/abragames-anuncia-participacao/)
 <!-- BLOG-POST-LIST:END -->
 
 
