@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Contos do Free Fire: Problema em Dobro traz mais novidades a partir do dia 1 de outubro](https://marriedgames.com.br/noticias/contos-do-free-fire/)
+- [Canal Game Lab TV, da Fast Shop, disponibiliza ingressos para a BGS em troca de horas assistidas](https://marriedgames.com.br/noticias/canal-game-lab-tv/)
 - [Playstack convida detetives para desvendar o caso do ídolo de ouro no PC em 13 de outubro](https://marriedgames.com.br/noticias/the-case-of-the-golden-idol/)
 - [Razer Gold antecipa Dia das Crianças com cashback de 15% e sorteios de cartões-presente](https://marriedgames.com.br/noticias/razer-gold-antecipa-dia-das-criancas/)
 - [O sucesso dos jogos em turno The Battle of Polytopia chega ao Switch em 13 de outubro](https://marriedgames.com.br/noticias/battle-of-polytopia-chega-ao-switch/)
-- [Navegue em uma temporada com evento de Halloween do World of Warships: Legends](https://marriedgames.com.br/noticias/halloween-do-world-of-warships/)
-- [Revelado o próximo Monster Hunter, mas ele vem a EA](https://marriedgames.com.br/noticias/proximo-monster-hunter/)
 <!-- BLOG-POST-LIST:END -->
 
 
