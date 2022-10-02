@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Contos do Free Fire: Problema em Dobro traz mais novidades a partir do dia 1 de outubro](https://marriedgames.com.br/noticias/contos-do-free-fire/)
-- [Canal Game Lab TV, da Fast Shop, disponibiliza ingressos para a BGS em troca de horas assistidas](https://marriedgames.com.br/noticias/canal-game-lab-tv/)
-- [Playstack convida detetives para desvendar o caso do ídolo de ouro no PC em 13 de outubro](https://marriedgames.com.br/noticias/the-case-of-the-golden-idol/)
-- [Razer Gold antecipa Dia das Crianças com cashback de 15% e sorteios de cartões-presente](https://marriedgames.com.br/noticias/razer-gold-antecipa-dia-das-criancas/)
-- [O sucesso dos jogos em turno The Battle of Polytopia chega ao Switch em 13 de outubro](https://marriedgames.com.br/noticias/battle-of-polytopia-chega-ao-switch/)
+- [Domine os céus das Ilhas do Dragão quando World of Warcraft Dragonflight alçar voo em 28 de novembro](https://marriedgames.com.br/noticias/world-of-warcraft-dragonflight-2/)
+- [Striking Distance Studios apresenta o novo trailer de The Callisto Protocol: The Truth of Black Iron](https://marriedgames.com.br/noticias/the-callisto-protocol-2/)
+- [A primeira grande atualização de Diablo Immortal está disponível](https://marriedgames.com.br/noticias/atualizacao-de-diablo-immortal/)
+- [Amazon apresenta novos dispositivos e serviços em evento para imprensa global](https://marriedgames.com.br/noticias/amazon-apresenta-novos/)
+- [Honor of Kings anuncia 1º campeonato no Brasil, com premiação total de mais de R$ 340 mil](https://marriedgames.com.br/noticias/honor-of-kings-anuncia/)
 <!-- BLOG-POST-LIST:END -->
 
 
