@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Carreta Furacão chega ao Free Fire com muita dança e estilo](https://marriedgames.com.br/noticias/carreta-furacao-chega-ao-free-fire/)
+- [B4 Esports anuncia entrada para competitivo de Honor Of Kings e disputará torneio no Brasil](https://marriedgames.com.br/noticias/b4-esports-anuncia-entrada/)
+- [Desenho infantil musical: Os 20 Melhores para Ver com seus Filhos](https://marriedgames.com.br/dicas-guias/desenho-infantil-musical/)
 - [Domine os céus das Ilhas do Dragão quando World of Warcraft Dragonflight alçar voo em 28 de novembro](https://marriedgames.com.br/noticias/world-of-warcraft-dragonflight-2/)
 - [Striking Distance Studios apresenta o novo trailer de The Callisto Protocol: The Truth of Black Iron](https://marriedgames.com.br/noticias/the-callisto-protocol-2/)
-- [A primeira grande atualização de Diablo Immortal está disponível](https://marriedgames.com.br/noticias/atualizacao-de-diablo-immortal/)
-- [Amazon apresenta novos dispositivos e serviços em evento para imprensa global](https://marriedgames.com.br/noticias/amazon-apresenta-novos/)
-- [Honor of Kings anuncia 1º campeonato no Brasil, com premiação total de mais de R$ 340 mil](https://marriedgames.com.br/noticias/honor-of-kings-anuncia/)
 <!-- BLOG-POST-LIST:END -->
 
 
