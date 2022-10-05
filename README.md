@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Servidores de Overwatch 2 estão ativos com longas filas e sofrendo ataque DDoS](https://marriedgames.com.br/noticias/servidores-de-overwatch-2/)
+- [Influence Chemin é o vencedor da Copa Nobru de PUBG MOBILE](https://marriedgames.com.br/noticias/vencedor-da-copa-nobru/)
+- [Tower of Fantasy anuncia dublagem do jogo e mais novidades da expansão gratuita de Vera](https://marriedgames.com.br/noticias/tower-of-fantasy-anuncia-dublagem/)
+- [Clash: Artifacts Of Chaos na Steam Next Fest – Demo do jogo de ação está disponível](https://marriedgames.com.br/noticias/artifacts-of-chaos/)
 - [Carreta Furacão chega ao Free Fire com muita dança e estilo](https://marriedgames.com.br/noticias/carreta-furacao-chega-ao-free-fire/)
-- [B4 Esports anuncia entrada para competitivo de Honor Of Kings e disputará torneio no Brasil](https://marriedgames.com.br/noticias/b4-esports-anuncia-entrada/)
-- [Desenho infantil musical: Os 20 Melhores para Ver com seus Filhos](https://marriedgames.com.br/dicas-guias/desenho-infantil-musical/)
-- [Domine os céus das Ilhas do Dragão quando World of Warcraft Dragonflight alçar voo em 28 de novembro](https://marriedgames.com.br/noticias/world-of-warcraft-dragonflight-2/)
-- [Striking Distance Studios apresenta o novo trailer de The Callisto Protocol: The Truth of Black Iron](https://marriedgames.com.br/noticias/the-callisto-protocol-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
