@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Servidores de Overwatch 2 estão ativos com longas filas e sofrendo ataque DDoS](https://marriedgames.com.br/noticias/servidores-de-overwatch-2/)
-- [Influence Chemin é o vencedor da Copa Nobru de PUBG MOBILE](https://marriedgames.com.br/noticias/vencedor-da-copa-nobru/)
-- [Tower of Fantasy anuncia dublagem do jogo e mais novidades da expansão gratuita de Vera](https://marriedgames.com.br/noticias/tower-of-fantasy-anuncia-dublagem/)
-- [Clash: Artifacts Of Chaos na Steam Next Fest – Demo do jogo de ação está disponível](https://marriedgames.com.br/noticias/artifacts-of-chaos/)
-- [Carreta Furacão chega ao Free Fire com muita dança e estilo](https://marriedgames.com.br/noticias/carreta-furacao-chega-ao-free-fire/)
+- [Confira todas as ações de aniversário de Ragnarök Online](https://marriedgames.com.br/noticias/aniversario-de-ragnarok-online/)
+- [Company of Heroes 3 adiado para 23 de fevereiro de 2023](https://marriedgames.com.br/noticias/company-of-heroes-3-adiado/)
+- [Boletim Liga Brasileira de Free Fire 8 – Semana 9](https://marriedgames.com.br/noticias/liga-brasileira-de-free-fire-8-2/)
+- [Começou a 1º edição do Honor of Kings Championship Brazil Qualifier 2022](https://marriedgames.com.br/noticias/edicao-do-honor-of-kings-championship/)
+- [Jogadores GeForce ganham até 60% de redução da latência no Overwatch 2 com NVIDIA Reflex](https://marriedgames.com.br/noticias/reducao-da-latencia-no-overwatch-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
