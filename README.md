@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Confira todas as ações de aniversário de Ragnarök Online](https://marriedgames.com.br/noticias/aniversario-de-ragnarok-online/)
-- [Company of Heroes 3 adiado para 23 de fevereiro de 2023](https://marriedgames.com.br/noticias/company-of-heroes-3-adiado/)
-- [Boletim Liga Brasileira de Free Fire 8 – Semana 9](https://marriedgames.com.br/noticias/liga-brasileira-de-free-fire-8-2/)
-- [Começou a 1º edição do Honor of Kings Championship Brazil Qualifier 2022](https://marriedgames.com.br/noticias/edicao-do-honor-of-kings-championship/)
-- [Jogadores GeForce ganham até 60% de redução da latência no Overwatch 2 com NVIDIA Reflex](https://marriedgames.com.br/noticias/reducao-da-latencia-no-overwatch-2/)
+- [Periféricos da Lenovo são Destaque no Estande da BGS](https://marriedgames.com.br/noticias/perifericos-da-lenovo/)
+- [Lenovo traz notebooks gamers e é destaque na BGS 2022](https://marriedgames.com.br/noticias/lenovo-traz-notebooks-gamers/)
+- [EVOVERSE: único criptogame 100% nacional promove competição na BGS](https://marriedgames.com.br/noticias/evoverse-unico-criptogame/)
+- [Married Games está na BGS](https://marriedgames.com.br/noticias/married-games-esta-na-bgs/)
+- [Os 3 jogos cibernéticos que mais atraem jogadores](https://marriedgames.com.br/noticias/os-jogos-ciberneticos/)
 <!-- BLOG-POST-LIST:END -->
 
 
