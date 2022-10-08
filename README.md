@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Periféricos da Lenovo são Destaque no Estande da BGS](https://marriedgames.com.br/noticias/perifericos-da-lenovo/)
-- [Lenovo traz notebooks gamers e é destaque na BGS 2022](https://marriedgames.com.br/noticias/lenovo-traz-notebooks-gamers/)
-- [EVOVERSE: único criptogame 100% nacional promove competição na BGS](https://marriedgames.com.br/noticias/evoverse-unico-criptogame/)
-- [Married Games está na BGS](https://marriedgames.com.br/noticias/married-games-esta-na-bgs/)
-- [Os 3 jogos cibernéticos que mais atraem jogadores](https://marriedgames.com.br/noticias/os-jogos-ciberneticos/)
+- [O ícone está de volta: Logitech G traz linha G502X nos lançamentos de 2022](https://marriedgames.com.br/noticias/linha-g502x/)
+- [O novo normal: Logitech lança produtos inspirados no trabalho híbrido](https://marriedgames.com.br/noticias/logitech-lanca-produtos/)
+- [Aurora Collection: Logitech G vai além dos periféricos da linha gamer](https://marriedgames.com.br/noticias/aurora-collection/)
+- [W7M Esports anuncia entrada para o cenário de Valorant Feminino](https://marriedgames.com.br/noticias/cenario-de-valorant-feminino/)
+- [Jogamos na BGS 2022: Demo de Honkai Star Rail](https://marriedgames.com.br/noticias/demo-de-honkai-star-rail/)
 <!-- BLOG-POST-LIST:END -->
 
 
