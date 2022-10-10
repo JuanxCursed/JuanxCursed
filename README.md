@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SSD SN850X e SSD P40: WD_Black apresenta novos SSD na BGS 2022](https://marriedgames.com.br/noticias/ssd-sn850x-e-ssd-p40/)
+- [Coleção PRO WHEELS &amp; PEDALS Logitech G garante experiência de corrida profissional](https://marriedgames.com.br/noticias/pro-wheels-pedals-logitech-g/)
+- [Logitech G traz lançamentos para a BGS 2022 e muitas experiências os Gamers](https://marriedgames.com.br/noticias/logitech-g-traz-lancamentos/)
 - [O ícone está de volta: Logitech G traz linha G502X nos lançamentos de 2022](https://marriedgames.com.br/noticias/linha-g502x/)
 - [O novo normal: Logitech lança produtos inspirados no trabalho híbrido](https://marriedgames.com.br/noticias/logitech-lanca-produtos/)
-- [Aurora Collection: Logitech G vai além dos periféricos da linha gamer](https://marriedgames.com.br/noticias/aurora-collection/)
-- [W7M Esports anuncia entrada para o cenário de Valorant Feminino](https://marriedgames.com.br/noticias/cenario-de-valorant-feminino/)
-- [Jogamos na BGS 2022: Demo de Honkai Star Rail](https://marriedgames.com.br/noticias/demo-de-honkai-star-rail/)
 <!-- BLOG-POST-LIST:END -->
 
 
