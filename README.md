@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [O mundo dos jogos está ficando melhor graças à tecnologia](https://marriedgames.com.br/noticias/jogos-de-cassino-virtual/)
+- [O iGaming está crescendo constantemente a cada ano](https://marriedgames.com.br/noticias/igaming/)
+- [Em iniciativa inédita, W7M Esports anuncia equidade salarial entre suas equipes](https://marriedgames.com.br/noticias/w7m-esports/)
+- [ibyte ativa influenciadores em ação na Brasil Game Show](https://marriedgames.com.br/noticias/ibyte-ativa-influenciadores/)
 - [SSD SN850X e SSD P40: WD_Black apresenta novos SSD na BGS 2022](https://marriedgames.com.br/noticias/ssd-sn850x-e-ssd-p40/)
-- [Coleção PRO WHEELS &amp; PEDALS Logitech G garante experiência de corrida profissional](https://marriedgames.com.br/noticias/pro-wheels-pedals-logitech-g/)
-- [Logitech G traz lançamentos para a BGS 2022 e muitas experiências os Gamers](https://marriedgames.com.br/noticias/logitech-g-traz-lancamentos/)
-- [O ícone está de volta: Logitech G traz linha G502X nos lançamentos de 2022](https://marriedgames.com.br/noticias/linha-g502x/)
-- [O novo normal: Logitech lança produtos inspirados no trabalho híbrido](https://marriedgames.com.br/noticias/logitech-lanca-produtos/)
 <!-- BLOG-POST-LIST:END -->
 
 
