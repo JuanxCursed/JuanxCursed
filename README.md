@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jogamos na BGS 2022: Mario + Rabbids Sparks of Hope](https://marriedgames.com.br/noticias/mario-rabbids-sparks-of-hope/)
 - [Estreia da premiere mundial do Sonic Symphony Tour anima o último dia da BGS 2022](https://marriedgames.com.br/noticias/sonic-symphony-tour/)
 - [O mundo dos jogos está ficando melhor graças à tecnologia](https://marriedgames.com.br/noticias/jogos-de-cassino-virtual/)
 - [O iGaming está crescendo constantemente a cada ano](https://marriedgames.com.br/noticias/igaming/)
 - [Em iniciativa inédita, W7M Esports anuncia equidade salarial entre suas equipes](https://marriedgames.com.br/noticias/w7m-esports/)
-- [ibyte ativa influenciadores em ação na Brasil Game Show](https://marriedgames.com.br/noticias/ibyte-ativa-influenciadores/)
 <!-- BLOG-POST-LIST:END -->
 
 
