@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [BGS - HyperX Kit Teclado Mouse  Headset e Microfone Rosa e Branco](https://www.youtube.com/watch?v=fzo0Nz6tbAo)
+- [BGS - HyperX Charging Dock PS 5](https://www.youtube.com/watch?v=QHAO8VFDB1M)
+- [BGS - DPS Smart da Ragtech Protetor Eletrônico Microprocessado Space Up Nitro](https://www.youtube.com/watch?v=eFG_yeWy4Hk)
 - [Teclado Mecânico GK530 AOC](https://www.youtube.com/watch?v=Wow75AJcEww)
 - [Headset da AOC](https://www.youtube.com/watch?v=tpCXmkwnXLU)
-- [Se jogar a noite toda for crime, tô preso toda semana](https://www.youtube.com/watch?v=PbM93xsAQgo)
-- [Novos #monitores #GAMERS da #LG](https://www.youtube.com/watch?v=sWMusNW3Dfc)
-- [Davinci Resolve:  Como tratar audio com um segredo que NINGÉM VAI TE ENSINAR](https://www.youtube.com/watch?v=DXbNuKmKinc)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
