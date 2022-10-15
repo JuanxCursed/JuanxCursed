@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jogamos na BGS 2022: One Piece Odyssey](https://marriedgames.com.br/dicas-guias/one-piece-odyssey-2/)
-- [Jogamos na BGS 2022: Mario + Rabbids Sparks of Hope](https://marriedgames.com.br/dicas-guias/mario-rabbids-sparks-of-hope/)
-- [Estreia da premiere mundial do Sonic Symphony Tour anima o último dia da BGS 2022](https://marriedgames.com.br/noticias/sonic-symphony-tour/)
-- [O mundo dos jogos está ficando melhor graças à tecnologia](https://marriedgames.com.br/noticias/jogos-de-cassino-virtual/)
-- [O iGaming está crescendo constantemente a cada ano](https://marriedgames.com.br/noticias/igaming/)
+- [PUBG MOBILE Pro League Brasil Fall 2022: acompanhe a Final no SporTV](https://marriedgames.com.br/noticias/pubg-mobile-pro-league-3/)
+- [PUBG: BATTLEGROUNDS e NEW STATE MOBILE anunciam parceria com Dead By Daylight](https://marriedgames.com.br/noticias/battlegrounds-x-dead-by-daylight/)
+- [Scorn, pesadelo biomecânico, chega hoje para PC e Xbox](https://marriedgames.com.br/noticias/scorn-pesadelo-biomecanico/)
+- [Final da Série A da LBFF: Liga Brasileira de Free Fire acontece neste sábado, 15 de outubro](https://marriedgames.com.br/noticias/serie-a-da-lbff-2/)
+- [SEGA revela capa do Sonic Frontiers Prologue: CONVERGENCE](https://marriedgames.com.br/noticias/sonic-frontiers-prologue/)
 <!-- BLOG-POST-LIST:END -->
 
 
