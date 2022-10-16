@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Em Renovação da Marca, a WARRIOR, do Grupo Multi, Trouxe Lançamentos para a BGS 2022](https://marriedgames.com.br/noticias/warrior/)
 - [PUBG MOBILE Pro League Brasil Fall 2022: acompanhe a Final no SporTV](https://marriedgames.com.br/noticias/pubg-mobile-pro-league-3/)
 - [PUBG: BATTLEGROUNDS e NEW STATE MOBILE anunciam parceria com Dead By Daylight](https://marriedgames.com.br/noticias/battlegrounds-x-dead-by-daylight/)
 - [Scorn, pesadelo biomecânico, chega hoje para PC e Xbox](https://marriedgames.com.br/noticias/scorn-pesadelo-biomecanico/)
 - [Final da Série A da LBFF: Liga Brasileira de Free Fire acontece neste sábado, 15 de outubro](https://marriedgames.com.br/noticias/serie-a-da-lbff-2/)
-- [SEGA revela capa do Sonic Frontiers Prologue: CONVERGENCE](https://marriedgames.com.br/noticias/sonic-frontiers-prologue/)
 <!-- BLOG-POST-LIST:END -->
 
 
