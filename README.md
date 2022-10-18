@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aurora Collection Logitech G: Nova linha de produtos gamers](https://marriedgames.com.br/dicas-guias/aurora-collection-logitech-g/)
+- [Minecraft TLauncher: O que é, para que serve e como baixar no seu PC [Guia COMPLETO]](https://marriedgames.com.br/dicas-guias/minecraft-tlauncher/)
 - [Evento “A maldição de Doktor” apresenta uma noite assustadora em Tom Clancy’s Rainbow Six Siege](https://marriedgames.com.br/noticias/maldicao-de-doktor/)
 - [Trailer de combate de Sonic Frontiers já disponível](https://marriedgames.com.br/noticias/combate-de-sonic-frontiers/)
 - [Em Renovação da Marca, a WARRIOR, do Grupo Multi, Trouxe Lançamentos para a BGS 2022](https://marriedgames.com.br/noticias/warrior/)
-- [PUBG MOBILE Pro League Brasil Fall 2022: acompanhe a Final no SporTV](https://marriedgames.com.br/noticias/pubg-mobile-pro-league-3/)
-- [PUBG: BATTLEGROUNDS e NEW STATE MOBILE anunciam parceria com Dead By Daylight](https://marriedgames.com.br/noticias/battlegrounds-x-dead-by-daylight/)
 <!-- BLOG-POST-LIST:END -->
 
 
