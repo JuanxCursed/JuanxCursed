@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [BGS: O que a Acer trouxe de novidades para 2022 [Novidades exclusivas]](https://www.youtube.com/watch?v=pEZeH_gjD8M)
 - [BGS: No Break Gamer One Up Predator da Ragtech](https://www.youtube.com/watch?v=DHHdclioBMA)
 - [BGS - HyperX Kit Teclado Mouse  Headset e Microfone Rosa e Branco](https://www.youtube.com/watch?v=fzo0Nz6tbAo)
 - [BGS - HyperX Charging Dock PS 5](https://www.youtube.com/watch?v=QHAO8VFDB1M)
 - [BGS - DPS Smart da Ragtech Protetor Eletrônico Microprocessado Space Up Nitro](https://www.youtube.com/watch?v=eFG_yeWy4Hk)
-- [Teclado Mecânico GK530 Agon by AOC](https://www.youtube.com/watch?v=Wow75AJcEww)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
