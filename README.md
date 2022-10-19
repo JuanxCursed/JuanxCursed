@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Aurora Collection Logitech G: Nova linha de produtos gamers](https://marriedgames.com.br/dicas-guias/aurora-collection-logitech-g/)
+- [RazerCon 2022 retorna com anúncios de novos produtos e brindes para gamers](https://marriedgames.com.br/noticias/razercon-2022-retorna/)
+- [Conheça a Login House eXP, a nova casa gamer em São Paulo](https://marriedgames.com.br/noticias/login-house-exp/)
+- [Logitech Aurora Collection: Nova Linha Gamer focada na Inclusão e Desempenho](https://marriedgames.com.br/dicas-guias/logitech-aurora-collection/)
 - [Minecraft TLauncher: O que é, para que serve e como baixar no seu PC [Guia COMPLETO]](https://marriedgames.com.br/dicas-guias/minecraft-tlauncher/)
 - [Evento “A maldição de Doktor” apresenta uma noite assustadora em Tom Clancy’s Rainbow Six Siege](https://marriedgames.com.br/noticias/maldicao-de-doktor/)
-- [Trailer de combate de Sonic Frontiers já disponível](https://marriedgames.com.br/noticias/combate-de-sonic-frontiers/)
-- [Em Renovação da Marca, a WARRIOR, do Grupo Multi, Trouxe Lançamentos para a BGS 2022](https://marriedgames.com.br/noticias/warrior/)
 <!-- BLOG-POST-LIST:END -->
 
 
