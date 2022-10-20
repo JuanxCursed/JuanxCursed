@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Marvel Snap é Lançado Mundialmente para Celulares e PCs](https://marriedgames.com.br/noticias/marvel-snap-2/)
+- [Dragonflight chega em 25 de outubro com atualização de conteúdo de pré-expansão](https://marriedgames.com.br/noticias/dragonflight-2/)
+- [Em coletiva de imprensa, ViewSonic apresenta soluções para a educação em telas e projetores](https://marriedgames.com.br/noticias/coletiva-de-imprensa-viewsonic/)
 - [RazerCon 2022 retorna com anúncios de novos produtos e brindes para gamers](https://marriedgames.com.br/noticias/razercon-2022-retorna/)
 - [Conheça a Login House eXP, a nova casa gamer em São Paulo](https://marriedgames.com.br/noticias/login-house-exp/)
-- [Logitech Aurora Collection: Nova Linha Gamer focada na Inclusão e Desempenho](https://marriedgames.com.br/dicas-guias/logitech-aurora-collection/)
-- [Minecraft TLauncher: O que é, para que serve e como baixar no seu PC [Guia COMPLETO]](https://marriedgames.com.br/dicas-guias/minecraft-tlauncher/)
-- [Evento “A maldição de Doktor” apresenta uma noite assustadora em Tom Clancy’s Rainbow Six Siege](https://marriedgames.com.br/noticias/maldicao-de-doktor/)
 <!-- BLOG-POST-LIST:END -->
 
 
