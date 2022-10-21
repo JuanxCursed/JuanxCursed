@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tower of Fantasy chega ao Steam junto da expansão Vera](https://marriedgames.com.br/noticias/tower-of-fantasy-chega-ao-steam/)
+- [Abyss One: Magnus chega em Black Desert Online](https://marriedgames.com.br/noticias/abyss-one/)
+- [Hype Bday: Aniversário do Hype Games com até 90% de desconto](https://marriedgames.com.br/noticias/hype-bday/)
+- [O grande boom dos videogames e e-sports](https://marriedgames.com.br/noticias/boom-dos-videogames/)
 - [Marvel Snap é Lançado Mundialmente para Celulares e PCs](https://marriedgames.com.br/noticias/marvel-snap-2/)
-- [Dragonflight chega em 25 de outubro com atualização de conteúdo de pré-expansão](https://marriedgames.com.br/noticias/dragonflight-2/)
-- [Em coletiva de imprensa, ViewSonic apresenta soluções para a educação em telas e projetores](https://marriedgames.com.br/noticias/coletiva-de-imprensa-viewsonic/)
-- [RazerCon 2022 retorna com anúncios de novos produtos e brindes para gamers](https://marriedgames.com.br/noticias/razercon-2022-retorna/)
-- [Conheça a Login House eXP, a nova casa gamer em São Paulo](https://marriedgames.com.br/noticias/login-house-exp/)
 <!-- BLOG-POST-LIST:END -->
 
 
