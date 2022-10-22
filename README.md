@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Realmente só temos a agradecer, pelo suporte durante a BGS. @samsungbrasil @juanxcrused](https://www.youtube.com/watch?v=JO2TIeNZgNg)
 - [Kingston: Agradecemos pelo apoio e carinho demonstrado na BGS.](https://www.youtube.com/watch?v=nBH1G-FOqUI)
 - [BGS: O que a Acer trouxe de novidades para 2022 [Novidades exclusivas]](https://www.youtube.com/watch?v=pEZeH_gjD8M)
 - [BGS: No Break Gamer One Up Predator da Ragtech](https://www.youtube.com/watch?v=DHHdclioBMA)
 - [BGS - HyperX Kit Teclado Mouse  Headset e Microfone Rosa e Branco](https://www.youtube.com/watch?v=fzo0Nz6tbAo)
-- [BGS - HyperX Charging Dock PS 5](https://www.youtube.com/watch?v=QHAO8VFDB1M)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
