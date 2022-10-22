@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tower of Fantasy chega ao Steam junto da expansão Vera](https://marriedgames.com.br/noticias/tower-of-fantasy-chega-ao-steam/)
-- [Abyss One: Magnus chega em Black Desert Online](https://marriedgames.com.br/noticias/abyss-one/)
-- [Hype Bday: Aniversário do Hype Games com até 90% de desconto](https://marriedgames.com.br/noticias/hype-bday/)
-- [O grande boom dos videogames e e-sports](https://marriedgames.com.br/noticias/boom-dos-videogames/)
-- [Marvel Snap é Lançado Mundialmente para Celulares e PCs](https://marriedgames.com.br/noticias/marvel-snap-2/)
+- [CB da Casas Bahia, tem um dia de apresentador e repórter na final da Liga Brasileira de Free Fire](https://marriedgames.com.br/noticias/cb-da-casas-bahia/)
+- [Resident Evil Showcase Revela Novos Detalhes de Resident Evil 4 e Resident Evil Village](https://marriedgames.com.br/noticias/resident-evil-showcase/)
+- [Novo trailer de Gotham Knights mostra a experiência completa do jogo](https://marriedgames.com.br/noticias/novo-trailer-de-gotham-knight/)
+- [Mario + Rabbids Sparks of Hope acaba de ser lançado para Nintendo Switch](https://marriedgames.com.br/noticias/mario-rabbids-sparks-of-hope-2/)
+- [List Games anuncia Hell is Others disponível na Steam](https://marriedgames.com.br/noticias/list-games-anuncia-hell-is-others/)
 <!-- BLOG-POST-LIST:END -->
 
 
