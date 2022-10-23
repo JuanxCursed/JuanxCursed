@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Evento Gratuito Festival dos Finados Destiny 2 Volta mais Arrepiante do que Nunca](https://marriedgames.com.br/noticias/festival-dos-finados-destiny-2/)
+- [Huawei vê a tecnologia como meio para uma sociedade mais conectada e eficiente](https://marriedgames.com.br/noticias/huawei-ve-a-tecnologia/)
 - [CB da Casas Bahia, tem um dia de apresentador e repórter na final da Liga Brasileira de Free Fire](https://marriedgames.com.br/noticias/cb-da-casas-bahia/)
 - [Resident Evil Showcase Revela Novos Detalhes de Resident Evil 4 e Resident Evil Village](https://marriedgames.com.br/noticias/resident-evil-showcase/)
 - [Novo trailer de Gotham Knights mostra a experiência completa do jogo](https://marriedgames.com.br/noticias/novo-trailer-de-gotham-knight/)
-- [Mario + Rabbids Sparks of Hope acaba de ser lançado para Nintendo Switch](https://marriedgames.com.br/noticias/mario-rabbids-sparks-of-hope-2/)
-- [List Games anuncia Hell is Others disponível na Steam](https://marriedgames.com.br/noticias/list-games-anuncia-hell-is-others/)
 <!-- BLOG-POST-LIST:END -->
 
 
