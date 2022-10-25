@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [O iGaming está crescendo constantemente a cada ano](https://marriedgames.com.br/dicas-guias/igaming-esta-crescendo/)
+- [O mundo dos jogos está ficando melhor graças à tecnologia](https://marriedgames.com.br/dicas-guias/cassino-virtual/)
+- [Leaker dá Detalhes sobre a nação de Fontaine em Genshin Impact](https://marriedgames.com.br/noticias/fontaine-em-genshin-impact/)
+- [Triton 300 SE OLED: Fino, Leve, Poderoso e com uma linda tela OLED](https://marriedgames.com.br/dicas-guias/triton-300-se-oled/)
 - [Two Point Campus – O local de alimentação perfeito em uma nova atualização de Halloween!](https://marriedgames.com.br/noticias/atualizacao-de-halloween/)
-- [Evento Gratuito Festival dos Finados Destiny 2 Volta mais Arrepiante do que Nunca](https://marriedgames.com.br/noticias/festival-dos-finados-destiny-2/)
-- [Huawei vê a tecnologia como meio para uma sociedade mais conectada e eficiente](https://marriedgames.com.br/noticias/huawei-ve-a-tecnologia/)
-- [CB da Casas Bahia, tem um dia de apresentador e repórter na final da Liga Brasileira de Free Fire](https://marriedgames.com.br/noticias/cb-da-casas-bahia/)
-- [Resident Evil Showcase Revela Novos Detalhes de Resident Evil 4 e Resident Evil Village](https://marriedgames.com.br/noticias/resident-evil-showcase/)
 <!-- BLOG-POST-LIST:END -->
 
 
