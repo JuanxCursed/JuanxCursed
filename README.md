@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [O iGaming está crescendo constantemente a cada ano](https://marriedgames.com.br/dicas-guias/igaming-esta-crescendo/)
-- [O mundo dos jogos está ficando melhor graças à tecnologia](https://marriedgames.com.br/dicas-guias/cassino-virtual/)
-- [Leaker dá Detalhes sobre a nação de Fontaine em Genshin Impact](https://marriedgames.com.br/noticias/fontaine-em-genshin-impact/)
-- [Triton 300 SE OLED: Fino, Leve, Poderoso e com uma linda tela OLED](https://marriedgames.com.br/dicas-guias/triton-300-se-oled/)
-- [Two Point Campus – O local de alimentação perfeito em uma nova atualização de Halloween!](https://marriedgames.com.br/noticias/atualizacao-de-halloween/)
+- [Influence Chemin é bicampeã da PUBG MOBILE Pro League Américas 2022](https://marriedgames.com.br/noticias/influence-chemin-e-bicampea/)
+- [Final da LBFF 8 alcança pico de mais de 1 milhão de espectadores](https://marriedgames.com.br/noticias/final-da-lbff-8/)
+- [De vendedor de milho a bicampeão brasileiro de Free Fire; conheça Modéstia da Vivo Keyd](https://marriedgames.com.br/noticias/modestia-da-vivo-keyd/)
+- [Liv Up fecha extensão de sua última rodada de captação](https://marriedgames.com.br/noticias/liv-up-fecha-extensao/)
+- [Jogos e NFTs: 73% dos gamers acreditam que em algum momento possuirão NFTs](https://marriedgames.com.br/noticias/jogos-e-nfts/)
 <!-- BLOG-POST-LIST:END -->
 
 
