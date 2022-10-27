@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Influence Chemin é bicampeã da PUBG MOBILE Pro League Américas 2022](https://marriedgames.com.br/noticias/influence-chemin-e-bicampea/)
-- [Final da LBFF 8 alcança pico de mais de 1 milhão de espectadores](https://marriedgames.com.br/noticias/final-da-lbff-8/)
-- [De vendedor de milho a bicampeão brasileiro de Free Fire; conheça Modéstia da Vivo Keyd](https://marriedgames.com.br/noticias/modestia-da-vivo-keyd/)
-- [Liv Up fecha extensão de sua última rodada de captação](https://marriedgames.com.br/noticias/liv-up-fecha-extensao/)
-- [Jogos e NFTs: 73% dos gamers acreditam que em algum momento possuirão NFTs](https://marriedgames.com.br/noticias/jogos-e-nfts/)
+- [Primeiro jogo da franquia The Witcher ganhará um remake](https://marriedgames.com.br/noticias/franquia-the-witcher/)
+- [Ecossistema latino-americano em Intel Experience Day na Colômbia](https://marriedgames.com.br/noticias/intel-experience-day/)
+- [Halloween no Hype Games: Jogos de terror com até 90% de desconto](https://marriedgames.com.br/noticias/halloween-no-hype-games/)
+- [Siga-nos sombras adentro: o Terror de Halloween de Overwatch 2 está de volta!](https://marriedgames.com.br/noticias/halloween-de-overwatch/)
+- [O patch de pré-expansão de World of Warcraft: Dragonflight chegou!](https://marriedgames.com.br/noticias/expansao-de-world-of-warcraft/)
 <!-- BLOG-POST-LIST:END -->
 
 
