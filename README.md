@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
-- [HyperX - Teclado Alloy Origin 65 e 60 Switch Red e Aqua -Tenkeyless](https://www.youtube.com/watch?v=hcIkmxEgmbI)
-- [Ragtch - No Break Senoidal Gamer para PC -One Up Pretador até 2000va &lpar;1000va, 1400va e 2000va&rpar;](https://www.youtube.com/watch?v=qXzTcitKt0U)
-- [Conexão com Alexa - DPS Smart Ragtech](https://www.youtube.com/watch?v=JVq-Qt9bjiU)
-- [Realmente só temos a agradecer, pelo suporte durante a BGS. @samsungbrasil @juanxcrused](https://www.youtube.com/watch?v=JO2TIeNZgNg)
-- [Kingston: Agradecemos pelo apoio e carinho demonstrado na BGS.](https://www.youtube.com/watch?v=nBH1G-FOqUI)
+- [Olha esse espaço!](https://www.youtube.com/watch?v=4NkqFi4ujq8)
+- [Tem comida sim!](https://www.youtube.com/watch?v=4GQly1S1cvc)
+- [São mais 3 PS5 pra jogar!](https://www.youtube.com/watch?v=00WFdWtOsFk)
+- [Acessibilidade, respeito e parceria!](https://www.youtube.com/watch?v=BGS67wmgJmI)
+- [Autografo do @bobburnquist?? ?Se é louco!!!](https://www.youtube.com/watch?v=SoD6kMVaJjM)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
