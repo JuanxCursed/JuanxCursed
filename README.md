@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Primeiro jogo da franquia The Witcher ganhará um remake](https://marriedgames.com.br/noticias/franquia-the-witcher/)
-- [Ecossistema latino-americano em Intel Experience Day na Colômbia](https://marriedgames.com.br/noticias/intel-experience-day/)
-- [Halloween no Hype Games: Jogos de terror com até 90% de desconto](https://marriedgames.com.br/noticias/halloween-no-hype-games/)
-- [Siga-nos sombras adentro: o Terror de Halloween de Overwatch 2 está de volta!](https://marriedgames.com.br/noticias/halloween-de-overwatch/)
-- [O patch de pré-expansão de World of Warcraft: Dragonflight chegou!](https://marriedgames.com.br/noticias/expansao-de-world-of-warcraft/)
+- [Novo GeForce Game Ready Driver chega para ‘Sackboy: A Big Adventure’ e ‘F1 22’](https://marriedgames.com.br/noticias/geforce-game-ready/)
+- [Confira o guia de estratégia de Nusa, novo mapa exclusivo do PUBG MOBILE](https://marriedgames.com.br/noticias/guia-de-estrategia-de-nusa/)
+- [Sega Confirma a Morte de Rieko Kodama](https://marriedgames.com.br/noticias/rieko-kodama/)
+- [Lenovo Legion 5i: Notebook Parrudo e Poderoso [Análise Completa]](https://marriedgames.com.br/dicas-guias/lenovo-legion-5i/)
+- [Kingston Fury Renegade SSD: Melhorando o que era Excelente](https://marriedgames.com.br/dicas-guias/kingston-fury-renegade-ssd/)
 <!-- BLOG-POST-LIST:END -->
 
 
