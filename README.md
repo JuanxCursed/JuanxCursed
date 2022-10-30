@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PUBG e Lionel Messi: Game anuncia parceria global com jogador](https://marriedgames.com.br/noticias/pubg-e-lionel-messi/)
+- [CCXP22 confirma painel oficial da Mauricio de Sousa Produções](https://marriedgames.com.br/noticias/ccxp22-confirma-painel/)
+- [Projeto leva laptops com conectividade móvel para alunos e professores do ensino fundamental](https://marriedgames.com.br/noticias/projeto-leva-laptops/)
+- [Celebre o Dia das Bruxas com o evento Frifas Bruxão](https://marriedgames.com.br/noticias/frifas-bruxao/)
 - [Novo GeForce Game Ready Driver chega para ‘Sackboy: A Big Adventure’ e ‘F1 22’](https://marriedgames.com.br/noticias/geforce-game-ready/)
-- [Confira o guia de estratégia de Nusa, novo mapa exclusivo do PUBG MOBILE](https://marriedgames.com.br/noticias/guia-de-estrategia-de-nusa/)
-- [Sega Confirma a Morte de Rieko Kodama](https://marriedgames.com.br/noticias/rieko-kodama/)
-- [Lenovo Legion 5i: Notebook Parrudo e Poderoso [Análise Completa]](https://marriedgames.com.br/dicas-guias/lenovo-legion-5i/)
-- [Kingston Fury Renegade SSD: Melhorando o que era Excelente](https://marriedgames.com.br/dicas-guias/kingston-fury-renegade-ssd/)
 <!-- BLOG-POST-LIST:END -->
 
 
