@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Grande Final do Honor of Kings Championship Brazil acontece neste fim de semana](https://marriedgames.com.br/noticias/honor-of-kings-championship/)
+- [Natal Just Dance: Game é protagonista da decoração de natal do Complexo Tatuapé](https://marriedgames.com.br/noticias/natal-just-dance/)
 - [PUBG e Lionel Messi: Game anuncia parceria global com jogador](https://marriedgames.com.br/noticias/pubg-e-lionel-messi/)
 - [CCXP22 confirma painel oficial da Mauricio de Sousa Produções](https://marriedgames.com.br/noticias/ccxp22-confirma-painel/)
 - [Projeto leva laptops com conectividade móvel para alunos e professores do ensino fundamental](https://marriedgames.com.br/noticias/projeto-leva-laptops/)
-- [Celebre o Dia das Bruxas com o evento Frifas Bruxão](https://marriedgames.com.br/noticias/frifas-bruxao/)
-- [Novo GeForce Game Ready Driver chega para ‘Sackboy: A Big Adventure’ e ‘F1 22’](https://marriedgames.com.br/noticias/geforce-game-ready/)
 <!-- BLOG-POST-LIST:END -->
 
 
