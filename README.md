@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Krafton lança 1ª grande atualização de Moonbreaker](https://marriedgames.com.br/noticias/atualizacao-de-moonbreaker/)
+- [Samsung Freestyle: Um mini projetor que cabe no bolso](https://marriedgames.com.br/analises/samsung-freestyle/)
 - [Geforce RTX 4090: GPU Poderosa Entrega mais de 1000 FPS na BGS](https://marriedgames.com.br/dicas-guias/geforce-rtx-4090/)
 - [Xiaomi Mega Sale oferece descontos no Aliexpress 11.11](https://marriedgames.com.br/dicas-guias/xiaomi-mega-sale/)
 - [4 máquinas caça-níqueis sobre o Egito que deveria conhecer!](https://marriedgames.com.br/noticias/caca-niqueis-sobre-o-egito/)
-- [Grande Final do Honor of Kings Championship Brazil acontece neste fim de semana](https://marriedgames.com.br/noticias/honor-of-kings-championship/)
-- [Natal Just Dance: Game é protagonista da decoração de natal do Complexo Tatuapé](https://marriedgames.com.br/noticias/natal-just-dance/)
 <!-- BLOG-POST-LIST:END -->
 
 
