@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Kingston: Entrevista com Yuri [ESPECIALISTA DE HARDWARE]](https://www.youtube.com/watch?v=Icr7ewJuNFk)
 - [Olha esse espaço!](https://www.youtube.com/watch?v=4NkqFi4ujq8)
 - [Tem comida sim!](https://www.youtube.com/watch?v=4GQly1S1cvc)
 - [São mais 3 PS5 pra jogar!](https://www.youtube.com/watch?v=00WFdWtOsFk)
 - [Acessibilidade, respeito e parceria!](https://www.youtube.com/watch?v=BGS67wmgJmI)
-- [Autografo do @bobburnquist?? ?Se é louco!!!](https://www.youtube.com/watch?v=SoD6kMVaJjM)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
