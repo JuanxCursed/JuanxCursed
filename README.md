@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Controle Remoto que carrega usando o WiFi e energia Solar: SolarCell Samsung](https://marriedgames.com.br/analises/controle-solarcell-da-samsung/)
+- [Luva de Pedreiro é o primeiro embaixador da LOUD](https://marriedgames.com.br/noticias/embaixador-da-loud/)
+- [RED Canids vence a 2022 Honor of Kings International Championship Brazil Qualifier](https://marriedgames.com.br/noticias/red-canids-vence/)
+- [Brasileiros vencem competição regional de eSports da Lamborghini, a The Real Race 2022](https://marriedgames.com.br/noticias/the-real-race-2022/)
 - [Krafton lança 1ª grande atualização de Moonbreaker](https://marriedgames.com.br/noticias/atualizacao-de-moonbreaker/)
-- [Samsung Freestyle: Um mini projetor que cabe no bolso](https://marriedgames.com.br/analises/samsung-freestyle/)
-- [Geforce RTX 4090: GPU Poderosa Entrega mais de 1000 FPS na BGS](https://marriedgames.com.br/dicas-guias/geforce-rtx-4090/)
-- [Xiaomi Mega Sale oferece descontos no Aliexpress 11.11](https://marriedgames.com.br/dicas-guias/xiaomi-mega-sale/)
-- [4 máquinas caça-níqueis sobre o Egito que deveria conhecer!](https://marriedgames.com.br/noticias/caca-niqueis-sobre-o-egito/)
 <!-- BLOG-POST-LIST:END -->
 
 
