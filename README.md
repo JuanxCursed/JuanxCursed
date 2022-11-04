@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Controle Remoto que carrega usando o WiFi e energia Solar: SolarCell Samsung](https://marriedgames.com.br/analises/controle-solarcell-da-samsung/)
-- [Luva de Pedreiro é o primeiro embaixador da LOUD](https://marriedgames.com.br/noticias/embaixador-da-loud/)
-- [RED Canids vence a 2022 Honor of Kings International Championship Brazil Qualifier](https://marriedgames.com.br/noticias/red-canids-vence/)
-- [Brasileiros vencem competição regional de eSports da Lamborghini, a The Real Race 2022](https://marriedgames.com.br/noticias/the-real-race-2022/)
-- [Krafton lança 1ª grande atualização de Moonbreaker](https://marriedgames.com.br/noticias/atualizacao-de-moonbreaker/)
+- [Novo episódio de Dying 2 Know trará informações de Bloody Ties](https://marriedgames.com.br/noticias/episodio-de-dying-2-know/)
+- [Hearthstone anuncia a expansão Ascensão do Lich Rei e nova classe: Cavaleiro da Morte!](https://marriedgames.com.br/noticias/ascensao-do-lich-rei/)
+- [Adão Negro é lançado como personagem jogável em MultiVersus](https://marriedgames.com.br/noticias/adao-negro-e-lancado/)
+- [SKY abre sinal de quatro canais em novembro](https://marriedgames.com.br/noticias/sky-abre-sinal/)
+- [EA e Marvel: Empresas Anunciam Colaboração para Criar Jogos de Ação](https://marriedgames.com.br/noticias/ea-e-marvel/)
 <!-- BLOG-POST-LIST:END -->
 
 
