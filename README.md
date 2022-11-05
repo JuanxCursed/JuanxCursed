@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Novo episódio de Dying 2 Know trará informações de Bloody Ties](https://marriedgames.com.br/noticias/episodio-de-dying-2-know/)
-- [Hearthstone anuncia a expansão Ascensão do Lich Rei e nova classe: Cavaleiro da Morte!](https://marriedgames.com.br/noticias/ascensao-do-lich-rei/)
-- [Adão Negro é lançado como personagem jogável em MultiVersus](https://marriedgames.com.br/noticias/adao-negro-e-lancado/)
-- [SKY abre sinal de quatro canais em novembro](https://marriedgames.com.br/noticias/sky-abre-sinal/)
-- [EA e Marvel: Empresas Anunciam Colaboração para Criar Jogos de Ação](https://marriedgames.com.br/noticias/ea-e-marvel/)
+- [Login House eXP anuncia Watch Party para a final do Worlds de LoL](https://marriedgames.com.br/noticias/login-house-exp-anuncia-watch-party/)
+- [World of Warships e Legends trazem nova remessa de conteúdo para novembro](https://marriedgames.com.br/noticias/world-of-warships-e-legends/)
+- [FFWS em Bangkok: Conheça os times que disputarão o Free Fire World Series](https://marriedgames.com.br/noticias/ffws-em-bangkok/)
+- [Plan B Terraform na Steam: Game a Loja no Início de 2023](https://marriedgames.com.br/noticias/plan-b-terraform-na-steam/)
+- [Black Desert Mobile inicia Temporada Final do Caminho da Honra](https://marriedgames.com.br/noticias/caminho-da-honra/)
 <!-- BLOG-POST-LIST:END -->
 
 
