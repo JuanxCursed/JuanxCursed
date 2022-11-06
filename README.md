@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Core Keeper receberá a sua Maior Atualização “O Deserto dos Começos”](https://marriedgames.com.br/noticias/core-keeper/)
+- [NVIDIA DLSS 3 recebe novidades neste fim de ano](https://marriedgames.com.br/noticias/dlss-3-recebe-novidades/)
 - [Login House eXP anuncia Watch Party para a final do Worlds de LoL](https://marriedgames.com.br/noticias/login-house-exp-anuncia-watch-party/)
 - [World of Warships e Legends trazem nova remessa de conteúdo para novembro](https://marriedgames.com.br/noticias/world-of-warships-e-legends/)
 - [FFWS em Bangkok: Conheça os times que disputarão o Free Fire World Series](https://marriedgames.com.br/noticias/ffws-em-bangkok/)
-- [Plan B Terraform na Steam: Game a Loja no Início de 2023](https://marriedgames.com.br/noticias/plan-b-terraform-na-steam/)
-- [Black Desert Mobile inicia Temporada Final do Caminho da Honra](https://marriedgames.com.br/noticias/caminho-da-honra/)
 <!-- BLOG-POST-LIST:END -->
 
 
