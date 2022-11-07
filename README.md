@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Conheça os times que representarão o Brasil no PUBG MOBILE Global Championship 2022](https://marriedgames.com.br/noticias/pubg-mobile-global-championship/)
+- [Na Torcida com o Frifas: Free Fire, CBF e Luva de Pedreiro torcendo juntos pelo Brasil](https://marriedgames.com.br/noticias/torcida-com-o-frifas/)
 - [Core Keeper receberá a sua Maior Atualização “O Deserto dos Começos”](https://marriedgames.com.br/noticias/core-keeper/)
 - [NVIDIA DLSS 3 recebe novidades neste fim de ano](https://marriedgames.com.br/noticias/dlss-3-recebe-novidades/)
 - [Login House eXP anuncia Watch Party para a final do Worlds de LoL](https://marriedgames.com.br/noticias/login-house-exp-anuncia-watch-party/)
-- [World of Warships e Legends trazem nova remessa de conteúdo para novembro](https://marriedgames.com.br/noticias/world-of-warships-e-legends/)
-- [FFWS em Bangkok: Conheça os times que disputarão o Free Fire World Series](https://marriedgames.com.br/noticias/ffws-em-bangkok/)
 <!-- BLOG-POST-LIST:END -->
 
 
