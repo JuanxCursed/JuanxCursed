@@ -132,7 +132,7 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
-- [HyperX Todos os Mcrofones para Live streaming e Podcast](https://www.youtube.com/watch?v=0g6ozOrx1to)
+- [HyperX Todos os Microfones para Live streaming e Podcast](https://www.youtube.com/watch?v=0g6ozOrx1to)
 - [Kingston: Entrevista com Yuri [ESPECIALISTA DE HARDWARE]](https://www.youtube.com/watch?v=Icr7ewJuNFk)
 - [Olha esse espaço!](https://www.youtube.com/watch?v=4NkqFi4ujq8)
 - [Tem comida sim!](https://www.youtube.com/watch?v=4GQly1S1cvc)
