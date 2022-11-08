@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Conheça os times que representarão o Brasil no PUBG MOBILE Global Championship 2022](https://marriedgames.com.br/noticias/pubg-mobile-global-championship/)
-- [Na Torcida com o Frifas: Free Fire, CBF e Luva de Pedreiro torcendo juntos pelo Brasil](https://marriedgames.com.br/noticias/torcida-com-o-frifas/)
-- [Core Keeper receberá a sua Maior Atualização “O Deserto dos Começos”](https://marriedgames.com.br/noticias/core-keeper/)
-- [NVIDIA DLSS 3 recebe novidades neste fim de ano](https://marriedgames.com.br/noticias/dlss-3-recebe-novidades/)
-- [Login House eXP anuncia Watch Party para a final do Worlds de LoL](https://marriedgames.com.br/noticias/login-house-exp-anuncia-watch-party/)
+- [ExitLag apresenta Lucas Stolze como novo CEO](https://marriedgames.com.br/noticias/exitlag-apresenta-lucas-stolze-como-novo-ceo/)
+- [Vivo Keyd anuncia fusão com a Stars Horizon e passa a se chamar “Vivo Keyd Stars“](https://marriedgames.com.br/noticias/vivo-keyd-stars/)
+- [Stan Lee na CCXP: Autor ilustra pôster oficial do Evento](https://marriedgames.com.br/noticias/stan-lee-na-ccxp/)
+- [Black Friday LG: Opções de Presentes Tech para o Fim do Ano de 2022](https://marriedgames.com.br/noticias/black-friday-lg/)
+- [Os 25 Melhores Jogos de Star Wars](https://marriedgames.com.br/dicas-guias/os-melhores-jogos-de-star-wars/)
 <!-- BLOG-POST-LIST:END -->
 
 
