@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ExitLag apresenta Lucas Stolze como novo CEO](https://marriedgames.com.br/noticias/exitlag-apresenta-lucas-stolze-como-novo-ceo/)
-- [Vivo Keyd anuncia fusão com a Stars Horizon e passa a se chamar “Vivo Keyd Stars“](https://marriedgames.com.br/noticias/vivo-keyd-stars/)
-- [Stan Lee na CCXP: Autor ilustra pôster oficial do Evento](https://marriedgames.com.br/noticias/stan-lee-na-ccxp/)
-- [Black Friday LG: Opções de Presentes Tech para o Fim do Ano de 2022](https://marriedgames.com.br/noticias/black-friday-lg/)
-- [Os 25 Melhores Jogos de Star Wars](https://marriedgames.com.br/dicas-guias/os-melhores-jogos-de-star-wars/)
+- [Samsung QN90B Neo QLED: Uma TV Gamer Que Dispensa o Console [Review]](https://marriedgames.com.br/analises/samsung-qn90b-neo-qled/)
+- [Samsung Game Bar: Um Recurso Incrível das TVs QLED Samsung](https://marriedgames.com.br/analises/samsung-game-bar/)
+- [Kit de Microfone, Teclado, Mouse e Headset Brancos da HyperX [Quadcast, Alloy, Pulsefire, Cloud II]](https://marriedgames.com.br/dicas-guias/novidades-da-hyperx/)
+- [ChargePlay Duo PS5: Qualidade HyperX também nos Consoles](https://marriedgames.com.br/noticias/chargeplay-duo-ps5/)
+- [HyperX SoloCast e DuoCast: Qualidade Profissional e Baixo Custo](https://marriedgames.com.br/analises/hyperx-solocast-e-duocast/)
 <!-- BLOG-POST-LIST:END -->
 
 
