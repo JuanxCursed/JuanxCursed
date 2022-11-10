@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Samsung QN90B Neo QLED: Uma TV Gamer Que Dispensa o Console [Review]](https://marriedgames.com.br/analises/samsung-qn90b-neo-qled/)
-- [Samsung Game Bar: Um Recurso Incrível das TVs QLED Samsung](https://marriedgames.com.br/analises/samsung-game-bar/)
-- [Kit de Microfone, Teclado, Mouse e Headset Brancos da HyperX [Quadcast, Alloy, Pulsefire, Cloud II]](https://marriedgames.com.br/dicas-guias/novidades-da-hyperx/)
-- [ChargePlay Duo PS5: Qualidade HyperX também nos Consoles](https://marriedgames.com.br/noticias/chargeplay-duo-ps5/)
-- [HyperX SoloCast e DuoCast: Qualidade Profissional e Baixo Custo](https://marriedgames.com.br/analises/hyperx-solocast-e-duocast/)
+- [Keanu Reeves na CCXP22: Paris Filmes trará ator para promover filme](https://marriedgames.com.br/noticias/keanu-reeves-na-ccxp22/)
+- [Dell Latitude: Veja novidades sobre o 5G em notebooks empresariais](https://marriedgames.com.br/noticias/dell-latitude/)
+- [MIBR lança a primeira arena de eSports no Metaverso](https://marriedgames.com.br/noticias/arena-de-esports-no-metaverso/)
+- [WD_Black SN850X e WD_Black P40: Novidades da Western Digital na BGS 2022](https://marriedgames.com.br/analises/wd_black-sn850x-e-wd_black-p40/)
+- [Intel Alder Lake: Vale a pena mudar para os Processadores de 12° Geração?](https://marriedgames.com.br/analises/intel-alder-lake/)
 <!-- BLOG-POST-LIST:END -->
 
 
