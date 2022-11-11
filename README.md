@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Teclado TKL HyperX Alloy Origin 60 e 65 – Menores e Mais Poderosos](https://marriedgames.com.br/analises/hyperx-alloy-origin-60/)
+- [CCXP e Eventos.com.br firmam parceria e criam linhas de transporte oficial para o evento](https://marriedgames.com.br/noticias/ccxp-e-eventos/)
+- [Acer Nitro 5 com R$ 2000 de Desconto: Black Friday](https://marriedgames.com.br/noticias/nitro-5-black-friday/)
+- [Melhores TV 65 Polegadas para sua Black Friday](https://marriedgames.com.br/dicas-guias/tv-65-polegadas/)
 - [Keanu Reeves na CCXP22: Paris Filmes trará ator para promover filme](https://marriedgames.com.br/noticias/keanu-reeves-na-ccxp22/)
-- [Dell Latitude: Veja novidades sobre o 5G em notebooks empresariais](https://marriedgames.com.br/noticias/dell-latitude/)
-- [MIBR lança a primeira arena de eSports no Metaverso](https://marriedgames.com.br/noticias/arena-de-esports-no-metaverso/)
-- [WD_Black SN850X e WD_Black P40: Novidades da Western Digital na BGS 2022](https://marriedgames.com.br/analises/wd_black-sn850x-e-wd_black-p40/)
-- [Intel Alder Lake: Vale a pena mudar para os Processadores de 12° Geração?](https://marriedgames.com.br/analises/intel-alder-lake/)
 <!-- BLOG-POST-LIST:END -->
 
 
