@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Monitor Ark: Controle simultâneo do pc e controle exclusivo](https://www.youtube.com/watch?v=g0ovbpaLWZk)
+- [Monitor Ark: Sistema de multi view, até 4 telas simultâneas](https://www.youtube.com/watch?v=EcRMNScE_lI)
 - [HyperX Entrevista exclusiva com Daniel Boemer](https://www.youtube.com/watch?v=g6lajsswq6Q)
 - [HyperX Todos os Microfones para Live streaming e Podcast](https://www.youtube.com/watch?v=0g6ozOrx1to)
 - [Kingston: Entrevista com Yuri [ESPECIALISTA DE HARDWARE]](https://www.youtube.com/watch?v=Icr7ewJuNFk)
-- [Olha esse espaço!](https://www.youtube.com/watch?v=4NkqFi4ujq8)
-- [Tem comida sim!](https://www.youtube.com/watch?v=4GQly1S1cvc)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
