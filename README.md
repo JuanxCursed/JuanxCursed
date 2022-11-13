@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Acer Nitro 5: Um Notebook Potente e Econômico para Gamers](https://marriedgames.com.br/analises/acer-nitro-5/)
 - [Melhores TVs de 32 Polegadas para Ver os Jogos da Copa 2022](https://marriedgames.com.br/noticias/tvs-de-32-polegadas/)
 - [Sub Friday: Black Friday Submarino convida clientes a “ativar o modo torcedor”](https://marriedgames.com.br/noticias/sub-friday/)
 - [CCXP22 anuncia John Rhys-Davies, ator britânico das sagas de O Senhor dos Anéis e Indiana Jones](https://marriedgames.com.br/noticias/john-rhys-davies/)
 - [Começou a Esquenta Black Friday da Amazon](https://marriedgames.com.br/noticias/esquenta-black-friday-da-amazon/)
-- [Dicas Black Friday para aproveitar a e explorar todo o potencial das ofertas](https://marriedgames.com.br/noticias/dicas-black-friday/)
 <!-- BLOG-POST-LIST:END -->
 
 
