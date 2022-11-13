@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Samsung Gaming TV - Apresentação](https://www.youtube.com/watch?v=WnnMYm6eViI)
+- [Monitor Ark: Multi view até na vertical](https://www.youtube.com/watch?v=y60hR01_xl4)
 - [Monitor Ark: Controle simultâneo do pc e controle exclusivo](https://www.youtube.com/watch?v=g0ovbpaLWZk)
 - [Monitor Ark: Sistema de multi view, até 4 telas simultâneas](https://www.youtube.com/watch?v=EcRMNScE_lI)
 - [HyperX Entrevista exclusiva com Daniel Boemer](https://www.youtube.com/watch?v=g6lajsswq6Q)
-- [HyperX Todos os Microfones para Live streaming e Podcast](https://www.youtube.com/watch?v=0g6ozOrx1to)
-- [Kingston: Entrevista com Yuri [ESPECIALISTA DE HARDWARE]](https://www.youtube.com/watch?v=Icr7ewJuNFk)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
