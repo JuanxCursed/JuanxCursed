@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Samsung Gaming TV - Até 165hz com zero input lag](https://www.youtube.com/watch?v=hNeOEj2g9hg)
+- [Samsung Gaming TV - Armazenamento limitado para jogos](https://www.youtube.com/watch?v=yZqoucCiOhc)
 - [Samsung Gaming TV - Apresentação](https://www.youtube.com/watch?v=WnnMYm6eViI)
 - [Monitor Ark: Multi view até na vertical](https://www.youtube.com/watch?v=y60hR01_xl4)
 - [Monitor Ark: Controle simultâneo do pc e controle exclusivo](https://www.youtube.com/watch?v=g0ovbpaLWZk)
-- [Monitor Ark: Sistema de multi view, até 4 telas simultâneas](https://www.youtube.com/watch?v=EcRMNScE_lI)
-- [HyperX Entrevista exclusiva com Daniel Boemer](https://www.youtube.com/watch?v=g6lajsswq6Q)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
