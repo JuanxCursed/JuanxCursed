@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Samsung Free Style - Mini projetor portátil](https://www.youtube.com/watch?v=AJgCg5zv6oI)
+- [Samsung FreeStyle - Mini projetor reproduzindo com qualidade mesmo no claro](https://www.youtube.com/watch?v=dUZ7AvIRc50)
 - [Samsung Gaming TV - Até 165hz com zero input lag](https://www.youtube.com/watch?v=hNeOEj2g9hg)
 - [Samsung Gaming TV - Armazenamento limitado para jogos](https://www.youtube.com/watch?v=yZqoucCiOhc)
 - [Samsung Gaming TV - Apresentação](https://www.youtube.com/watch?v=WnnMYm6eViI)
-- [Monitor Ark: Multi view até na vertical](https://www.youtube.com/watch?v=y60hR01_xl4)
-- [Monitor Ark: Controle simultâneo do pc e controle exclusivo](https://www.youtube.com/watch?v=g0ovbpaLWZk)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
