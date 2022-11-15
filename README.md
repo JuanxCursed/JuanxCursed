@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guia dos Melhores Monitores Gamers de 2022](https://marriedgames.com.br/dicas-guias/melhores-monitores-gamers/)
+- [Melhores TVs de 50 polegadas em 2022 para Curtir a Copa](https://marriedgames.com.br/dicas-guias/tvs-de-50-polegadas/)
 - [Notebook Gamer Acer Predator Helios 300 Spartial Labs &lpar;Review&rpar;](https://marriedgames.com.br/noticias/acer-predator-helios-300/)
 - [Acer Nitro 5: Um Notebook Potente e Econômico para Gamers](https://marriedgames.com.br/analises/acer-nitro-5/)
 - [Melhores TVs de 32 Polegadas para Ver os Jogos da Copa 2022](https://marriedgames.com.br/noticias/tvs-de-32-polegadas/)
-- [Sub Friday: Black Friday Submarino convida clientes a “ativar o modo torcedor”](https://marriedgames.com.br/noticias/sub-friday/)
-- [CCXP22 anuncia John Rhys-Davies, ator britânico das sagas de O Senhor dos Anéis e Indiana Jones](https://marriedgames.com.br/noticias/john-rhys-davies/)
 <!-- BLOG-POST-LIST:END -->
 
 
