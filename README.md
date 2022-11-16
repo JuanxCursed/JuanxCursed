@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Esquenta Black Friday: Monitores Gamers Dell em Promoção na Amazon](https://marriedgames.com.br/noticias/esquenta-black-friday/)
+- [Melhores TVs de 43 polegadas para Comprar Neste Black Friday](https://marriedgames.com.br/dicas-guias/tvs-de-43-polegadas/)
 - [Guia dos Melhores Monitores Gamers de 2022](https://marriedgames.com.br/dicas-guias/melhores-monitores-gamers/)
 - [Melhores TVs de 50 polegadas em 2022 para Curtir a Copa](https://marriedgames.com.br/dicas-guias/tvs-de-50-polegadas/)
 - [Notebook Gamer Acer Predator Helios 300 Spartial Labs &lpar;Review&rpar;](https://marriedgames.com.br/noticias/acer-predator-helios-300/)
-- [Acer Nitro 5: Um Notebook Potente e Econômico para Gamers](https://marriedgames.com.br/analises/acer-nitro-5/)
-- [Melhores TVs de 32 Polegadas para Ver os Jogos da Copa 2022](https://marriedgames.com.br/noticias/tvs-de-32-polegadas/)
 <!-- BLOG-POST-LIST:END -->
 
 
