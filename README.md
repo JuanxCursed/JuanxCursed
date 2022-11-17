@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Esquenta Black Friday: Monitores Gamers Dell em Promoção na Amazon](https://marriedgames.com.br/noticias/esquenta-black-friday/)
-- [Melhores TVs de 43 polegadas para Comprar Neste Black Friday](https://marriedgames.com.br/dicas-guias/tvs-de-43-polegadas/)
-- [Guia dos Melhores Monitores Gamers de 2022](https://marriedgames.com.br/dicas-guias/melhores-monitores-gamers/)
-- [Melhores TVs de 50 polegadas em 2022 para Curtir a Copa](https://marriedgames.com.br/dicas-guias/tvs-de-50-polegadas/)
-- [Notebook Gamer Acer Predator Helios 300 Spartial Labs &lpar;Review&rpar;](https://marriedgames.com.br/noticias/acer-predator-helios-300/)
+- [Piloto MVP de Neymar Jr. é lançado por tempo limitado em Mech Arena](https://marriedgames.com.br/noticias/piloto-mvp-de-neymar/)
+- [Black Friday: 15 Smart TV 55 Polegadas para Assistir os Jogos da Copa do Mundo 2022](https://marriedgames.com.br/noticias/tv-55-polegadas/)
+- [Smarts TVs de 50 Polegadas para Ficar de Olho na Black Friday/Copa do Mundo de 2022](https://marriedgames.com.br/noticias/tvs-de-50-polegadas-2/)
+- [Smart TV 43 Polegadas com descontos incríveis de Black Friday/Copa do Mundo](https://marriedgames.com.br/noticias/tv-43-polegadas/)
+- [O que é Echo Dot? Saiba Tudo Sobre essa Incrível Tecnologia](https://marriedgames.com.br/dicas-guias/o-que-e-echo-dot-saiba-tudo-sobre/)
 <!-- BLOG-POST-LIST:END -->
 
 
