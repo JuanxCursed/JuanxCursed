@@ -116,8 +116,8 @@ I've just born to do it.
   </a> 
 </p>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#602](https://github.com/udx/wp-stateless/issues/602) in [udx/wp-stateless](https://github.com/udx/wp-stateless)
-2. 🗣 Commented on [#192](https://github.com/westonruter/syntax-highlighting-code-block/issues/192) in [westonruter/syntax-highlighting-code-block](https://github.com/westonruter/syntax-highlighting-code-block)
+1. ❗️ Opened issue [#83](https://github.com/JohnCampionJr/vite-plugin-vue-layouts/issues/83) in [JohnCampionJr/vite-plugin-vue-layouts](https://github.com/JohnCampionJr/vite-plugin-vue-layouts)
+2. 🗣 Commented on [#81](https://github.com/JohnCampionJr/vite-plugin-vue-layouts/issues/81) in [JohnCampionJr/vite-plugin-vue-layouts](https://github.com/JohnCampionJr/vite-plugin-vue-layouts)
 3. 🗣 Commented on [#70](https://github.com/nuxt-community/eslint-module/issues/70) in [nuxt-community/eslint-module](https://github.com/nuxt-community/eslint-module)
 4. 💪 Opened PR [#6](https://github.com/JuanxCursed/calendar/pull/6) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
 5. 🎉 Merged PR [#5](https://github.com/JuanxCursed/calendar/pull/5) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
