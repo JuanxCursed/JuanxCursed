@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Katherine ‘Kat’ McNamara está confirmada para painel no Palco Thunder by Cinemark Club](https://marriedgames.com.br/noticias/palco-thunder-by-cinemark/)
+- [Universal Pictures anuncia painel e exibição inédita de ‘Gato de Botas 2’ na CCXP22](https://marriedgames.com.br/noticias/gato-de-botas-2/)
+- [As 15 Smarts TV 60 Polegadas mais vendidas na Black Friday/Copa do mundo de 2022](https://marriedgames.com.br/noticias/tv-60-polegadas/)
+- [NameMC: O que é, Skins de Minecraft e Servers [Guia COMPLETO]](https://marriedgames.com.br/dicas-guias/namemc/)
 - [Piloto MVP de Neymar Jr. é lançado por tempo limitado em Mech Arena](https://marriedgames.com.br/noticias/piloto-mvp-de-neymar/)
-- [Black Friday: 15 Smart TV 55 Polegadas para Assistir os Jogos da Copa do Mundo 2022](https://marriedgames.com.br/noticias/tv-55-polegadas/)
-- [Smarts TVs de 50 Polegadas para Ficar de Olho na Black Friday/Copa do Mundo de 2022](https://marriedgames.com.br/noticias/tvs-de-50-polegadas-2/)
-- [Smart TV 43 Polegadas com descontos incríveis de Black Friday/Copa do Mundo](https://marriedgames.com.br/noticias/tv-43-polegadas/)
-- [O que é Echo Dot? Saiba Tudo Sobre essa Incrível Tecnologia](https://marriedgames.com.br/dicas-guias/o-que-e-echo-dot-saiba-tudo-sobre/)
 <!-- BLOG-POST-LIST:END -->
 
 
