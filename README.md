@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Katherine ‘Kat’ McNamara está confirmada para painel no Palco Thunder by Cinemark Club](https://marriedgames.com.br/noticias/palco-thunder-by-cinemark/)
-- [Universal Pictures anuncia painel e exibição inédita de ‘Gato de Botas 2’ na CCXP22](https://marriedgames.com.br/noticias/gato-de-botas-2/)
-- [As 15 Smarts TV 60 Polegadas mais vendidas na Black Friday/Copa do mundo de 2022](https://marriedgames.com.br/noticias/tv-60-polegadas/)
-- [NameMC: O que é, Skins de Minecraft e Servers [Guia COMPLETO]](https://marriedgames.com.br/dicas-guias/namemc/)
-- [Piloto MVP de Neymar Jr. é lançado por tempo limitado em Mech Arena](https://marriedgames.com.br/noticias/piloto-mvp-de-neymar/)
+- [CBF, Free Fire e Luva de Pedreiro celebram os anos de vitória do Brasil](https://marriedgames.com.br/noticias/free-fire-e-luva-de-pedreiro/)
+- [ONE OK ROCK lança videoclipe oficial Sonic Frontiers, “Vandalize”](https://marriedgames.com.br/noticias/videoclipe-oficial-sonic-frontiers/)
+- [Jogo brasileiro baseado em xadrez, Chessarama, será lançado em 2023](https://marriedgames.com.br/noticias/chessarama/)
+- [Óculos de realidade virtual faz sucesso no estande do Brasil na COP 27](https://marriedgames.com.br/noticias/brasil-na-cop-27/)
+- [Fomos a Festa de Lançamento de DragonFlight, a nova DLC de World of Warcraft](https://marriedgames.com.br/noticias/lancamento-de-dragonflight/)
 <!-- BLOG-POST-LIST:END -->
 
 
