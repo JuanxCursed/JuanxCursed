@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CBF, Free Fire e Luva de Pedreiro celebram os anos de vitória do Brasil](https://marriedgames.com.br/noticias/free-fire-e-luva-de-pedreiro/)
-- [ONE OK ROCK lança videoclipe oficial Sonic Frontiers, “Vandalize”](https://marriedgames.com.br/noticias/videoclipe-oficial-sonic-frontiers/)
-- [Jogo brasileiro baseado em xadrez, Chessarama, será lançado em 2023](https://marriedgames.com.br/noticias/chessarama/)
-- [Óculos de realidade virtual faz sucesso no estande do Brasil na COP 27](https://marriedgames.com.br/noticias/brasil-na-cop-27/)
-- [Fomos a Festa de Lançamento de DragonFlight, a nova DLC de World of Warcraft](https://marriedgames.com.br/noticias/lancamento-de-dragonflight/)
+- [Festival de games celebra o Dia da Consciência Negra no Brasil](https://marriedgames.com.br/noticias/dia-da-consciencia-negra/)
+- [Nova atualização “Fim de Ano do Frifas” chega trazendo diversos modos de jogo](https://marriedgames.com.br/noticias/fim-de-ano-do-frifas/)
+- [PUBG MOBILE e Maserati, famosa marca de carros de luxo fecha parceria com o jogo](https://marriedgames.com.br/noticias/pubg-mobile-e-maserati/)
+- [PUBG MOBILE chega com Messi, itens e eventos e novo modo de jogo](https://marriedgames.com.br/noticias/pubg-mobile-chega-com-messi/)
+- [HyperX completa 20 anos de inovação no universo gamer](https://marriedgames.com.br/noticias/hyperx-completa-20-anos/)
 <!-- BLOG-POST-LIST:END -->
 
 
