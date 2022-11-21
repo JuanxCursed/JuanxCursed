@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Logitech G502 X Lightspeed: um Ícone Reformulado [Análise Completa]](https://marriedgames.com.br/analises/logitech-g502-x-lightspeed/)
+- [Arena Breakout lança seu primeiro teste beta fechado hoje](https://marriedgames.com.br/noticias/arena-breakout/)
+- [NVIDIA anuncia novo Driver de Marvel’s Spider-Man Miles Morales para GeForce RTX 4080](https://marriedgames.com.br/noticias/nvidia-anuncia-novo-driver/)
+- [A fase 2 do patch pré-expansão de Dragonflight já está disponível!](https://marriedgames.com.br/noticias/a-fase-2-do-patch-pre-expansao-de-dragonflight-ja-esta-disponivel/)
 - [Festival de games celebra o Dia da Consciência Negra no Brasil](https://marriedgames.com.br/noticias/dia-da-consciencia-negra/)
-- [Nova atualização “Fim de Ano do Frifas” chega trazendo diversos modos de jogo](https://marriedgames.com.br/noticias/fim-de-ano-do-frifas/)
-- [PUBG MOBILE e Maserati, famosa marca de carros de luxo fecha parceria com o jogo](https://marriedgames.com.br/noticias/pubg-mobile-e-maserati/)
-- [PUBG MOBILE chega com Messi, itens e eventos e novo modo de jogo](https://marriedgames.com.br/noticias/pubg-mobile-chega-com-messi/)
-- [HyperX completa 20 anos de inovação no universo gamer](https://marriedgames.com.br/noticias/hyperx-completa-20-anos/)
 <!-- BLOG-POST-LIST:END -->
 
 
