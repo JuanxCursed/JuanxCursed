@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Os 15 Headset Gamer Mais Vendidos Na Black Friday/Copa Do Mundo De 2022](https://marriedgames.com.br/noticias/headset-gamer-2/)
+- [LG Xboom Go Power XG9: Conheça esse Spearker com Bateria de 24 Horas](https://marriedgames.com.br/noticias/lg-xboom-go-power-xg9/)
+- [HBO leva Last of Us para CCXP22 com Painel Exclusivo](https://marriedgames.com.br/noticias/hbo-leva-last-of-us/)
+- [FFWS 2022 Bangkok: Equipes chegam à Tailândia para disputar o mundial](https://marriedgames.com.br/noticias/ffws-2022-bangkok/)
 - [Logitech G502 X Lightspeed: um Ícone Reformulado [Análise Completa]](https://marriedgames.com.br/analises/logitech-g502-x-lightspeed/)
-- [Arena Breakout lança seu primeiro teste beta fechado hoje](https://marriedgames.com.br/noticias/arena-breakout/)
-- [NVIDIA anuncia novo Driver de Marvel’s Spider-Man Miles Morales para GeForce RTX 4080](https://marriedgames.com.br/noticias/nvidia-anuncia-novo-driver/)
-- [A fase 2 do patch pré-expansão de Dragonflight já está disponível!](https://marriedgames.com.br/noticias/a-fase-2-do-patch-pre-expansao-de-dragonflight-ja-esta-disponivel/)
-- [Festival de games celebra o Dia da Consciência Negra no Brasil](https://marriedgames.com.br/noticias/dia-da-consciencia-negra/)
 <!-- BLOG-POST-LIST:END -->
 
 
