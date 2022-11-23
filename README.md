@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disney na CCXP22: Kevin Feige, Paul Rudd e mais vem ao Evento](https://marriedgames.com.br/noticias/disney-na-ccxp22/)
+- [Os 15 Mouses Gamers Mais Vendidos Na Black Friday/Copa Do Mundo De 2022](https://marriedgames.com.br/noticias/mouses-gamers-mais-vendidos/)
 - [Os 15 Headset Gamer Mais Vendidos Na Black Friday/Copa Do Mundo De 2022](https://marriedgames.com.br/noticias/headset-gamer-2/)
 - [LG Xboom Go Power XG9: Conheça esse Spearker com Bateria de 24 Horas](https://marriedgames.com.br/noticias/lg-xboom-go-power-xg9/)
 - [HBO leva Last of Us para CCXP22 com Painel Exclusivo](https://marriedgames.com.br/noticias/hbo-leva-last-of-us/)
-- [FFWS 2022 Bangkok: Equipes chegam à Tailândia para disputar o mundial](https://marriedgames.com.br/noticias/ffws-2022-bangkok/)
-- [Logitech G502 X Lightspeed: um Ícone Reformulado [Análise Completa]](https://marriedgames.com.br/analises/logitech-g502-x-lightspeed/)
 <!-- BLOG-POST-LIST:END -->
 
 
