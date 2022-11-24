@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Disney na CCXP22: Kevin Feige, Paul Rudd e mais vem ao Evento](https://marriedgames.com.br/noticias/disney-na-ccxp22/)
-- [Os 15 Mouses Gamers Mais Vendidos Na Black Friday/Copa Do Mundo De 2022](https://marriedgames.com.br/noticias/mouses-gamers-mais-vendidos/)
-- [Os 15 Headset Gamer Mais Vendidos Na Black Friday/Copa Do Mundo De 2022](https://marriedgames.com.br/noticias/headset-gamer-2/)
-- [LG Xboom Go Power XG9: Conheça esse Spearker com Bateria de 24 Horas](https://marriedgames.com.br/noticias/lg-xboom-go-power-xg9/)
-- [HBO leva Last of Us para CCXP22 com Painel Exclusivo](https://marriedgames.com.br/noticias/hbo-leva-last-of-us/)
+- [Os 15 Monitores Gamers Mais Vendidos Na Black Friday/Copa Do Mundo De 2022](https://marriedgames.com.br/noticias/monitores-gamers-mais-vendidos/)
+- [Paramount+ Confirma Painel de Teen Wolf: The Movie e Wolf Pack no Dia 4](https://marriedgames.com.br/noticias/painel-de-teen-wolf/)
+- [As Melhores Smart TV para Você Curtir Todos Jogos da Copa 2022](https://marriedgames.com.br/noticias/melhores-smart-tvs/)
+- [Os 15 Teclado Gamer Mais Vendidos Na Black Friday/Copa Do Mundo De 2022](https://marriedgames.com.br/noticias/teclado-gamer-mais-vendidos/)
+- [Play Test de Goldilock One Exclusivo para Brasileiros liberado na Steam](https://marriedgames.com.br/noticias/play-test-de-goldilock-one/)
 <!-- BLOG-POST-LIST:END -->
 
 
