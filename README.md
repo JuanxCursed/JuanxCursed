@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Minas Morgul em Minecraft: Jogador recria cenário de O Senhor dos Anéis](https://marriedgames.com.br/noticias/minas-morgul-em-minecraft/)
 - [Os 15 Notebooks Mais Vendidos Na Black Friday/Copa Do Mundo De 2022](https://marriedgames.com.br/noticias/notebooks-mais-vendidos/)
 - [Os 15 Monitores Gamers Mais Vendidos Na Black Friday/Copa Do Mundo De 2022](https://marriedgames.com.br/noticias/monitores-gamers-mais-vendidos/)
 - [Paramount+ Confirma Painel de Teen Wolf: The Movie e Wolf Pack no Dia 4](https://marriedgames.com.br/noticias/painel-de-teen-wolf/)
 - [As Melhores Smart TV para Você Curtir Todos Jogos da Copa 2022](https://marriedgames.com.br/noticias/melhores-smart-tvs/)
-- [Os 15 Teclado Gamer Mais Vendidos Na Black Friday/Copa Do Mundo De 2022](https://marriedgames.com.br/noticias/teclado-gamer-mais-vendidos/)
 <!-- BLOG-POST-LIST:END -->
 
 
