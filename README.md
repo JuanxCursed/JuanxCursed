@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Primeiro dia de Unlock CCXP reuniu time para debater o mercado de entretenimento](https://marriedgames.com.br/noticias/unlock-ccxp-2/)
-- [Two Point Campus: Space Academy anunciado com lançamento em 6 de dezembro](https://marriedgames.com.br/noticias/space-academy/)
-- [Amazon Music Gol: Começa hoje campeonato de futebol virtual com os artistas](https://marriedgames.com.br/noticias/amazon-music-gol/)
-- [NEW STATE MOBILE recebe atualização de novembro com Passe de Sobrevivente Vol. 13](https://marriedgames.com.br/noticias/passe-de-sobrevivente-vol-13/)
-- [NISSIN na CCXP terá ativação com obstáculos e parceria inédita com Artists’ Valley](https://marriedgames.com.br/noticias/nissin-na-ccxp/)
+- [Intel Arc: A Primeira Investida da Intel no Mercado de GPUs](https://marriedgames.com.br/analises/intel-arc/)
+- [Intel NUC: Tudo o que Você precisa saber [Análise Completa]](https://marriedgames.com.br/noticias/intel-nuc-tudo-o-que-voce-precisa-saber-analise-completa/)
+- [AMD ZEN 4 RYZEN 7000: Processador Poderoso que vimos na BGS 2022](https://marriedgames.com.br/analises/amd-zen-4-ryzen-7000/)
+- [2ª Temporada de Overwatch 2: Ramattra, Monastério de Shambali e a Batalha pelo Olimpo](https://marriedgames.com.br/noticias/temporada-de-overwatch-2/)
+- [Conheça os indicados ao Brazil Game Awards 2022](https://marriedgames.com.br/noticias/indicados-ao-brazil-game-awards/)
 <!-- BLOG-POST-LIST:END -->
 
 
