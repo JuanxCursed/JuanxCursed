@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel Arc: A Primeira Investida da Intel no Mercado de GPUs](https://marriedgames.com.br/analises/intel-arc/)
-- [Intel NUC: Tudo o que Você precisa saber [Análise Completa]](https://marriedgames.com.br/noticias/intel-nuc-tudo-o-que-voce-precisa-saber-analise-completa/)
-- [AMD ZEN 4 RYZEN 7000: Processador Poderoso que vimos na BGS 2022](https://marriedgames.com.br/analises/amd-zen-4-ryzen-7000/)
-- [2ª Temporada de Overwatch 2: Ramattra, Monastério de Shambali e a Batalha pelo Olimpo](https://marriedgames.com.br/noticias/temporada-de-overwatch-2/)
-- [Conheça os indicados ao Brazil Game Awards 2022](https://marriedgames.com.br/noticias/indicados-ao-brazil-game-awards/)
+- [Comece dezembro jogando HYENAS neste final de semana](https://marriedgames.com.br/noticias/hyenas-neste-final-de-semana/)
+- [SEGA revela planos de conteúdo adicional de Sonic Frontiers](https://marriedgames.com.br/noticias/conteudo-adicional-de-sonic/)
+- [Fase de Grupos do “2022 Honor Of Kings International Championship” vai começar](https://marriedgames.com.br/noticias/honor-of-kings-international/)
+- [12 Soft Skills OBRIGATÓRIAS para Desenvolvedores](https://marriedgames.com.br/dicas-guias/soft-skills-obrigatorias/)
+- [Spoiler Night: Saiba um pouco do que rolou no primeiro dia da CCXP22](https://marriedgames.com.br/noticias/spoiler-night-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
