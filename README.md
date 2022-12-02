@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Entrando na Caverna do Dragão](https://www.youtube.com/watch?v=UXomA4B0d1o)
 - [Quais novidades o WOW Dragonflight vai trazer hein?](https://www.youtube.com/watch?v=VV7lDD-uzto)
 - [Coqueteis temáticos do WOW Dragon Flight](https://www.youtube.com/watch?v=aIvZTA5GR8A)
 - [WOW: Vem novidades exclusivas ai, fiquem ligados!](https://www.youtube.com/watch?v=NghJgiYICUU)
 - [Unboxing Gabinete CollerMaster MasterBox TD 500](https://www.youtube.com/watch?v=a_74t4gjKF8)
-- [Samsung Free Style - Mini projetor portátil](https://www.youtube.com/watch?v=AJgCg5zv6oI)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
