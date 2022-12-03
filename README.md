@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CCXP22 encerra segundo dia com a presença de Tenoch Huerta emocionando o público](https://marriedgames.com.br/noticias/presenca-de-tenoch-huerta/)
+- [Segundo dia de CCXP tem transmissão de jogo da Seleção Brasileira e homenagem à Stan Lee](https://marriedgames.com.br/noticias/segundo-dia-de-ccxp/)
+- [Torcendo com Frifas ganha evento Fábula de Futebol e entra em nova fase junto com a seleção](https://marriedgames.com.br/noticias/torcendo-com-frifas/)
+- [Primeiro dia da CCXP22 celebra o retorno presencial com muitas surpresas](https://marriedgames.com.br/noticias/primeiro-dia-da-ccxp22/)
 - [Comece dezembro jogando HYENAS neste final de semana](https://marriedgames.com.br/noticias/hyenas-neste-final-de-semana/)
-- [SEGA revela planos de conteúdo adicional de Sonic Frontiers](https://marriedgames.com.br/noticias/conteudo-adicional-de-sonic/)
-- [Fase de Grupos do “2022 Honor Of Kings International Championship” vai começar](https://marriedgames.com.br/noticias/honor-of-kings-international/)
-- [12 Soft Skills OBRIGATÓRIAS para Desenvolvedores](https://marriedgames.com.br/dicas-guias/soft-skills-obrigatorias/)
-- [Spoiler Night: Saiba um pouco do que rolou no primeiro dia da CCXP22](https://marriedgames.com.br/noticias/spoiler-night-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
