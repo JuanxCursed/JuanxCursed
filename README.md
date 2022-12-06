@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Ismael Cruz falando em Português](https://www.youtube.com/watch?v=fKaPW-XVSx4)
+- [O Último Aluguel do Sr. Barriga](https://www.youtube.com/watch?v=3W_qOtYK5eU)
 - [Entrando na Caverna do Dragão](https://www.youtube.com/watch?v=UXomA4B0d1o)
 - [Quais novidades o WOW Dragonflight vai trazer hein?](https://www.youtube.com/watch?v=VV7lDD-uzto)
 - [Coqueteis temáticos do WOW Dragon Flight](https://www.youtube.com/watch?v=aIvZTA5GR8A)
-- [WOW: Vem novidades exclusivas ai, fiquem ligados!](https://www.youtube.com/watch?v=NghJgiYICUU)
-- [Unboxing Gabinete CollerMaster MasterBox TD 500](https://www.youtube.com/watch?v=a_74t4gjKF8)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
