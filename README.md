@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Com ingressos esgotados, CCXP22 tem noite histórica neste sábado](https://marriedgames.com.br/noticias/ccxp22-tem-noite-historica/)
-- [CCXP22 encerra segundo dia com a presença de Tenoch Huerta emocionando o público](https://marriedgames.com.br/noticias/presenca-de-tenoch-huerta/)
-- [Segundo dia de CCXP tem transmissão de jogo da Seleção Brasileira e homenagem à Stan Lee](https://marriedgames.com.br/noticias/segundo-dia-de-ccxp/)
-- [Torcendo com Frifas ganha evento Fábula de Futebol e entra em nova fase junto com a seleção](https://marriedgames.com.br/noticias/torcendo-com-frifas/)
-- [Primeiro dia da CCXP22 celebra o retorno presencial com muitas surpresas](https://marriedgames.com.br/noticias/primeiro-dia-da-ccxp22/)
+- [Keanu Reeves e Raphael Granpá falam sobre a HQ BRZRKR na CCXP22](https://marriedgames.com.br/noticias/keanu-reeves-e-raphael-granpa/)
+- [Clima de Copa: Saiba como FIFA 23 roda em algumas das GeForce mais usadas no país](https://marriedgames.com.br/noticias/geforce-mais-usadas/)
+- [Knights of Honor II: Sovereign mostra jogabilidade detalhada antes do lançamento](https://marriedgames.com.br/noticias/knights-of-honor-ii/)
+- [Doom Slayer e Geralt de Rívia chega ao Fortnite!](https://marriedgames.com.br/noticias/geralt-de-rivia-chega-ao-fortnite/)
+- [Senhor Barriga na CCXP22: Edgar Vivar se despede dos fãs](https://marriedgames.com.br/noticias/senhor-barriga-na-ccxp22/)
 <!-- BLOG-POST-LIST:END -->
 
 
