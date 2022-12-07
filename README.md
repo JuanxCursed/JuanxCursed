@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Keanu Reeves e Raphael Granpá falam sobre a HQ BRZRKR na CCXP22](https://marriedgames.com.br/noticias/keanu-reeves-e-raphael-granpa/)
-- [Clima de Copa: Saiba como FIFA 23 roda em algumas das GeForce mais usadas no país](https://marriedgames.com.br/noticias/geforce-mais-usadas/)
-- [Knights of Honor II: Sovereign mostra jogabilidade detalhada antes do lançamento](https://marriedgames.com.br/noticias/knights-of-honor-ii/)
-- [Doom Slayer e Geralt de Rívia chega ao Fortnite!](https://marriedgames.com.br/noticias/geralt-de-rivia-chega-ao-fortnite/)
-- [Senhor Barriga na CCXP22: Edgar Vivar se despede dos fãs](https://marriedgames.com.br/noticias/senhor-barriga-na-ccxp22/)
+- [Três times brasileiros estão nas Finais do PUBG MOBILE Global Championship](https://marriedgames.com.br/noticias/finais-do-pubg-mobile-global/)
+- [Restaure a Mente Bélica na Temporada dos Serafins de Destiny 2](https://marriedgames.com.br/noticias/temporada-dos-serafins/)
+- [Conheça os ganhadores do Brazil Game Awards 2022](https://marriedgames.com.br/noticias/ganhadores-do-brazil-game-awards-2/)
+- [Los Grandes anuncia a contratação de Stardust e HiRit e bootcamp na Coréia do Sul](https://marriedgames.com.br/noticias/los-grandes-anuncia-a-contratacao/)
+- [Gaming vs Apostas online: entenda as duas terminologias distintas](https://marriedgames.com.br/noticias/gaming-vs-apostas-online/)
 <!-- BLOG-POST-LIST:END -->
 
 
