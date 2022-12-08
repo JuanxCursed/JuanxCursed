@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Atualização de Battlefield 2042: Novo Mapa, Novas Armas e Melhorias para a Temporada 3](https://marriedgames.com.br/noticias/atualizacao-de-battlefield-2042-2/)
+- [Tecnologia de por trás de um desempenho de Call of Duty: Modern Warfare II](https://marriedgames.com.br/noticias/desempenho-de-call-of-duty/)
 - [Três times brasileiros estão nas Finais do PUBG MOBILE Global Championship](https://marriedgames.com.br/noticias/finais-do-pubg-mobile-global/)
 - [Restaure a Mente Bélica na Temporada dos Serafins de Destiny 2](https://marriedgames.com.br/noticias/temporada-dos-serafins/)
 - [Conheça os ganhadores do Brazil Game Awards 2022](https://marriedgames.com.br/noticias/ganhadores-do-brazil-game-awards-2/)
-- [Los Grandes anuncia a contratação de Stardust e HiRit e bootcamp na Coréia do Sul](https://marriedgames.com.br/noticias/los-grandes-anuncia-a-contratacao/)
-- [Gaming vs Apostas online: entenda as duas terminologias distintas](https://marriedgames.com.br/noticias/gaming-vs-apostas-online/)
 <!-- BLOG-POST-LIST:END -->
 
 
