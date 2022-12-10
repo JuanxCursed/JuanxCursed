@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Atualização de Battlefield 2042: Novo Mapa, Novas Armas e Melhorias para a Temporada 3](https://marriedgames.com.br/noticias/atualizacao-de-battlefield-2042-2/)
-- [Tecnologia de por trás de um desempenho de Call of Duty: Modern Warfare II](https://marriedgames.com.br/noticias/desempenho-de-call-of-duty/)
-- [Três times brasileiros estão nas Finais do PUBG MOBILE Global Championship](https://marriedgames.com.br/noticias/finais-do-pubg-mobile-global/)
-- [Restaure a Mente Bélica na Temporada dos Serafins de Destiny 2](https://marriedgames.com.br/noticias/temporada-dos-serafins/)
-- [Conheça os ganhadores do Brazil Game Awards 2022](https://marriedgames.com.br/noticias/ganhadores-do-brazil-game-awards-2/)
+- [Saiba o que assistir na programação de fim de ano no Sony Channel](https://marriedgames.com.br/noticias/fim-de-ano-no-sony/)
+- [W7M Esports é eleita como a organização do ano no prêmio “Rainbow Six Siege Awards”](https://marriedgames.com.br/noticias/rainbow-six-siege-awards/)
+- [Saiba tudo sobre a 1ª edição do AfroGames Favela Festival](https://marriedgames.com.br/noticias/afrogames-favela-festival/)
+- [Com 7 dicas de compras, Amazon Brasil ajuda clientes nas festas de Fim de Ano](https://marriedgames.com.br/noticias/festas-de-fim-de-ano/)
+- [Call of Duty: Mobile Temporada 11: Ultimate Frontier a partir de 14 de dezembro](https://marriedgames.com.br/noticias/ultimate-frontier/)
 <!-- BLOG-POST-LIST:END -->
 
 
