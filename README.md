@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Echo Show 15 com a experiência Fire TV já está disponível para os clientes Amazon](https://marriedgames.com.br/noticias/echo-show-15/)
+- [HyperX mostra por que o som surround 7.1 é uma arma secreta para jogadores arrojados](https://marriedgames.com.br/noticias/fone-hyperx/)
+- [Ascensão do Lich Rei, a nova expansão de Hearthstone, já está disponível!](https://marriedgames.com.br/noticias/ascensao-do-lich-rei-2/)
 - [Saiba o que assistir na programação de fim de ano no Sony Channel](https://marriedgames.com.br/noticias/fim-de-ano-no-sony/)
 - [W7M Esports é eleita como a organização do ano no prêmio “Rainbow Six Siege Awards”](https://marriedgames.com.br/noticias/rainbow-six-siege-awards/)
-- [Saiba tudo sobre a 1ª edição do AfroGames Favela Festival](https://marriedgames.com.br/noticias/afrogames-favela-festival/)
-- [Com 7 dicas de compras, Amazon Brasil ajuda clientes nas festas de Fim de Ano](https://marriedgames.com.br/noticias/festas-de-fim-de-ano/)
-- [Call of Duty: Mobile Temporada 11: Ultimate Frontier a partir de 14 de dezembro](https://marriedgames.com.br/noticias/ultimate-frontier/)
 <!-- BLOG-POST-LIST:END -->
 
 
