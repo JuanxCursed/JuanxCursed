@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Echo Show 15 com a experiência Fire TV já está disponível para os clientes Amazon](https://marriedgames.com.br/noticias/echo-show-15/)
-- [HyperX mostra por que o som surround 7.1 é uma arma secreta para jogadores arrojados](https://marriedgames.com.br/noticias/fone-hyperx/)
-- [Ascensão do Lich Rei, a nova expansão de Hearthstone, já está disponível!](https://marriedgames.com.br/noticias/ascensao-do-lich-rei-2/)
-- [Saiba o que assistir na programação de fim de ano no Sony Channel](https://marriedgames.com.br/noticias/fim-de-ano-no-sony/)
-- [W7M Esports é eleita como a organização do ano no prêmio “Rainbow Six Siege Awards”](https://marriedgames.com.br/noticias/rainbow-six-siege-awards/)
+- [Nova coleção de itens angelicais de Free Fire com inspiração no mundo da moda](https://marriedgames.com.br/noticias/nova-colecao-de-itens-angelicais-de-free-fire-com-inspiracao-no-mundo-da-moda/)
+- [Influence Chemin viaja para representar o Brasil no mundial de CoD Mobile](https://marriedgames.com.br/noticias/mundial-de-cod-mobile/)
+- [Passeie pela terra do Sol nascente na nova expansão Horizon Chase 2 Japão](https://marriedgames.com.br/noticias/horizon-chase-2-japao/)
+- [Epic Games recebe PUBG: BATTLEGROUNDS. Baixe e Jogue Grátis](https://marriedgames.com.br/noticias/epic-games-recebe-pubg/)
+- [Team Liquid lança websérie no Brasil sobre a história dos eSports](https://marriedgames.com.br/noticias/team-liquid-lanca-webserie/)
 <!-- BLOG-POST-LIST:END -->
 
 
