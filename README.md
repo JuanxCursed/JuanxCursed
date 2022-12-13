@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nova coleção de itens angelicais de Free Fire com inspiração no mundo da moda](https://marriedgames.com.br/noticias/nova-colecao-de-itens-angelicais-de-free-fire-com-inspiracao-no-mundo-da-moda/)
-- [Influence Chemin viaja para representar o Brasil no mundial de CoD Mobile](https://marriedgames.com.br/noticias/mundial-de-cod-mobile/)
-- [Passeie pela terra do Sol nascente na nova expansão Horizon Chase 2 Japão](https://marriedgames.com.br/noticias/horizon-chase-2-japao/)
-- [Epic Games recebe PUBG: BATTLEGROUNDS. Baixe e Jogue Grátis](https://marriedgames.com.br/noticias/epic-games-recebe-pubg/)
-- [Team Liquid lança websérie no Brasil sobre a história dos eSports](https://marriedgames.com.br/noticias/team-liquid-lanca-webserie/)
+- [Idris Elba se une a Cyberpunk 2077: Phantom Liberty em novo teaser trailer](https://marriedgames.com.br/noticias/phantom-liberty/)
+- [Diablo IV em Pré-Venda: A gente se vê no Inferno em 6 de junho de 2023](https://marriedgames.com.br/noticias/diablo-iv-em-pre-venda/)
+- [Company of Heroes 3 chega aos consoles em 2023](https://marriedgames.com.br/noticias/company-of-heroes-3-2/)
+- [Prepare-se para a segunda semana do 2022 Honor of Kings International Championship](https://marriedgames.com.br/noticias/honor-of-kings-international-2/)
+- [Adão Negro na HBO Max: Filme Estreia no Dia 16 de Dezembro no Streaming](https://marriedgames.com.br/noticias/adao-negro-na-hbo/)
 <!-- BLOG-POST-LIST:END -->
 
 
