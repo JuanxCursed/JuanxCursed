@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bandai Namco anuncia ARMORED CORE VI FIRES OF RUBICON para 2023](https://marriedgames.com.br/noticias/armored-core-vi/)
-- [Idris Elba se une a Cyberpunk 2077: Phantom Liberty em novo teaser trailer](https://marriedgames.com.br/noticias/phantom-liberty/)
-- [Diablo IV em Pré-Venda: A gente se vê no Inferno em 6 de junho de 2023](https://marriedgames.com.br/noticias/diablo-iv-em-pre-venda/)
-- [Company of Heroes 3 chega aos consoles em 2023](https://marriedgames.com.br/noticias/company-of-heroes-3-2/)
-- [Prepare-se para a segunda semana do 2022 Honor of Kings International Championship](https://marriedgames.com.br/noticias/honor-of-kings-international-2/)
+- [Minecraft Online: Como Jogar Com Seus Amigos em Multiplayer](https://marriedgames.com.br/dicas-guias/minecraft-online-multiplayer/)
+- [Presente de Natal Gamer: Melhores Promoções de Consoles](https://marriedgames.com.br/noticias/presente-de-natal-gamer-2022/)
+- [Sonic Prime da Netflix estreia mundialmente no dia 15 de dezembro](https://marriedgames.com.br/noticias/sonic-prime-da-netflix/)
+- [Promoção de Natal NVIDIA anuncia placas de vídeo e desktops com preços especiais](https://marriedgames.com.br/noticias/promocao-de-natal-nvidia/)
+- [Como personalizar as configurações do PUBG MOBILE, com o streamer Sem1](https://marriedgames.com.br/noticias/configuracoes-do-pubg/)
 <!-- BLOG-POST-LIST:END -->
 
 
