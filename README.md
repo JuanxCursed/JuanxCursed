@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Minecraft Online: Como Jogar Com Seus Amigos em Multiplayer](https://marriedgames.com.br/dicas-guias/minecraft-online-multiplayer/)
-- [Presente de Natal Gamer: Melhores Promoções de Consoles](https://marriedgames.com.br/noticias/presente-de-natal-gamer-2022/)
-- [Sonic Prime da Netflix estreia mundialmente no dia 15 de dezembro](https://marriedgames.com.br/noticias/sonic-prime-da-netflix/)
-- [Promoção de Natal NVIDIA anuncia placas de vídeo e desktops com preços especiais](https://marriedgames.com.br/noticias/promocao-de-natal-nvidia/)
-- [Como personalizar as configurações do PUBG MOBILE, com o streamer Sem1](https://marriedgames.com.br/noticias/configuracoes-do-pubg/)
+- [Tower of Fantasy anuncia atualização 2.2 Sombraluna Miraflores](https://marriedgames.com.br/noticias/tower-of-fantasy-anuncia-atualizacao-2-2-sombraluna-miraflores/)
+- [PUBG conquista prêmio de Jogo Mobile do Ano no Esports Awards 2022](https://marriedgames.com.br/noticias/pubg-conquista-premio/)
+- [Santander e LBFF: Banco renova patrocínio com a Liga Brasileira de Free Fire para 2023](https://marriedgames.com.br/noticias/santander-e-lbff/)
+- [BIG Festival 2023 abre inscrições para jogos independentes e sugestões de palestras e artistas](https://marriedgames.com.br/noticias/big-festival-2023-2/)
+- [Techland e Olivier Deriviere apresentam Dying Light 2 Stay Human – Por trás da música](https://marriedgames.com.br/noticias/stay-human-por-tras-da-musica/)
 <!-- BLOG-POST-LIST:END -->
 
 
