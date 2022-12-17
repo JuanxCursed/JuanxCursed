@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tower of Fantasy anuncia atualização 2.2 Sombraluna Miraflores](https://marriedgames.com.br/noticias/tower-of-fantasy-anuncia-atualizacao-2-2-sombraluna-miraflores/)
-- [PUBG conquista prêmio de Jogo Mobile do Ano no Esports Awards 2022](https://marriedgames.com.br/noticias/pubg-conquista-premio/)
-- [Santander e LBFF: Banco renova patrocínio com a Liga Brasileira de Free Fire para 2023](https://marriedgames.com.br/noticias/santander-e-lbff/)
-- [BIG Festival 2023 abre inscrições para jogos independentes e sugestões de palestras e artistas](https://marriedgames.com.br/noticias/big-festival-2023-2/)
-- [Techland e Olivier Deriviere apresentam Dying Light 2 Stay Human – Por trás da música](https://marriedgames.com.br/noticias/stay-human-por-tras-da-musica/)
+- [Os Melhores Smartphone para Comprar Agora](https://marriedgames.com.br/noticias/melhores-smartphone/)
+- [Samsung e Strava: ganhe desconto nos Watch5, Watch5 Pro e Buds2 Pro no Desafio Galaxy Watch](https://marriedgames.com.br/noticias/samsung-e-strava/)
+- [Techland e mod.io anunciam parceria para criação de mapas em Dying Light 2 no PC](https://marriedgames.com.br/noticias/mapas-em-dying-light-2/)
+- [Compre uma placa de vídeo GeForce RTX série 30 e ganhe Marvel’s Midnight Suns](https://marriedgames.com.br/noticias/compre-uma-placa-de-video-geforce-rtx-serie-30-e-ganhe-marvels-midnight-suns/)
+- [Hype e Ubisoft: Jogos de PC da Ubisoft com até 80% de desconto](https://marriedgames.com.br/noticias/hype-e-ubisoft-jogos-de-pc-da-ubisoft-com-ate-80-de-desconto/)
 <!-- BLOG-POST-LIST:END -->
 
 
