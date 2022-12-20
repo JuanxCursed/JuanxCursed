@@ -142,7 +142,7 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Os Melhores Smartphone para Comprar Agora](https://marriedgames.com.br/noticias/melhores-smartphone/)
+- [Os Melhores Smartphone para Comprar Agora](https://marriedgames.com.br/dicas-guias/melhores-smartphone/)
 - [Samsung e Strava: ganhe desconto nos Watch5, Watch5 Pro e Buds2 Pro no Desafio Galaxy Watch](https://marriedgames.com.br/noticias/samsung-e-strava/)
 - [Techland e mod.io anunciam parceria para criação de mapas em Dying Light 2 no PC](https://marriedgames.com.br/noticias/mapas-em-dying-light-2/)
 - [Compre uma placa de vídeo GeForce RTX série 30 e ganhe Marvel’s Midnight Suns](https://marriedgames.com.br/noticias/compre-uma-placa-de-video-geforce-rtx-serie-30-e-ganhe-marvels-midnight-suns/)
