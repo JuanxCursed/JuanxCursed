@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Unboxing: Lian-li Kit 3 fans UniFan 360 3x120mm UF-SL120-3W](https://www.youtube.com/watch?v=8rlFlav4dLQ)
 - [Como limpar &lpar;LAVAR&rpar; sue teclado mecânico de forma SEGURA [Passo a Passo COMPLETO]](https://www.youtube.com/watch?v=vDNv6aN-k0s)
 - [Ismael Cruz falando em Português](https://www.youtube.com/watch?v=fKaPW-XVSx4)
 - [O Último Aluguel do Sr. Barriga](https://www.youtube.com/watch?v=3W_qOtYK5eU)
 - [Entrando na Caverna do Dragão](https://www.youtube.com/watch?v=UXomA4B0d1o)
-- [Quais novidades o WOW Dragonflight vai trazer hein?](https://www.youtube.com/watch?v=VV7lDD-uzto)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
