@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Melhores Smartphone Custo-Benefício para Comprar [Guia Completo]](https://marriedgames.com.br/dicas-guias/melhores-smartphone/)
-- [Samsung e Strava: ganhe desconto nos Watch5, Watch5 Pro e Buds2 Pro no Desafio Galaxy Watch](https://marriedgames.com.br/noticias/samsung-e-strava/)
-- [Techland e mod.io anunciam parceria para criação de mapas em Dying Light 2 no PC](https://marriedgames.com.br/noticias/mapas-em-dying-light-2/)
-- [Compre uma placa de vídeo GeForce RTX série 30 e ganhe Marvel’s Midnight Suns](https://marriedgames.com.br/noticias/compre-uma-placa-de-video-geforce-rtx-serie-30-e-ganhe-marvels-midnight-suns/)
-- [Hype e Ubisoft: Jogos de PC da Ubisoft com até 80% de desconto](https://marriedgames.com.br/noticias/hype-e-ubisoft-jogos-de-pc-da-ubisoft-com-ate-80-de-desconto/)
+- [PUBG MOBILE: Federal vence na categoria de Melhor Jogador Mobile no PeB 2022](https://marriedgames.com.br/noticias/melhor-jogador-mobile/)
+- [AbleGamers é homenageada no Prêmio eSports Brasil pelo ano incrível de 2022](https://marriedgames.com.br/noticias/premio-esports-brasil/)
+- [Bandai Namco anuncia animação de Sand Land](https://marriedgames.com.br/noticias/animacao-de-sand-land/)
+- [PUBG anuncia Beat Drop, primeiro selo musical do game](https://marriedgames.com.br/noticias/pubg-anuncia-beat-drop/)
+- [A Copa Mundial de Overwatch volta em 2023](https://marriedgames.com.br/noticias/copa-mundial-de-overwatch/)
 <!-- BLOG-POST-LIST:END -->
 
 
