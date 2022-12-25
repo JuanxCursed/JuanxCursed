@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SEGA divulga terceiro episódio de Sonic Frontiers Speed Strats](https://marriedgames.com.br/noticias/sonic-frontiers-speed-strats/)
+- [Ragnarök Online Ilusion: Lançada a nova atualização versão 17.1](https://marriedgames.com.br/noticias/ragnarok-online-ilusion/)
 - [Free Fire Passe de Elite: Garena da presente de natal aos fãs](https://marriedgames.com.br/noticias/free-fire-passe-de-elite/)
 - [Children of Morta ‘Paws and Claws’ Charity DLC atinge enorme marco de US $ 300.000](https://marriedgames.com.br/noticias/paws-and-claws/)
 - [PUBG MOBILE: Federal vence na categoria de Melhor Jogador Mobile no PeB 2022](https://marriedgames.com.br/noticias/melhor-jogador-mobile/)
-- [AbleGamers é homenageada no Prêmio eSports Brasil pelo ano incrível de 2022](https://marriedgames.com.br/noticias/premio-esports-brasil/)
-- [Bandai Namco anuncia animação de Sand Land](https://marriedgames.com.br/noticias/animacao-de-sand-land/)
 <!-- BLOG-POST-LIST:END -->
 
 
