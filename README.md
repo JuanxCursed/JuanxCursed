@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hype de Natal: loja online realiza promoções em preparação para as festividades](https://marriedgames.com.br/noticias/hype-de-natal/)
+- [Dying Light 2 Stay Human recebe o evento natalino Winter Tales](https://marriedgames.com.br/noticias/winter-tales/)
+- [Sonic Frontiers: ‘Holiday Cheer Suit DLC’ já disponível](https://marriedgames.com.br/noticias/holiday-cheer-suit-dlc/)
+- [Planejamento de World of Warcraft para 2023 anunciado!](https://marriedgames.com.br/noticias/planejamento-de-world-of-warcraft-para-2023-anunciado/)
 - [SEGA divulga terceiro episódio de Sonic Frontiers Speed Strats](https://marriedgames.com.br/noticias/sonic-frontiers-speed-strats/)
-- [Ragnarök Online Ilusion: Lançada a nova atualização versão 17.1](https://marriedgames.com.br/noticias/ragnarok-online-ilusion/)
-- [Free Fire Passe de Elite: Garena da presente de natal aos fãs](https://marriedgames.com.br/noticias/free-fire-passe-de-elite/)
-- [Children of Morta ‘Paws and Claws’ Charity DLC atinge enorme marco de US $ 300.000](https://marriedgames.com.br/noticias/paws-and-claws/)
-- [PUBG MOBILE: Federal vence na categoria de Melhor Jogador Mobile no PeB 2022](https://marriedgames.com.br/noticias/melhor-jogador-mobile/)
 <!-- BLOG-POST-LIST:END -->
 
 
