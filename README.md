@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Melhores Promoções de Consoles de 2023 para Você Aproveitar Hoje](https://marriedgames.com.br/dicas-guias/promocoes-de-consoles/)
 - [Hype de Natal: loja online realiza promoções em preparação para as festividades](https://marriedgames.com.br/noticias/hype-de-natal/)
 - [Dying Light 2 Stay Human recebe o evento natalino Winter Tales](https://marriedgames.com.br/noticias/winter-tales/)
 - [Sonic Frontiers: ‘Holiday Cheer Suit DLC’ já disponível](https://marriedgames.com.br/noticias/holiday-cheer-suit-dlc/)
 - [Planejamento de World of Warcraft para 2023 anunciado!](https://marriedgames.com.br/noticias/planejamento-de-world-of-warcraft-para-2023-anunciado/)
-- [SEGA divulga terceiro episódio de Sonic Frontiers Speed Strats](https://marriedgames.com.br/noticias/sonic-frontiers-speed-strats/)
 <!-- BLOG-POST-LIST:END -->
 
 
