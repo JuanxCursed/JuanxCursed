@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Melhores Smartphone Custo-Benefício para Comprar [Guia Completo]](https://marriedgames.com.br/dicas-guias/melhores-smartphone/)
+- [15 Dicas de SEO no LinkedIn para seu Perfil ser Encontrado](https://marriedgames.com.br/dicas-guias/seo-no-linkedin/)
+- [Apostas em eSports: Como Ganhar Dinheiro com seus Jogos Preferidos](https://marriedgames.com.br/dicas-guias/apostas-em-esports/)
+- [Novo Zumbi será apresentado na série de The Last of Us](https://marriedgames.com.br/noticias/erie-de-the-last-of-us/)
 - [LBFF 2023: Liga Brasileira de Free Fire define data para iniciar temporada](https://marriedgames.com.br/noticias/lbff-2023/)
-- [Fãs pedem para Sony não dar o papel de Kratos para Tom Holland em adaptação de God of War](https://marriedgames.com.br/noticias/adaptacao-de-god-of-war/)
-- [Melhores Promoções de Consoles de 2023 para Você Aproveitar Hoje](https://marriedgames.com.br/dicas-guias/promocoes-de-consoles/)
-- [Hype de Natal: loja online realiza promoções em preparação para as festividades](https://marriedgames.com.br/noticias/hype-de-natal/)
-- [Dying Light 2 Stay Human recebe o evento natalino Winter Tales](https://marriedgames.com.br/noticias/winter-tales/)
 <!-- BLOG-POST-LIST:END -->
 
 
