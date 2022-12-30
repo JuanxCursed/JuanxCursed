@@ -142,7 +142,7 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Melhores Smartphone Custo-Benefício para Comprar [Guia Completo]](https://marriedgames.com.br/dicas-guias/melhores-smartphone/)
+- [Melhores Smartphones Custo-Benefício para Comprar [Guia Completo]](https://marriedgames.com.br/dicas-guias/melhores-smartphone/)
 - [15 Dicas de SEO no LinkedIn para seu Perfil ser Encontrado](https://marriedgames.com.br/dicas-guias/seo-no-linkedin/)
 - [Apostas em eSports: Como Ganhar Dinheiro com seus Jogos Preferidos](https://marriedgames.com.br/dicas-guias/apostas-em-esports/)
 - [Novo Zumbi será apresentado na série de The Last of Us](https://marriedgames.com.br/noticias/erie-de-the-last-of-us/)
