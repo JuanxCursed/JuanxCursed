@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Pegue meu dinheiro](https://www.youtube.com/watch?v=ynh0VLOm2aw)
 - [[Guia completo] Verbos ou Metodos HTTP [POST, GET, PUT, DELETE] &lpar;para qualquer linguagem&rpar;](https://www.youtube.com/watch?v=2azRpx2Y1wc)
 - [Unboxing: Lian-li Kit 3 fans UniFan 360 3x120mm UF-SL120-3W](https://www.youtube.com/watch?v=8rlFlav4dLQ)
 - [Como limpar &lpar;LAVAR&rpar; sue teclado mecânico de forma SEGURA [Passo a Passo COMPLETO]](https://www.youtube.com/watch?v=vDNv6aN-k0s)
 - [Ismael Cruz falando em Português](https://www.youtube.com/watch?v=fKaPW-XVSx4)
-- [O Último Aluguel do Sr. Barriga](https://www.youtube.com/watch?v=3W_qOtYK5eU)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
