@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anime Pokémon: Da Primeira Captura ao Adeus de Ash](https://marriedgames.com.br/analises/anime-pokemon/)
+- [SEO Google Discover: O que é preciso para classificar no Google Discover?](https://marriedgames.com.br/dicas-guias/seo-google-discover/)
+- [100 Desenhos do Scooby Doo para Colorir. Baixe e Imprima Grátis](https://marriedgames.com.br/dicas-guias/scooby-doo-para-colorir/)
 - [Melhores Smartphones Custo-Benefício para Comprar [Guia Completo]](https://marriedgames.com.br/dicas-guias/melhores-smartphone/)
 - [15 Dicas de SEO no LinkedIn para seu Perfil ser Encontrado](https://marriedgames.com.br/dicas-guias/seo-no-linkedin/)
-- [Apostas em eSports: Como Ganhar Dinheiro com seus Jogos Preferidos](https://marriedgames.com.br/dicas-guias/apostas-em-esports/)
-- [Novo Zumbi será apresentado na série de The Last of Us](https://marriedgames.com.br/noticias/erie-de-the-last-of-us/)
-- [LBFF 2023: Liga Brasileira de Free Fire define data para iniciar temporada](https://marriedgames.com.br/noticias/lbff-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 
