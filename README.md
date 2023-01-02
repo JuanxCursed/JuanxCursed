@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saiba como Jogar Genshin Impact no GeForce Now](https://marriedgames.com.br/filmes-series/genshin-impact-geforce-now/)
 - [Anime Pokémon: Da Primeira Captura ao Adeus de Ash](https://marriedgames.com.br/analises/anime-pokemon/)
 - [SEO Google Discover: O que é preciso para classificar no Google Discover?](https://marriedgames.com.br/dicas-guias/seo-google-discover/)
 - [100 Desenhos do Scooby Doo para Colorir. Baixe e Imprima Grátis](https://marriedgames.com.br/dicas-guias/scooby-doo-para-colorir/)
 - [Melhores Smartphones Custo-Benefício para Comprar [Guia Completo]](https://marriedgames.com.br/dicas-guias/melhores-smartphone/)
-- [15 Dicas de SEO no LinkedIn para seu Perfil ser Encontrado](https://marriedgames.com.br/dicas-guias/seo-no-linkedin/)
 <!-- BLOG-POST-LIST:END -->
 
 
