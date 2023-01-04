@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel na CES: Empresa apresentará processador móvel mais rápido do mundo](https://marriedgames.com.br/noticias/intel-na-ces/)
+- [SEO Facebook 2023: Como Otimizar as Páginas para Maximizar o Alcance](https://marriedgames.com.br/dicas-guias/seo-facebook/)
+- [Melhores Desenhos Animados Infantis para Assistir no Streaming](https://marriedgames.com.br/dicas-guias/desenhos-animados-infantis/)
+- [SEO TikTok: Como Rankear seus Vídeos acima dos Concorrentes](https://marriedgames.com.br/dicas-guias/seo-tiktok/)
 - [Novo Jogo de God of War pode estar em Produção Segundo Lista de Vagas](https://marriedgames.com.br/noticias/novo-jogo-de-god-of-war/)
-- [100 mais Lindos Desenhos da Disney para Colorir [Princesas, Pixar e Mais]](https://marriedgames.com.br/dicas-guias/desenhos-da-disney-para-colorir/)
-- [Saiba como Jogar Genshin Impact no GeForce Now](https://marriedgames.com.br/filmes-series/genshin-impact-geforce-now/)
-- [Anime Pokémon: Da Primeira Captura ao Adeus de Ash](https://marriedgames.com.br/analises/anime-pokemon/)
-- [SEO Google Discover: O que é preciso para classificar no Google Discover?](https://marriedgames.com.br/dicas-guias/seo-google-discover/)
 <!-- BLOG-POST-LIST:END -->
 
 
