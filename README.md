@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Intel na CES: Empresa apresentará processador móvel mais rápido do mundo](https://marriedgames.com.br/noticias/intel-na-ces/)
-- [SEO Facebook 2023: Como Otimizar as Páginas para Maximizar o Alcance](https://marriedgames.com.br/dicas-guias/seo-facebook/)
-- [Melhores Desenhos Animados Infantis para Assistir no Streaming](https://marriedgames.com.br/dicas-guias/desenhos-animados-infantis/)
-- [SEO TikTok: Como Rankear seus Vídeos acima dos Concorrentes](https://marriedgames.com.br/dicas-guias/seo-tiktok/)
-- [Novo Jogo de God of War pode estar em Produção Segundo Lista de Vagas](https://marriedgames.com.br/noticias/novo-jogo-de-god-of-war/)
+- [LG na CES 2023: Compromisso com a inovação e oferecer uma vida melhor para todos contínua](https://marriedgames.com.br/noticias/lg-na-ces-2023/)
+- [NVIDIA na CES 2023: Anunciada nova placas e muito mais durante apresentação](https://marriedgames.com.br/noticias/nvidia-na-ces-2023/)
+- [Bruce Lee em PUBG: O mestre de artes marciais chega ao game mobile](https://marriedgames.com.br/noticias/bruce-lee-em-pubg/)
+- [NVIDIA GeForce NOW permite Streaming da biblioteca de games AAA em veículos](https://marriedgames.com.br/noticias/geforce-now-permite-streaming/)
+- [Black Desert Mobile celebra 3º aniversário com novos desafios e Cavalo Etéreo](https://marriedgames.com.br/noticias/black-desert-mobile-celebra/)
 <!-- BLOG-POST-LIST:END -->
 
 
