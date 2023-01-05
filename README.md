@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Unity no Visual Studio Code:  Configurando o intellisense [Auto-complete]](https://www.youtube.com/watch?v=iQOKdN0E_H0)
 - [Aquele momento que está no meio da ranked, e o pc trava](https://www.youtube.com/watch?v=QfMoXtdHmR0)
 - [Pegue meu dinheiro](https://www.youtube.com/watch?v=ynh0VLOm2aw)
 - [[Guia completo] Verbos ou Metodos HTTP [POST, GET, PUT, DELETE] &lpar;para qualquer linguagem&rpar;](https://www.youtube.com/watch?v=2azRpx2Y1wc)
 - [Unboxing: Lian-li Kit 3 fans UniFan 360 3x120mm UF-SL120-3W](https://www.youtube.com/watch?v=8rlFlav4dLQ)
-- [Como limpar &lpar;LAVAR&rpar; sue teclado mecânico de forma SEGURA [Passo a Passo COMPLETO]](https://www.youtube.com/watch?v=vDNv6aN-k0s)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
