@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como criar uma conta no Github [Passo a passo]     2023](https://marriedgames.com.br/dicas-guias/como-criar-uma-conta-no-github/)
+- [HyperX na CES 2023 apresenta seu controle para Xbox, uma nova geração de mouses Pulsefire](https://marriedgames.com.br/noticias/hyperx-na-ces-2023/)
+- [Guia Definitivo de Electro Genshin Impact – Personagens, Times e Reações](https://marriedgames.com.br/dicas-guias/electro-genshin-impact/)
+- [Guia Definitivo do Elemento Anemo em Genshin Impact](https://marriedgames.com.br/dicas-guias/anemo-genshin-impact/)
 - [LG na CES 2023: Compromisso com a inovação e oferecer uma vida melhor para todos contínua](https://marriedgames.com.br/noticias/lg-na-ces-2023/)
-- [NVIDIA na CES 2023: Anunciada nova placas e muito mais durante apresentação](https://marriedgames.com.br/noticias/nvidia-na-ces-2023/)
-- [Bruce Lee em PUBG: O mestre de artes marciais chega ao game mobile](https://marriedgames.com.br/noticias/bruce-lee-em-pubg/)
-- [NVIDIA GeForce NOW permite Streaming da biblioteca de games AAA em veículos](https://marriedgames.com.br/noticias/geforce-now-permite-streaming/)
-- [Black Desert Mobile celebra 3º aniversário com novos desafios e Cavalo Etéreo](https://marriedgames.com.br/noticias/black-desert-mobile-celebra/)
 <!-- BLOG-POST-LIST:END -->
 
 
