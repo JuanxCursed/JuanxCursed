@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Widowmaker Medusa: Fãs em Overwatch 2 chamam nova skin de “pay to lose”](https://marriedgames.com.br/noticias/widowmaker-medusa/)
 - [Como criar uma conta no Github [Passo a passo]     2023](https://marriedgames.com.br/dicas-guias/como-criar-uma-conta-no-github/)
 - [HyperX na CES 2023 apresenta seu controle para Xbox, uma nova geração de mouses Pulsefire](https://marriedgames.com.br/noticias/hyperx-na-ces-2023/)
 - [Guia Definitivo de Electro Genshin Impact – Personagens, Times e Reações](https://marriedgames.com.br/dicas-guias/electro-genshin-impact/)
 - [Guia Definitivo do Elemento Anemo em Genshin Impact](https://marriedgames.com.br/dicas-guias/anemo-genshin-impact/)
-- [LG na CES 2023: Compromisso com a inovação e oferecer uma vida melhor para todos contínua](https://marriedgames.com.br/noticias/lg-na-ces-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 
