@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LoL 2023: Boas-vindas à nova temporada de League of Legends](https://marriedgames.com.br/noticias/lol-2023/)
+- [Geo em Genshin Impact: Guia Definitivo do Elemento com Personagens, Ressonância e Mais](https://marriedgames.com.br/dicas-guias/geo-em-genshin-impact/)
+- [SEO no Instagram: 6 Dicas para Aumentar sua Visibilidade em 2023](https://marriedgames.com.br/dicas-guias/seo-no-instagram/)
 - [Os Melhores Lançamentos para PlayStation em 2023](https://marriedgames.com.br/noticias/playstation-em-2023/)
 - [Fim do Google Stadia: Serviço Encerra Atividades em 18 de Janeiro](https://marriedgames.com.br/noticias/fim-do-google-stadia/)
-- [Evento Tilintar Requintado da Noite Genshin Impact chega em 18 de janeiro](https://marriedgames.com.br/noticias/tilintar-requintado-da-noite/)
-- [Widowmaker Medusa: Fãs em Overwatch 2 chamam nova skin de “pay to lose”](https://marriedgames.com.br/noticias/widowmaker-medusa/)
-- [Como criar uma conta no Github [Passo a passo]     2023](https://marriedgames.com.br/dicas-guias/como-criar-uma-conta-no-github/)
 <!-- BLOG-POST-LIST:END -->
 
 
