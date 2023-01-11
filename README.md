@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LoL 2023: Boas-vindas à nova temporada de League of Legends](https://marriedgames.com.br/noticias/lol-2023/)
-- [Geo em Genshin Impact: Guia Definitivo do Elemento com Personagens, Ressonância e Mais](https://marriedgames.com.br/dicas-guias/geo-em-genshin-impact/)
-- [SEO no Instagram: 6 Dicas para Aumentar sua Visibilidade em 2023](https://marriedgames.com.br/dicas-guias/seo-no-instagram/)
-- [Os Melhores Lançamentos para PlayStation em 2023](https://marriedgames.com.br/noticias/playstation-em-2023/)
-- [Fim do Google Stadia: Serviço Encerra Atividades em 18 de Janeiro](https://marriedgames.com.br/noticias/fim-do-google-stadia/)
+- [Novo trailer de jogabilidade de SpongeBob SquarePants: The Cosmic Shake!](https://marriedgames.com.br/noticias/the-cosmic-shake/)
+- [Tales of Symphonia Remastered recebe trailer com gameplay](https://marriedgames.com.br/noticias/tales-of-symphonia-remastered/)
+- [PUBG MOBILE apresenta festival de com Bruce Lee, modo renovado e novas armas](https://marriedgames.com.br/noticias/pubg-mobile-apresenta-festival/)
+- [Razer na CES 2023: Empresa expande os limites da inovação com grandes anúncios](https://marriedgames.com.br/noticias/razer-na-ces-2023/)
+- [Alpha 7 finaliza a PUBG MOBILE Global Championship 2022 em 3º lugar](https://marriedgames.com.br/noticias/alpha-7-finaliza-a-pubg/)
 <!-- BLOG-POST-LIST:END -->
 
 
