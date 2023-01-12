@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guia Definitivo do Elemento Dendro em Genshin Impact](https://marriedgames.com.br/dicas-guias/dendro-em-genshin-impact/)
+- [Guia de Elementos: Domine o Gelo usando Cryo em Genshin Impact](https://marriedgames.com.br/dicas-guias/cryo-em-genshin-impact/)
+- [SEO ou Marketing de Conteúdo: Qual a Diferença e Qual Usar?](https://marriedgames.com.br/dicas-guias/seo-ou-marketing-de-conteudo/)
+- [Novas Regras do Youtube está Desmonetizando Vídeos Retroativamente](https://marriedgames.com.br/noticias/novas-regras-do-youtube/)
 - [Novo trailer de jogabilidade de SpongeBob SquarePants: The Cosmic Shake!](https://marriedgames.com.br/noticias/the-cosmic-shake/)
-- [Tales of Symphonia Remastered recebe trailer com gameplay](https://marriedgames.com.br/noticias/tales-of-symphonia-remastered/)
-- [PUBG MOBILE apresenta festival de com Bruce Lee, modo renovado e novas armas](https://marriedgames.com.br/noticias/pubg-mobile-apresenta-festival/)
-- [Razer na CES 2023: Empresa expande os limites da inovação com grandes anúncios](https://marriedgames.com.br/noticias/razer-na-ces-2023/)
-- [Alpha 7 finaliza a PUBG MOBILE Global Championship 2022 em 3º lugar](https://marriedgames.com.br/noticias/alpha-7-finaliza-a-pubg/)
 <!-- BLOG-POST-LIST:END -->
 
 
