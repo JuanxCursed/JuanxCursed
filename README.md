@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SEO White Hat vs Black Hat: Qual a Diferença e Qual Usar no seu Site](https://marriedgames.com.br/dicas-guias/black-hat-ou-white-hat/)
+- [SERP: Tudo Sobre Páginas de Resultados de Pesquisa](https://marriedgames.com.br/dicas-guias/serp/)
 - [Guia Definitivo do Elemento Dendro em Genshin Impact](https://marriedgames.com.br/dicas-guias/dendro-em-genshin-impact/)
 - [Guia de Elementos: Domine o Gelo usando Cryo em Genshin Impact](https://marriedgames.com.br/dicas-guias/cryo-em-genshin-impact/)
 - [SEO ou Marketing de Conteúdo: Qual a Diferença e Qual Usar?](https://marriedgames.com.br/dicas-guias/seo-ou-marketing-de-conteudo/)
-- [Novas Regras do Youtube está Desmonetizando Vídeos Retroativamente](https://marriedgames.com.br/noticias/novas-regras-do-youtube/)
-- [Novo trailer de jogabilidade de SpongeBob SquarePants: The Cosmic Shake!](https://marriedgames.com.br/noticias/the-cosmic-shake/)
 <!-- BLOG-POST-LIST:END -->
 
 
