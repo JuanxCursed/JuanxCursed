@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mobile Legends: Bang Bang | Roadmap 2023 da MOONTON Games é revelado no M Summit](https://marriedgames.com.br/noticias/mobile-legends/)
+- [Assassins Creed Mirage será Menor e Mais Íntimo a pedido dos fãs](https://marriedgames.com.br/noticias/assassins-creed-mirage-sera-menor/)
 - [O que é AMP: Completo 2023](https://marriedgames.com.br/dicas-guias/o-que-e-amp/)
 - [Tráfego Pago x Orgânico: Um Guia para Entender e Começar a Usar](https://marriedgames.com.br/dicas-guias/trafego-pago/)
 - [Mageseeker: Spin-off de League of Legends será focada em Sylas](https://marriedgames.com.br/noticias/mageseeker/)
-- [Volta as aulas com produtos gamer para facilitar sua vida em 2023](https://marriedgames.com.br/dicas-guias/volta-as-aulas-produtos-gamer/)
-- [Como criar um repositório no GitHub passo a passo [completo 2023]](https://marriedgames.com.br/dicas-guias/como-criar-um-repositorio-github/)
 <!-- BLOG-POST-LIST:END -->
 
 
