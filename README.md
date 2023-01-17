@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jogadores de Lost Ark reclamam após serem banidos por inatividade](https://marriedgames.com.br/noticias/jogadores-de-lost-ark/)
-- [Mobile Legends: Bang Bang | Roadmap 2023 da MOONTON Games é revelado no M Summit](https://marriedgames.com.br/noticias/mobile-legends/)
-- [Assassins Creed Mirage será Menor e Mais Íntimo a pedido dos fãs](https://marriedgames.com.br/noticias/assassins-creed-mirage-sera-menor/)
-- [O que é AMP: Completo 2023](https://marriedgames.com.br/dicas-guias/o-que-e-amp/)
-- [Tráfego Pago x Orgânico: Um Guia para Entender e Começar a Usar](https://marriedgames.com.br/dicas-guias/trafego-pago/)
+- [Esports nas Olímpiadas de Cingapura em 2023?](https://marriedgames.com.br/noticias/esports-nas-olimpiadas/)
+- [Los Grandes anuncia Redragon como nova patrocinadora da organização](https://marriedgames.com.br/noticias/redragon-como-nova-patrocinadora/)
+- [Genshin Impact Pyro: Guia Definitivo Para Dominar o Fogo](https://marriedgames.com.br/dicas-guias/genshin-impact-pyro/)
+- [Novas Classes de Black Desert reúne irmãs Wu-Sa e Me-Gu em nova atualização](https://marriedgames.com.br/noticias/novas-classes-de-black-desert/)
+- [O que são Motores de Busca e como Eles Funcionam?](https://marriedgames.com.br/dicas-guias/motores-de-busca/)
 <!-- BLOG-POST-LIST:END -->
 
 
