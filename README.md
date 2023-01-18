@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Desbrave Netuno no Novo Trailer de Destiny 2 Queda da Luz](https://marriedgames.com.br/noticias/novo-trailer-de-destiny-2/)
+- [O mal nunca dorme com Remnant From the Ashes no Switch da Nintendo!](https://marriedgames.com.br/noticias/remnant-from-the-ashes-no-switch/)
 - [Esports nas Olímpiadas de Cingapura em 2023?](https://marriedgames.com.br/noticias/esports-nas-olimpiadas/)
 - [Los Grandes anuncia Redragon como nova patrocinadora da organização](https://marriedgames.com.br/noticias/redragon-como-nova-patrocinadora/)
 - [Genshin Impact Pyro: Guia Definitivo Para Dominar o Fogo](https://marriedgames.com.br/dicas-guias/genshin-impact-pyro/)
-- [Novas Classes de Black Desert reúne irmãs Wu-Sa e Me-Gu em nova atualização](https://marriedgames.com.br/noticias/novas-classes-de-black-desert/)
-- [O que são Motores de Busca e como Eles Funcionam?](https://marriedgames.com.br/dicas-guias/motores-de-busca/)
 <!-- BLOG-POST-LIST:END -->
 
 
