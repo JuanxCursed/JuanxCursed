@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Depois da minnha mãe me chamar na 3vez, e eu continuar jogando](https://www.youtube.com/watch?v=lpS7rABnTZ0)
+- [Minha Mãe me chamando pela 3 vez, e eu continuar jogando](https://www.youtube.com/watch?v=QFOIDgfRbGQ)
 - [Unity no Visual Studio Code:  Configurando o intellisense [Auto-complete]](https://www.youtube.com/watch?v=iQOKdN0E_H0)
 - [Aquele momento que está no meio da ranked, e o pc trava](https://www.youtube.com/watch?v=QfMoXtdHmR0)
 - [Pegue meu dinheiro](https://www.youtube.com/watch?v=ynh0VLOm2aw)
-- [[Guia completo] Verbos ou Metodos HTTP [POST, GET, PUT, DELETE] &lpar;para qualquer linguagem&rpar;](https://www.youtube.com/watch?v=2azRpx2Y1wc)
-- [Unboxing: Lian-li Kit 3 fans UniFan 360 3x120mm UF-SL120-3W](https://www.youtube.com/watch?v=8rlFlav4dLQ)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
