@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Desbrave Netuno no Novo Trailer de Destiny 2 Queda da Luz](https://marriedgames.com.br/noticias/novo-trailer-de-destiny-2/)
-- [O mal nunca dorme com Remnant From the Ashes no Switch da Nintendo!](https://marriedgames.com.br/noticias/remnant-from-the-ashes-no-switch/)
-- [Esports nas Olímpiadas de Cingapura em 2023?](https://marriedgames.com.br/noticias/esports-nas-olimpiadas/)
-- [Los Grandes anuncia Redragon como nova patrocinadora da organização](https://marriedgames.com.br/noticias/redragon-como-nova-patrocinadora/)
-- [Genshin Impact Pyro: Guia Definitivo Para Dominar o Fogo](https://marriedgames.com.br/dicas-guias/genshin-impact-pyro/)
+- [Predator Triton 500 SE: Mais Poderoso que seu Antecessor? Descubra](https://marriedgames.com.br/analises/predator-triton-500-se/)
+- [Huawei Brasil é reconhecida com o selo Top Employer 2023](https://marriedgames.com.br/noticias/selo-top-employer-2023/)
+- [Ano Novo Lunar traz novas marés ao World of Warships](https://marriedgames.com.br/noticias/ano-novo-lunar/)
+- [PUBG MOBILE foi o battle royale mais assistido em todo o mundo em 2022](https://marriedgames.com.br/noticias/battle-royale-mais-assistido/)
+- [Dendro Hypostasis: Como Derrotar o Novo Boss Mundial em Genshin Impact](https://marriedgames.com.br/dicas-guias/dendro-hypostasis/)
 <!-- BLOG-POST-LIST:END -->
 
 
