@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Predator Triton 500 SE: Mais Poderoso que seu Antecessor? Descubra](https://marriedgames.com.br/analises/predator-triton-500-se/)
-- [Huawei Brasil é reconhecida com o selo Top Employer 2023](https://marriedgames.com.br/noticias/selo-top-employer-2023/)
-- [Ano Novo Lunar traz novas marés ao World of Warships](https://marriedgames.com.br/noticias/ano-novo-lunar/)
-- [PUBG MOBILE foi o battle royale mais assistido em todo o mundo em 2022](https://marriedgames.com.br/noticias/battle-royale-mais-assistido/)
-- [Dendro Hypostasis: Como Derrotar o Novo Boss Mundial em Genshin Impact](https://marriedgames.com.br/dicas-guias/dendro-hypostasis/)
+- [Project Q da Ubisoft: Publisher transfere time para Assassin’s Creed Mirage](https://marriedgames.com.br/noticias/project-q-da-ubisoft/)
+- [Yandex Games: Plataforma já está no Brasil com Novidade para os gamers](https://marriedgames.com.br/noticias/yandex-games/)
+- [Trailer de Hogwarts Legacy: Warner Bros. Games lança filme cinematográfico oficial](https://marriedgames.com.br/noticias/trailer-de-hogwarts-legacy/)
+- [OWL E-SPORTS organiza treinos diários para a Elite do PUBG MOBILE no Brasil](https://marriedgames.com.br/noticias/owl-e-sports/)
+- [O avanço tecnológico dos videogames: como consoles se tornaram objetos de desejo?](https://marriedgames.com.br/noticias/videogames/)
 <!-- BLOG-POST-LIST:END -->
 
 
