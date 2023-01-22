@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crystal Dynamics encerará o Suporte para Marvels Avengers em Março](https://marriedgames.com.br/noticias/suporte-para-marvels-avengers/)
 - [Lançamento de The Last of Us chama atenção de cibercriminosos](https://marriedgames.com.br/noticias/lancamento-de-the-last-of-us/)
 - [Raide já disponível – Desvende os segredos de Ulduar no Wrath Classic!](https://marriedgames.com.br/noticias/ulduar-no-wrath-classic/)
 - [Boss Scaramouche Genshin Impact: Tudo sobre o Chefe e como Derrotá-lo](https://marriedgames.com.br/dicas-guias/scaramouche-genshin-impact/)
 - [Plataforma internacional para monetização de jogos Yandex Games chega ao Brasil](https://marriedgames.com.br/noticias/yandex-games-chega-ao-brasil/)
-- [Project Q da Ubisoft: Publisher transfere time para Assassin’s Creed Mirage](https://marriedgames.com.br/noticias/project-q-da-ubisoft/)
 <!-- BLOG-POST-LIST:END -->
 
 
