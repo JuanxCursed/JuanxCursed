@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BIS e CCXP: Marca é a primeira patrocinadora da Edição 2023](https://marriedgames.com.br/noticias/bis-e-ccxp/)
-- [Windows 11 não inicia após a Atualização? Veja como Corrigir](https://marriedgames.com.br/dicas-guias/windows-11-nao-inicializa/)
-- [Crystal Dynamics encerará o Suporte para Marvels Avengers em Março](https://marriedgames.com.br/noticias/suporte-para-marvels-avengers/)
-- [Lançamento de The Last of Us chama atenção de cibercriminosos](https://marriedgames.com.br/noticias/lancamento-de-the-last-of-us/)
-- [Raide já disponível – Desvende os segredos de Ulduar no Wrath Classic!](https://marriedgames.com.br/noticias/ulduar-no-wrath-classic/)
+- [Deep in Galaxies: junte-se à revolução em jogo de ação roguelike](https://marriedgames.com.br/noticias/deep-in-galaxies/)
+- [Atualização de Dragonflight com Novos Conteúdos já disponível!](https://marriedgames.com.br/noticias/atualizacao-de-dragonflight/)
+- [Unindo tradição e a blockchain, Nodle cria experiência digital do Ano Novo Lunar](https://marriedgames.com.br/noticias/nodle/)
+- [O que é CTR e Tudo que Você Deve Saber para Melhorá-lo](https://marriedgames.com.br/dicas-guias/o-que-e-ctr/)
+- [Dragão Calamitoso em Genshin Impact – Como Derrotar o Chefe mais Fácil do Game](https://marriedgames.com.br/dicas-guias/dragao-calamitoso/)
 <!-- BLOG-POST-LIST:END -->
 
 
