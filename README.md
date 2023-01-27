@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gaming Vs Apostas Online: Entenda As Duas Terminologias Distintas](https://marriedgames.com.br/noticias/gaming-vs-apostas-online/)
+- [O Marketing por trás do Universo Gamer e a sua Ascensão no Brasil](https://marriedgames.com.br/noticias/universo-gamer-e-a-sua-ascensao/)
+- [Melhor build para Xingqiu Genshin Impact: Artefatos, Armas e mais](https://marriedgames.com.br/dicas-guias/build-para-xingqiu/)
+- [Como Vencer a Matriz de Controle Semi Perpétua em Genshin Impact](https://marriedgames.com.br/dicas-guias/matriz-de-controle-semi-perpetua/)
 - [Deep in Galaxies: junte-se à revolução em jogo de ação roguelike](https://marriedgames.com.br/noticias/deep-in-galaxies/)
-- [Atualização de Dragonflight com Novos Conteúdos já disponível!](https://marriedgames.com.br/noticias/atualizacao-de-dragonflight/)
-- [Unindo tradição e a blockchain, Nodle cria experiência digital do Ano Novo Lunar](https://marriedgames.com.br/noticias/nodle/)
-- [O que é CTR e Tudo que Você Deve Saber para Melhorá-lo](https://marriedgames.com.br/dicas-guias/o-que-e-ctr/)
-- [Dragão Calamitoso em Genshin Impact – Como Derrotar o Chefe mais Fácil do Game](https://marriedgames.com.br/dicas-guias/dragao-calamitoso/)
 <!-- BLOG-POST-LIST:END -->
 
 
