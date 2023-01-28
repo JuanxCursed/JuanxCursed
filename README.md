@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Last Of Us da HBO é renovada para a 2ª temporada](https://marriedgames.com.br/noticias/the-last-of-us-da-hbo/)
+- [Marvel’s Midnight Suns e HITMAN 3 recebem atualização com NVIDIA DLSS 3](https://marriedgames.com.br/noticias/atualizacao-com-nvidia-dlss/)
+- [Melhores Smart Plugs para Tornar sua Casa Mais Inteligente em 2023](https://marriedgames.com.br/dicas-guias/melhores-smart-plugs/)
+- [Electro Regisvine: Como Derrotar esse Boss em Genshin Impact [Guia Definitivo]](https://marriedgames.com.br/dicas-guias/electro-regisvine/)
 - [Gaming Vs Apostas Online: Entenda As Duas Terminologias Distintas](https://marriedgames.com.br/noticias/gaming-vs-apostas-online/)
-- [O Marketing por trás do Universo Gamer e a sua Ascensão no Brasil](https://marriedgames.com.br/noticias/universo-gamer-e-a-sua-ascensao/)
-- [Melhor build para Xingqiu Genshin Impact: Artefatos, Armas e mais](https://marriedgames.com.br/dicas-guias/build-para-xingqiu/)
-- [Como Vencer a Matriz de Controle Semi Perpétua em Genshin Impact](https://marriedgames.com.br/dicas-guias/matriz-de-controle-semi-perpetua/)
-- [Deep in Galaxies: junte-se à revolução em jogo de ação roguelike](https://marriedgames.com.br/noticias/deep-in-galaxies/)
 <!-- BLOG-POST-LIST:END -->
 
 
