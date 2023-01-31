@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Punhos de Repúdio no Mac chega a Steam no dia 1 de fevereiro](https://marriedgames.com.br/noticias/punhos-de-repudio-no-mac/)
+- [Solo Network inclui em seu portfólio novas ferramentas e funcionalidades do pacote Adobe](https://marriedgames.com.br/noticias/pacote-adobe/)
+- [Proteção em evidência: tendências para o mercado de cibersegurança em 2023](https://marriedgames.com.br/noticias/ciberseguranca-em-2023/)
 - [Agora Kick Off 2023: Veja novidades da Huawei para 2023 com exclusividade](https://marriedgames.com.br/noticias/agora-kick-off-2023/)
 - [Fashion Police Squad já está disponível para pré-venda no Nintendo Switch](https://marriedgames.com.br/noticias/fashion-police-squad/)
-- [Lançamento global do HUAWEI FreeBuds 5i: fone sem fio premium com preço acessível](https://marriedgames.com.br/noticias/huawei-freebuds-5i/)
-- [The Last Of Us da HBO é renovada para a 2ª temporada](https://marriedgames.com.br/noticias/the-last-of-us-da-hbo/)
-- [Marvel’s Midnight Suns e HITMAN 3 recebem atualização com NVIDIA DLSS 3](https://marriedgames.com.br/noticias/atualizacao-com-nvidia-dlss/)
 <!-- BLOG-POST-LIST:END -->
 
 
