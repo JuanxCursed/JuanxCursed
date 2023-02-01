@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Atualização de Pokemon Unite traz Mudanças em Sableye e Urshifu](https://marriedgames.com.br/noticias/atualizacao-de-pokemon-unite/)
+- [Melhor Build para Mona Genshin Impact: Domine a Astrologia](https://marriedgames.com.br/dicas-guias/mona-genshin-impact/)
 - [Punhos de Repúdio no Mac chega a Steam no dia 1 de fevereiro](https://marriedgames.com.br/noticias/punhos-de-repudio-no-mac/)
 - [Solo Network inclui em seu portfólio novas ferramentas e funcionalidades do pacote Adobe](https://marriedgames.com.br/noticias/pacote-adobe/)
 - [Proteção em evidência: tendências para o mercado de cibersegurança em 2023](https://marriedgames.com.br/noticias/ciberseguranca-em-2023/)
-- [Agora Kick Off 2023: Veja novidades da Huawei para 2023 com exclusividade](https://marriedgames.com.br/noticias/agora-kick-off-2023/)
-- [Fashion Police Squad já está disponível para pré-venda no Nintendo Switch](https://marriedgames.com.br/noticias/fashion-police-squad/)
 <!-- BLOG-POST-LIST:END -->
 
 
