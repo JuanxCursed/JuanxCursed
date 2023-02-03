@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Domine o Raio com a Melhor Build para Keqing Genshin Impact](https://marriedgames.com.br/dicas-guias/keqing-genshin-impact/)
-- [Build para Yaoyao Genshin Impact: Saiba como Extrair o Melhor da Lanceira Dendro](https://marriedgames.com.br/dicas-guias/yaoyao-genshin-impact/)
-- [Kim Kataguiri promete empenho em projeto do Marco Legal dos Games](https://marriedgames.com.br/noticias/marco-legal-dos-games/)
-- [Os Mais Divertidos Personagens de Desenho para Você Colorir](https://marriedgames.com.br/dicas-guias/personagens-de-desenho/)
-- [Atualização de Pokemon Unite traz Mudanças em Sableye e Urshifu](https://marriedgames.com.br/noticias/atualizacao-de-pokemon-unite/)
+- [Serviço TrickGate é usado para implantar Emotet, REvil, Maze, entre outras ameaças](https://marriedgames.com.br/noticias/trickgate/)
+- [NOVA CÁPSULA DO JOGO É ANUNCIADA PARA O VCT LOCK//IN](https://marriedgames.com.br/noticias/vct-lock-in/)
+- [Ilha Ashika, novo mapa de Call of Duty: Warzone 2.0, chega em 15 de fevereiro](https://marriedgames.com.br/noticias/ilha-ashika/)
+- [CEO da EA Explica o Motivo do Cancelamento de Apex Legends Mobile](https://marriedgames.com.br/noticias/cancelamento-de-apex-legends-mobile/)
+- [Warner Bros. Games e Avalanche Studios revelam trailer de lançamento de Hogwarts legacy](https://marriedgames.com.br/noticias/trailer-de-lancamento-de-hogwarts/)
 <!-- BLOG-POST-LIST:END -->
 
 
