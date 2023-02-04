@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LG na ISE 2023 apresenta diversas soluções da área de Display](https://marriedgames.com.br/noticias/lg-na-ise-2023/)
+- [Promoção Hype Games traz jogos da franquia da Ubisoft com descontos](https://marriedgames.com.br/noticias/promocao-hype-games/)
+- [Jogador de Genshin Impact Cria Gráfico com Sugestão de Rotação de Domínios](https://marriedgames.com.br/noticias/jogador-de-genshin-impact/)
+- [Abrace seu destino em SpellForce: Conquest of Eo – disponível agora](https://marriedgames.com.br/noticias/conquest-of-eo/)
 - [Serviço TrickGate é usado para implantar Emotet, REvil, Maze, entre outras ameaças](https://marriedgames.com.br/noticias/trickgate/)
-- [NOVA CÁPSULA DO JOGO É ANUNCIADA PARA O VCT LOCK//IN](https://marriedgames.com.br/noticias/vct-lock-in/)
-- [Ilha Ashika, novo mapa de Call of Duty: Warzone 2.0, chega em 15 de fevereiro](https://marriedgames.com.br/noticias/ilha-ashika/)
-- [CEO da EA Explica o Motivo do Cancelamento de Apex Legends Mobile](https://marriedgames.com.br/noticias/cancelamento-de-apex-legends-mobile/)
-- [Warner Bros. Games e Avalanche Studios revelam trailer de lançamento de Hogwarts legacy](https://marriedgames.com.br/noticias/trailer-de-lancamento-de-hogwarts/)
 <!-- BLOG-POST-LIST:END -->
 
 
