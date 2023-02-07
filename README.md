@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Peacemaker na Los Grandes: Luis Tadeu é o novo coach da equipe de CS:GO](https://marriedgames.com.br/noticias/peacemaker-na-los-grandes/)
+- [Free Fire e Claro: A Patroa veio para o Carnaval estrelando a nova parceria](https://marriedgames.com.br/noticias/free-fire-e-claro/)
+- [Studio Universal Traz Novos Filmes em Fevereiro. Veja os Três Lançamentos](https://marriedgames.com.br/noticias/universal-traz-novos-filmes/)
+- [Bebot Apresenta Plataforma para Integrar PDOOH ao Digital e Mobile](https://marriedgames.com.br/noticias/bebot-apresenta/)
 - [The Sims 4 Anuncia o Pacote de Expansão A Aventura de Crescer](https://marriedgames.com.br/noticias/a-aventura-de-crescer/)
-- [Novo trailer apresenta o poder mecanizado dos Deutsches Afrika Korps](https://marriedgames.com.br/noticias/deutsches-afrika-korps/)
-- [LG na ISE 2023 apresenta diversas soluções da área de Display](https://marriedgames.com.br/noticias/lg-na-ise-2023/)
-- [Promoção Hype Games traz jogos da franquia da Ubisoft com descontos](https://marriedgames.com.br/noticias/promocao-hype-games/)
-- [Jogador de Genshin Impact Cria Gráfico com Sugestão de Rotação de Domínios](https://marriedgames.com.br/noticias/jogador-de-genshin-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 
