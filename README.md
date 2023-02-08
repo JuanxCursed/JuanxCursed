@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inclusão ou Marketing? Hogwarts Legacy introduz personagens transgêneros](https://marriedgames.com.br/noticias/personagens-transgeneros/)
+- [Cibercriminosos criam Página Falsa da Americanas para Enganar Consumidores](https://marriedgames.com.br/noticias/pagina-falsa-da-americanas/)
+- [Board games são ótimas opções para curtir os dias de folga entre amigos e familiares](https://marriedgames.com.br/noticias/board-games/)
+- [Max Verstappen Assina Com a EA Sports](https://marriedgames.com.br/noticias/max-verstappen-assina/)
 - [Peacemaker na Los Grandes: Luis Tadeu é o novo coach da equipe de CS:GO](https://marriedgames.com.br/noticias/peacemaker-na-los-grandes/)
-- [Free Fire e Claro: A Patroa veio para o Carnaval estrelando a nova parceria](https://marriedgames.com.br/noticias/free-fire-e-claro/)
-- [Studio Universal Traz Novos Filmes em Fevereiro. Veja os Três Lançamentos](https://marriedgames.com.br/noticias/universal-traz-novos-filmes/)
-- [Bebot Apresenta Plataforma para Integrar PDOOH ao Digital e Mobile](https://marriedgames.com.br/noticias/bebot-apresenta/)
-- [The Sims 4 Anuncia o Pacote de Expansão A Aventura de Crescer](https://marriedgames.com.br/noticias/a-aventura-de-crescer/)
 <!-- BLOG-POST-LIST:END -->
 
 
