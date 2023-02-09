@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [KRAFTON Montreal: Inaugurado primeiro estúdio de jogos AAA no Canadá](https://marriedgames.com.br/noticias/krafton-montreal/)
+- [Valentines Day Black Desert Online: recebe eventos e modo renovado de PvP](https://marriedgames.com.br/noticias/valentines-day-black-desert/)
+- [Trailer de Jogabilidade de Apex Legends: Folia Apresenta Modo Mata-Mata e Mais](https://marriedgames.com.br/noticias/jogabilidade-de-apex-legends-folia/)
+- [Melhor Build para Jean Genshin Impact: O Poder Máximo da Grã-Mestra](https://marriedgames.com.br/dicas-guias/jean-genshin-impact/)
 - [Inclusão ou Marketing? Hogwarts Legacy introduz personagens transgêneros](https://marriedgames.com.br/noticias/personagens-transgeneros/)
-- [Cibercriminosos criam Página Falsa da Americanas para Enganar Consumidores](https://marriedgames.com.br/noticias/pagina-falsa-da-americanas/)
-- [Board games são ótimas opções para curtir os dias de folga entre amigos e familiares](https://marriedgames.com.br/noticias/board-games/)
-- [Max Verstappen Assina Com a EA Sports](https://marriedgames.com.br/noticias/max-verstappen-assina/)
-- [Peacemaker na Los Grandes: Luis Tadeu é o novo coach da equipe de CS:GO](https://marriedgames.com.br/noticias/peacemaker-na-los-grandes/)
 <!-- BLOG-POST-LIST:END -->
 
 
