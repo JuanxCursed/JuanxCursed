@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Evento Monte Sua Equipe em Honor of Kings distribui heróis e recompensas grátis](https://marriedgames.com.br/noticias/equipe-em-honor-of-kings/)
-- [Jogue Two Point Campus grátis na Steam agora mesmo!](https://marriedgames.com.br/noticias/two-point-campus-gratis/)
-- [Hackers Contornam as Restrições do ChatGPT para Criar Malwares](https://marriedgames.com.br/noticias/hackers-contornam-as-restricoes-do-chatgpt-para-criar-malwares/)
-- [LG ofecece condições imperdíveis para compra de TVs na LG OLED WEEK](https://marriedgames.com.br/noticias/lg-oled-week/)
-- [KRAFTON Montreal: Inaugurado primeiro estúdio de jogos AAA no Canadá](https://marriedgames.com.br/noticias/krafton-montreal/)
+- [Mod de Hogwarts Legacy adiciona novos tons de pele para os jogadores](https://marriedgames.com.br/noticias/mod-de-hogwarts-legacy/)
+- [Lenovo é destaque no Índice de Igualdade de Gênero da Bloomberg de 2023 pelo quarto ano](https://marriedgames.com.br/noticias/indice-de-igualdade-de-genero/)
+- [Ouça as Trilhas Sonoras de Hogwarts Legacy no Deezer](https://marriedgames.com.br/noticias/hogwarts-legacy-no-deezer/)
+- [MIBR jogará com WIBR estampada na camisa para a disputa do LOCKIN – VALORANT](https://marriedgames.com.br/noticias/mibr-jogara-com-wibr/)
+- [Devil May Cry 5 e Free Fire: Skins do Dante e Nero chegam ao Game](https://marriedgames.com.br/noticias/devil-may-cry-5-e-free-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 
