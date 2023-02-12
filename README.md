@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Campeonato BMW M Cup traz novidades nos E-Sports do Brasil para as pistas virtuais em 2023](https://marriedgames.com.br/noticias/bmw-m-cup/)
 - [Mod de Hogwarts Legacy adiciona novos tons de pele para os jogadores](https://marriedgames.com.br/noticias/mod-de-hogwarts-legacy/)
 - [Lenovo é destaque no Índice de Igualdade de Gênero da Bloomberg de 2023 pelo quarto ano](https://marriedgames.com.br/noticias/indice-de-igualdade-de-genero/)
 - [Ouça as Trilhas Sonoras de Hogwarts Legacy no Deezer](https://marriedgames.com.br/noticias/hogwarts-legacy-no-deezer/)
 - [MIBR jogará com WIBR estampada na camisa para a disputa do LOCKIN – VALORANT](https://marriedgames.com.br/noticias/mibr-jogara-com-wibr/)
-- [Devil May Cry 5 e Free Fire: Skins do Dante e Nero chegam ao Game](https://marriedgames.com.br/noticias/devil-may-cry-5-e-free-fire/)
 <!-- BLOG-POST-LIST:END -->
 
 
