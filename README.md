@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jogo por Ranking em Call of Duty: Modern Warfare II: tudo o que você precisa saber](https://marriedgames.com.br/noticias/ranking-em-call-of-duty/)
+- [Melhor Build, Armas e Artefatos para Yelan Genshin Impact](https://marriedgames.com.br/dicas-guias/yelan-genshin-impact/)
+- [Migrar Google Analytics 4: Saiba como Sair do UA para o GA4](https://marriedgames.com.br/dicas-guias/google-analytics-4/)
 - [EA Sports Madden NFL 23 Prevê Vitória por 31-17 do Philadelphia Eagles no Super Bowl LVII](https://marriedgames.com.br/noticias/super-bowl-lvii/)
 - [Rush Royale da MY.GAMES primeira posição no gênero Tower Defense](https://marriedgames.com.br/noticias/rush-royale/)
-- [Campeonato BMW M Cup traz novidades nos E-Sports do Brasil para as pistas virtuais em 2023](https://marriedgames.com.br/noticias/bmw-m-cup/)
-- [Mod de Hogwarts Legacy adiciona novos tons de pele para os jogadores](https://marriedgames.com.br/noticias/mod-de-hogwarts-legacy/)
-- [Lenovo é destaque no Índice de Igualdade de Gênero da Bloomberg de 2023 pelo quarto ano](https://marriedgames.com.br/noticias/indice-de-igualdade-de-genero/)
 <!-- BLOG-POST-LIST:END -->
 
 
