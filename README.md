@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jogo por Ranking em Call of Duty: Modern Warfare II: tudo o que você precisa saber](https://marriedgames.com.br/noticias/ranking-em-call-of-duty/)
-- [Melhor Build, Armas e Artefatos para Yelan Genshin Impact](https://marriedgames.com.br/dicas-guias/yelan-genshin-impact/)
-- [Migrar Google Analytics 4: Saiba como Sair do UA para o GA4](https://marriedgames.com.br/dicas-guias/google-analytics-4/)
-- [EA Sports Madden NFL 23 Prevê Vitória por 31-17 do Philadelphia Eagles no Super Bowl LVII](https://marriedgames.com.br/noticias/super-bowl-lvii/)
-- [Rush Royale da MY.GAMES primeira posição no gênero Tower Defense](https://marriedgames.com.br/noticias/rush-royale/)
+- [Infinix explica o funcionamento das baterias de smartphones e dá dicas para preservá-las](https://marriedgames.com.br/noticias/baterias-de-smartphones/)
+- [Intel lança processadores Xeon Workstation com mais recursos e salto de desempenho](https://marriedgames.com.br/noticias/xeon-workstation/)
+- [O Jogo Uruguaio Fight’n Rage Chega ao PS5 e Xbox Series X|S](https://marriedgames.com.br/noticias/o-jogo-uruguaio-fightn-rage-chega-ao-ps5-e-xbox-series-xs/)
+- [3 maneiras de jogar Company of Heroes 3](https://marriedgames.com.br/noticias/jogar-company-of-heroes/)
+- [Prime Video Lança as Primeiras Imagens de Dead Ringers, Estrelada por Rachel Weisz](https://marriedgames.com.br/noticias/dead-ringers/)
 <!-- BLOG-POST-LIST:END -->
 
 
