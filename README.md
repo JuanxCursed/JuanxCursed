@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como resgatar o drop de Genshin Impact exclusivo do Prime Gaming](https://marriedgames.com.br/noticias/drop-de-genshin-impact/)
+- [Login House eXP anuncia o “CarnaLogin”, festa de carnaval dedicada aos gamers](https://marriedgames.com.br/noticias/carnalogin/)
+- [Bandai Namco anuncia o lançamento oficial de Tales of Symphonia Remastered](https://marriedgames.com.br/noticias/tales-of-symphonia-remastered-2/)
 - [Infinix explica o funcionamento das baterias de smartphones e dá dicas para preservá-las](https://marriedgames.com.br/noticias/baterias-de-smartphones/)
 - [Intel lança processadores Xeon Workstation com mais recursos e salto de desempenho](https://marriedgames.com.br/noticias/xeon-workstation/)
-- [O Jogo Uruguaio Fight’n Rage Chega ao PS5 e Xbox Series X|S](https://marriedgames.com.br/noticias/o-jogo-uruguaio-fightn-rage-chega-ao-ps5-e-xbox-series-xs/)
-- [3 maneiras de jogar Company of Heroes 3](https://marriedgames.com.br/noticias/jogar-company-of-heroes/)
-- [Prime Video Lança as Primeiras Imagens de Dead Ringers, Estrelada por Rachel Weisz](https://marriedgames.com.br/noticias/dead-ringers/)
 <!-- BLOG-POST-LIST:END -->
 
 
