@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeremy Renner Retorna para Nova Temporada de Mayor Of Kingstown, Série do Paramount+](https://marriedgames.com.br/noticias/temporada-de-mayor-of-kingstown/)
-- [Julio Rodríguez está na Capa do EA Sports MLB Tap Sports Baseball 2023](https://marriedgames.com.br/noticias/julio-rodriguez-esta-na-capa/)
-- [Como resgatar o drop de Genshin Impact exclusivo do Prime Gaming](https://marriedgames.com.br/noticias/drop-de-genshin-impact/)
-- [Login House eXP anuncia o “CarnaLogin”, festa de carnaval dedicada aos gamers](https://marriedgames.com.br/noticias/carnalogin/)
-- [Bandai Namco anuncia o lançamento oficial de Tales of Symphonia Remastered](https://marriedgames.com.br/noticias/tales-of-symphonia-remastered-2/)
+- [Fone sem fio com bateria para até 2 dias e design ergonômico; conheça o HUAWEI FreeBuds 5i](https://marriedgames.com.br/noticias/huawei-freebuds-5i-2/)
+- [Riot Forge Anuncia The Mageseeker: Uma História De League Of Legends](https://marriedgames.com.br/noticias/riot-forge-anuncia-the-mageseeker/)
+- [GRID e Riot Games lançam o Portal de Dados do VALORANT para turbinar o cenário profissional](https://marriedgames.com.br/noticias/portal-de-dados-do-valorant/)
+- [Call of Duty: Mobile — Temporada 2 Heavy Metal, a partir de 22 de fevereiro](https://marriedgames.com.br/noticias/temporada-2-heavy-metal/)
+- [Embarque numa Aventura Épica Em Wild Hearts, Jogo De Caça Ambientado No Japão Feudal De Fantasia](https://marriedgames.com.br/noticias/wild-hearts/)
 <!-- BLOG-POST-LIST:END -->
 
 
