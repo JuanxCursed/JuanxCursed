@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prévia de Witchfire revela tiroteios alimentados por magia negra](https://marriedgames.com.br/noticias/previa-de-witchfire-revela-tiroteios-alimentados-por-magia-negra/)
+- [Explore a costa no novo DLC de Aurora Shores será lançado no dia 23](https://marriedgames.com.br/noticias/dlc-de-aurora-shores/)
+- [Layers of Fear ganha nova data de lançamento durante o IGN Fanfest 2023](https://marriedgames.com.br/noticias/layers-of-fear-ganha-nova-data/)
 - [Fone sem fio com bateria para até 2 dias e design ergonômico; conheça o HUAWEI FreeBuds 5i](https://marriedgames.com.br/noticias/huawei-freebuds-5i-2/)
 - [Riot Forge Anuncia The Mageseeker: Uma História De League Of Legends](https://marriedgames.com.br/noticias/riot-forge-anuncia-the-mageseeker/)
-- [GRID e Riot Games lançam o Portal de Dados do VALORANT para turbinar o cenário profissional](https://marriedgames.com.br/noticias/portal-de-dados-do-valorant/)
-- [Call of Duty: Mobile — Temporada 2 Heavy Metal, a partir de 22 de fevereiro](https://marriedgames.com.br/noticias/temporada-2-heavy-metal/)
-- [Embarque numa Aventura Épica Em Wild Hearts, Jogo De Caça Ambientado No Japão Feudal De Fantasia](https://marriedgames.com.br/noticias/wild-hearts/)
 <!-- BLOG-POST-LIST:END -->
 
 
