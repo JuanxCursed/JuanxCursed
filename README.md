@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Temporada 4 Battlefield 2042: Batalha vai a África do Sul na “Última Hora”](https://marriedgames.com.br/noticias/temporada-4-battlefield-2042-batalha-vai-a-africa-do-sul-na-ultima-hora/)
+- [Um novo olhar sobre The Invincible e uma nova provocação para The Alters](https://marriedgames.com.br/noticias/the-invincible/)
 - [Prévia de Witchfire revela tiroteios alimentados por magia negra](https://marriedgames.com.br/noticias/previa-de-witchfire-revela-tiroteios-alimentados-por-magia-negra/)
 - [Explore a costa no novo DLC de Aurora Shores será lançado no dia 23](https://marriedgames.com.br/noticias/dlc-de-aurora-shores/)
 - [Layers of Fear ganha nova data de lançamento durante o IGN Fanfest 2023](https://marriedgames.com.br/noticias/layers-of-fear-ganha-nova-data/)
-- [Fone sem fio com bateria para até 2 dias e design ergonômico; conheça o HUAWEI FreeBuds 5i](https://marriedgames.com.br/noticias/huawei-freebuds-5i-2/)
-- [Riot Forge Anuncia The Mageseeker: Uma História De League Of Legends](https://marriedgames.com.br/noticias/riot-forge-anuncia-the-mageseeker/)
 <!-- BLOG-POST-LIST:END -->
 
 
