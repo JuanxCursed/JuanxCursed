@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Temporada 4 Battlefield 2042: Batalha vai a África do Sul na “Última Hora”](https://marriedgames.com.br/noticias/temporada-4-battlefield-2042-batalha-vai-a-africa-do-sul-na-ultima-hora/)
-- [Um novo olhar sobre The Invincible e uma nova provocação para The Alters](https://marriedgames.com.br/noticias/the-invincible/)
-- [Prévia de Witchfire revela tiroteios alimentados por magia negra](https://marriedgames.com.br/noticias/previa-de-witchfire-revela-tiroteios-alimentados-por-magia-negra/)
-- [Explore a costa no novo DLC de Aurora Shores será lançado no dia 23](https://marriedgames.com.br/noticias/dlc-de-aurora-shores/)
-- [Layers of Fear ganha nova data de lançamento durante o IGN Fanfest 2023](https://marriedgames.com.br/noticias/layers-of-fear-ganha-nova-data/)
+- [Maono DM30: A Escolha Perfeita para Podcasters e Streamers [Review Completo]](https://marriedgames.com.br/analises/maono-dm30/)
+- [Quer Criar Jogos? Veja Um Guia para Projetos mais Profissionais](https://marriedgames.com.br/tecnologia/criar-jogos/)
+- [Diona Genshin Impact: A Melhor Build com Artefatos, Armas e Times para a Barmaid](https://marriedgames.com.br/dicas-guias/diona-genshin-impact/)
+- [Melhor Build para Chongyun em Genshin Impact: Times, Armas e Artefatos [COMPLETO]](https://marriedgames.com.br/dicas-guias/chongyun-em-genshin-impact/)
+- [Qiqi Genshin Impact: Melhor Build, Armas e Times para Você Caçar Cococabras com Ela](https://marriedgames.com.br/dicas-guias/qiqi-genshin-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 
