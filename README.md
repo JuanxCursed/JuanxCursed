@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guia Definitivo para a build perfeita para Hu Tao Genshin Impact](https://marriedgames.com.br/dicas-guias/hu-tao-genshin-impact/)
 - [Noelle Genshin Impact: Melhor Build para DPS e Suporte Shield](https://marriedgames.com.br/dicas-guias/noelle-genshin-impact/)
 - [Maono DM30: A Escolha Perfeita para Podcasters e Streamers [Review Completo]](https://marriedgames.com.br/analises/maono-dm30/)
 - [Quer Criar Jogos? Veja Um Guia para Projetos mais Profissionais](https://marriedgames.com.br/tecnologia/criar-jogos/)
 - [Diona Genshin Impact: A Melhor Build com Artefatos, Armas e Times para a Barmaid](https://marriedgames.com.br/dicas-guias/diona-genshin-impact/)
-- [Melhor Build para Chongyun em Genshin Impact: Times, Armas e Artefatos [COMPLETO]](https://marriedgames.com.br/dicas-guias/chongyun-em-genshin-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 
