@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [5 Melhores microfones para podcast, streaming e youtube até R$ 400 [ANÁLISE COMPLETA]](https://www.youtube.com/watch?v=W4gIt1x7iIs)
 - [Depois da minnha mãe me chamar na 3vez, e eu continuar jogando](https://www.youtube.com/watch?v=lpS7rABnTZ0)
 - [Minha Mãe me chamando pela 3 vez, e eu continuar jogando](https://www.youtube.com/watch?v=QFOIDgfRbGQ)
 - [Unity no Visual Studio Code:  Configurando o intellisense [Auto-complete]](https://www.youtube.com/watch?v=iQOKdN0E_H0)
 - [Aquele momento que está no meio da ranked, e o pc trava](https://www.youtube.com/watch?v=QfMoXtdHmR0)
-- [Pegue meu dinheiro](https://www.youtube.com/watch?v=ynh0VLOm2aw)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
