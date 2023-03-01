@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Melhor Build para Diluc em Genshin Impact: Times, Artefatos e Armas Explicados](https://marriedgames.com.br/dicas-guias/diluc-em-genshin-impac/)
+- [Melhor Build para Xiangling em Genshin Impact: Times, Armas e Artefatos para DPS e Sub-DPS](https://marriedgames.com.br/dicas-guias/xiangling-em-genshin-impact/)
+- [Fifine Ampligame A8: Áudio Poderoso em um Pacote Compacto e Elegante](https://marriedgames.com.br/dicas-guias/fifine-ampligame-a8/)
+- [Explosão do ‘Gaming Casual’ no Brasil e no México mostra que os games são o entretenimento preferido da América Latina](https://marriedgames.com.br/noticias/gaming-casual/)
 - [Guia Definitivo para a build perfeita para Hu Tao Genshin Impact](https://marriedgames.com.br/dicas-guias/hu-tao-genshin-impact/)
-- [Noelle Genshin Impact: Melhor Build para DPS e Suporte Shield](https://marriedgames.com.br/dicas-guias/noelle-genshin-impact/)
-- [Maono DM30: A Escolha Perfeita para Podcasters e Streamers [Review Completo]](https://marriedgames.com.br/analises/maono-dm30/)
-- [Quer Criar Jogos? Veja Um Guia para Projetos mais Profissionais](https://marriedgames.com.br/tecnologia/criar-jogos/)
-- [Diona Genshin Impact: A Melhor Build com Artefatos, Armas e Times para a Barmaid](https://marriedgames.com.br/dicas-guias/diona-genshin-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 
