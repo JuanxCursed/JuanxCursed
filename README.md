@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lançamento Mundial de Destiny 2: Queda da Luz](https://marriedgames.com.br/noticias/lancamento-mundial-de-destiny-2-queda-da-luz/)
+- [Prime Video Divulga Trailer Oficial e Cartaz Inédito da Segunda Temporada de Dom](https://marriedgames.com.br/noticias/segunda-temporada-de-dom/)
 - [Lançamentos de Jogos Para PlayStation de 2023: PS4, PS5 e PSVR 2](https://marriedgames.com.br/dicas-guias/jogos-para-playstation/)
 - [Melhores Fontes 750w: Corsair &lpar;CX750&rpar;, EVGA e Cooler Master](https://marriedgames.com.br/dicas-guias/melhores-fontes-750w/)
 - [Teclado G915 TKL Logitech: Design Fino e Qualidade Premium](https://marriedgames.com.br/analises/teclado-g915/)
-- [Melhor Build para Diluc em Genshin Impact: Times, Artefatos e Armas Explicados](https://marriedgames.com.br/dicas-guias/diluc-em-genshin-impac/)
-- [Melhor Build para Xiangling em Genshin Impact: Times, Armas e Artefatos para DPS e Sub-DPS](https://marriedgames.com.br/dicas-guias/xiangling-em-genshin-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 
