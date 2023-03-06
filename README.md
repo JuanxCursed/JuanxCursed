@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Golpe do ChatGPT: Novo golpe usa como isca e promessa de grandes lucros](https://marriedgames.com.br/noticias/chatgpt/)
+- [O despertar de Hashashin está disponível em Black Desert Mobile](https://marriedgames.com.br/noticias/despertar-de-hashashin/)
 - [Lançamento Mundial de Destiny 2: Queda da Luz](https://marriedgames.com.br/noticias/lancamento-mundial-de-destiny-2-queda-da-luz/)
 - [Prime Video Divulga Trailer Oficial e Cartaz Inédito da Segunda Temporada de Dom](https://marriedgames.com.br/noticias/segunda-temporada-de-dom/)
 - [Lançamentos de Jogos Para PlayStation de 2023: PS4, PS5 e PSVR 2](https://marriedgames.com.br/dicas-guias/jogos-para-playstation/)
-- [Melhores Fontes 750w: Corsair &lpar;CX750&rpar;, EVGA e Cooler Master](https://marriedgames.com.br/dicas-guias/melhores-fontes-750w/)
-- [Teclado G915 TKL Logitech: Design Fino e Qualidade Premium](https://marriedgames.com.br/analises/teclado-g915/)
 <!-- BLOG-POST-LIST:END -->
 
 
