@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lançamentos de Jogos Tudo que Chega ao PC em 2023](https://marriedgames.com.br/dicas-guias/lancamentos-de-jogos/)
-- [Jogos Nintendo Switch: Fique de Olho no que Chega em 2023](https://marriedgames.com.br/dicas-guias/jogos-nintendo-switch/)
+- [Lançamentos para Celular: Melhores games para Android e iOS [Abril, Março e Fevereiro]](https://marriedgames.com.br/dicas-guias/jogos-mobile-2023/)
+- [Jogos para Xbox: Lançamentos Xbox One, Series S e Series X [Abril, Março e Fevereiro]](https://marriedgames.com.br/dicas-guias/jogos-para-xbox/)
+- [Lançamentos de Jogos para PC: Tudo para Computador [Abril, Março, Fevereiro]](https://marriedgames.com.br/dicas-guias/lancamentos-de-jogos/)
+- [Lançamentos Nintendo Switch: Tudo que Chega em 2023 [Abril, Março, Fevereiro]](https://marriedgames.com.br/dicas-guias/jogos-nintendo-switch/)
 - [Golpe do ChatGPT: Novo golpe usa como isca e promessa de grandes lucros](https://marriedgames.com.br/noticias/chatgpt/)
-- [O despertar de Hashashin está disponível em Black Desert Mobile](https://marriedgames.com.br/noticias/despertar-de-hashashin/)
-- [Lançamento Mundial de Destiny 2: Queda da Luz](https://marriedgames.com.br/noticias/lancamento-mundial-de-destiny-2-queda-da-luz/)
 <!-- BLOG-POST-LIST:END -->
 
 
