@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Repleto de desafios, Doomsday Last Survivors chega hoje para iOS](https://marriedgames.com.br/noticias/doomsday-last-survivors/)
+- [LOUD usa nova cor e anuncia entrada no cenário inclusivo de Valorant](https://marriedgames.com.br/noticias/loud-usa-nova-cor/)
 - [Lançamentos para Celular: Melhores games para Android e iOS [Abril, Março e Fevereiro]](https://marriedgames.com.br/dicas-guias/jogos-mobile-2023/)
 - [Jogos para Xbox: Lançamentos Xbox One, Series S e Series X [Abril, Março e Fevereiro]](https://marriedgames.com.br/dicas-guias/jogos-para-xbox/)
 - [Lançamentos de Jogos para PC: Tudo para Computador [Abril, Março, Fevereiro]](https://marriedgames.com.br/dicas-guias/lancamentos-de-jogos/)
-- [Lançamentos Nintendo Switch: Tudo que Chega em 2023 [Abril, Março, Fevereiro]](https://marriedgames.com.br/dicas-guias/jogos-nintendo-switch/)
-- [Golpe do ChatGPT: Novo golpe usa como isca e promessa de grandes lucros](https://marriedgames.com.br/noticias/chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 
