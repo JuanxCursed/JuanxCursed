@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Repleto de desafios, Doomsday Last Survivors chega hoje para iOS](https://marriedgames.com.br/noticias/doomsday-last-survivors/)
-- [LOUD usa nova cor e anuncia entrada no cenário inclusivo de Valorant](https://marriedgames.com.br/noticias/loud-usa-nova-cor/)
-- [Lançamentos para Celular: Melhores games para Android e iOS [Abril, Março e Fevereiro]](https://marriedgames.com.br/dicas-guias/jogos-mobile-2023/)
-- [Jogos para Xbox: Lançamentos Xbox One, Series S e Series X [Abril, Março e Fevereiro]](https://marriedgames.com.br/dicas-guias/jogos-para-xbox/)
-- [Lançamentos de Jogos para PC: Tudo para Computador [Abril, Março, Fevereiro]](https://marriedgames.com.br/dicas-guias/lancamentos-de-jogos/)
+- [Ubisoft Brasil anuncia linha de mousepads de Rainbow Six Siege com a FalleN Store](https://marriedgames.com.br/noticias/mousepads-de-rainbow-six/)
+- [Liderança do BIG Festival levará o mercado nacional de games a GDC 2023](https://marriedgames.com.br/noticias/lideranca-do-big-festival/)
+- [Capcom Spotlight Apresentou Novidades de Resident Evil 4, Exoprimal e Mais!](https://marriedgames.com.br/noticias/capcom-spotlight/)
+- [HUAWEI FreeBuds 5i: conheça fone Bluetooth com áudio de alta qualidade e preço competitivo](https://marriedgames.com.br/noticias/huawei-freebuds-5i-3/)
+- [Mobile Legends ultrapassa 100 milhões de jogadores registrados na América Latina](https://marriedgames.com.br/noticias/mobile-legends-ultrapassa/)
 <!-- BLOG-POST-LIST:END -->
 
 
