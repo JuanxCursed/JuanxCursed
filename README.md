@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [O principal evento de 2023 no mundo dos eSports e Dota 2 – The International 11](https://marriedgames.com.br/noticias/mundo-dos-esports-e-dota-2/)
+- [YU-GI-OH! Duel Links Celebra o 25° Aniversário do Jogo de Cartas Oferecendo Cartas aos Fãs](https://marriedgames.com.br/noticias/yu-gi-oh-duel-links-2/)
 - [Como Escolher Corretamente o Notebook para Jogos](https://marriedgames.com.br/dicas-guias/notebook-para-jogos/)
 - [Ubisoft Brasil anuncia linha de mousepads de Rainbow Six Siege com a FalleN Store](https://marriedgames.com.br/noticias/mousepads-de-rainbow-six/)
 - [Liderança do BIG Festival levará o mercado nacional de games a GDC 2023](https://marriedgames.com.br/noticias/lideranca-do-big-festival/)
-- [Capcom Spotlight Apresentou Novidades de Resident Evil 4, Exoprimal e Mais!](https://marriedgames.com.br/noticias/capcom-spotlight/)
-- [HUAWEI FreeBuds 5i: conheça fone Bluetooth com áudio de alta qualidade e preço competitivo](https://marriedgames.com.br/noticias/huawei-freebuds-5i-3/)
 <!-- BLOG-POST-LIST:END -->
 
 
