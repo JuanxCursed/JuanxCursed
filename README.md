@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [O principal evento de 2023 no mundo dos eSports e Dota 2 – The International 11](https://marriedgames.com.br/noticias/mundo-dos-esports-e-dota-2/)
-- [YU-GI-OH! Duel Links Celebra o 25° Aniversário do Jogo de Cartas Oferecendo Cartas aos Fãs](https://marriedgames.com.br/noticias/yu-gi-oh-duel-links-2/)
-- [Como Escolher Corretamente o Notebook para Jogos](https://marriedgames.com.br/dicas-guias/notebook-para-jogos/)
-- [Ubisoft Brasil anuncia linha de mousepads de Rainbow Six Siege com a FalleN Store](https://marriedgames.com.br/noticias/mousepads-de-rainbow-six/)
-- [Liderança do BIG Festival levará o mercado nacional de games a GDC 2023](https://marriedgames.com.br/noticias/lideranca-do-big-festival/)
+- [Amber Genshin Impact: Descubra a melhor combinação de armas e artefatos](https://marriedgames.com.br/dicas-guias/amber-genshin-impact/)
+- [As Melhores Lâmpadas Inteligentes de LED para 2023](https://marriedgames.com.br/dicas-guias/lampadas-inteligentes/)
+- [Resident Evil 4 Remake – Tudo o que Você Precisa Saber Antes de Comprar](https://marriedgames.com.br/dicas-guias/resident-evil-4/)
+- [Trinity Fusion no Early Acess: Action-Roguelite Platformer chega em 13 de abril](https://marriedgames.com.br/noticias/trinity-fusion-no-early-acess/)
+- [Apresentando o VCT23 Game Changers Championship](https://marriedgames.com.br/noticias/apresentando-o-vct23-game-changers-championship/)
 <!-- BLOG-POST-LIST:END -->
 
 
