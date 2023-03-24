@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Revisão oficial do aplicativo móvel da Vbet no Brasil](https://marriedgames.com.br/noticias/aplicativo-movel-da-vbet/)
-- [Tipspace lança ligas de LoL na plataforma e multiplicador de recompensas](https://marriedgames.com.br/noticias/tipspace-lanca-ligas-de-lol/)
-- [Amber Genshin Impact: Descubra a melhor combinação de armas e artefatos](https://marriedgames.com.br/dicas-guias/amber-genshin-impact/)
-- [As Melhores Lâmpadas Inteligentes de LED para 2023](https://marriedgames.com.br/dicas-guias/lampadas-inteligentes/)
-- [Resident Evil 4 Remake – Tudo o que Você Precisa Saber Antes de Comprar](https://marriedgames.com.br/dicas-guias/resident-evil-4/)
+- [ChatGPT: O Que É, Como Funciona e GANHAR DINHEIRO com Ele](https://marriedgames.com.br/tecnologia/chatgpt-2/)
+- [CCXP23 anuncia valores dos ingressos de primeiro lote](https://marriedgames.com.br/noticias/ccxp23-anuncia-valores/)
+- [World of Warcraft: Dragonflight recebe patch 10.0.7 com nova área, o Recôndito Proibido](https://marriedgames.com.br/noticias/recondito-proibido/)
+- [Honor of Kings anuncia o Circuito dos Reis, primeiro campeonato para o Brasil](https://marriedgames.com.br/noticias/circuito-dos-reis/)
+- [Shazam 2 – Fúria dos Deuses: Quem é Quem na Família Shazam](https://marriedgames.com.br/dicas-guias/shazam-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
