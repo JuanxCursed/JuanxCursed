@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT: O Que É, Como Funciona e GANHAR DINHEIRO com Ele](https://marriedgames.com.br/tecnologia/chatgpt-2/)
-- [CCXP23 anuncia valores dos ingressos de primeiro lote](https://marriedgames.com.br/noticias/ccxp23-anuncia-valores/)
-- [World of Warcraft: Dragonflight recebe patch 10.0.7 com nova área, o Recôndito Proibido](https://marriedgames.com.br/noticias/recondito-proibido/)
-- [Honor of Kings anuncia o Circuito dos Reis, primeiro campeonato para o Brasil](https://marriedgames.com.br/noticias/circuito-dos-reis/)
-- [Shazam 2 – Fúria dos Deuses: Quem é Quem na Família Shazam](https://marriedgames.com.br/dicas-guias/shazam-2/)
+- [Super Mario Bros O Filme: Tudo do Encanador da Nintendo Fora dos Games](https://marriedgames.com.br/filmes-series/super-mario-bros-o-filme/)
+- [Acer Predator Orion 5000: Um PC Gamer Monstro](https://marriedgames.com.br/analises/predator-orion-5000/)
+- [SEGA anuncia Sonic Origins Plus com Nova coleção de jogos do Game Gear](https://marriedgames.com.br/noticias/sonic-origins-plus/)
+- [Atualização do Free Fire chega com novos personagens e acesso gratuito a todos](https://marriedgames.com.br/noticias/atualizacao-do-free-fire/)
+- [Super Mario Faz Pit Stop No Lollapalooza Antes De Estrear Nos Cinemas Brasileiros](https://marriedgames.com.br/noticias/super-mario-faz-pit-stop-no-lollapalooza-antes-de-estrear-nos-cinemas-brasileiros/)
 <!-- BLOG-POST-LIST:END -->
 
 
