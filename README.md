@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Super Mario Bros O Filme: Tudo do Encanador da Nintendo Fora dos Games](https://marriedgames.com.br/filmes-series/super-mario-bros-o-filme/)
-- [Acer Predator Orion 5000: Um PC Gamer Monstro](https://marriedgames.com.br/analises/predator-orion-5000/)
-- [SEGA anuncia Sonic Origins Plus com Nova coleção de jogos do Game Gear](https://marriedgames.com.br/noticias/sonic-origins-plus/)
-- [Atualização do Free Fire chega com novos personagens e acesso gratuito a todos](https://marriedgames.com.br/noticias/atualizacao-do-free-fire/)
-- [Super Mario Faz Pit Stop No Lollapalooza Antes De Estrear Nos Cinemas Brasileiros](https://marriedgames.com.br/noticias/super-mario-faz-pit-stop-no-lollapalooza-antes-de-estrear-nos-cinemas-brasileiros/)
+- [LoL, Free Fire, Clash Royale e mais: Defuse anuncia torneios diários com premiações](https://marriedgames.com.br/noticias/defuse-anuncia-torneios/)
+- [Feminino de Valorant do MIBR vence e segue no VTC  Brazil](https://marriedgames.com.br/noticias/feminino-de-valorant/)
+- [War Robots Frontiers está gratuito para jogar neste fim de semana](https://marriedgames.com.br/noticias/war-robots-frontiers/)
+- [NBA ID Member Days possibilita o desbloqueio de jogos clássicos dos anos 90 no aplicativo](https://marriedgames.com.br/noticias/nba-id-member-days/)
+- [Temporada 2 World War 3: Game vai receber a Operation Sunstorm](https://marriedgames.com.br/noticias/temporada-2-world-war-3/)
 <!-- BLOG-POST-LIST:END -->
 
 
