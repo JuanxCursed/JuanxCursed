@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como baixar e jogar Arknights PC [GUIA COMPLETO]](https://marriedgames.com.br/dicas-guias/arknights-pc/)
+- [As Melhores Casas de Apostas com Bônus do Brasil](https://marriedgames.com.br/noticias/melhores-casas-de-apostas/)
 - [Review oficial da Betano no Brasil](https://marriedgames.com.br/dicas-guias/review-oficial-da-betano-no-brasil/)
 - [Programação de eventos Master e Challenger do TEKKEN WORLD TOUR 2023 anunciados](https://marriedgames.com.br/noticias/programacao-de-eventos-master-e-challenger-do-tekken-world-tour-2023-anunciados/)
 - [Volcano Princess entrará em erupção na Steam em abril!](https://marriedgames.com.br/noticias/volcano-princess-entrara-em-erupcao-na-steam-em-abril/)
-- [Heineken 0.0 E Riot Games Se Unem Para Criar Experiência Única E Imersiva](https://marriedgames.com.br/noticias/heineken-0-0-e-riot-games/)
-- [Company of Heroes 3 recebe grande atualização gratuita “Operation Sapphire Jackal” amanhã](https://marriedgames.com.br/noticias/operation-sapphire-jackal/)
 <!-- BLOG-POST-LIST:END -->
 
 
