@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Minecraft e D&amp;D: Jogadores poderão mergulhar fundo e derrotar dragões em com a nova DLC](https://marriedgames.com.br/noticias/minecraft-e-dd/)
+- [A Knight In The Attic VR Aventura Puzzle Jogo em 13 de Abril](https://marriedgames.com.br/noticias/a-knight-in-the-attic-vr-aventura-puzzle-jogo-em-13-de-abril/)
 - [Como Instalar Bluestacks no seu Computador](https://marriedgames.com.br/dicas-guias/como-instalar-bluestacks/)
 - [SWORD ART ONLINE LAST RECOLLECTION ganha trailer com jogabilidade e elementos da história](https://marriedgames.com.br/noticias/sword-art-online-last-recollection/)
 - [Dying Light Grátis: Techland Oferece uma “Entrada Grátis para Harran”](https://marriedgames.com.br/noticias/dying-light-gratis-techland-oferece-uma-entrada-gratis-para-harran/)
-- [Promoções Hype Games: Descontos semanais nos títulos da Bandai Namco](https://marriedgames.com.br/noticias/promocoes-hype-games/)
-- [Dispute uma batalha épica pela glória em LEGO Brawls com o novo cenário de castelo](https://marriedgames.com.br/noticias/lego-brawls/)
 <!-- BLOG-POST-LIST:END -->
 
 
