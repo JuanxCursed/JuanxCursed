@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [O RPG de mundo aberto EVERSPACE 2 é lançado hoje no PC!](https://marriedgames.com.br/noticias/everspace-2-e-lancado/)
 - [Crimen – Mercenary Tales Revela as Desaventuras do Século 17 no Meta Quest 2](https://marriedgames.com.br/noticias/crimen-mercenary-tales/)
 - [Minecraft e D&amp;D: Jogadores poderão mergulhar fundo e derrotar dragões em com a nova DLC](https://marriedgames.com.br/noticias/minecraft-e-dd/)
 - [A Knight In The Attic VR Aventura Puzzle Jogo em 13 de Abril](https://marriedgames.com.br/noticias/a-knight-in-the-attic-vr-aventura-puzzle-jogo-em-13-de-abril/)
 - [Como Instalar Bluestacks no seu Computador](https://marriedgames.com.br/dicas-guias/como-instalar-bluestacks/)
-- [SWORD ART ONLINE LAST RECOLLECTION ganha trailer com jogabilidade e elementos da história](https://marriedgames.com.br/noticias/sword-art-online-last-recollection/)
 <!-- BLOG-POST-LIST:END -->
 
 
