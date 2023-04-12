@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Chaves Windows 10 Enterprise: Licenças de Ativação [Todas Funcionando]](https://marriedgames.com.br/dicas-guias/chaves-windows-10-enterprise/)
+- [Chave do Windows 10: Como Ativar Sistema Com a Licença Digital](https://marriedgames.com.br/dicas-guias/chave-do-windows-10/)
+- [Ativar Windows 10 pelo CMD: Legitime seu Sistema com Comandos Simples](https://marriedgames.com.br/dicas-guias/ativar-windows-10-pelo-cmd/)
+- [Vale a Pena Investir em um PlayStation 4 ou Xbox One em 2023?](https://marriedgames.com.br/analises/playstation-4-ou-xbox-one/)
 - [Chaves do Windows 10 Pro: Licenças e Keys para Ativação [Testadas e Funcionando]](https://marriedgames.com.br/dicas-guias/chaves-windows-10-pro/)
-- [Chaves e Licenças do Windows 10 [Testadas e Funcionando]](https://marriedgames.com.br/dicas-guias/chaves-de-ativacao-do-windows/)
-- [O RPG de mundo aberto EVERSPACE 2 é lançado hoje no PC!](https://marriedgames.com.br/noticias/everspace-2-e-lancado/)
-- [Crimen – Mercenary Tales Revela as Desaventuras do Século 17 no Meta Quest 2](https://marriedgames.com.br/noticias/crimen-mercenary-tales/)
+- [Chaves e Licenças do Windows 10 [Testadas e Funcionando]](https://marriedgames.com.br/dicas-guias/chave-de-ativacao-do-windows-10/)
 <!-- BLOG-POST-LIST:END -->
 
 
