@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Chave do Windows 10: Como Ativar Sistema Com a Licença Digital](https://marriedgames.com.br/dicas-guias/chave-do-windows-10/)
-- [Ativar Windows 10 pelo CMD: Legitime seu Sistema com Comandos Simples](https://marriedgames.com.br/dicas-guias/ativar-windows-10-pelo-cmd/)
-- [Vale a Pena Investir em um PlayStation 4 ou Xbox One em 2023?](https://marriedgames.com.br/analises/playstation-4-ou-xbox-one/)
-- [Chaves do Windows 10 Pro: Licenças e Keys para Ativação [Testadas e Funcionando]](https://marriedgames.com.br/dicas-guias/chaves-windows-10-pro/)
-- [Chaves e Licenças do Windows 10 [Testadas e Funcionando]](https://marriedgames.com.br/dicas-guias/chave-de-ativacao-do-windows-10/)
+- [Lançamentos Nintendo Switch: Tudo que Chega em 2023 [Maio, Abril e Março]](https://marriedgames.com.br/dicas-guias/lancamentos-nintendo-switch/)
+- [Lançamentos Xbox: Tudo que vem para XOne, Series X e Series S 2023 [Maio, Abril e Março]](https://marriedgames.com.br/dicas-guias/lancamentos-xbox/)
+- [Lançamentos de Jogos para PC: Tudo para Computador [Maio, Abril e Março]](https://marriedgames.com.br/dicas-guias/lancamentos-de-jogos/)
+- [TODOS os EASTER EGGS de SUPER MARIO BROS O FILME](https://marriedgames.com.br/dicas-guias/super-mario-bros-easter-egg/)
+- [Confira os Lançamentos PlayStation: PS5, PS4 e VR 2 [Maio, Abril, Março e Fevereiro]](https://marriedgames.com.br/dicas-guias/lancamentos-playstation/)
 <!-- BLOG-POST-LIST:END -->
 
 
