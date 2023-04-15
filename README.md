@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Review de Everspace 2: RPG Espacial com Gosto de Clássico](https://marriedgames.com.br/analises/everspace-2/)
 - [Ganhe Dinheiro Testando o ChatGPT: Recompensas de até R$ 100.000!](https://marriedgames.com.br/noticias/bug-bounty/)
 - [Lançamentos Nintendo Switch: Tudo que Chega em 2023 [Maio, Abril e Março]](https://marriedgames.com.br/dicas-guias/lancamentos-nintendo-switch/)
 - [Lançamentos Xbox: Tudo que vem para XOne, Series X e Series S 2023 [Maio, Abril e Março]](https://marriedgames.com.br/dicas-guias/lancamentos-xbox/)
 - [Lançamentos de Jogos para PC: Tudo para Computador [Maio, Abril e Março]](https://marriedgames.com.br/dicas-guias/lancamentos-de-jogos/)
-- [TODOS os EASTER EGGS de SUPER MARIO BROS O FILME](https://marriedgames.com.br/dicas-guias/super-mario-bros-easter-egg/)
 <!-- BLOG-POST-LIST:END -->
 
 
