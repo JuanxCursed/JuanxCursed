@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Review SSD T-Force Cardea A440: Perfeito para o PS5 e PCs Gamer](https://marriedgames.com.br/analises/cardea-a440/)
 - [Por que os eSports são tão emocionantes?](https://marriedgames.com.br/noticias/esports-sao-tao-emocionantes/)
 - [Review de Everspace 2: Vale a Pena jogar esse RPG e Shooter no Espaço](https://marriedgames.com.br/analises/everspace-2/)
 - [Ganhe Dinheiro Testando o ChatGPT: Recompensas de até R$ 100.000!](https://marriedgames.com.br/noticias/ganhe-dinheiro-testando-o-chatgpt-recompensas-de-ate-r-100-000/)
 - [Lançamentos Nintendo Switch: Tudo que Chega em 2023 [Maio, Abril e Março]](https://marriedgames.com.br/dicas-guias/lancamentos-nintendo-switch/)
-- [Lançamentos Xbox: Tudo que vem para XOne, Series X e Series S 2023 [Maio, Abril e Março]](https://marriedgames.com.br/dicas-guias/lancamentos-xbox/)
 <!-- BLOG-POST-LIST:END -->
 
 
