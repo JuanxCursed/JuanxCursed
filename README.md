@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [O que é SSD: Como Funcionam e Suas Principais Características](https://marriedgames.com.br/dicas-guias/o-que-e-ssd/)
+- [Como instalar SSD SATA no PC Passo-a-Passo](https://marriedgames.com.br/dicas-guias/instalar-ssd-sata/)
 - [Por Que as Opiniões dos Clientes São Tão Importantes Para a Reputação do Site?](https://marriedgames.com.br/noticias/por-que-as-opinioes-dos-clientes-sao-tao-importantes-para-a-reputacao-do-site/)
 - [Review SSD T-Force Cardea A440: Perfeito para o PS5 e PCs Gamer](https://marriedgames.com.br/analises/cardea-a440/)
 - [Por que os eSports são tão emocionantes?](https://marriedgames.com.br/noticias/esports-sao-tao-emocionantes/)
-- [Review de Everspace 2: Vale a Pena jogar esse RPG e Shooter no Espaço](https://marriedgames.com.br/analises/everspace-2/)
-- [Ganhe Dinheiro Testando o ChatGPT: Recompensas de até R$ 100.000!](https://marriedgames.com.br/noticias/ganhe-dinheiro-testando-o-chatgpt-recompensas-de-ate-r-100-000/)
 <!-- BLOG-POST-LIST:END -->
 
 
