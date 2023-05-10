@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [POCO revela detalhes completos do POCO F5 e POCO F5 Pro antes do lançamento](https://marriedgames.com.br/noticias/poco-f5-e-poco-f5-pro/)
 - [Segurança Cassinos Online: Quais Medidas são Usadas pelos Sites de Aposta](https://marriedgames.com.br/noticias/seguranca-cassinos-online/)
 - [O que é SSD: Como Funcionam e Suas Principais Características](https://marriedgames.com.br/dicas-guias/o-que-e-ssd/)
 - [Como instalar SSD SATA no PC Passo-a-Passo](https://marriedgames.com.br/dicas-guias/instalar-ssd-sata/)
 - [Por Que as Opiniões dos Clientes São Tão Importantes Para a Reputação do Site?](https://marriedgames.com.br/noticias/por-que-as-opinioes-dos-clientes-sao-tao-importantes-para-a-reputacao-do-site/)
-- [Review SSD T-Force Cardea A440: Perfeito para o PS5 e PCs Gamer](https://marriedgames.com.br/analises/cardea-a440/)
 <!-- BLOG-POST-LIST:END -->
 
 
