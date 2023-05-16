@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Os Melhores Jogos para Ganhar Dinheiro em 2023](https://marriedgames.com.br/dicas-guias/jogos-para-ganhar-dinheiro/)
+- [Backup do WhatsApp: Aprenda Como Fazer no Celular, Windows e Mac](https://marriedgames.com.br/dicas-guias/backup-do-whatsapp/)
+- [Como Escolher SSD: Saiba a Melhor Opção para seu PC ou Notebook](https://marriedgames.com.br/dicas-guias/como-escolher-ssd/)
+- [Como Instalar SSD M2 no PC: Guia Definitivo Passo-a-Passo](https://marriedgames.com.br/dicas-guias/como-instalar-ssd-m2/)
 - [Saiba como Migrar para WhatsApp Business [GUIA FÁCIL DEFINITIVO]](https://marriedgames.com.br/dicas-guias/migrar-para-whatsapp-business/)
-- [Como instalar SSD no Notebook: Passo-a-Passo Fácil](https://marriedgames.com.br/dicas-guias/instalar-ssd-no-notebook/)
-- [GGBet – Site de Apostas Online: Jogos de Cassino e Esportes](https://marriedgames.com.br/noticias/ggbet/)
-- [POCO revela detalhes completos do POCO F5 e POCO F5 Pro antes do lançamento](https://marriedgames.com.br/noticias/poco-f5-e-poco-f5-pro/)
-- [Segurança Cassinos Online: Quais Medidas são Usadas pelos Sites de Aposta](https://marriedgames.com.br/noticias/seguranca-cassinos-online/)
 <!-- BLOG-POST-LIST:END -->
 
 
