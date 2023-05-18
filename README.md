@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Sims: Mais de 20 Anos Definindo um Gênero](https://marriedgames.com.br/analises/the-sims-definindo-um-genero/)
+- [Android Auto: O Google Irá Dirigir seu Carro? Descubra!](https://marriedgames.com.br/dicas-guias/android-auto/)
+- [Android Studio: conheça essa Ferramenta do Google para Criar Aplicativos](https://marriedgames.com.br/dicas-guias/android-studio/)
+- [Os 27 Melhores Jogos De Futebol Para Celulares E Tablets](https://marriedgames.com.br/dicas-guias/jogos-de-futebol-para-celulares/)
 - [Os Melhores Jogos para Ganhar Dinheiro em 2023](https://marriedgames.com.br/dicas-guias/jogos-para-ganhar-dinheiro/)
-- [Backup do WhatsApp: Aprenda Como Fazer no Celular, Windows e Mac](https://marriedgames.com.br/dicas-guias/backup-do-whatsapp/)
-- [Como Escolher SSD: Saiba a Melhor Opção para seu PC ou Notebook](https://marriedgames.com.br/dicas-guias/como-escolher-ssd/)
-- [Como Instalar SSD M2 no PC: Guia Definitivo Passo-a-Passo](https://marriedgames.com.br/dicas-guias/como-instalar-ssd-m2/)
-- [Saiba como Migrar para WhatsApp Business [GUIA FÁCIL DEFINITIVO]](https://marriedgames.com.br/dicas-guias/migrar-para-whatsapp-business/)
 <!-- BLOG-POST-LIST:END -->
 
 
