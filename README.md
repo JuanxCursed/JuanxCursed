@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Desafio do Lixo ao Luxo em The Sims 4: Todas Regras e Objetivos](https://marriedgames.com.br/dicas-guias/desafio-do-lixo-ao-luxo/)
+- [Curiosidades The Sims: 15 Fatos &lpar;e um Rumor&rpar; que Você não vê Por  Aí](https://marriedgames.com.br/analises/curiosidades-the-sims/)
 - [The Sims: Mais de 20 Anos Definindo um Gênero](https://marriedgames.com.br/analises/the-sims-definindo-um-genero/)
 - [Android Auto: O Google Irá Dirigir seu Carro? Descubra!](https://marriedgames.com.br/dicas-guias/android-auto/)
 - [Android Studio: conheça essa Ferramenta do Google para Criar Aplicativos](https://marriedgames.com.br/dicas-guias/android-studio/)
-- [Os 27 Melhores Jogos De Futebol Para Celulares E Tablets](https://marriedgames.com.br/dicas-guias/jogos-de-futebol-para-celulares/)
-- [Os Melhores Jogos para Ganhar Dinheiro em 2023](https://marriedgames.com.br/dicas-guias/jogos-para-ganhar-dinheiro/)
 <!-- BLOG-POST-LIST:END -->
 
 
