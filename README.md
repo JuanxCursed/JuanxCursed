@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Sims 1: Conheça o Game que Deu Origem a um Gênero](https://marriedgames.com.br/analises/the-sims-1/)
+- [SimSync: O Mod que Transforma The Sims 4 em Jogo Online](https://marriedgames.com.br/dicas-guias/simsync/)
 - [Reviver um Sim: Saiba Como Vencer a Morte em The Sims 4](https://marriedgames.com.br/dicas-guias/reviver-um-sim/)
+- [The Sims 2: Anos Depois Ainda É O Melhor Jogo Da Série?](https://marriedgames.com.br/analises/the-sims-2/)
 - [Desafio do Lixo ao Luxo em The Sims 4: Todas Regras e Objetivos](https://marriedgames.com.br/dicas-guias/desafio-do-lixo-ao-luxo/)
-- [Curiosidades The Sims: 15 Fatos &lpar;e um Rumor&rpar; que Você não vê Por  Aí](https://marriedgames.com.br/analises/curiosidades-the-sims/)
-- [The Sims: Mais de 20 Anos Definindo um Gênero](https://marriedgames.com.br/analises/the-sims-definindo-um-genero/)
-- [Android Auto: O Google Irá Dirigir seu Carro? Descubra!](https://marriedgames.com.br/dicas-guias/android-auto/)
 <!-- BLOG-POST-LIST:END -->
 
 
