@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Lançamento de Diablo IV](https://www.youtube.com/watch?v=ivtDY_GDXnw)
 - [F no comentário](https://www.youtube.com/watch?v=XWWzY4fYEY0)
 - [5 Melhores microfones para podcast, streaming e youtube até R$ 400 [ANÁLISE COMPLETA]](https://www.youtube.com/watch?v=W4gIt1x7iIs)
 - [Depois da minnha mãe me chamar na 3vez, e eu continuar jogando](https://www.youtube.com/watch?v=lpS7rABnTZ0)
 - [Minha Mãe me chamando pela 3 vez, e eu continuar jogando](https://www.youtube.com/watch?v=QFOIDgfRbGQ)
-- [Unity no Visual Studio Code:  Configurando o intellisense [Auto-complete]](https://www.youtube.com/watch?v=iQOKdN0E_H0)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
