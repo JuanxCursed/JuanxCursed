@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Exposição da franquia Diablo](https://www.youtube.com/watch?v=cRLwKKZJE2A)
+- [Lilith chegou ao evento](https://www.youtube.com/watch?v=3tRVQ_Z9s_w)
 - [Lançamento de Diablo IV](https://www.youtube.com/watch?v=ivtDY_GDXnw)
 - [F no comentário](https://www.youtube.com/watch?v=XWWzY4fYEY0)
 - [5 Melhores microfones para podcast, streaming e youtube até R$ 400 [ANÁLISE COMPLETA]](https://www.youtube.com/watch?v=W4gIt1x7iIs)
-- [Depois da minnha mãe me chamar na 3vez, e eu continuar jogando](https://www.youtube.com/watch?v=lpS7rABnTZ0)
-- [Minha Mãe me chamando pela 3 vez, e eu continuar jogando](https://www.youtube.com/watch?v=QFOIDgfRbGQ)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
