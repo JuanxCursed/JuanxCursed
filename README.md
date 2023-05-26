@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Sims 3: 14 Anos Depois o Inovador Jogo Continua Excelente](https://marriedgames.com.br/analises/the-sims-3/)
+- [The Sims Online: Tudo sobre o Jogo Multiplayer de The Sims](https://marriedgames.com.br/analises/the-sims-online/)
+- [The Sims Medieval: Um dos Jogos Mais Subestimados da Série](https://marriedgames.com.br/analises/the-sims-medieval/)
+- [The Sims 2 Download: Quer Jogar Mas Não Sabe Como? A Gente Ensina](https://marriedgames.com.br/dicas-guias/the-sims-2-download/)
 - [The Sims Freeplay: Jogue The Sims Onde e Quando Quiser](https://marriedgames.com.br/analises/the-sims-freeplay/)
-- [The Sims 1: Conheça o Game que Deu Origem a um Gênero](https://marriedgames.com.br/analises/the-sims-1/)
-- [SimSync: O Mod que Transforma The Sims 4 em Jogo Online](https://marriedgames.com.br/dicas-guias/simsync/)
-- [Reviver um Sim: Saiba Como Vencer a Morte em The Sims 4](https://marriedgames.com.br/dicas-guias/reviver-um-sim/)
-- [The Sims 2: Anos Depois Ainda É O Melhor Jogo Da Série?](https://marriedgames.com.br/analises/the-sims-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
