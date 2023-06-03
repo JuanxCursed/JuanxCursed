@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como são Feitos os Caça Níqueis Online: Histórias da Microgaming e da Novomatic](https://marriedgames.com.br/noticias/caca-niqueis-online/)
 - [Lord of the Rings Gollum: Não Gaste seu Precioso Dinheiro Aqui](https://marriedgames.com.br/analises/lord-of-the-rings-gollum/)
 - [The Sims 3: 14 Anos Depois o Inovador Jogo Continua Excelente](https://marriedgames.com.br/analises/the-sims-3/)
 - [The Sims Online: Tudo sobre o Jogo Multiplayer de The Sims](https://marriedgames.com.br/analises/the-sims-online/)
 - [The Sims Medieval: Um dos Jogos Mais Subestimados da Série](https://marriedgames.com.br/analises/the-sims-medieval/)
-- [The Sims 2 Download: Quer Jogar Mas Não Sabe Como? A Gente Ensina](https://marriedgames.com.br/dicas-guias/the-sims-2-download/)
 <!-- BLOG-POST-LIST:END -->
 
 
