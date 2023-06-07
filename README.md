@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dicas Street Fighter 6: Entre no Jogo Detonando os Adversários](https://marriedgames.com.br/dicas-guias/dicas-street-fighter-6/)
+- [Build Druid Diablo 4: Melhores Habilidades, Aspectos e Atributos](https://marriedgames.com.br/noticias/druid-diablo-4/)
+- [Minecraft 1.16, 1.17 e 1.18: Como Baixar e Tudo sobre as Versões](https://marriedgames.com.br/dicas-guias/minecraft-1-16-1-17-e-1-18/)
+- [Build Necromancer Diablo 4: Use o Poder dos Mortos para Vencer](https://marriedgames.com.br/dicas-guias/necromancer-diablo-4/)
 - [ChatGPT: a Revolução no Mundo dos Cassinos Online](https://marriedgames.com.br/noticias/cassinos-online/)
-- [Review Diablo IV: Não é um Jogo Bom. É Excelente!](https://marriedgames.com.br/analises/review-diablo-iv/)
-- [Como são Feitos os Caça Níqueis Online: Histórias da Microgaming e da Novomatic](https://marriedgames.com.br/noticias/caca-niqueis-online/)
-- [Lord of the Rings Gollum: Não Gaste seu Precioso Dinheiro Aqui](https://marriedgames.com.br/analises/lord-of-the-rings-gollum/)
-- [The Sims 3: 14 Anos Depois o Inovador Jogo Continua Excelente](https://marriedgames.com.br/analises/the-sims-3/)
 <!-- BLOG-POST-LIST:END -->
 
 
