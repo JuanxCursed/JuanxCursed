@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como Jogar com Chun Li Street Fighter 6: Pontos Forte, Combos e História](https://marriedgames.com.br/dicas-guias/chun-li-street-fighter/)
+- [Como Jogar com Ryu Street Fighter 6: Estratégias, Combos e História](https://marriedgames.com.br/dicas-guias/ryu-street-fighter-6/)
+- [Como jogar com Blanka Street Fighter 6: Movimentos, Combos e História](https://marriedgames.com.br/dicas-guias/blanka-street-fighter/)
 - [Dicas Street Fighter 6: Entre no Jogo Detonando os Adversários](https://marriedgames.com.br/dicas-guias/dicas-street-fighter-6/)
 - [Build Druid Diablo 4: Melhores Habilidades, Aspectos e Atributos](https://marriedgames.com.br/noticias/druid-diablo-4/)
-- [Minecraft 1.16, 1.17 e 1.18: Como Baixar e Tudo sobre as Versões](https://marriedgames.com.br/dicas-guias/minecraft-1-16-1-17-e-1-18/)
-- [Build Necromancer Diablo 4: Use o Poder dos Mortos para Vencer](https://marriedgames.com.br/dicas-guias/necromancer-diablo-4/)
-- [ChatGPT: a Revolução no Mundo dos Cassinos Online](https://marriedgames.com.br/noticias/cassinos-online/)
 <!-- BLOG-POST-LIST:END -->
 
 
