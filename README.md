@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lançamentos Nintendo Switch: Tudo que Chega em 2023 [Julho, Junho e Maio]](https://marriedgames.com.br/dicas-guias/lancamentos-nintendo-switch/)
+- [Lançamentos Xbox: Tudo que vem para XOne, Series X e Series S 2023 [Maio, Junho e Julho]](https://marriedgames.com.br/dicas-guias/lancamentos-xbox/)
+- [Confira os Lançamentos PlayStation: PS5, PS4 e VR 2 [Julho, Junho, Maio e Abril]](https://marriedgames.com.br/dicas-guias/lancamentos-playstation/)
 - [Como Jogar com Chun Li Street Fighter 6: Pontos Forte, Combos e História](https://marriedgames.com.br/dicas-guias/chun-li-street-fighter/)
 - [Como Jogar com Ryu Street Fighter 6: Estratégias, Combos e História](https://marriedgames.com.br/dicas-guias/ryu-street-fighter-6/)
-- [Como jogar com Blanka Street Fighter 6: Movimentos, Combos e História](https://marriedgames.com.br/dicas-guias/blanka-street-fighter/)
-- [Dicas Street Fighter 6: Entre no Jogo Detonando os Adversários](https://marriedgames.com.br/dicas-guias/dicas-street-fighter-6/)
-- [Build Druid Diablo 4: Melhores Habilidades, Aspectos e Atributos](https://marriedgames.com.br/noticias/druid-diablo-4/)
 <!-- BLOG-POST-LIST:END -->
 
 
