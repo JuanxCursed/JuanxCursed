@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lançamentos Nintendo Switch: Tudo que Chega em 2023 [Julho, Junho e Maio]](https://marriedgames.com.br/dicas-guias/lancamentos-nintendo-switch/)
-- [Lançamentos Xbox: Tudo que vem para XOne, Series X e Series S 2023 [Maio, Junho e Julho]](https://marriedgames.com.br/dicas-guias/lancamentos-xbox/)
-- [Confira os Lançamentos PlayStation: PS5, PS4 e VR 2 [Julho, Junho, Maio e Abril]](https://marriedgames.com.br/dicas-guias/lancamentos-playstation/)
-- [Como Jogar com Chun Li Street Fighter 6: Pontos Forte, Combos e História](https://marriedgames.com.br/dicas-guias/chun-li-street-fighter/)
-- [Como Jogar com Ryu Street Fighter 6: Estratégias, Combos e História](https://marriedgames.com.br/dicas-guias/ryu-street-fighter-6/)
+- [Genshin Impact Mods: Você Pode Modificar o Game? É Seguro? Descubra!](https://marriedgames.com.br/dicas-guias/genshin-impact-mods/)
+- [Review Razer Seiren Mini: Microfone Compacto para Streamers](https://marriedgames.com.br/analises/razer-seiren-mini/)
+- [Melhor Build Barbarian Diablo 4: Dilacere Inimigos e Sangre Demônios](https://marriedgames.com.br/dicas-guias/barbarian-diablo-4/)
+- [Melhor Build para Sorcerer Diablo IV: Habilidades, Atributos e Estratégia](https://marriedgames.com.br/dicas-guias/sorcerer-diablo-iv/)
+- [Blue Snowball iCE: O Melhor Microfone para Iniciantes? [Review Completo]](https://marriedgames.com.br/analises/blue-snowball-ice/)
 <!-- BLOG-POST-LIST:END -->
 
 
