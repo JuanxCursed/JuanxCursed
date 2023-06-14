@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Genshin Impact Private Servers: Saiba como Desbloquear Todos os Personagens Grátis](https://marriedgames.com.br/dicas-guias/genshin-impact-private-servers/)
+- [Tente a Sorte na Próxima Quina de São João](https://marriedgames.com.br/noticias/quina-de-sao-joao/)
+- [Como Jogar com Guile Street Fighter 6: Estratégias, História e Combos](https://marriedgames.com.br/dicas-guias/guile-street-fighter-6/)
 - [Genshin Impact Mods: Você Pode Modificar o Game? É Seguro? Descubra!](https://marriedgames.com.br/dicas-guias/genshin-impact-mods/)
 - [Review Razer Seiren Mini: Microfone Compacto para Streamers](https://marriedgames.com.br/analises/razer-seiren-mini/)
-- [Melhor Build Barbarian Diablo 4: Dilacere Inimigos e Sangre Demônios](https://marriedgames.com.br/dicas-guias/barbarian-diablo-4/)
-- [Melhor Build para Sorcerer Diablo IV: Habilidades, Atributos e Estratégia](https://marriedgames.com.br/dicas-guias/sorcerer-diablo-iv/)
-- [Blue Snowball iCE: O Melhor Microfone para Iniciantes? [Review Completo]](https://marriedgames.com.br/analises/blue-snowball-ice/)
 <!-- BLOG-POST-LIST:END -->
 
 
