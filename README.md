@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Diablo 4 Rogue: Sangre seus Inimigos com Lâminas e Flechas](https://marriedgames.com.br/dicas-guias/diablo-4-rogue/)
 - [Review Amnesia The Bunker: A Guerra Não é o Único Terror Aqui](https://marriedgames.com.br/analises/amnesia-the-bunker/)
 - [App Para Assistir Filmes Grátis: 12 Melhores Alternativas a Netflix](https://marriedgames.com.br/dicas-guias/app-para-assistir-filmes-gratis/)
 - [Genshin Impact Private Servers: Saiba como Desbloquear Todos os Personagens Grátis](https://marriedgames.com.br/dicas-guias/genshin-impact-private-servers/)
 - [Tente a Sorte na Próxima Quina de São João](https://marriedgames.com.br/noticias/quina-de-sao-joao/)
-- [Como Jogar com Guile Street Fighter 6: Estratégias, História e Combos](https://marriedgames.com.br/dicas-guias/guile-street-fighter-6/)
 <!-- BLOG-POST-LIST:END -->
 
 
