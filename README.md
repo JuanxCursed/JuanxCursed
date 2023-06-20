@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
-- [Exposição da franquia Diablo](https://www.youtube.com/watch?v=cRLwKKZJE2A)
-- [Lilith chegou ao evento](https://www.youtube.com/watch?v=3tRVQ_Z9s_w)
-- [Lançamento de Diablo IV](https://www.youtube.com/watch?v=ivtDY_GDXnw)
-- [F no comentário](https://www.youtube.com/watch?v=XWWzY4fYEY0)
-- [5 Melhores microfones para podcast, streaming e youtube até R$ 400 [ANÁLISE COMPLETA]](https://www.youtube.com/watch?v=W4gIt1x7iIs)
+- [Soundbar S90 da LG](https://www.youtube.com/watch?v=chKAnQtanAs)
+- [Soundbar S90 da LG](https://www.youtube.com/watch?v=4Vuj8VIzIMQ)
+- [TV Fkex da LG](https://www.youtube.com/watch?v=ONs40f1NF6o)
+- [Notebook Gram LG](https://www.youtube.com/watch?v=IDN3Mo9dGaI)
+- [Notebook Gram da LG](https://www.youtube.com/watch?v=9cdngMbQUHg)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
