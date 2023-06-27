@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Jogar Juri Street Fighter 6: Movimentos, Combos, Dicas e Mais](https://marriedgames.com.br/dicas-guias/juri-street-fighter-6/)
-- [Genshin Impact APK Mod: Baixe uma Versão Turbinada do Game](https://marriedgames.com.br/dicas-guias/genshin-impact-apk-mod/)
-- [Como jogar com Cammy Street Fighter 6: Movimentos, Combos e História](https://marriedgames.com.br/dicas-guias/cammy-street-fighter-6/)
-- [Build Diablo 4 Rogue: Sangre seus Inimigos com Lâminas e Flechas](https://marriedgames.com.br/dicas-guias/diablo-4-rogue/)
-- [Review Amnesia The Bunker: A Guerra Não é o Único Terror Aqui](https://marriedgames.com.br/analises/amnesia-the-bunker/)
+- [Jogo Brasileiro Opposyte Chega Hoje ao Fortnite](https://marriedgames.com.br/noticias/opposyte/)
+- [Melhores MMORPG para PC: Jogos Grátis, Pagos e Freemium](https://marriedgames.com.br/dicas-guias/os-melhores-mmorpg-para-pc/)
+- [Jogos Mundo Aberto Android e iOS: Os melhores para Baixar Agora](https://marriedgames.com.br/dicas-guias/jogos-mundo-aberto-android/)
+- [Construindo Conexões em Mundos Virtuais: O Poder das Comunidades de Jogos Online](https://marriedgames.com.br/dicas-guias/comunidades-de-jogos-online/)
+- [Antes de Começar Black Desert Online Leia essas 7 Dicas](https://marriedgames.com.br/dicas-guias/dicas-comecar-black-desert/)
 <!-- BLOG-POST-LIST:END -->
 
 
