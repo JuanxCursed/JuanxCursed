@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WinZO anuncia fundo de US$ 10 milhões para ser implantado no ecossistema de jogos do Brasil](https://marriedgames.com.br/noticias/winzo-anuncia-fundo-de-us-10-milhoes-para-ser-implantado-no-ecossistema-de-jogos-do-brasil/)
 - [Hearthstone receberá nova expansão TITÃS, com 145 cartas inéditas, em agosto](https://marriedgames.com.br/noticias/expansao-titas/)
 - [Setor do Domínio 9, a expansão 3.0 de Tower of Fantasy será hoje](https://marriedgames.com.br/noticias/setor-do-dominio-9/)
 - [JA Brasil: Projeto visa impulsionar carreira de jovens no mercado de tecnologia](https://marriedgames.com.br/noticias/ja-brasil/)
 - [Warner Bros. Games E Netease Anunciam O Lançamento De Harry Potter: Desperta A Magia](https://marriedgames.com.br/noticias/desperta-a-magia/)
-- [Jogo Brasileiro Opposyte Chega Hoje ao Fortnite](https://marriedgames.com.br/noticias/opposyte/)
 <!-- BLOG-POST-LIST:END -->
 
 
