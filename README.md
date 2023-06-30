@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Atari no BIG Festival: Publisher divulga trailers de seus novos lançamentos](https://marriedgames.com.br/noticias/atari-no-big-festival/)
+- [Razer anuncia mouses Razer Cobra e Razer Cobra Pro, perfeitos para acabar com os oponentes](https://marriedgames.com.br/noticias/razer-cobra/)
+- [BIG Festival 2023 começa hoje](https://marriedgames.com.br/noticias/big-festival-2023-3/)
 - [WinZO anuncia fundo de US$ 10 milhões para ser implantado no ecossistema de jogos do Brasil](https://marriedgames.com.br/noticias/winzo-anuncia-fundo-de-us-10-milhoes-para-ser-implantado-no-ecossistema-de-jogos-do-brasil/)
 - [Hearthstone receberá nova expansão TITÃS, com 145 cartas inéditas, em agosto](https://marriedgames.com.br/noticias/expansao-titas/)
-- [Setor do Domínio 9, a expansão 3.0 de Tower of Fantasy será hoje](https://marriedgames.com.br/noticias/setor-do-dominio-9/)
-- [JA Brasil: Projeto visa impulsionar carreira de jovens no mercado de tecnologia](https://marriedgames.com.br/noticias/ja-brasil/)
-- [Warner Bros. Games E Netease Anunciam O Lançamento De Harry Potter: Desperta A Magia](https://marriedgames.com.br/noticias/desperta-a-magia/)
 <!-- BLOG-POST-LIST:END -->
 
 
