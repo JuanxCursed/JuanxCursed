@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Atari no BIG Festival: Publisher divulga trailers de seus novos lançamentos](https://marriedgames.com.br/noticias/atari-no-big-festival/)
-- [Razer anuncia mouses Razer Cobra e Razer Cobra Pro, perfeitos para acabar com os oponentes](https://marriedgames.com.br/noticias/razer-cobra/)
-- [BIG Festival 2023 começa hoje](https://marriedgames.com.br/noticias/big-festival-2023-3/)
-- [WinZO anuncia fundo de US$ 10 milhões para ser implantado no ecossistema de jogos do Brasil](https://marriedgames.com.br/noticias/winzo-anuncia-fundo-de-us-10-milhoes-para-ser-implantado-no-ecossistema-de-jogos-do-brasil/)
-- [Hearthstone receberá nova expansão TITÃS, com 145 cartas inéditas, em agosto](https://marriedgames.com.br/noticias/expansao-titas/)
+- [BIG Festival 2023 é palco de estreia mundial de Martial Arts Tycoon: Brazil](https://marriedgames.com.br/noticias/martial-arts-tycoon-brazil/)
+- [Veja quais times seguem para a PUBG MOBILE Pro League Fall Brasil 2023](https://marriedgames.com.br/noticias/pubg-mobile-pro-league-fall-brasil-2023/)
+- [Especialistas dão dicas infalíveis para mandar bem em jogadas do Free Fire no Kwai](https://marriedgames.com.br/noticias/free-fire-no-kwai/)
+- [Veja os Bastidores do salto de Speedflying para ‘Missão: Impossível – Acerto de Contas Parte 1’](https://marriedgames.com.br/noticias/missao-impossivel/)
+- [ESET Security Day Brasil acontece no dia 5 de julho em São Paulo](https://marriedgames.com.br/noticias/eset-security-day-brasil/)
 <!-- BLOG-POST-LIST:END -->
 
 
