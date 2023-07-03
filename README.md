@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Esquenta Prime Day 2023: Ofertas Antecipadas a partir de 3 de Julho](https://marriedgames.com.br/noticias/esquenta-prime-day/)
 - [BIG Festival 2023 é palco de estreia mundial de Martial Arts Tycoon: Brazil](https://marriedgames.com.br/noticias/martial-arts-tycoon-brazil/)
 - [Veja quais times seguem para a PUBG MOBILE Pro League Fall Brasil 2023](https://marriedgames.com.br/noticias/pubg-mobile-pro-league-fall-brasil-2023/)
 - [Especialistas dão dicas infalíveis para mandar bem em jogadas do Free Fire no Kwai](https://marriedgames.com.br/noticias/free-fire-no-kwai/)
 - [Veja os Bastidores do salto de Speedflying para ‘Missão: Impossível – Acerto de Contas Parte 1’](https://marriedgames.com.br/noticias/missao-impossivel/)
-- [ESET Security Day Brasil acontece no dia 5 de julho em São Paulo](https://marriedgames.com.br/noticias/eset-security-day-brasil/)
 <!-- BLOG-POST-LIST:END -->
 
 
