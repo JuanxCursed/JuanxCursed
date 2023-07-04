@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Esquenta Prime Day 2023: Ofertas Antecipadas a partir de 3 de Julho](https://marriedgames.com.br/noticias/esquenta-prime-day/)
-- [BIG Festival 2023 é palco de estreia mundial de Martial Arts Tycoon: Brazil](https://marriedgames.com.br/noticias/martial-arts-tycoon-brazil/)
-- [Veja quais times seguem para a PUBG MOBILE Pro League Fall Brasil 2023](https://marriedgames.com.br/noticias/pubg-mobile-pro-league-fall-brasil-2023/)
-- [Especialistas dão dicas infalíveis para mandar bem em jogadas do Free Fire no Kwai](https://marriedgames.com.br/noticias/free-fire-no-kwai/)
-- [Veja os Bastidores do salto de Speedflying para ‘Missão: Impossível – Acerto de Contas Parte 1’](https://marriedgames.com.br/noticias/missao-impossivel/)
+- [Fones de ouvido no Home Office: o carro-chefe para deixar o seu trabalho mais produtivo](https://marriedgames.com.br/noticias/fones-de-ouvido-no-home-office/)
+- [In Real Life: WD_BLACK convida os jogadores a compartilhar suas experiências gamer](https://marriedgames.com.br/noticias/in-real-life/)
+- [NARUTO X BORUTO Ultimate Ninja STORM terá Modo História original e exclusivo](https://marriedgames.com.br/noticias/naruto-x-boruto/)
+- [Como jogar E. Honda Street Fighter 6: Combos, Dicas e História](https://marriedgames.com.br/dicas-guias/honda-street-fighter/)
+- [BIG Awards 2023 elege SEASON: A Letter to the Future como Melhor Jogo do BIG Festival](https://marriedgames.com.br/noticias/big-awards-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 
