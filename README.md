@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como Jogar com Dhalsim Street Fighter 6: Golpes, Estratégia e História](https://marriedgames.com.br/dicas-guias/dhalsim-street-fighter-6/)
 - [Fones de ouvido no Home Office: o carro-chefe para deixar o seu trabalho mais produtivo](https://marriedgames.com.br/noticias/fones-de-ouvido-no-home-office/)
 - [In Real Life: WD_BLACK convida os jogadores a compartilhar suas experiências gamer](https://marriedgames.com.br/noticias/in-real-life/)
 - [NARUTO X BORUTO Ultimate Ninja STORM terá Modo História original e exclusivo](https://marriedgames.com.br/noticias/naruto-x-boruto/)
 - [Como jogar E. Honda Street Fighter 6: Combos, Dicas e História](https://marriedgames.com.br/dicas-guias/honda-street-fighter/)
-- [BIG Awards 2023 elege SEASON: A Letter to the Future como Melhor Jogo do BIG Festival](https://marriedgames.com.br/noticias/big-awards-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 
