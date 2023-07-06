@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TEVI: Novo Metroidvania estilo anime convida os jogadores para seu Beta](https://marriedgames.com.br/noticias/tevi/)
+- [Rashid Street Fighter 6: o Primeiro Personagem Novo Aterrisa no Jogo em 24 de Julho!](https://marriedgames.com.br/noticias/rashid-street-fighter-6/)
+- [Novidades Black Desert Online: Roadmap revela o que vem nas atualizações](https://marriedgames.com.br/noticias/novidades-black-desert/)
 - [Como Jogar com Dhalsim Street Fighter 6: Golpes, Estratégia e História](https://marriedgames.com.br/dicas-guias/dhalsim-street-fighter-6/)
 - [Fones de ouvido no Home Office: o carro-chefe para deixar o seu trabalho mais produtivo](https://marriedgames.com.br/noticias/fones-de-ouvido-no-home-office/)
-- [In Real Life: WD_BLACK convida os jogadores a compartilhar suas experiências gamer](https://marriedgames.com.br/noticias/in-real-life/)
-- [NARUTO X BORUTO Ultimate Ninja STORM terá Modo História original e exclusivo](https://marriedgames.com.br/noticias/naruto-x-boruto/)
-- [Como jogar E. Honda Street Fighter 6: Combos, Dicas e História](https://marriedgames.com.br/dicas-guias/honda-street-fighter/)
 <!-- BLOG-POST-LIST:END -->
 
 
