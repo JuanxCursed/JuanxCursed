@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TEVI: Novo Metroidvania estilo anime convida os jogadores para seu Beta](https://marriedgames.com.br/noticias/tevi/)
-- [Rashid Street Fighter 6: o Primeiro Personagem Novo Aterrisa no Jogo em 24 de Julho!](https://marriedgames.com.br/noticias/rashid-street-fighter-6/)
-- [Novidades Black Desert Online: Roadmap revela o que vem nas atualizações](https://marriedgames.com.br/noticias/novidades-black-desert/)
-- [Como Jogar com Dhalsim Street Fighter 6: Golpes, Estratégia e História](https://marriedgames.com.br/dicas-guias/dhalsim-street-fighter-6/)
-- [Fones de ouvido no Home Office: o carro-chefe para deixar o seu trabalho mais produtivo](https://marriedgames.com.br/noticias/fones-de-ouvido-no-home-office/)
+- [Diablo IV dá início à Temporada dos Malignos em julho, e classe inédita estreia em Diablo Immortal](https://marriedgames.com.br/noticias/temporada-dos-malignos/)
+- [ASUS amplia sua linha de smartphones gamers no Brasil com novo ROG Phone 7 Ultimate](https://marriedgames.com.br/noticias/rog-phone-7-ultimate/)
+- [Novo trailer de Mortal Kombat 1 “Lin Kuei” revela Smoke e Rain como novos personagens](https://marriedgames.com.br/noticias/trailer-de-mortal-kombat/)
+- [As Melhores Jogadas que Ninguém Viu: Confira lances inéditos dos jogos da LBFF](https://marriedgames.com.br/noticias/jogos-da-lbff/)
+- [SEO para Youtube: 10 Dicas Simples para Você rankear Mais Alto na Pesquisa](https://marriedgames.com.br/dicas-guias/seo-para-youtube/)
 <!-- BLOG-POST-LIST:END -->
 
 
