@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como jogar com Dee Jay Street Fighter 6: Movimentos, Estratégia e História](https://marriedgames.com.br/dicas-guias/dee-jay-street-fighter/)
+- [Novo Trailer de The Sims 4 Tomando as Rédeas, em Disponível em 20 de Julho](https://marriedgames.com.br/noticias/the-sims-4-tomando-as-redeas/)
 - [Diablo IV dá início à Temporada dos Malignos em julho, e classe inédita estreia em Diablo Immortal](https://marriedgames.com.br/noticias/temporada-dos-malignos/)
 - [ASUS amplia sua linha de smartphones gamers no Brasil com novo ROG Phone 7 Ultimate](https://marriedgames.com.br/noticias/rog-phone-7-ultimate/)
 - [Novo trailer de Mortal Kombat 1 “Lin Kuei” revela Smoke e Rain como novos personagens](https://marriedgames.com.br/noticias/trailer-de-mortal-kombat/)
-- [As Melhores Jogadas que Ninguém Viu: Confira lances inéditos dos jogos da LBFF](https://marriedgames.com.br/noticias/jogos-da-lbff/)
-- [SEO para Youtube: 10 Dicas Simples para Você rankear Mais Alto na Pesquisa](https://marriedgames.com.br/dicas-guias/seo-para-youtube/)
 <!-- BLOG-POST-LIST:END -->
 
 
