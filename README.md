@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Boys e Call of Duty: Super Heróis invadem Modern Warfare II e Warzone](https://marriedgames.com.br/noticias/the-boys-e-call-of-duty/)
+- [Ofertas Prime Day: Logitech participa com descontos exclusivos](https://marriedgames.com.br/noticias/ofertas-prime-day/)
+- [Promoção Spider-Man 2: Game pode ser adquirido na pré-venda com benefícios](https://marriedgames.com.br/noticias/promocao-spider-man-2/)
+- [Aniversário Free Fire:  Celebre o 6° ano do game com recompensas especiais](https://marriedgames.com.br/noticias/aniversario-free-fire/)
 - [Como jogar com Dee Jay Street Fighter 6: Movimentos, Estratégia e História](https://marriedgames.com.br/dicas-guias/dee-jay-street-fighter/)
-- [Novo Trailer de The Sims 4 Tomando as Rédeas, em Disponível em 20 de Julho](https://marriedgames.com.br/noticias/the-sims-4-tomando-as-redeas/)
-- [Diablo IV dá início à Temporada dos Malignos em julho, e classe inédita estreia em Diablo Immortal](https://marriedgames.com.br/noticias/temporada-dos-malignos/)
-- [ASUS amplia sua linha de smartphones gamers no Brasil com novo ROG Phone 7 Ultimate](https://marriedgames.com.br/noticias/rog-phone-7-ultimate/)
-- [Novo trailer de Mortal Kombat 1 “Lin Kuei” revela Smoke e Rain como novos personagens](https://marriedgames.com.br/noticias/trailer-de-mortal-kombat/)
 <!-- BLOG-POST-LIST:END -->
 
 
