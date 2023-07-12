@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [realme C53:  Anunciado lançamento oficial do smartphone no mercado brasileiro](https://marriedgames.com.br/noticias/realme-c53/)
+- [Oficina de PixelArt: Sesc Santana ensina técnica de criação de imagens com pixels](https://marriedgames.com.br/noticias/oficina-de-pixelart/)
 - [The Boys e Call of Duty: Super Heróis invadem Modern Warfare II e Warzone](https://marriedgames.com.br/noticias/the-boys-e-call-of-duty/)
 - [Ofertas Prime Day: Logitech participa com descontos exclusivos](https://marriedgames.com.br/noticias/ofertas-prime-day/)
 - [Promoção Spider-Man 2: Game pode ser adquirido na pré-venda com benefícios](https://marriedgames.com.br/noticias/promocao-spider-man-2/)
-- [Aniversário Free Fire:  Celebre o 6° ano do game com recompensas especiais](https://marriedgames.com.br/noticias/aniversario-free-fire/)
-- [Como jogar com Dee Jay Street Fighter 6: Movimentos, Estratégia e História](https://marriedgames.com.br/dicas-guias/dee-jay-street-fighter/)
 <!-- BLOG-POST-LIST:END -->
 
 
