@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [realme C53:  Anunciado lançamento oficial do smartphone no mercado brasileiro](https://marriedgames.com.br/noticias/realme-c53/)
-- [Oficina de PixelArt: Sesc Santana ensina técnica de criação de imagens com pixels](https://marriedgames.com.br/noticias/oficina-de-pixelart/)
-- [The Boys e Call of Duty: Super Heróis invadem Modern Warfare II e Warzone](https://marriedgames.com.br/noticias/the-boys-e-call-of-duty/)
-- [Ofertas Prime Day: Logitech participa com descontos exclusivos](https://marriedgames.com.br/noticias/ofertas-prime-day/)
-- [Promoção Spider-Man 2: Game pode ser adquirido na pré-venda com benefícios](https://marriedgames.com.br/noticias/promocao-spider-man-2/)
+- [Aniversário Black Desert: Game celebra 6 anos na América do Sul](https://marriedgames.com.br/noticias/aniversario-black-desert/)
+- [Novo Uniforme LOUD: Time Anuncia Oficialmente sua Nova Camiseta](https://marriedgames.com.br/noticias/novo-uniforme-loud/)
+- [Monitores LG Ultragear são destaque no ambiente da Cilene Lupi na CASACOR 2023](https://marriedgames.com.br/noticias/monitores-lg-ultragear/)
+- [Roda da Fortuna continua na TV e também nos casinos](https://marriedgames.com.br/noticias/roda-da-fortuna/)
+- [As melhores equipes para The International of Dota 2](https://marriedgames.com.br/noticias/the-international-of-dota-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
