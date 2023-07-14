@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PMWI 2023: Allstars Stage teve Alan Walker e os finalistas para o torneio principal](https://marriedgames.com.br/noticias/pmwi-2023-allstars-stage-teve-alan-walker-e-os-finalistas-para-o-torneio-principal/)
+- [Fraturas no Tempo: Veja as novidades de Fúria Encarnada, o patch 10.1.7 de WoW: Dragonflight](https://marriedgames.com.br/noticias/fraturas-no-tempo/)
+- [Smartphones para Honkai Star Rail: Os 6 Melhores Celulares para Jogar](https://marriedgames.com.br/dicas-guias/smartphones-para-honkai-star-rail/)
 - [Aniversário Black Desert: Game celebra 6 anos na América do Sul](https://marriedgames.com.br/noticias/aniversario-black-desert/)
 - [Novo Uniforme LOUD: Time Anuncia Oficialmente sua Nova Camiseta](https://marriedgames.com.br/noticias/novo-uniforme-loud/)
-- [Monitores LG Ultragear são destaque no ambiente da Cilene Lupi na CASACOR 2023](https://marriedgames.com.br/noticias/monitores-lg-ultragear/)
-- [Roda da Fortuna continua na TV e também nos casinos](https://marriedgames.com.br/noticias/roda-da-fortuna/)
-- [As melhores equipes para The International of Dota 2](https://marriedgames.com.br/noticias/the-international-of-dota-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
