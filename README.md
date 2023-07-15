@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LG celebra 10 anos de tecnologia OLED em TVs e apresenta a OLED M, primeira sem fio](https://marriedgames.com.br/noticias/lg-celebra-10-anos/)
+- [TV OLED LG 10 Anos: Você Sabe O que é e como funciona?](https://marriedgames.com.br/tecnologia/tv-oled-lg-10-anos/)
+- [Electronic Arts estabelece visão para EA Sports FC 24 e revela a jogabilidade do game](https://marriedgames.com.br/noticias/ea-sports-fc-24/)
+- [Aventure-se no beta fechado de Relic Hunters Legend da Gearbox Publishing e Rogue Snail](https://marriedgames.com.br/noticias/relic-hunters-legend/)
 - [PMWI 2023: Allstars Stage teve Alan Walker e os finalistas para o torneio principal](https://marriedgames.com.br/noticias/pmwi-2023-allstars-stage-teve-alan-walker-e-os-finalistas-para-o-torneio-principal/)
-- [Fraturas no Tempo: Veja as novidades de Fúria Encarnada, o patch 10.1.7 de WoW: Dragonflight](https://marriedgames.com.br/noticias/fraturas-no-tempo/)
-- [Smartphones para Honkai Star Rail: Os 6 Melhores Celulares para Jogar](https://marriedgames.com.br/dicas-guias/smartphones-para-honkai-star-rail/)
-- [Aniversário Black Desert: Game celebra 6 anos na América do Sul](https://marriedgames.com.br/noticias/aniversario-black-desert/)
-- [Novo Uniforme LOUD: Time Anuncia Oficialmente sua Nova Camiseta](https://marriedgames.com.br/noticias/novo-uniforme-loud/)
 <!-- BLOG-POST-LIST:END -->
 
 
