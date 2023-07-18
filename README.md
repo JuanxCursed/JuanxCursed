@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lenovo anuncia o ultrafino Yoga Slim 6i com foco em produtividade e criação de conteúdo](https://marriedgames.com.br/noticias/yoga-slim-6i/)
-- [LG celebra 10 anos de tecnologia OLED em TVs e apresenta a OLED M, primeira sem fio](https://marriedgames.com.br/noticias/lg-celebra-10-anos/)
-- [TV OLED LG 10 Anos: Você Sabe O que é e como funciona?](https://marriedgames.com.br/tecnologia/tv-oled-lg-10-anos/)
-- [Electronic Arts estabelece visão para EA Sports FC 24 e revela a jogabilidade do game](https://marriedgames.com.br/noticias/ea-sports-fc-24/)
-- [Aventure-se no beta fechado de Relic Hunters Legend da Gearbox Publishing e Rogue Snail](https://marriedgames.com.br/noticias/relic-hunters-legend/)
+- [Logitech Dia do Amigo: 10 presentes para celebrar um amigo especial](https://marriedgames.com.br/noticias/logitech-dia-do-amigo/)
+- [Como escolher um notebook usado perfeito?](https://marriedgames.com.br/noticias/notebook-usado/)
+- [CHOKBR: confira as equipes que vão disputar o torneio oficial de Honor of Kings no Brasil](https://marriedgames.com.br/noticias/chokbr/)
+- [As melhores trocas de criptomoedas na Espanha em 2023](https://marriedgames.com.br/noticias/criptomoedas-na-espanha/)
+- [FIFINE AmpliGame AM8: Ideal para Streamers e Podecasts com Ótimo Custo-Benefício](https://marriedgames.com.br/analises/fifine-ampligame-am8/)
 <!-- BLOG-POST-LIST:END -->
 
 
