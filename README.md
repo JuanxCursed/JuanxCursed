@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Logitech Dia do Amigo: 10 presentes para celebrar um amigo especial](https://marriedgames.com.br/noticias/logitech-dia-do-amigo/)
-- [Como escolher um notebook usado perfeito?](https://marriedgames.com.br/noticias/notebook-usado/)
-- [CHOKBR: confira as equipes que vão disputar o torneio oficial de Honor of Kings no Brasil](https://marriedgames.com.br/noticias/chokbr/)
-- [As melhores trocas de criptomoedas na Espanha em 2023](https://marriedgames.com.br/noticias/criptomoedas-na-espanha/)
-- [FIFINE AmpliGame AM8: Ideal para Streamers e Podecasts com Ótimo Custo-Benefício](https://marriedgames.com.br/analises/fifine-ampligame-am8/)
+- [Benefícios dos Jogos Online no Brasil](https://marriedgames.com.br/noticias/jogos-online-no-brasil/)
+- [CABAL: Prepare-se para soltar seus combos mais devastadores de forma inédita](https://marriedgames.com.br/noticias/cabal-retorno-da-acao/)
+- [Level Infinite Começará A Gamescom Com “Into The Infinite: A Level Infinite Showcase”](https://marriedgames.com.br/noticias/level-infinite-showcase/)
+- [3 Coisas Emocionantes que Você pode Esperar no Filme da Barbie](https://marriedgames.com.br/noticias/barbie/)
+- [Dicas Baldurs Gate 3: Comece Bem a sua Aventura com essas Dicas para Iniciantes](https://marriedgames.com.br/dicas-guias/dicas-baldurs-gate-3/)
 <!-- BLOG-POST-LIST:END -->
 
 
