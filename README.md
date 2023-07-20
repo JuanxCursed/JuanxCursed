@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Overwatch 2 no Steam: com download grátis e conquistas, game chega em Agosto](https://marriedgames.com.br/noticias/overwatch-2-no-steam/)
+- [ExitLag e XLGAMES unem-se para otimizar a experiência do usuário em ArcheWorld](https://marriedgames.com.br/noticias/exitlag-e-xlgames/)
+- [ASUS ROG anuncia data para lançamento do ROG Ally no Brasil](https://marriedgames.com.br/noticias/asus-rog-anuncia-data-para-lancamento-do-rog-ally-no-brasil/)
 - [Benefícios dos Jogos Online no Brasil](https://marriedgames.com.br/noticias/jogos-online-no-brasil/)
 - [CABAL: Prepare-se para soltar seus combos mais devastadores de forma inédita](https://marriedgames.com.br/noticias/cabal-retorno-da-acao/)
-- [Level Infinite Começará A Gamescom Com “Into The Infinite: A Level Infinite Showcase”](https://marriedgames.com.br/noticias/level-infinite-showcase/)
-- [3 Coisas Emocionantes que Você pode Esperar no Filme da Barbie](https://marriedgames.com.br/noticias/barbie/)
-- [Dicas Baldurs Gate 3: Comece Bem a sua Aventura com essas Dicas para Iniciantes](https://marriedgames.com.br/dicas-guias/dicas-baldurs-gate-3/)
 <!-- BLOG-POST-LIST:END -->
 
 
