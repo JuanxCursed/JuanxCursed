@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Overwatch 2 no Steam: com download grátis e conquistas, game chega em Agosto](https://marriedgames.com.br/noticias/overwatch-2-no-steam/)
-- [ExitLag e XLGAMES unem-se para otimizar a experiência do usuário em ArcheWorld](https://marriedgames.com.br/noticias/exitlag-e-xlgames/)
-- [ASUS ROG anuncia data para lançamento do ROG Ally no Brasil](https://marriedgames.com.br/noticias/asus-rog-anuncia-data-para-lancamento-do-rog-ally-no-brasil/)
-- [Benefícios dos Jogos Online no Brasil](https://marriedgames.com.br/noticias/jogos-online-no-brasil/)
-- [CABAL: Prepare-se para soltar seus combos mais devastadores de forma inédita](https://marriedgames.com.br/noticias/cabal-retorno-da-acao/)
+- [Melhore sua qualidade de vida com a pulseira inteligente HUAWEI Band 8](https://marriedgames.com.br/noticias/huawei-band-8/)
+- [Programa de Assinatura Tipspace: Especial para quem quer jogar de maneira ainda mais séria](https://marriedgames.com.br/noticias/programa-de-assinatura-tipspace/)
+- [HoYoverse na Brasil Game Show 2023: Evento contará com três títulos de RPG da publisher](https://marriedgames.com.br/noticias/hoyoverse-na-brasil-game-show/)
+- [ROG Ally da Asus desembarca oficialmente no Brasil](https://marriedgames.com.br/noticias/rog-ally-da-asus/)
+- [Classes de Baldurs Gate 3: As Classes, O Que Elas Fazem, Melhores Subclasses e Muito Mais](https://marriedgames.com.br/dicas-guias/classes-de-baldurs-gate/)
 <!-- BLOG-POST-LIST:END -->
 
 
