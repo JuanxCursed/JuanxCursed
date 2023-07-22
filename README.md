@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Melhor Build para Guerreiro Baldurs Gate 3 e para o Mestre de Combate](https://marriedgames.com.br/dicas-guias/guerreiro-baldurs-gate-3/)
 - [Melhore sua qualidade de vida com a pulseira inteligente HUAWEI Band 8](https://marriedgames.com.br/noticias/huawei-band-8/)
 - [Programa de Assinatura Tipspace: Especial para quem quer jogar de maneira ainda mais séria](https://marriedgames.com.br/noticias/programa-de-assinatura-tipspace/)
 - [HoYoverse na Brasil Game Show 2023: Evento contará com três títulos de RPG da publisher](https://marriedgames.com.br/noticias/hoyoverse-na-brasil-game-show/)
 - [ROG Ally da Asus desembarca oficialmente no Brasil](https://marriedgames.com.br/noticias/rog-ally-da-asus/)
-- [Classes de Baldurs Gate 3: As Classes, O Que Elas Fazem, Melhores Subclasses e Muito Mais](https://marriedgames.com.br/dicas-guias/classes-de-baldurs-gate/)
 <!-- BLOG-POST-LIST:END -->
 
 
