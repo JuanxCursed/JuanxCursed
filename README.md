@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Melhor Build para Guerreiro Baldurs Gate 3 e para o Mestre de Combate](https://marriedgames.com.br/dicas-guias/guerreiro-baldurs-gate-3/)
-- [Melhore sua qualidade de vida com a pulseira inteligente HUAWEI Band 8](https://marriedgames.com.br/noticias/huawei-band-8/)
-- [Programa de Assinatura Tipspace: Especial para quem quer jogar de maneira ainda mais séria](https://marriedgames.com.br/noticias/programa-de-assinatura-tipspace/)
-- [HoYoverse na Brasil Game Show 2023: Evento contará com três títulos de RPG da publisher](https://marriedgames.com.br/noticias/hoyoverse-na-brasil-game-show/)
-- [ROG Ally da Asus desembarca oficialmente no Brasil](https://marriedgames.com.br/noticias/rog-ally-da-asus/)
+- [Vivo Keyd Stars e Sidoka: Saiba quem éo novo influenciador da organização](https://marriedgames.com.br/noticias/vivo-keyd-stars-e-sidoka/)
+- [Pequenas Aventuras: Riot expande universo de Teamfight Tactics com websérie animada](https://marriedgames.com.br/noticias/pequenas-aventuras/)
+- [Os melhores jogos de tiro para PC, consoles e celular](https://marriedgames.com.br/dicas-guias/jogos-de-tiro/)
+- [Left to Survive: Jogo Celebra o 5º Aniversário com 1,2 milhão de Usuários Ativos Mensais](https://marriedgames.com.br/noticias/left-to-survive/)
+- [Review Jagged Alliance 3: Mais Divertido para Veteranos que para Novatos](https://marriedgames.com.br/analises/jagged-alliance-3/)
 <!-- BLOG-POST-LIST:END -->
 
 
