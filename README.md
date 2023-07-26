@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ragnarök Online disponibiliza atualização “A caminho das Classes 4 – Parte 2”](https://marriedgames.com.br/noticias/caminho-das-classes/)
+- [The Flash chega com exclusividade com conteúdo especial para a Amazon Prime](https://marriedgames.com.br/noticias/the-flash/)
+- [Mago Baldurs Gate 3: Melhor Build para Jogar com Mago da Evocação](https://marriedgames.com.br/dicas-guias/mago-baldurs-gate-3/)
+- [Muito Além do Incrível: ASUS anuncia data de inauguração de seu espaço imersivo](https://marriedgames.com.br/noticias/muito-alem-do-incrivel/)
 - [Vivo Keyd Stars e Sidoka: Saiba quem éo novo influenciador da organização](https://marriedgames.com.br/noticias/vivo-keyd-stars-e-sidoka/)
-- [Pequenas Aventuras: Riot expande universo de Teamfight Tactics com websérie animada](https://marriedgames.com.br/noticias/pequenas-aventuras/)
-- [Os melhores jogos de tiro para PC, consoles e celular](https://marriedgames.com.br/dicas-guias/jogos-de-tiro/)
-- [Left to Survive: Jogo Celebra o 5º Aniversário com 1,2 milhão de Usuários Ativos Mensais](https://marriedgames.com.br/noticias/left-to-survive/)
-- [Review Jagged Alliance 3: Mais Divertido para Veteranos que para Novatos](https://marriedgames.com.br/analises/jagged-alliance-3/)
 <!-- BLOG-POST-LIST:END -->
 
 
