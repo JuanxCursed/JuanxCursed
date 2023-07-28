@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Realme C53 chega em breve ao Brasil com um pacote de benefícios imbatível no segmento](https://marriedgames.com.br/noticias/realme-c53-2/)
+- [Review: The Sims 4 Tomando Rédeas](https://marriedgames.com.br/analises/the-sims-4-tomando-redeas/)
+- [Monster Hunter Now será lançado em 14 de setembro de 2023!](https://marriedgames.com.br/noticias/monster-hunter-now/)
+- [Motorola razr 40 ultra tem a maior e mais funcional tela externa entre os smartphones flip](https://marriedgames.com.br/noticias/motorola-razr-40-ultra/)
 - [Smartphones dominam produtos mais buscados por brasileiros no primeiro semestre](https://marriedgames.com.br/noticias/smartphones-dominam/)
-- [Ragnarök Online disponibiliza atualização “A caminho das Classes 4 – Parte 2”](https://marriedgames.com.br/noticias/caminho-das-classes/)
-- [The Flash chega com exclusividade com conteúdo especial para a Amazon Prime](https://marriedgames.com.br/noticias/the-flash/)
-- [Mago Baldurs Gate 3: Melhor Build para Jogar com Mago da Evocação](https://marriedgames.com.br/dicas-guias/mago-baldurs-gate-3/)
-- [Muito Além do Incrível: ASUS anuncia data de inauguração de seu espaço imersivo](https://marriedgames.com.br/noticias/muito-alem-do-incrivel/)
 <!-- BLOG-POST-LIST:END -->
 
 
