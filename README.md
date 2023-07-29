@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ban Pan detectou e baniu 7 milhões de contas por trapaças no 1º semestre de 2023](https://marriedgames.com.br/noticias/ban-pan/)
+- [Ladino Baldurs Gate 3: A Melhor Build para o seu Trapaceiro nos Reinos Esquecidos](https://marriedgames.com.br/dicas-guias/ladino-baldurs-gate-3/)
 - [Realme C53 chega em breve ao Brasil com um pacote de benefícios imbatível no segmento](https://marriedgames.com.br/noticias/realme-c53-2/)
 - [Review: The Sims 4 Tomando Rédeas](https://marriedgames.com.br/analises/the-sims-4-tomando-redeas/)
 - [Monster Hunter Now será lançado em 14 de setembro de 2023!](https://marriedgames.com.br/noticias/monster-hunter-now/)
-- [Motorola razr 40 ultra tem a maior e mais funcional tela externa entre os smartphones flip](https://marriedgames.com.br/noticias/motorola-razr-40-ultra/)
-- [Smartphones dominam produtos mais buscados por brasileiros no primeiro semestre](https://marriedgames.com.br/noticias/smartphones-dominam/)
 <!-- BLOG-POST-LIST:END -->
 
 
