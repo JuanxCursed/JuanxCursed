@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ban Pan detectou e baniu 7 milhões de contas por trapaças no 1º semestre de 2023](https://marriedgames.com.br/noticias/ban-pan/)
-- [Ladino Baldurs Gate 3: A Melhor Build para o seu Trapaceiro nos Reinos Esquecidos](https://marriedgames.com.br/dicas-guias/ladino-baldurs-gate-3/)
-- [Realme C53 chega em breve ao Brasil com um pacote de benefícios imbatível no segmento](https://marriedgames.com.br/noticias/realme-c53-2/)
-- [Review: The Sims 4 Tomando Rédeas](https://marriedgames.com.br/analises/the-sims-4-tomando-redeas/)
-- [Monster Hunter Now será lançado em 14 de setembro de 2023!](https://marriedgames.com.br/noticias/monster-hunter-now/)
+- [HUAWEI WATCH Fit Special Edition: smarwatch esportivo já está disponível na Amazon](https://marriedgames.com.br/noticias/huawei-watch-fit/)
+- [Feiticeiro Baldurs Gate 3: Domine a Metamagia com essa Build](https://marriedgames.com.br/dicas-guias/feiticeiro-baldurs-gate-3/)
+- [SEGA na BGS: Desenvolvedora estará pela primeira vez, com um estande de 500 m²](https://marriedgames.com.br/noticias/sega-na-bgs/)
+- [LG apresenta novos monitores da linha UltraGear e anuncia Cerol como embaixador da marca](https://marriedgames.com.br/noticias/monitores-da-linha-ultragear/)
+- [CCXP23: Junji Ito, lendário mangaká de terror, virá pela primeira vez ao Brasil](https://marriedgames.com.br/noticias/ccxp23-junji-ito/)
 <!-- BLOG-POST-LIST:END -->
 
 
