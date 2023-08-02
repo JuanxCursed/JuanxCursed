@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [HUAWEI WATCH Fit Special Edition: smarwatch esportivo já está disponível na Amazon](https://marriedgames.com.br/noticias/huawei-watch-fit/)
-- [Feiticeiro Baldurs Gate 3: Domine a Metamagia com essa Build](https://marriedgames.com.br/dicas-guias/feiticeiro-baldurs-gate-3/)
-- [SEGA na BGS: Desenvolvedora estará pela primeira vez, com um estande de 500 m²](https://marriedgames.com.br/noticias/sega-na-bgs/)
-- [LG apresenta novos monitores da linha UltraGear e anuncia Cerol como embaixador da marca](https://marriedgames.com.br/noticias/monitores-da-linha-ultragear/)
-- [CCXP23: Junji Ito, lendário mangaká de terror, virá pela primeira vez ao Brasil](https://marriedgames.com.br/noticias/ccxp23-junji-ito/)
+- [Realme 11 Pro+ e realme C53 já estão à venda no Brasil](https://marriedgames.com.br/noticias/realme-11-pro-e-realme-c53/)
+- [Hearthstone TITÃS: Os lacaios estão com tudo na nova expansão já disponível!](https://marriedgames.com.br/noticias/hearthstone-titas/)
+- [Rato Borrachudo e Ubisoft anunciam retorno do Ratinho Talk Show com Igor 3K na reestreia](https://marriedgames.com.br/noticias/rato-borrachudo-e-ubisoft/)
+- [Vivo Keyd Stars receberá vencedores do Favela Gaming e promoverá bootcamp com atletas](https://marriedgames.com.br/noticias/favela-gaming/)
+- [PUBG no Esports Awards 2023: Game recebe Indicação ao Prêmio](https://marriedgames.com.br/noticias/pubg-no-esports-awards-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 
