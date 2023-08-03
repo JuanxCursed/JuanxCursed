@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SNK World Championship 2023: Premiação total chegará a pelo menos US$ 200.000!](https://marriedgames.com.br/noticias/snk-world-championship-2023/)
+- [Melhores jogos de Dead or Alive: Saiba quais são os Top 10 da Franquia](https://marriedgames.com.br/analises/jogos-de-dead-or-alive/)
 - [Realme 11 Pro+ e realme C53 já estão à venda no Brasil](https://marriedgames.com.br/noticias/realme-11-pro-e-realme-c53/)
 - [Hearthstone TITÃS: Os lacaios estão com tudo na nova expansão já disponível!](https://marriedgames.com.br/noticias/hearthstone-titas/)
 - [Rato Borrachudo e Ubisoft anunciam retorno do Ratinho Talk Show com Igor 3K na reestreia](https://marriedgames.com.br/noticias/rato-borrachudo-e-ubisoft/)
-- [Vivo Keyd Stars receberá vencedores do Favela Gaming e promoverá bootcamp com atletas](https://marriedgames.com.br/noticias/favela-gaming/)
-- [PUBG no Esports Awards 2023: Game recebe Indicação ao Prêmio](https://marriedgames.com.br/noticias/pubg-no-esports-awards-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 
