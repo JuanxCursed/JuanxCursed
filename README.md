@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ASUS lança no Brasil Zenbook S 13 OLED, o notebook OLED mais fino do mundo](https://marriedgames.com.br/noticias/zenbook-s-13-oled/)
+- [Palácio do Mar Black Desert Online: MMO traz o evento no fundo do mar](https://marriedgames.com.br/noticias/palacio-do-mar-black-desert/)
+- [Motorola na OLX: Moro Edge 30 Fusion tem aumento de 225% nas vendas](https://marriedgames.com.br/noticias/motorola-na-olx/)
+- [Bardo Baldurs Gate 3: Saiba como Buildar corretamente esse Aventureiro](https://marriedgames.com.br/dicas-guias/bardo-baldurs-gate-3/)
 - [SNK World Championship 2023: Premiação total chegará a pelo menos US$ 200.000!](https://marriedgames.com.br/noticias/snk-world-championship-2023/)
-- [Melhores jogos de Dead or Alive: Saiba quais são os Top 10 da Franquia](https://marriedgames.com.br/analises/jogos-de-dead-or-alive/)
-- [Realme 11 Pro+ e realme C53 já estão à venda no Brasil](https://marriedgames.com.br/noticias/realme-11-pro-e-realme-c53/)
-- [Hearthstone TITÃS: Os lacaios estão com tudo na nova expansão já disponível!](https://marriedgames.com.br/noticias/hearthstone-titas/)
-- [Rato Borrachudo e Ubisoft anunciam retorno do Ratinho Talk Show com Igor 3K na reestreia](https://marriedgames.com.br/noticias/rato-borrachudo-e-ubisoft/)
 <!-- BLOG-POST-LIST:END -->
 
 
