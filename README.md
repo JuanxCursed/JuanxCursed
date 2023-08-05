@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ASUS lança no Brasil nova geração do Zenbook 14X OLED](https://marriedgames.com.br/noticias/zenbook-14x-oled/)
+- [Paladino Baldurs Gate 3: A Melhor Build para o seu Guerreiro dos Deuses](https://marriedgames.com.br/dicas-guias/paladino-baldurs-gate-3/)
+- [Nexon anuncia que o Crossplay Beta de The First Descendant será aberto e em setembro](https://marriedgames.com.br/noticias/the-first-descendant/)
 - [ASUS lança no Brasil Zenbook S 13 OLED, o notebook OLED mais fino do mundo](https://marriedgames.com.br/noticias/zenbook-s-13-oled/)
 - [Palácio do Mar Black Desert Online: MMO traz o evento no fundo do mar](https://marriedgames.com.br/noticias/palacio-do-mar-black-desert/)
-- [Motorola na OLX: Moro Edge 30 Fusion tem aumento de 225% nas vendas](https://marriedgames.com.br/noticias/motorola-na-olx/)
-- [Bardo Baldurs Gate 3: Saiba como Buildar corretamente esse Aventureiro](https://marriedgames.com.br/dicas-guias/bardo-baldurs-gate-3/)
-- [SNK World Championship 2023: Premiação total chegará a pelo menos US$ 200.000!](https://marriedgames.com.br/noticias/snk-world-championship-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 
