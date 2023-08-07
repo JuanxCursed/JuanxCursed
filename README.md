@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Overwatch 2 Invasão: John Cena se une ao jogo para promover a maior temporada até agora](https://marriedgames.com.br/noticias/overwatch-2-invasao/)
 - [ASUS lança no Brasil nova geração do Zenbook 14X OLED](https://marriedgames.com.br/noticias/zenbook-14x-oled/)
 - [Paladino Baldurs Gate 3: A Melhor Build para o seu Guerreiro dos Deuses](https://marriedgames.com.br/dicas-guias/paladino-baldurs-gate-3/)
 - [Nexon anuncia que o Crossplay Beta de The First Descendant será aberto e em setembro](https://marriedgames.com.br/noticias/the-first-descendant/)
 - [ASUS lança no Brasil Zenbook S 13 OLED, o notebook OLED mais fino do mundo](https://marriedgames.com.br/noticias/zenbook-s-13-oled/)
-- [Palácio do Mar Black Desert Online: MMO traz o evento no fundo do mar](https://marriedgames.com.br/noticias/palacio-do-mar-black-desert/)
 <!-- BLOG-POST-LIST:END -->
 
 
