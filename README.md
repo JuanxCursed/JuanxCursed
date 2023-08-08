@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Overwatch 2 Invasão: John Cena se une ao jogo para promover a maior temporada até agora](https://marriedgames.com.br/noticias/overwatch-2-invasao/)
-- [ASUS lança no Brasil nova geração do Zenbook 14X OLED](https://marriedgames.com.br/noticias/zenbook-14x-oled/)
-- [Paladino Baldurs Gate 3: A Melhor Build para o seu Guerreiro dos Deuses](https://marriedgames.com.br/dicas-guias/paladino-baldurs-gate-3/)
-- [Nexon anuncia que o Crossplay Beta de The First Descendant será aberto e em setembro](https://marriedgames.com.br/noticias/the-first-descendant/)
-- [ASUS lança no Brasil Zenbook S 13 OLED, o notebook OLED mais fino do mundo](https://marriedgames.com.br/noticias/zenbook-s-13-oled/)
+- [Como os eSports estão mudando a indústria de apostas](https://marriedgames.com.br/noticias/industria-de-apostas/)
+- [Novo trailer de Mortal Kombat 1 revela Reptile, Ashrah e Havik](https://marriedgames.com.br/noticias/trailer-de-mortal-kombat-1/)
+- [Maneiras fáceis de ativar o Windows 11 GRATUITAMENTE sem uma chave de produto](https://marriedgames.com.br/dicas-guias/ativar-o-windows-11/)
+- [“Homem-Aranha: Através do Aranhaverso” chega amanhã às plataformas digitais](https://marriedgames.com.br/noticias/atraves-do-aranhaverso/)
+- [Logitech G sugere 9 presentes gamer para celebrar o Dia dos Pais](https://marriedgames.com.br/noticias/logitech-g/)
 <!-- BLOG-POST-LIST:END -->
 
 
