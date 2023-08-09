@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SEO Rich Snippets: Saiba o que é e Como Otimizá-los](https://marriedgames.com.br/dicas-guias/seo-rich-snippets/)
+- [KONAMI revela que o “Duelo rápido” está chegando ao Yu-Gi-Oh! DUEL LINKS](https://marriedgames.com.br/noticias/duelo-rapido/)
+- [Little Big Robots traz diversão e fofura para o campo de batalha](https://marriedgames.com.br/noticias/little-big-robots/)
+- [Dicas FIFA 22 Ultimate Team: Toques Essenciais para Vencer Qualquer Partida](https://marriedgames.com.br/dicas-guias/dicas-fifa-22-ultimate-team/)
 - [Como os eSports estão mudando a indústria de apostas](https://marriedgames.com.br/noticias/industria-de-apostas/)
-- [Novo trailer de Mortal Kombat 1 revela Reptile, Ashrah e Havik](https://marriedgames.com.br/noticias/trailer-de-mortal-kombat-1/)
-- [Maneiras fáceis de ativar o Windows 11 GRATUITAMENTE sem uma chave de produto](https://marriedgames.com.br/dicas-guias/ativar-o-windows-11/)
-- [“Homem-Aranha: Através do Aranhaverso” chega amanhã às plataformas digitais](https://marriedgames.com.br/noticias/atraves-do-aranhaverso/)
-- [Logitech G sugere 9 presentes gamer para celebrar o Dia dos Pais](https://marriedgames.com.br/noticias/logitech-g/)
 <!-- BLOG-POST-LIST:END -->
 
 
