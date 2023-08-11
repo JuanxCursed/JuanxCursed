@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Credenciais da CCXP revelam as artes baseadas em “The Boys”](https://marriedgames.com.br/noticias/credenciais-da-ccxp/)
 - [AMD Ryzen 7 5800X3D: Mais Desempenho e Menos Temperatura](https://marriedgames.com.br/analises/ryzen-7-5800x3d/)
 - [Revelação de Call of Duty: Modern Warfare III acontece em 17/08 durante evento in-game](https://marriedgames.com.br/noticias/revelacao-de-call-of-duty/)
 - [SEO Rich Snippets: Saiba o que é e Como Otimizá-los](https://marriedgames.com.br/dicas-guias/seo-rich-snippets/)
 - [KONAMI revela que o “Duelo rápido” está chegando ao Yu-Gi-Oh! DUEL LINKS](https://marriedgames.com.br/noticias/duelo-rapido/)
-- [Little Big Robots traz diversão e fofura para o campo de batalha](https://marriedgames.com.br/noticias/little-big-robots/)
 <!-- BLOG-POST-LIST:END -->
 
 
