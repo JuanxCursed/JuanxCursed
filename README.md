@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ExitLag Mobile é a expansão da atuação no mercado com lançamento do aplicativo](https://marriedgames.com.br/noticias/exitlag-mobile/)
+- [Overwatch 2 Invasão era Tudo o Que Eu Queria no Jogo. Mas eu Queria Mais!](https://marriedgames.com.br/analises/overwatch-2-invasao-2/)
 - [Homenagem na BGS 2023: Alexey Pajitnov receberá o Lifetime Achievement Award](https://marriedgames.com.br/noticias/homenagem-na-bgs-2023/)
 - [Tanya Funkeira: MK1 revela sua 1° skin temática brasileira em homenagem ao funk](https://marriedgames.com.br/noticias/tanya-funkeira/)
 - [Dia dos Pais Infinix: Saiba os Diferenciais de seus Smartphones para Você escolher seu Presente](https://marriedgames.com.br/noticias/dia-dos-pais-infinix/)
-- [Minecraft Earth: O que aconteceu com o jogo RA de Minecraft](https://marriedgames.com.br/analises/minecraft-earth/)
-- [Credenciais da CCXP revelam as artes baseadas em “The Boys”](https://marriedgames.com.br/noticias/credenciais-da-ccxp/)
 <!-- BLOG-POST-LIST:END -->
 
 
