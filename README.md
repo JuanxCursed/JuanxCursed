@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Need for Speed Unbound Volume 4 é lançado](https://marriedgames.com.br/noticias/need-for-speed-unbound/)
-- [As Melhores Estratégias de Roleta para Jogadores Inteligentes](https://marriedgames.com.br/noticias/estrategias-de-roleta/)
-- [Quadrinistas na CCXP23: seis novos artistas para o Artists’ Valley By Bis](https://marriedgames.com.br/noticias/quadrinistas-na-ccxp23/)
-- [Demo de HYENAS: Sega revela trailer oficial de jogabilidade e demo jogável na Gamescom](https://marriedgames.com.br/noticias/demo-de-hyenas/)
-- [ExitLag Mobile é a expansão da atuação no mercado com lançamento do aplicativo](https://marriedgames.com.br/noticias/exitlag-mobile/)
+- [BGS 2023 será palco da Equinox LATAM Game Awards, premiação latino-americana de jogos](https://marriedgames.com.br/noticias/equinox-latam-game-awards-2023/)
+- [Lute Pelo Destino Da Terra No Novo Dlc De Dragon Ball Z: Kakarot](https://marriedgames.com.br/noticias/dlc-de-dragon-ball-z/)
+- [Clérigo Baldurs Gate 3: Melhor Build para seu Sacerdote](https://marriedgames.com.br/dicas-guias/clerigo-baldurs-gate/)
+- [Razer apresenta teclado BlackWidow V4 75% com incríveis possibilidades de customização](https://marriedgames.com.br/noticias/blackwidow-v4/)
+- [Confira o trailer de Daymare: 1994 Sandcastle, com a participação de Cristina Scabbia](https://marriedgames.com.br/noticias/trailer-de-daymare/)
 <!-- BLOG-POST-LIST:END -->
 
 
