@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BGS 2023 será palco da Equinox LATAM Game Awards, premiação latino-americana de jogos](https://marriedgames.com.br/noticias/equinox-latam-game-awards-2023/)
-- [Lute Pelo Destino Da Terra No Novo Dlc De Dragon Ball Z: Kakarot](https://marriedgames.com.br/noticias/dlc-de-dragon-ball-z/)
-- [Clérigo Baldurs Gate 3: Melhor Build para seu Sacerdote](https://marriedgames.com.br/dicas-guias/clerigo-baldurs-gate/)
-- [Razer apresenta teclado BlackWidow V4 75% com incríveis possibilidades de customização](https://marriedgames.com.br/noticias/blackwidow-v4/)
-- [Confira o trailer de Daymare: 1994 Sandcastle, com a participação de Cristina Scabbia](https://marriedgames.com.br/noticias/trailer-de-daymare/)
+- [O que São e Como usar os Frameworks Vue 3 e Vuex](https://marriedgames.com.br/dicas-guias/vue-3-e-vuex/)
+- [Cerol é o novo embaixador da linha de monitores UltraGear da LG](https://marriedgames.com.br/noticias/monitores-ultragear-da-lg/)
+- [Pokémon GO Fest 2023 terá evento presencial em São Paulo e celebrações por todo o Brasil](https://marriedgames.com.br/noticias/pokemon-go-fest-2023/)
+- [MEGA MAN X DiVE Offline Chega aos PCs e Dispositivos Móveis em 31 de agosto](https://marriedgames.com.br/noticias/mega-man-x-dive-offline/)
+- [Confira o guia de Norma in Metaland: Cooking Adventure e sua jogabilidade](https://marriedgames.com.br/noticias/norma-in-metaland/)
 <!-- BLOG-POST-LIST:END -->
 
 
