@@ -134,9 +134,9 @@ I've just born to do it.
 <!-- YOUTUBE:START -->
 - [Soundbar S90 da LG](https://www.youtube.com/watch?v=chKAnQtanAs)
 - [Soundbar S90 da LG](https://www.youtube.com/watch?v=4Vuj8VIzIMQ)
-- [TV Fkex da LG](https://www.youtube.com/watch?v=ONs40f1NF6o)
 - [Notebook Gram LG](https://www.youtube.com/watch?v=IDN3Mo9dGaI)
 - [Notebook Gram da LG](https://www.youtube.com/watch?v=9cdngMbQUHg)
+- [Tv oled transparente](https://www.youtube.com/watch?v=vTI3E5ZdY7M)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
