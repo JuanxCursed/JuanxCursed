@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One Piece Odyssey: Mais uma das Aventuras do Pirata que Estica](https://marriedgames.com.br/analises/one-piece-odyssey-3/)
+- [Quem são os Melhores Companheiros Baldurs Gate 3 para Você se Aventurar](https://marriedgames.com.br/dicas-guias/companheiros-baldurs-gate/)
 - [Saldão do Cliente Amazon apresenta segunda edição com milhares de ofertas durante 5 dias](https://marriedgames.com.br/noticias/saldao-do-cliente-amazon/)
 - [O que São e Como usar os Frameworks Vue 3 e Vuex](https://marriedgames.com.br/dicas-guias/vue-3-e-vuex/)
 - [Cerol é o novo embaixador da linha de monitores UltraGear da LG](https://marriedgames.com.br/noticias/monitores-ultragear-da-lg/)
-- [Pokémon GO Fest 2023 terá evento presencial em São Paulo e celebrações por todo o Brasil](https://marriedgames.com.br/noticias/pokemon-go-fest-2023/)
-- [MEGA MAN X DiVE Offline Chega aos PCs e Dispositivos Móveis em 31 de agosto](https://marriedgames.com.br/noticias/mega-man-x-dive-offline/)
 <!-- BLOG-POST-LIST:END -->
 
 
