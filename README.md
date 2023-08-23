@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [One Piece Odyssey: Mais uma das Aventuras do Pirata que Estica](https://marriedgames.com.br/analises/one-piece-odyssey-3/)
-- [Quem são os Melhores Companheiros Baldurs Gate 3 para Você se Aventurar](https://marriedgames.com.br/dicas-guias/companheiros-baldurs-gate/)
-- [Saldão do Cliente Amazon apresenta segunda edição com milhares de ofertas durante 5 dias](https://marriedgames.com.br/noticias/saldao-do-cliente-amazon/)
-- [O que São e Como usar os Frameworks Vue 3 e Vuex](https://marriedgames.com.br/dicas-guias/vue-3-e-vuex/)
-- [Cerol é o novo embaixador da linha de monitores UltraGear da LG](https://marriedgames.com.br/noticias/monitores-ultragear-da-lg/)
+- [VALORANT Champions Tour &lpar;VCT&rpar; revela planos para a Temporada Valorant 2024](https://marriedgames.com.br/noticias/temporada-valorant-2024/)
+- [General Shao e Sindel são os novos Kombatentes da lista principal de Mortal Kombat 1](https://marriedgames.com.br/noticias/general-shao-e-sindel/)
+- [“Novas Formas de Jogar”: principais reformulações de Cyberpunk 2077](https://marriedgames.com.br/noticias/reformulacoes-de-cyberpunk/)
+- [SEGA revela detalhes do multiplayer de Sonic Superstars e atualização para Sonic Frontiers](https://marriedgames.com.br/noticias/multiplayer-de-sonic-superstars/)
+- [Dell anuncia no Brasil novo monitor touch com 24 polegadas e funcionalidades de hub USB-C](https://marriedgames.com.br/noticias/monitor-dell-touch-screen/)
 <!-- BLOG-POST-LIST:END -->
 
 
