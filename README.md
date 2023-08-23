@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
-- [Soundbar S90 da LG](https://www.youtube.com/watch?v=chKAnQtanAs)
-- [Soundbar S90 da LG](https://www.youtube.com/watch?v=4Vuj8VIzIMQ)
-- [Notebook Gram LG](https://www.youtube.com/watch?v=IDN3Mo9dGaI)
-- [Notebook Gram da LG](https://www.youtube.com/watch?v=9cdngMbQUHg)
-- [Tv oled transparente](https://www.youtube.com/watch?v=vTI3E5ZdY7M)
+- [Soundbar S90 da LG. Vale a pena???](https://www.youtube.com/watch?v=4Vuj8VIzIMQ)
+- [CasaCor2023 -  Notebook Gram 15&quot; da LG](https://www.youtube.com/watch?v=9cdngMbQUHg)
+- [CasaCor2023 - TV Oled Transparente da LG](https://www.youtube.com/watch?v=vTI3E5ZdY7M)
+- [CasaCor2023 - TV Oled da LG](https://www.youtube.com/watch?v=2M7rDqEO6Wk)
+- [CasaCor2023 - Espaço LG](https://www.youtube.com/watch?v=2eUfGG7Udeg)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
