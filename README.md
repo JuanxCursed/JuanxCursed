@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [VALORANT Champions Tour &lpar;VCT&rpar; revela planos para a Temporada Valorant 2024](https://marriedgames.com.br/noticias/temporada-valorant-2024/)
-- [General Shao e Sindel são os novos Kombatentes da lista principal de Mortal Kombat 1](https://marriedgames.com.br/noticias/general-shao-e-sindel/)
-- [“Novas Formas de Jogar”: principais reformulações de Cyberpunk 2077](https://marriedgames.com.br/noticias/reformulacoes-de-cyberpunk/)
-- [SEGA revela detalhes do multiplayer de Sonic Superstars e atualização para Sonic Frontiers](https://marriedgames.com.br/noticias/multiplayer-de-sonic-superstars/)
-- [Dell anuncia no Brasil novo monitor touch com 24 polegadas e funcionalidades de hub USB-C](https://marriedgames.com.br/noticias/monitor-dell-touch-screen/)
+- [As 10 Barbies mais incríveis de todos os tempos](https://marriedgames.com.br/noticias/barbies-mais-incriveis/)
+- [Gran Turismo: De Jogador a Corredor estreia amanhã nos cinemas](https://marriedgames.com.br/noticias/gran-turismo-de-jogador-a-corredor/)
+- [MVP Network lança Domínio RPG em parceria com Gruntar e Colosimus](https://marriedgames.com.br/noticias/dominio-rpg/)
+- [Logitech G na BGS 2023: Marca promete lançamentos para o universo gamer](https://marriedgames.com.br/noticias/logitech-g-na-bgs-2023/)
+- [Derrote o Imperador do Fogo e Ferro em Genshin Impact](https://marriedgames.com.br/dicas-guias/imperador-do-fogo-e-ferro-em-genshin/)
 <!-- BLOG-POST-LIST:END -->
 
 
