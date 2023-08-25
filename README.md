@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Leap Up: realme quer ser a primeira escolha para os consumidores em todo o mundo](https://marriedgames.com.br/noticias/leap-up-realme/)
+- [ExitLag e Draxen anunciam acordo para melhorar a experiência dos gamers dentro e fora de jogo](https://marriedgames.com.br/noticias/exitlag-e-draxen/)
+- [LG reforça estratégia para telas de grandes formatos com o lançamento do LG MAGNIT 136″](https://marriedgames.com.br/noticias/lg-magnit-136/)
 - [As 10 Barbies mais incríveis de todos os tempos](https://marriedgames.com.br/noticias/barbies-mais-incriveis/)
 - [Gran Turismo: De Jogador a Corredor estreia amanhã nos cinemas](https://marriedgames.com.br/noticias/gran-turismo-de-jogador-a-corredor/)
-- [MVP Network lança Domínio RPG em parceria com Gruntar e Colosimus](https://marriedgames.com.br/noticias/dominio-rpg/)
-- [Logitech G na BGS 2023: Marca promete lançamentos para o universo gamer](https://marriedgames.com.br/noticias/logitech-g-na-bgs-2023/)
-- [Derrote o Imperador do Fogo e Ferro em Genshin Impact](https://marriedgames.com.br/dicas-guias/imperador-do-fogo-e-ferro-em-genshin/)
 <!-- BLOG-POST-LIST:END -->
 
 
