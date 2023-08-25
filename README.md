@@ -133,10 +133,10 @@ I've just born to do it.
 
 <!-- YOUTUBE:START -->
 - [Soundbar S90 da LG. Vale a pena???](https://www.youtube.com/watch?v=4Vuj8VIzIMQ)
-- [CasaCor2023 -  Notebook Gram 15&quot; da LG](https://www.youtube.com/watch?v=9cdngMbQUHg)
-- [CasaCor2023 - TV Oled Transparente da LG](https://www.youtube.com/watch?v=vTI3E5ZdY7M)
 - [CasaCor2023 - TV Oled da LG](https://www.youtube.com/watch?v=2M7rDqEO6Wk)
-- [CasaCor2023 - Espaço LG](https://www.youtube.com/watch?v=2eUfGG7Udeg)
+- [5 Melhores microfones para podcast, streaming e youtube até R$ 400 [ANÁLISE COMPLETA]](https://www.youtube.com/watch?v=W4gIt1x7iIs)
+- [Unity no Visual Studio Code:  Configurando o intellisense [Auto-complete]](https://www.youtube.com/watch?v=iQOKdN0E_H0)
+- [Pegue meu dinheiro - Chainsaw Man  #shorts #chainsawman #makimachainsawman #denji](https://www.youtube.com/watch?v=ynh0VLOm2aw)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
