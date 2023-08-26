@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Leap Up: realme quer ser a primeira escolha para os consumidores em todo o mundo](https://marriedgames.com.br/noticias/leap-up-realme/)
-- [ExitLag e Draxen anunciam acordo para melhorar a experiência dos gamers dentro e fora de jogo](https://marriedgames.com.br/noticias/exitlag-e-draxen/)
-- [LG reforça estratégia para telas de grandes formatos com o lançamento do LG MAGNIT 136″](https://marriedgames.com.br/noticias/lg-magnit-136/)
-- [As 10 Barbies mais incríveis de todos os tempos](https://marriedgames.com.br/noticias/barbies-mais-incriveis/)
-- [Gran Turismo: De Jogador a Corredor estreia amanhã nos cinemas](https://marriedgames.com.br/noticias/gran-turismo-de-jogador-a-corredor/)
+- [5 FILMES IMPERDÍVEIS DO UNIVERSO ESTENDIDO DA DC](https://marriedgames.com.br/noticias/universo-estendido-da-dc/)
+- [ARMORED CORE VI FIRES OF RUBICON é lançado oficialmente](https://marriedgames.com.br/noticias/armored-core-vi-2/)
+- [Distribuidoras nacionais apresentam novos projetos durante a 10ª edição da Expocine23](https://marriedgames.com.br/noticias/expocine23/)
+- [WoW Classic Reinos Hardcore ficam disponíveis, com morte permanente](https://marriedgames.com.br/noticias/wow-classic-reinos-hardcore/)
+- [Apep Genshin Impact: Como vencer o Guardião do Oásis do Deserto de Sumeru](https://marriedgames.com.br/dicas-guias/apep-genshin-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 
