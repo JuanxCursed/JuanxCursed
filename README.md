@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [5 FILMES IMPERDÍVEIS DO UNIVERSO ESTENDIDO DA DC](https://marriedgames.com.br/noticias/universo-estendido-da-dc/)
-- [ARMORED CORE VI FIRES OF RUBICON é lançado oficialmente](https://marriedgames.com.br/noticias/armored-core-vi-2/)
-- [Distribuidoras nacionais apresentam novos projetos durante a 10ª edição da Expocine23](https://marriedgames.com.br/noticias/expocine23/)
-- [WoW Classic Reinos Hardcore ficam disponíveis, com morte permanente](https://marriedgames.com.br/noticias/wow-classic-reinos-hardcore/)
-- [Apep Genshin Impact: Como vencer o Guardião do Oásis do Deserto de Sumeru](https://marriedgames.com.br/dicas-guias/apep-genshin-impact/)
+- [Verme da Areia Setekh: Derrote o Boss mais Difícil do Abismo](https://marriedgames.com.br/dicas-guias/verme-da-areia-setekh/)
+- [Vue 3 vs Vue 2: O que mudou da segunda para a terceira versão do framework](https://marriedgames.com.br/dicas-guias/vue-3-vs-vue-2/)
+- [Vivo Keyd Stars retorna ao competitivo de Rainbow Six Siege e confirma line-up](https://marriedgames.com.br/noticias/vivo-keyd-stars-retorna/)
+- [Pânico VI Estreia Em 3 De Setembro No Paramount+](https://marriedgames.com.br/noticias/panico-vi/)
+- [Vue 3 e Vite: Tudo o que precisa saber sobre estes frameworks](https://marriedgames.com.br/dicas-guias/vue-3-e-vite/)
 <!-- BLOG-POST-LIST:END -->
 
 
