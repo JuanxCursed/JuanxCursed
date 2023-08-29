@@ -136,7 +136,7 @@ I've just born to do it.
 - [CasaCor2023 - TV Oled da LG](https://www.youtube.com/watch?v=2M7rDqEO6Wk)
 - [5 Melhores microfones para podcast, streaming e youtube até R$ 400 [ANÁLISE COMPLETA]](https://www.youtube.com/watch?v=W4gIt1x7iIs)
 - [Unity no Visual Studio Code:  Configurando o intellisense [Auto-complete]](https://www.youtube.com/watch?v=iQOKdN0E_H0)
-- [Pegue meu dinheiro - Chainsaw Man  #shorts #chainsawman #makimachainsawman #denji](https://www.youtube.com/watch?v=ynh0VLOm2aw)
+- [[Guia completo] Verbos ou Metodos HTTP [POST, GET, PUT, DELETE] &lpar;para qualquer linguagem&rpar;](https://www.youtube.com/watch?v=2azRpx2Y1wc)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
