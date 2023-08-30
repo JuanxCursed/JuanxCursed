@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Verme da Areia Setekh: Derrote o Boss mais Difícil do Abismo](https://marriedgames.com.br/dicas-guias/verme-da-areia-setekh/)
-- [Vue 3 vs Vue 2: O que mudou da segunda para a terceira versão do framework](https://marriedgames.com.br/dicas-guias/vue-3-vs-vue-2/)
-- [Vivo Keyd Stars retorna ao competitivo de Rainbow Six Siege e confirma line-up](https://marriedgames.com.br/noticias/vivo-keyd-stars-retorna/)
-- [Pânico VI Estreia Em 3 De Setembro No Paramount+](https://marriedgames.com.br/noticias/panico-vi/)
-- [Vue 3 e Vite: Tudo o que precisa saber sobre estes frameworks](https://marriedgames.com.br/dicas-guias/vue-3-e-vite/)
+- [Promoção Diablo IV oferece desconto e garante mais experiência e ouro no fim de semana](https://marriedgames.com.br/noticias/promocao-diablo-iv/)
+- [Level Up Dia do Gamer: Hype Games celebra com múltiplas personas do mundo dos jogos](https://marriedgames.com.br/noticias/level-up-dia-do-gamer/)
+- [Promoção da HyperX no Dia Internacional do Gamer tem periféricos com descontos de até 60%](https://marriedgames.com.br/noticias/promocao-da-hyperx/)
+- [HAWKED chega ao PlayStation para Beta Aberto entre plataformas](https://marriedgames.com.br/noticias/hawked-chega-ao-playstation/)
+- [Lenovo expande linha ThinkPad com processadores AMD Ryzen PRO série 7040](https://marriedgames.com.br/noticias/linha-thinkpad/)
 <!-- BLOG-POST-LIST:END -->
 
 
