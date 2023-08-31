@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Promoção Diablo IV oferece desconto e garante mais experiência e ouro no fim de semana](https://marriedgames.com.br/noticias/promocao-diablo-iv/)
-- [Level Up Dia do Gamer: Hype Games celebra com múltiplas personas do mundo dos jogos](https://marriedgames.com.br/noticias/level-up-dia-do-gamer/)
-- [Promoção da HyperX no Dia Internacional do Gamer tem periféricos com descontos de até 60%](https://marriedgames.com.br/noticias/promocao-da-hyperx/)
-- [HAWKED chega ao PlayStation para Beta Aberto entre plataformas](https://marriedgames.com.br/noticias/hawked-chega-ao-playstation/)
-- [Lenovo expande linha ThinkPad com processadores AMD Ryzen PRO série 7040](https://marriedgames.com.br/noticias/linha-thinkpad/)
+- [A.K.I. Street Fighter 6: Lutadora Chega Destilando Seu Veneno em 27 de Setembro](https://marriedgames.com.br/noticias/a-k-i-street-fighter/)
+- [WD_BLACK C50: Conheça o novo Cartão de Expansão para Xbox da Western Digital](https://marriedgames.com.br/noticias/wd_black-c50/)
+- [League of Legends Briar: A “Fome Contida” Satisfaz Seu Apetite Na Atualização 13.18](https://marriedgames.com.br/noticias/league-of-legends-briar/)
+- [Ubisoft lança a DLC Mario + Rabbids Sparks of Hope: Rayman in the Phantom Show](https://marriedgames.com.br/noticias/rayman-in-the-phantom-show/)
+- [Atualizar Vue: Faça o upgrade de projeto existente para usar o Vue 3](https://marriedgames.com.br/dicas-guias/atualizar-vue/)
 <!-- BLOG-POST-LIST:END -->
 
 
