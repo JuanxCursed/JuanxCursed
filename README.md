@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LEGO Brawls recebe nova atualização com temas clássicos da marca](https://marriedgames.com.br/noticias/lego-brawls-2/)
+- [Lynette Genshin Impact: Melhor Build para a Gatinha Assistente de Mágico](https://marriedgames.com.br/dicas-guias/lynette-genshin-impact/)
+- [Viajante Hydro Genshin Impact: Melhores Armas, Artefatos e Talentos](https://marriedgames.com.br/dicas-guias/viajante-hydro/)
 - [A.K.I. Street Fighter 6: Lutadora Chega Destilando Seu Veneno em 27 de Setembro](https://marriedgames.com.br/noticias/a-k-i-street-fighter/)
 - [WD_BLACK C50: Conheça o novo Cartão de Expansão para Xbox da Western Digital](https://marriedgames.com.br/noticias/wd_black-c50/)
-- [League of Legends Briar: A “Fome Contida” Satisfaz Seu Apetite Na Atualização 13.18](https://marriedgames.com.br/noticias/league-of-legends-briar/)
-- [Ubisoft lança a DLC Mario + Rabbids Sparks of Hope: Rayman in the Phantom Show](https://marriedgames.com.br/noticias/rayman-in-the-phantom-show/)
-- [Atualizar Vue: Faça o upgrade de projeto existente para usar o Vue 3](https://marriedgames.com.br/dicas-guias/atualizar-vue/)
 <!-- BLOG-POST-LIST:END -->
 
 
