@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LEGO Brawls recebe nova atualização com temas clássicos da marca](https://marriedgames.com.br/noticias/lego-brawls-2/)
-- [Lynette Genshin Impact: Melhor Build para a Gatinha Assistente de Mágico](https://marriedgames.com.br/dicas-guias/lynette-genshin-impact/)
-- [Viajante Hydro Genshin Impact: Melhores Armas, Artefatos e Talentos](https://marriedgames.com.br/dicas-guias/viajante-hydro/)
-- [A.K.I. Street Fighter 6: Lutadora Chega Destilando Seu Veneno em 27 de Setembro](https://marriedgames.com.br/noticias/a-k-i-street-fighter/)
-- [WD_BLACK C50: Conheça o novo Cartão de Expansão para Xbox da Western Digital](https://marriedgames.com.br/noticias/wd_black-c50/)
+- [Making Of de Hogwarts Legacy é revelado nas comemorações de “Back to Hogwarts”](https://marriedgames.com.br/noticias/making-of-de-hogwarts-legacy/)
+- [Marca de SSD: É importante escolher uma marca na hora de comprar um?](https://marriedgames.com.br/dicas-guias/marca-de-ssd/)
+- [Mauricio de Sousa na CCXP23: Confirmada presença do Quadrinista no evento](https://marriedgames.com.br/noticias/mauricio-de-sousa-na-ccxp23/)
+- [Gaming on the Go: Lenovo anuncia o Lenovo Legion Go na IFA 2023](https://marriedgames.com.br/noticias/lenovo-legion-go/)
+- [Lyney Genshin Impact: As Melhores Armas, Artefatos e Talentos para o Grande Mágico](https://marriedgames.com.br/dicas-guias/lyney-genshin-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 
