@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TVs OLED evo: tecnologia e inovação que só a LG tem!](https://marriedgames.com.br/noticias/tvs-oled-evo/)
 - [Making Of de Hogwarts Legacy é revelado nas comemorações de “Back to Hogwarts”](https://marriedgames.com.br/noticias/making-of-de-hogwarts-legacy/)
 - [Marca de SSD: É importante escolher uma marca na hora de comprar um?](https://marriedgames.com.br/dicas-guias/marca-de-ssd/)
 - [Mauricio de Sousa na CCXP23: Confirmada presença do Quadrinista no evento](https://marriedgames.com.br/noticias/mauricio-de-sousa-na-ccxp23/)
 - [Gaming on the Go: Lenovo anuncia o Lenovo Legion Go na IFA 2023](https://marriedgames.com.br/noticias/lenovo-legion-go/)
-- [Lyney Genshin Impact: As Melhores Armas, Artefatos e Talentos para o Grande Mágico](https://marriedgames.com.br/dicas-guias/lyney-genshin-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 
