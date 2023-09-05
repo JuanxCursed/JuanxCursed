@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Honor of Kings entra para a Liga Escolar Brasileira de Esports](https://marriedgames.com.br/noticias/liga-escolar-brasileira-de-esports/)
+- [Viajante Dendro: Como Buildar a melhor forma do Traveller em Genshin Impact até Agora](https://marriedgames.com.br/dicas-guias/viajante-dendro/)
+- [Orion Bootcamp: abertas as inscrições para treino gratuito em desenvolvimento de software](https://marriedgames.com.br/noticias/orion-bootcamp/)
+- [SSDs maiores são mais rápidos? Descubra se Tamanho é Realmente Importa](https://marriedgames.com.br/dicas-guias/ssds-maiores-sao-mais-rapidos/)
 - [TVs OLED evo: tecnologia e inovação que só a LG tem!](https://marriedgames.com.br/noticias/tvs-oled-evo/)
-- [Making Of de Hogwarts Legacy é revelado nas comemorações de “Back to Hogwarts”](https://marriedgames.com.br/noticias/making-of-de-hogwarts-legacy/)
-- [Marca de SSD: É importante escolher uma marca na hora de comprar um?](https://marriedgames.com.br/dicas-guias/marca-de-ssd/)
-- [Mauricio de Sousa na CCXP23: Confirmada presença do Quadrinista no evento](https://marriedgames.com.br/noticias/mauricio-de-sousa-na-ccxp23/)
-- [Gaming on the Go: Lenovo anuncia o Lenovo Legion Go na IFA 2023](https://marriedgames.com.br/noticias/lenovo-legion-go/)
 <!-- BLOG-POST-LIST:END -->
 
 
