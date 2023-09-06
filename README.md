@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Honor of Kings entra para a Liga Escolar Brasileira de Esports](https://marriedgames.com.br/noticias/liga-escolar-brasileira-de-esports/)
-- [Viajante Dendro: Como Buildar a melhor forma do Traveller em Genshin Impact até Agora](https://marriedgames.com.br/dicas-guias/viajante-dendro/)
-- [Orion Bootcamp: abertas as inscrições para treino gratuito em desenvolvimento de software](https://marriedgames.com.br/noticias/orion-bootcamp/)
-- [SSDs maiores são mais rápidos? Descubra se Tamanho é Realmente Importa](https://marriedgames.com.br/dicas-guias/ssds-maiores-sao-mais-rapidos/)
-- [TVs OLED evo: tecnologia e inovação que só a LG tem!](https://marriedgames.com.br/noticias/tvs-oled-evo/)
+- [World of Warcraft: Dragonflight recebe Fúria Encarnada, com novas missões e desafios](https://marriedgames.com.br/noticias/furia-encarnada/)
+- [The Sims 4 revela os kits Estrela da Piscina e Luxo Moderno, disponíveis a partir de 7 de setembro](https://marriedgames.com.br/noticias/estrela-da-piscina-e-luxo-moderno/)
+- [Um SSD Grande ou Vários Menores? Qual é a Melhor Opção de Armazenamento?](https://marriedgames.com.br/analises/ssd-grande/)
+- [Allain Honor of Kings: Moba recebe o novo mercenário, eventos e Passe de Batalha](https://marriedgames.com.br/noticias/allain-honor-of-kings/)
+- [AMD ou Intel: quem vence em a batalha dos processadores 2023?](https://marriedgames.com.br/noticias/amd-ou-intel/)
 <!-- BLOG-POST-LIST:END -->
 
 
