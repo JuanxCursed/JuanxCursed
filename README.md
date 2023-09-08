@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Warner Bros. Games anuncia Megan Fox como Nitara em Mortal Kombat 1](https://marriedgames.com.br/noticias/megan-fox-como-nitara/)
 - [Como escrever prompt IA: a chave para melhores resultados da IA generativa](https://marriedgames.com.br/dicas-guias/prompt-ia/)
 - [Como identificar um SSD falso? Aprenda a Reconhecer um Produto Legítimo](https://marriedgames.com.br/dicas-guias/ssd-falso/)
 - [World of Warcraft: Dragonflight recebe Fúria Encarnada, com novas missões e desafios](https://marriedgames.com.br/noticias/furia-encarnada/)
 - [The Sims 4 revela os kits Estrela da Piscina e Luxo Moderno, disponíveis a partir de 7 de setembro](https://marriedgames.com.br/noticias/estrela-da-piscina-e-luxo-moderno/)
-- [Um SSD Grande ou Vários Menores? Qual é a Melhor Opção de Armazenamento?](https://marriedgames.com.br/analises/ssd-grande/)
 <!-- BLOG-POST-LIST:END -->
 
 
