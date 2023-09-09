@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Warner Bros. Games anuncia Megan Fox como Nitara em Mortal Kombat 1](https://marriedgames.com.br/noticias/megan-fox-como-nitara/)
-- [Como escrever prompt IA: a chave para melhores resultados da IA generativa](https://marriedgames.com.br/dicas-guias/prompt-ia/)
-- [Como identificar um SSD falso? Aprenda a Reconhecer um Produto Legítimo](https://marriedgames.com.br/dicas-guias/ssd-falso/)
-- [World of Warcraft: Dragonflight recebe Fúria Encarnada, com novas missões e desafios](https://marriedgames.com.br/noticias/furia-encarnada/)
-- [The Sims 4 revela os kits Estrela da Piscina e Luxo Moderno, disponíveis a partir de 7 de setembro](https://marriedgames.com.br/noticias/estrela-da-piscina-e-luxo-moderno/)
+- [Novo trailer de Mortal Kombat 1 revela skin de Jean-Claude Van Damme para Johnny Cage](https://marriedgames.com.br/noticias/van-damme-para-johnny-cage/)
+- [World of Warcraft: Guardiões do Sonho de Dragonflight chegam com nova área e missões](https://marriedgames.com.br/noticias/guardioes-do-sonho-de-dragonflight/)
+- [Freminet Genshin Impact: A Melhor Build para o Mergulhador de Fontaine](https://marriedgames.com.br/dicas-guias/freminet-genshin-impact/)
+- [28 Jogos Google Doodle Que Você Precisa Conhecer!](https://marriedgames.com.br/dicas-guias/jogos-google-doodle-jogos-gratis/)
+- [SEGA lança novo vídeo da trilha sonora de Sonic Superstars](https://marriedgames.com.br/noticias/trilha-sonora-de-sonic/)
 <!-- BLOG-POST-LIST:END -->
 
 
