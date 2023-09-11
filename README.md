@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LOUD vence CBLOL e se torna única tricampeã consecutiva da história da competição](https://marriedgames.com.br/noticias/loud-vence-cblol/)
+- [Museu do Videogame chega ao Internacional Shopping com atividades interativas e gratuitas](https://marriedgames.com.br/noticias/museu-do-videogame/)
 - [Novo trailer de Mortal Kombat 1 revela skin de Jean-Claude Van Damme para Johnny Cage](https://marriedgames.com.br/noticias/van-damme-para-johnny-cage/)
 - [World of Warcraft: Guardiões do Sonho de Dragonflight chegam com nova área e missões](https://marriedgames.com.br/noticias/guardioes-do-sonho-de-dragonflight/)
 - [Freminet Genshin Impact: A Melhor Build para o Mergulhador de Fontaine](https://marriedgames.com.br/dicas-guias/freminet-genshin-impact/)
-- [28 Jogos Google Doodle Que Você Precisa Conhecer!](https://marriedgames.com.br/dicas-guias/jogos-google-doodle-jogos-gratis/)
-- [SEGA lança novo vídeo da trilha sonora de Sonic Superstars](https://marriedgames.com.br/noticias/trilha-sonora-de-sonic/)
 <!-- BLOG-POST-LIST:END -->
 
 
