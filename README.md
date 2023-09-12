@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LOUD vence CBLOL e se torna única tricampeã consecutiva da história da competição](https://marriedgames.com.br/noticias/loud-vence-cblol/)
-- [Museu do Videogame chega ao Internacional Shopping com atividades interativas e gratuitas](https://marriedgames.com.br/noticias/museu-do-videogame/)
-- [Novo trailer de Mortal Kombat 1 revela skin de Jean-Claude Van Damme para Johnny Cage](https://marriedgames.com.br/noticias/van-damme-para-johnny-cage/)
-- [World of Warcraft: Guardiões do Sonho de Dragonflight chegam com nova área e missões](https://marriedgames.com.br/noticias/guardioes-do-sonho-de-dragonflight/)
-- [Freminet Genshin Impact: A Melhor Build para o Mergulhador de Fontaine](https://marriedgames.com.br/dicas-guias/freminet-genshin-impact/)
+- [Primeiro fim de semana da BLAST R6 Brazil League tem surpresas em partidas emocionantes](https://marriedgames.com.br/noticias/blast-r6-brazil-league/)
+- [EA Sports FC 24 Revela 24 Atletas Masculinos E Femininas Mais Bem Avaliados](https://marriedgames.com.br/noticias/ea-sports-fc-24-revela/)
+- [Starfield na Hype Games: conheça um pouco sobre o game espacial e aproveite desconto](https://marriedgames.com.br/noticias/starfield-na-hype-games/)
+- [Dia Comunitário Pokémon GO de setembro traz Grubbin](https://marriedgames.com.br/noticias/dia-comunitario-pokemon-go/)
+- [Segurança Digital: Sua senha pode não ser tão complexa quanto você pensa](https://marriedgames.com.br/noticias/seguranca-digital/)
 <!-- BLOG-POST-LIST:END -->
 
 
