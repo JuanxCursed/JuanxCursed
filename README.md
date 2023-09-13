@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Primeiro fim de semana da BLAST R6 Brazil League tem surpresas em partidas emocionantes](https://marriedgames.com.br/noticias/blast-r6-brazil-league/)
-- [EA Sports FC 24 Revela 24 Atletas Masculinos E Femininas Mais Bem Avaliados](https://marriedgames.com.br/noticias/ea-sports-fc-24-revela/)
-- [Starfield na Hype Games: conheça um pouco sobre o game espacial e aproveite desconto](https://marriedgames.com.br/noticias/starfield-na-hype-games/)
-- [Dia Comunitário Pokémon GO de setembro traz Grubbin](https://marriedgames.com.br/noticias/dia-comunitario-pokemon-go/)
-- [Segurança Digital: Sua senha pode não ser tão complexa quanto você pensa](https://marriedgames.com.br/noticias/seguranca-digital/)
+- [Black Friday 2023: Saiba como escolher o Melhor Notebook Gamer](https://marriedgames.com.br/analises/como-escolher-um-notebook-gamer/)
+- [Behind The Sims Ep 3 Traz As Últimas Atualizações Do Universo The Sims](https://marriedgames.com.br/noticias/behind-the-sims-ep-3/)
+- [É verdade que o celular escuta conversas para mostrar anúncios? Especialistas explicam](https://marriedgames.com.br/noticias/celular-escuta-conversas/)
+- [Novo trailer de lançamento de Mortal Kombat 1 revela gameplay de Shang Tsung e Reiko](https://marriedgames.com.br/noticias/lancamento-de-mortal-kombat-1/)
+- [Jogos Baseados em Anime: Saiba quais são os Melhores Games para os Otakus](https://marriedgames.com.br/dicas-guias/jogos-baseados-em-anime/)
 <!-- BLOG-POST-LIST:END -->
 
 
