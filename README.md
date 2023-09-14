@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Black Friday 2023: Saiba como escolher o Melhor Notebook Gamer](https://marriedgames.com.br/analises/como-escolher-um-notebook-gamer/)
-- [Behind The Sims Ep 3 Traz As Últimas Atualizações Do Universo The Sims](https://marriedgames.com.br/noticias/behind-the-sims-ep-3/)
-- [É verdade que o celular escuta conversas para mostrar anúncios? Especialistas explicam](https://marriedgames.com.br/noticias/celular-escuta-conversas/)
-- [Novo trailer de lançamento de Mortal Kombat 1 revela gameplay de Shang Tsung e Reiko](https://marriedgames.com.br/noticias/lancamento-de-mortal-kombat-1/)
-- [Jogos Baseados em Anime: Saiba quais são os Melhores Games para os Otakus](https://marriedgames.com.br/dicas-guias/jogos-baseados-em-anime/)
+- [Demon Slayer -Kimetsu no Yaiba Sweep the Board! chega ao Nintendo Switch™ em 2024](https://marriedgames.com.br/noticias/kimetsu-no-yaiba-sweep-the-board/)
+- [CCXP23 anuncia a presença de Mark Williams, o eterno Arthur Weasley da saga Harry Potter](https://marriedgames.com.br/noticias/mark-williams/)
+- [Paramount+ Divulga Trailer De Novo Filme De Terror “Cemitério Maldito: A Origem”](https://marriedgames.com.br/noticias/cemiterio-maldito-a-origem/)
+- [Hora do Upgrade? Quando Expandir Memória RAM do seu Computador](https://marriedgames.com.br/dicas-guias/expandir-memoria-ram/)
+- [Memória RAM: Mitos e Verdades sobre a Memória dos nossos Computadores](https://marriedgames.com.br/dicas-guias/memoria-ram/)
 <!-- BLOG-POST-LIST:END -->
 
 
