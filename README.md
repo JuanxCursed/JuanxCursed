@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Demon Slayer -Kimetsu no Yaiba Sweep the Board! chega ao Nintendo Switch™ em 2024](https://marriedgames.com.br/noticias/kimetsu-no-yaiba-sweep-the-board/)
-- [CCXP23 anuncia a presença de Mark Williams, o eterno Arthur Weasley da saga Harry Potter](https://marriedgames.com.br/noticias/mark-williams/)
-- [Paramount+ Divulga Trailer De Novo Filme De Terror “Cemitério Maldito: A Origem”](https://marriedgames.com.br/noticias/cemiterio-maldito-a-origem/)
-- [Hora do Upgrade? Quando Expandir Memória RAM do seu Computador](https://marriedgames.com.br/dicas-guias/expandir-memoria-ram/)
-- [Memória RAM: Mitos e Verdades sobre a Memória dos nossos Computadores](https://marriedgames.com.br/dicas-guias/memoria-ram/)
+- [SEGA lança novo vídeo da trilha sonora de Sonic Frontiers](https://marriedgames.com.br/noticias/trilha-sonora-de-sonic-frontiers/)
+- [Trace um novo destino com a expansão TALES OF ARISE – BEYOND THE DAWN](https://marriedgames.com.br/noticias/beyond-the-dawn/)
+- [The Sims 4 Chef Em Casa: Nova Coleção de Objetos chega em 28 De Setembro](https://marriedgames.com.br/noticias/the-sims-4-chef-em-casa/)
+- [Razer lança mouse Viper V3 HyperSpeed mirando jogadores profissionais da atualidade e talentos da próxima geração](https://marriedgames.com.br/noticias/viper-v3-hyperspeed/)
+- [BB e CCXP23: anunciado patrocínio do Banco do Brasil e novidades no terceiro lotes de ingressos](https://marriedgames.com.br/noticias/bb-e-ccxp23/)
 <!-- BLOG-POST-LIST:END -->
 
 
