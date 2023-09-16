@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CCXP23 anuncia quatro novos quadrinistas em celebração dos 60 anos de X-Men](https://marriedgames.com.br/noticias/60-anos-de-x-men/)
+- [Redragon te leva pra BGS em Promoção Imperdível com Ingressos VIP + R＄1.000,00!](https://marriedgames.com.br/noticias/redragon-te-leva-pra-bgs/)
+- [Genshin Impact 4.1: Novas áreas, personagens e histórias de Fontaine em 27 de setembro](https://marriedgames.com.br/noticias/genshin-impact-4-1/)
+- [Como desbloquear todos os Kameo Fighters em Mortal Kombat 1](https://marriedgames.com.br/dicas-guias/kameo-fighters/)
 - [SEGA lança novo vídeo da trilha sonora de Sonic Frontiers](https://marriedgames.com.br/noticias/trilha-sonora-de-sonic-frontiers/)
-- [Trace um novo destino com a expansão TALES OF ARISE – BEYOND THE DAWN](https://marriedgames.com.br/noticias/beyond-the-dawn/)
-- [The Sims 4 Chef Em Casa: Nova Coleção de Objetos chega em 28 De Setembro](https://marriedgames.com.br/noticias/the-sims-4-chef-em-casa/)
-- [Razer lança mouse Viper V3 HyperSpeed mirando jogadores profissionais da atualidade e talentos da próxima geração](https://marriedgames.com.br/noticias/viper-v3-hyperspeed/)
-- [BB e CCXP23: anunciado patrocínio do Banco do Brasil e novidades no terceiro lotes de ingressos](https://marriedgames.com.br/noticias/bb-e-ccxp23/)
 <!-- BLOG-POST-LIST:END -->
 
 
