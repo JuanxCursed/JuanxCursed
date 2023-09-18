@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rafael Grampá na CCXP23: autor de ‘Batman – Gárgula de Gotham’ estará no evento](https://marriedgames.com.br/noticias/rafael-grampa-na-ccxp23/)
+- [One Piece: Pirate Warriors 4 “Ultimate Edition” está disponível](https://marriedgames.com.br/noticias/pirate-warriors-4/)
 - [CCXP23 anuncia quatro novos quadrinistas em celebração dos 60 anos de X-Men](https://marriedgames.com.br/noticias/60-anos-de-x-men/)
 - [Redragon te leva pra BGS em Promoção Imperdível com Ingressos VIP + R＄1.000,00!](https://marriedgames.com.br/noticias/redragon-te-leva-pra-bgs/)
 - [Genshin Impact 4.1: Novas áreas, personagens e histórias de Fontaine em 27 de setembro](https://marriedgames.com.br/noticias/genshin-impact-4-1/)
-- [Como desbloquear todos os Kameo Fighters em Mortal Kombat 1](https://marriedgames.com.br/dicas-guias/kameo-fighters/)
-- [SEGA lança novo vídeo da trilha sonora de Sonic Frontiers](https://marriedgames.com.br/noticias/trilha-sonora-de-sonic-frontiers/)
 <!-- BLOG-POST-LIST:END -->
 
 
