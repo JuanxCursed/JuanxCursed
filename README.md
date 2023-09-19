@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rafael Grampá na CCXP23: autor de ‘Batman – Gárgula de Gotham’ estará no evento](https://marriedgames.com.br/noticias/rafael-grampa-na-ccxp23/)
-- [One Piece: Pirate Warriors 4 “Ultimate Edition” está disponível](https://marriedgames.com.br/noticias/pirate-warriors-4/)
-- [CCXP23 anuncia quatro novos quadrinistas em celebração dos 60 anos de X-Men](https://marriedgames.com.br/noticias/60-anos-de-x-men/)
-- [Redragon te leva pra BGS em Promoção Imperdível com Ingressos VIP + R＄1.000,00!](https://marriedgames.com.br/noticias/redragon-te-leva-pra-bgs/)
-- [Genshin Impact 4.1: Novas áreas, personagens e histórias de Fontaine em 27 de setembro](https://marriedgames.com.br/noticias/genshin-impact-4-1/)
+- [Spin Off de The Boys, Gen V, Revela Vídeo de Orientação para a Universidade Godolkin](https://marriedgames.com.br/noticias/spin-off-de-the-boys/)
+- [Quase Dois Milhões De Pessoas Já Assistiram Besouro Azul Nos Cinemas](https://marriedgames.com.br/noticias/besouro-azul-nos-cinemas/)
+- [Crossplay Open Beta de The First Descendant da NEXON, começa no PC, PlayStation e Xbox](https://marriedgames.com.br/noticias/open-beta-de-the-first-descendant/)
+- [Dicas de Mortal Kombat 1: Domine o Torneio Mortal com essas Dicas](https://marriedgames.com.br/noticias/dicas-de-mortal-kombat-1/)
+- [Logitech G na BGS 2023: Marca de Hardware Gamer Confirma Presença no Evento](https://marriedgames.com.br/noticias/logitech-g-na-bgs/)
 <!-- BLOG-POST-LIST:END -->
 
 
