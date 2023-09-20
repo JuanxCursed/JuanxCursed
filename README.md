@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spin Off de The Boys, Gen V, Revela Vídeo de Orientação para a Universidade Godolkin](https://marriedgames.com.br/noticias/spin-off-de-the-boys/)
-- [Quase Dois Milhões De Pessoas Já Assistiram Besouro Azul Nos Cinemas](https://marriedgames.com.br/noticias/besouro-azul-nos-cinemas/)
-- [Crossplay Open Beta de The First Descendant da NEXON, começa no PC, PlayStation e Xbox](https://marriedgames.com.br/noticias/open-beta-de-the-first-descendant/)
-- [Dicas de Mortal Kombat 1: Domine o Torneio Mortal com essas Dicas](https://marriedgames.com.br/noticias/dicas-de-mortal-kombat-1/)
-- [Logitech G na BGS 2023: Marca de Hardware Gamer Confirma Presença no Evento](https://marriedgames.com.br/noticias/logitech-g-na-bgs/)
+- [realme anuncia oficialmente o início das vendas do realme 11 5G e realme 11x 5G no Brasil](https://marriedgames.com.br/noticias/realme-11x-5g-no-brasil/)
+- [Evento de Aniversário de Overwatch 2 celebra primeiro ano do jogo](https://marriedgames.com.br/noticias/aniversario-de-overwatch-2/)
+- [Beta de TEKKEN 8: Anunciado próxima batalha com Teste Fechado em outubro](https://marriedgames.com.br/noticias/beta-de-tekken-8/)
+- [Naruto na Hype Games: Loja oferece descontos nos jogos do ninja](https://marriedgames.com.br/noticias/naruto-na-hype-games/)
+- [7 dicas para melhorar sua mira em VALORANT](https://marriedgames.com.br/dicas-guias/mira-em-valorant/)
 <!-- BLOG-POST-LIST:END -->
 
 
