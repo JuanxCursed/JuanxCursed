@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [realme anuncia oficialmente o início das vendas do realme 11 5G e realme 11x 5G no Brasil](https://marriedgames.com.br/noticias/realme-11x-5g-no-brasil/)
-- [Evento de Aniversário de Overwatch 2 celebra primeiro ano do jogo](https://marriedgames.com.br/noticias/aniversario-de-overwatch-2/)
-- [Beta de TEKKEN 8: Anunciado próxima batalha com Teste Fechado em outubro](https://marriedgames.com.br/noticias/beta-de-tekken-8/)
-- [Naruto na Hype Games: Loja oferece descontos nos jogos do ninja](https://marriedgames.com.br/noticias/naruto-na-hype-games/)
-- [7 dicas para melhorar sua mira em VALORANT](https://marriedgames.com.br/dicas-guias/mira-em-valorant/)
+- [Barbie em IMAX: Sucesso Global Da Warner Bros. Pictures, Estreia Em Versão Especial Amanhã](https://marriedgames.com.br/noticias/barbie-em-imax/)
+- [Como assinar o ExitLag Mobile, solução pioneira na otimização de rotas para dispositivos móveis](https://marriedgames.com.br/noticias/exitlag-mobile-2/)
+- [SEGA lança nova animação “Sonic Superstars: Trio of Trouble”](https://marriedgames.com.br/noticias/trio-of-trouble/)
+- [Terra do Amanhecer chega a Black Desert Mobile em 26 de setembro](https://marriedgames.com.br/noticias/terra-do-amanhecer/)
+- [Invasão de Mortal Kombat 1: Todas as Soluções dos Puzzles do Modo](https://marriedgames.com.br/noticias/invasao-de-mortal-kombat-1/)
 <!-- BLOG-POST-LIST:END -->
 
 
