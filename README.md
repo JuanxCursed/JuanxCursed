@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Barbie em IMAX: Sucesso Global Da Warner Bros. Pictures, Estreia Em Versão Especial Amanhã](https://marriedgames.com.br/noticias/barbie-em-imax/)
-- [Como assinar o ExitLag Mobile, solução pioneira na otimização de rotas para dispositivos móveis](https://marriedgames.com.br/noticias/exitlag-mobile-2/)
-- [SEGA lança nova animação “Sonic Superstars: Trio of Trouble”](https://marriedgames.com.br/noticias/trio-of-trouble/)
-- [Terra do Amanhecer chega a Black Desert Mobile em 26 de setembro](https://marriedgames.com.br/noticias/terra-do-amanhecer/)
-- [Invasão de Mortal Kombat 1: Todas as Soluções dos Puzzles do Modo](https://marriedgames.com.br/noticias/invasao-de-mortal-kombat-1/)
+- [Confira detalhes sobre as novas supers e aspectos da próxima expansão de Destiny 2 Forma Final](https://marriedgames.com.br/noticias/destiny-2-forma-final/)
+- [Caminhos Distintos, o DLC de História de Resident Evil 4, Chega Hoje!](https://marriedgames.com.br/noticias/dlc-de-historia-de-resident-evil/)
+- [SEGA revela detalhes do novo Battle Mode de Sonic Superstars](https://marriedgames.com.br/noticias/battle-mode-de-sonic/)
+- [Conheça Os Personagens De ‘Hora De Aventura Com Fionna E Cake’](https://marriedgames.com.br/noticias/fionna-e-cake/)
+- [Guia passo a passo para instalação da placa-mãe &lpar;2023&rpar;](https://marriedgames.com.br/dicas-guias/instalacao-da-placa-mae/)
 <!-- BLOG-POST-LIST:END -->
 
 
