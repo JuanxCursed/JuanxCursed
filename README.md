@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como Instalar GitKraken Passo a Passo &lpar;Guia 2023](https://marriedgames.com.br/dicas-guias/instalar-gitkraken/)
+- [Horizon Chase 2: Em Carro que Está Ganhando Não se Mexe](https://marriedgames.com.br/analises/horizon-chase-2/)
+- [EVOVERSE na BGS23: Jogo terá presença com estande, lançamentos e NFT comemorativo](https://marriedgames.com.br/noticias/evoverse-na-bgs23/)
+- [Razercon 2023 ilumina a comunidade de jogos com anúncios e parcerias exclusivas](https://marriedgames.com.br/noticias/razercon-2023/)
 - [Confira detalhes sobre as novas supers e aspectos da próxima expansão de Destiny 2 Forma Final](https://marriedgames.com.br/noticias/destiny-2-forma-final/)
-- [Caminhos Distintos, o DLC de História de Resident Evil 4, Chega Hoje!](https://marriedgames.com.br/noticias/dlc-de-historia-de-resident-evil/)
-- [SEGA revela detalhes do novo Battle Mode de Sonic Superstars](https://marriedgames.com.br/noticias/battle-mode-de-sonic/)
-- [Conheça Os Personagens De ‘Hora De Aventura Com Fionna E Cake’](https://marriedgames.com.br/noticias/fionna-e-cake/)
-- [Guia passo a passo para instalação da placa-mãe &lpar;2023&rpar;](https://marriedgames.com.br/dicas-guias/instalacao-da-placa-mae/)
 <!-- BLOG-POST-LIST:END -->
 
 
