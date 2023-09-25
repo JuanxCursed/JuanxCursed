@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ao ar livre com o Galaxy Tab S9: seu melhor companheiro para atividades externas](https://marriedgames.com.br/noticias/galaxy-tab-s9/)
+- [Novos modelos do Nintendo Switch Temáticos estão a caminho do Brasil!](https://marriedgames.com.br/noticias/modelos-do-nintendo-switch/)
 - [Como Instalar GitKraken Passo a Passo &lpar;Guia 2023](https://marriedgames.com.br/dicas-guias/instalar-gitkraken/)
 - [Horizon Chase 2: Em Carro que Está Ganhando Não se Mexe](https://marriedgames.com.br/analises/horizon-chase-2/)
 - [EVOVERSE na BGS23: Jogo terá presença com estande, lançamentos e NFT comemorativo](https://marriedgames.com.br/noticias/evoverse-na-bgs23/)
-- [Razercon 2023 ilumina a comunidade de jogos com anúncios e parcerias exclusivas](https://marriedgames.com.br/noticias/razercon-2023/)
-- [Confira detalhes sobre as novas supers e aspectos da próxima expansão de Destiny 2 Forma Final](https://marriedgames.com.br/noticias/destiny-2-forma-final/)
 <!-- BLOG-POST-LIST:END -->
 
 
