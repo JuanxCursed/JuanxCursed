@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ao ar livre com o Galaxy Tab S9: seu melhor companheiro para atividades externas](https://marriedgames.com.br/noticias/galaxy-tab-s9/)
-- [Novos modelos do Nintendo Switch Temáticos estão a caminho do Brasil!](https://marriedgames.com.br/noticias/modelos-do-nintendo-switch/)
-- [Como Instalar GitKraken Passo a Passo &lpar;Guia 2023](https://marriedgames.com.br/dicas-guias/instalar-gitkraken/)
-- [Horizon Chase 2: Em Carro que Está Ganhando Não se Mexe](https://marriedgames.com.br/analises/horizon-chase-2/)
-- [EVOVERSE na BGS23: Jogo terá presença com estande, lançamentos e NFT comemorativo](https://marriedgames.com.br/noticias/evoverse-na-bgs23/)
+- [Ubisoft na BGS23 terá estande de 500m² com Assassin’s Creed Mirage com gameplays](https://marriedgames.com.br/noticias/ubisoft-na-bgs23/)
+- [Cyberpunk 2077 Phantom Liberty é lançado hoje!](https://marriedgames.com.br/noticias/cyberpunk-2077-phantom-liberty/)
+- [Gameplay SYNDUALITY ECHO OF ADA e cenário pós-apocalíptico são destaques do trailer](https://marriedgames.com.br/noticias/gameplay-synduality/)
+- [Extensões Vuejs e VsCode: Os complementos obrigatórios que você Deve Ter em 2023](https://marriedgames.com.br/dicas-guias/extensoes-vuejs/)
+- [Free Fire e Demon Slayer: Kimetsu no Yaiba se unem para uma parceria especial](https://marriedgames.com.br/noticias/free-fire-e-demon-slayer/)
 <!-- BLOG-POST-LIST:END -->
 
 
