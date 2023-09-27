@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ubisoft na BGS23 terá estande de 500m² com Assassin’s Creed Mirage com gameplays](https://marriedgames.com.br/noticias/ubisoft-na-bgs23/)
-- [Cyberpunk 2077 Phantom Liberty é lançado hoje!](https://marriedgames.com.br/noticias/cyberpunk-2077-phantom-liberty/)
-- [Gameplay SYNDUALITY ECHO OF ADA e cenário pós-apocalíptico são destaques do trailer](https://marriedgames.com.br/noticias/gameplay-synduality/)
-- [Extensões Vuejs e VsCode: Os complementos obrigatórios que você Deve Ter em 2023](https://marriedgames.com.br/dicas-guias/extensoes-vuejs/)
-- [Free Fire e Demon Slayer: Kimetsu no Yaiba se unem para uma parceria especial](https://marriedgames.com.br/noticias/free-fire-e-demon-slayer/)
+- [EA Sports FC Mobile está Disponível no seu Bolso com Versões para Android e iOS](https://marriedgames.com.br/noticias/ea-sports-fc-mobile/)
+- [Logitech G na BGS: Concorra a ingressos para Brasil Game Show 2023](https://marriedgames.com.br/noticias/logitech-g-na-bgs-2/)
+- [Novo Samsung Galaxy Z Flip5 é o smartphone perfeito para acompanhar o seu estilo](https://marriedgames.com.br/noticias/samsung-galaxy-z-flip5/)
+- [Anti Cheat PUBG: BATTLEGROUNDS mostra sucesso na batalha contra trapaceiros](https://marriedgames.com.br/noticias/anti-cheat-pubg/)
+- [Vue 3 e Unit Testing: Uma Dupla Imbatível para Desenvolvedores](https://marriedgames.com.br/dicas-guias/unit-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 
