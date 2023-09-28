@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Escala Sinistra Call of Duty: Mobile Temporada 9: Os Zumbis ressuscitam em dia 4 de outubro](https://marriedgames.com.br/noticias/escala-sinistra-call-of-duty/)
+- [Halloween PUBG: BATTLEGROUNDS volta ao  Battle Royale](https://marriedgames.com.br/noticias/halloween-pubg/)
+- [Garena promove o Rushadão FF, o primeiro torneio oficial da comunidade de Free Fire](https://marriedgames.com.br/noticias/rushadao-ff/)
+- [Fonte modular e não modular? Saiba as Diferenças e Vantagens de Cada uma](https://marriedgames.com.br/tecnologia/fonte-modular-e-nao-modular/)
 - [EA Sports FC Mobile está Disponível no seu Bolso com Versões para Android e iOS](https://marriedgames.com.br/noticias/ea-sports-fc-mobile/)
-- [Logitech G na BGS: Concorra a ingressos para Brasil Game Show 2023](https://marriedgames.com.br/noticias/logitech-g-na-bgs-2/)
-- [Novo Samsung Galaxy Z Flip5 é o smartphone perfeito para acompanhar o seu estilo](https://marriedgames.com.br/noticias/samsung-galaxy-z-flip5/)
-- [Anti Cheat PUBG: BATTLEGROUNDS mostra sucesso na batalha contra trapaceiros](https://marriedgames.com.br/noticias/anti-cheat-pubg/)
-- [Vue 3 e Unit Testing: Uma Dupla Imbatível para Desenvolvedores](https://marriedgames.com.br/dicas-guias/unit-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 
