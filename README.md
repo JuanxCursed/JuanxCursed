@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Escala Sinistra Call of Duty: Mobile Temporada 9: Os Zumbis ressuscitam em dia 4 de outubro](https://marriedgames.com.br/noticias/escala-sinistra-call-of-duty/)
-- [Halloween PUBG: BATTLEGROUNDS volta ao  Battle Royale](https://marriedgames.com.br/noticias/halloween-pubg/)
-- [Garena promove o Rushadão FF, o primeiro torneio oficial da comunidade de Free Fire](https://marriedgames.com.br/noticias/rushadao-ff/)
-- [Fonte modular e não modular? Saiba as Diferenças e Vantagens de Cada uma](https://marriedgames.com.br/tecnologia/fonte-modular-e-nao-modular/)
-- [EA Sports FC Mobile está Disponível no seu Bolso com Versões para Android e iOS](https://marriedgames.com.br/noticias/ea-sports-fc-mobile/)
+- [Destaques para os consumidores que desejam os novos smartphones 5G da realme 11 series](https://marriedgames.com.br/noticias/smartphones-5g-da-realme-11/)
+- [SEGA lança atualização Final Horizon para Sonic Frontiers](https://marriedgames.com.br/noticias/final-horizon-para-sonic-frontiers/)
+- [MY HERO ULTRA RUMBLE está disponível para PlayStation 4, Xbox One e Nintendo Switch](https://marriedgames.com.br/noticias/ultra-rumble-esta-disponivel/)
+- [Motorola lança motorola edge 40 neo no Brasil](https://marriedgames.com.br/noticias/motorola-edge-40-neo/)
+- [Como remover o parasita Baldurs Gate 3 – 8 curas diferentes que você pode tentar](https://marriedgames.com.br/dicas-guias/parasita-baldurs-gate-3/)
 <!-- BLOG-POST-LIST:END -->
 
 
