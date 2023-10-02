@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LOUD anuncia novos contratados e reformulação na line-up da NOISE](https://marriedgames.com.br/noticias/loud-anuncia-novos/)
+- [LG TVs oferecem novos canais e recursos para os fãs de esportes](https://marriedgames.com.br/noticias/lg-tvs/)
 - [Ubisoft participa da BGS 2023 com Prince of Persia: The Lost Crown, produtores internacionais e imersão Assassin’s Creed Mirage](https://marriedgames.com.br/noticias/ubisoft-participa-da-bgs-2023/)
 - [EA Sports FC Mobile chega marcando um golaço no Hype Games](https://marriedgames.com.br/noticias/ea-sports-fc-mobile-2/)
 - [Mac ou Windows: Qual tem o melhor sistema operacional?](https://marriedgames.com.br/dicas-guias/mac-ou-windows/)
-- [Destaques para os consumidores que desejam os novos smartphones 5G da realme 11 series](https://marriedgames.com.br/noticias/smartphones-5g-da-realme-11/)
-- [SEGA lança atualização Final Horizon para Sonic Frontiers](https://marriedgames.com.br/noticias/final-horizon-para-sonic-frontiers/)
 <!-- BLOG-POST-LIST:END -->
 
 
