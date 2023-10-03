@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LOUD anuncia novos contratados e reformulação na line-up da NOISE](https://marriedgames.com.br/noticias/loud-anuncia-novos/)
-- [LG TVs oferecem novos canais e recursos para os fãs de esportes](https://marriedgames.com.br/noticias/lg-tvs/)
-- [Ubisoft participa da BGS 2023 com Prince of Persia: The Lost Crown, produtores internacionais e imersão Assassin’s Creed Mirage](https://marriedgames.com.br/noticias/ubisoft-participa-da-bgs-2023/)
-- [EA Sports FC Mobile chega marcando um golaço no Hype Games](https://marriedgames.com.br/noticias/ea-sports-fc-mobile-2/)
-- [Mac ou Windows: Qual tem o melhor sistema operacional?](https://marriedgames.com.br/dicas-guias/mac-ou-windows/)
+- [Drakantos, promissor MMORPG Brasileiro, revela primeiro trailer de gameplay](https://marriedgames.com.br/noticias/drakantos/)
+- [Team Liquid é campeã do VCT Game Changers Brasil 2023 da Etapa 2 e garante vaga no mundial da modalidade](https://marriedgames.com.br/noticias/team-liquid-e-campea/)
+- [RRQ Akira é a grande campeã da 3° Liga LATAM de Mobile Legends: Bang Bang](https://marriedgames.com.br/noticias/rrq-akira-e-a-grande-campea/)
+- [Samsung na BGS leva produtos, experiência e conteúdo para o maior evento da América Latina](https://marriedgames.com.br/noticias/samsung-na-bgs/)
+- [Force One na BGS23 Apresenta linha de periféricos gamer, convidados e muitas atrações](https://marriedgames.com.br/noticias/force-one-na-bgs23/)
 <!-- BLOG-POST-LIST:END -->
 
 
