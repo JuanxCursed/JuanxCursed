@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Drakantos, promissor MMORPG Brasileiro, revela primeiro trailer de gameplay](https://marriedgames.com.br/noticias/drakantos/)
-- [Team Liquid é campeã do VCT Game Changers Brasil 2023 da Etapa 2 e garante vaga no mundial da modalidade](https://marriedgames.com.br/noticias/team-liquid-e-campea/)
-- [RRQ Akira é a grande campeã da 3° Liga LATAM de Mobile Legends: Bang Bang](https://marriedgames.com.br/noticias/rrq-akira-e-a-grande-campea/)
-- [Samsung na BGS leva produtos, experiência e conteúdo para o maior evento da América Latina](https://marriedgames.com.br/noticias/samsung-na-bgs/)
-- [Force One na BGS23 Apresenta linha de periféricos gamer, convidados e muitas atrações](https://marriedgames.com.br/noticias/force-one-na-bgs23/)
+- [6° Temporada de EA SPORTS PGA TOUR está AO VIVO com a Ryder Cup](https://marriedgames.com.br/noticias/temporada-de-ea-sports-pga-tour/)
+- [Pavilhão de Taiwan na BGS 2023 apresenta tecnologia em estande com mais de 40 produtos](https://marriedgames.com.br/noticias/pavilhao-de-taiwan-na-bgs-2023/)
+- [Novos Detalhes sobre personagens, armas e Personas de Persona 5 Tactica](https://marriedgames.com.br/noticias/personas-de-persona-5-tactica/)
+- [Dicas de EA Sports FC 24: 10 dicas para melhorar seu jogo imediatamente](https://marriedgames.com.br/dicas-guias/dicas-de-ea-sports-fc-24/)
+- [Os 30 Melhores Jogos do Master System](https://marriedgames.com.br/analises/melhores-jogos-do-master-system/)
 <!-- BLOG-POST-LIST:END -->
 
 
