@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [6° Temporada de EA SPORTS PGA TOUR está AO VIVO com a Ryder Cup](https://marriedgames.com.br/noticias/temporada-de-ea-sports-pga-tour/)
-- [Pavilhão de Taiwan na BGS 2023 apresenta tecnologia em estande com mais de 40 produtos](https://marriedgames.com.br/noticias/pavilhao-de-taiwan-na-bgs-2023/)
-- [Novos Detalhes sobre personagens, armas e Personas de Persona 5 Tactica](https://marriedgames.com.br/noticias/personas-de-persona-5-tactica/)
-- [Dicas de EA Sports FC 24: 10 dicas para melhorar seu jogo imediatamente](https://marriedgames.com.br/dicas-guias/dicas-de-ea-sports-fc-24/)
-- [Os 30 Melhores Jogos do Master System](https://marriedgames.com.br/analises/melhores-jogos-do-master-system/)
+- [LG e Fluxo na BGS 2023: Parceria estará presente no evento pelo segundo ano](https://marriedgames.com.br/noticias/lg-e-fluxo-na-bgs/)
+- [Temporada 7 de Overwatch 2 Ascensão das Trevas começa dia 10 de outubro](https://marriedgames.com.br/noticias/overwatch-2-ascensao-das-trevas/)
+- [Assista ao CALL OF DUTY: NEXT e ganhe recompensas no Modern Warfare III](https://marriedgames.com.br/noticias/recompensas-no-modern-warfare-iii/)
+- [Defense Derby Witch: Atualização de outubro traz nova unidade ao jogo](https://marriedgames.com.br/noticias/defense-derby-witch/)
+- [Neuvillette Genshin Impact: Melhores Builds para o Juiz de Fontaine](https://marriedgames.com.br/dicas-guias/neuvillette-genshin-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 
