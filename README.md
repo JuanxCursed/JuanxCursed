@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LG e Fluxo na BGS 2023: Parceria estará presente no evento pelo segundo ano](https://marriedgames.com.br/noticias/lg-e-fluxo-na-bgs/)
-- [Temporada 7 de Overwatch 2 Ascensão das Trevas começa dia 10 de outubro](https://marriedgames.com.br/noticias/overwatch-2-ascensao-das-trevas/)
-- [Assista ao CALL OF DUTY: NEXT e ganhe recompensas no Modern Warfare III](https://marriedgames.com.br/noticias/recompensas-no-modern-warfare-iii/)
-- [Defense Derby Witch: Atualização de outubro traz nova unidade ao jogo](https://marriedgames.com.br/noticias/defense-derby-witch/)
-- [Neuvillette Genshin Impact: Melhores Builds para o Juiz de Fontaine](https://marriedgames.com.br/dicas-guias/neuvillette-genshin-impact/)
+- [Enfrente o Desconhecido na 6ª Temporada de Battlefield 2042 Criações Obscuras](https://marriedgames.com.br/noticias/battlefield-2042-criacoes-obscuras/)
+- [NISSIN e Genshin Impact confirmam presença na BGS 2023 em colaboração especial](https://marriedgames.com.br/noticias/nissin-e-genshin-impact/)
+- [Conheça a identidade de Trip, a Nova Personagem criada por Naoto Ohshima de Sonic Super Stars](https://marriedgames.com.br/noticias/identidade-de-trip/)
+- [Seja um Mestre Assassino em Assassins Creed Mirage, disponível globalmente](https://marriedgames.com.br/noticias/assassino-em-assassins-creed-mirage/)
+- [Novos Power Ups de Super Mario Bros Wonder: Conheça os itens desta nova Aventura](https://marriedgames.com.br/analises/power-ups-de-super-mario/)
 <!-- BLOG-POST-LIST:END -->
 
 
