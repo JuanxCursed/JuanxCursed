@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Enfrente o Desconhecido na 6ª Temporada de Battlefield 2042 Criações Obscuras](https://marriedgames.com.br/noticias/battlefield-2042-criacoes-obscuras/)
-- [NISSIN e Genshin Impact confirmam presença na BGS 2023 em colaboração especial](https://marriedgames.com.br/noticias/nissin-e-genshin-impact/)
-- [Conheça a identidade de Trip, a Nova Personagem criada por Naoto Ohshima de Sonic Super Stars](https://marriedgames.com.br/noticias/identidade-de-trip/)
-- [Seja um Mestre Assassino em Assassins Creed Mirage, disponível globalmente](https://marriedgames.com.br/noticias/assassino-em-assassins-creed-mirage/)
-- [Novos Power Ups de Super Mario Bros Wonder: Conheça os itens desta nova Aventura](https://marriedgames.com.br/analises/power-ups-de-super-mario/)
+- [Acer na BGS 2023: Marca anuncia presença no evento com grandes parcerias](https://marriedgames.com.br/noticias/acer-na-bgs-2023/)
+- [KaBuM na BGS 2023: Loja anuncia estande imersivo e mais de 500 mil reais em prêmios](https://marriedgames.com.br/noticias/kabum-na-bgs-2023/)
+- [BGS Arcade terá patrocínio da Game Station e cerca de 100 máquinas free-to-play](https://marriedgames.com.br/noticias/bgs-arcade/)
+- [Tudo Sobre GTA 6: Leaks, Vazamentos, História, Gameplay e Mais](https://marriedgames.com.br/analises/tudo-sobre-gta-6/)
+- [Liga Brasileira de Free Fire &lpar;LBFF&rpar; transmite Taça das Patroas no Kwai](https://marriedgames.com.br/noticias/taca-das-patroas-no-kwai/)
 <!-- BLOG-POST-LIST:END -->
 
 
