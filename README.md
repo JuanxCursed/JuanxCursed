@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jovem Nerd faz “degustação” de Ruff Ghanor na BGS 2023](https://marriedgames.com.br/noticias/jovem-nerd-faz-degustacao-de-ruff-ghanor-na-bgs-2023/)
+- [HyperX anuncia acessórios de áudio e vídeo para criadores de conteúdo no HP Imagine 2023](https://marriedgames.com.br/noticias/hyperx-anuncia-acessorios/)
+- [Pacote BlizzCon: Blizzard lança brindes digitais em celebração ao retorno do evento](https://marriedgames.com.br/noticias/pacote-blizzcon/)
+- [Razer na BGS 2023 com lançamentos, ativações, competições e muita interação](https://marriedgames.com.br/noticias/razer-na-bgs-2023/)
 - [Acer na BGS 2023: Marca anuncia presença no evento com grandes parcerias](https://marriedgames.com.br/noticias/acer-na-bgs-2023/)
-- [KaBuM na BGS 2023: Loja anuncia estande imersivo e mais de 500 mil reais em prêmios](https://marriedgames.com.br/noticias/kabum-na-bgs-2023/)
-- [BGS Arcade terá patrocínio da Game Station e cerca de 100 máquinas free-to-play](https://marriedgames.com.br/noticias/bgs-arcade/)
-- [Tudo Sobre GTA 6: Leaks, Vazamentos, História, Gameplay e Mais](https://marriedgames.com.br/analises/tudo-sobre-gta-6/)
-- [Liga Brasileira de Free Fire &lpar;LBFF&rpar; transmite Taça das Patroas no Kwai](https://marriedgames.com.br/noticias/taca-das-patroas-no-kwai/)
 <!-- BLOG-POST-LIST:END -->
 
 
