@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gerador Experimental de Campo: Veja como Vencer o Boss que Manipula a Gravidade](https://marriedgames.com.br/dicas-guias/gerador-experimental-de-campo/)
 - [Jovem Nerd faz “degustação” de Ruff Ghanor na BGS 2023](https://marriedgames.com.br/noticias/jovem-nerd-faz-degustacao-de-ruff-ghanor-na-bgs-2023/)
 - [HyperX anuncia acessórios de áudio e vídeo para criadores de conteúdo no HP Imagine 2023](https://marriedgames.com.br/noticias/hyperx-anuncia-acessorios/)
 - [Pacote BlizzCon: Blizzard lança brindes digitais em celebração ao retorno do evento](https://marriedgames.com.br/noticias/pacote-blizzcon/)
 - [Razer na BGS 2023 com lançamentos, ativações, competições e muita interação](https://marriedgames.com.br/noticias/razer-na-bgs-2023/)
-- [Acer na BGS 2023: Marca anuncia presença no evento com grandes parcerias](https://marriedgames.com.br/noticias/acer-na-bgs-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 
