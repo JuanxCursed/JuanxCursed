@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tales of Arise – Beyond the Dawn recebe novo trailer](https://marriedgames.com.br/noticias/beyond-the-dawn-2/)
+- [ATLUS revela trailer Persona 3 Reload “Vida no Dormitório Iwatodai”](https://marriedgames.com.br/noticias/trailer-persona-3-reload/)
+- [LG lança monitores UltraGear com tecnologia OLED](https://marriedgames.com.br/noticias/lg-lanca-monitores-ultragear/)
+- [Winzo: Plataforma de jogo com mais de 100 games competitivos chega ao Brasil](https://marriedgames.com.br/noticias/winzo-plataforma-de-jogo-com-mais-de-100-games-competitivos-chega-ao-brasil/)
 - [Gerador Experimental de Campo: Veja como Vencer o Boss que Manipula a Gravidade](https://marriedgames.com.br/dicas-guias/gerador-experimental-de-campo/)
-- [Jovem Nerd faz “degustação” de Ruff Ghanor na BGS 2023](https://marriedgames.com.br/noticias/jovem-nerd-faz-degustacao-de-ruff-ghanor-na-bgs-2023/)
-- [HyperX anuncia acessórios de áudio e vídeo para criadores de conteúdo no HP Imagine 2023](https://marriedgames.com.br/noticias/hyperx-anuncia-acessorios/)
-- [Pacote BlizzCon: Blizzard lança brindes digitais em celebração ao retorno do evento](https://marriedgames.com.br/noticias/pacote-blizzcon/)
-- [Razer na BGS 2023 com lançamentos, ativações, competições e muita interação](https://marriedgames.com.br/noticias/razer-na-bgs-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 
