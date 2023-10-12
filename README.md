@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Taiwan entra com tudo no Brasil!! #tech #hardware #software #bgs #eventos #taiwan](https://www.youtube.com/watch?v=vQdDiC0gtCA)
+- [Novos processadores AMD serie 7000!! #amd #hardware #gaming #bgs #eventos](https://www.youtube.com/watch?v=DXHGx-G3D40)
+- [Chegamos na Brasil Game Show 2023!! #BGS23 #BGS #eventos #gaming](https://www.youtube.com/watch?v=6jXayX6p5qc)
 - [Soundbar S90 da LG. Vale a pena???](https://www.youtube.com/watch?v=4Vuj8VIzIMQ)
 - [CasaCor2023 - TV Oled da LG](https://www.youtube.com/watch?v=2M7rDqEO6Wk)
-- [5 Melhores microfones para podcast, streaming e youtube até R$ 400 [ANÁLISE COMPLETA]](https://www.youtube.com/watch?v=W4gIt1x7iIs)
-- [Unity no VS Code: Auto-complete de forma FÁCIL [INTELLISENSE]](https://www.youtube.com/watch?v=iQOKdN0E_H0)
-- [Verbos ou Metodos HTTP [POST, GET, PUT, DELETE] qualquer linguagem](https://www.youtube.com/watch?v=2azRpx2Y1wc)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
