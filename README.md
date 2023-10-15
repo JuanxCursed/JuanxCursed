@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
-- [Notebook Gamer da Asus, compraria?](https://www.youtube.com/watch?v=iN1N1ECak7w)
-- [Taiwan entra com tudo no Brasil!! #tech #hardware #software #bgs #eventos #taiwan](https://www.youtube.com/watch?v=vQdDiC0gtCA)
-- [Novos processadores AMD serie 7000!! #amd #hardware #gaming #bgs #eventos](https://www.youtube.com/watch?v=DXHGx-G3D40)
-- [Chegamos na Brasil Game Show 2023!! #BGS23 #BGS #eventos #gaming](https://www.youtube.com/watch?v=6jXayX6p5qc)
-- [Soundbar S90 da LG. Vale a pena???](https://www.youtube.com/watch?v=4Vuj8VIzIMQ)
+- [Qual será o desempenho de um Ryzen  7 6800H no CS2? #gaming #hardware #bgs23 #amd #tech #cpu #cs2](https://www.youtube.com/watch?v=PWnxnfl9dQ4)
+- [Será que o Ryzen 9 7950X3D roda Starfield o Ultra? #bgs #eventos #gaming #bgs23 #hardware #amd #cpu](https://www.youtube.com/watch?v=zMSGQKbJFIo)
+- [Gabinete Asus e Asus NUC, lindos e monstruosos! #gaming #asus #pc #desktop #hardware](https://www.youtube.com/watch?v=v6l6Ll8iaZ0)
+- [Notebook Ryzen 7 7840HS quantos FPS da pra jogar CS:GO 2? #cs2 #csgo #notebook #gamer #gaming](https://www.youtube.com/watch?v=1Rx0j2ZU-I0)
+- [Ryzen 9 7900X3D roda Starfield no Ultra? #bgs #eventos #gaming #hardware #bgs23 #amd #tech](https://www.youtube.com/watch?v=jmcQtHnszKE)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
