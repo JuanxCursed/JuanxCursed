@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LOS na Blast R6 Major Atlanta: Time garante classificação para mundial de Rainbow Six Siege](https://marriedgames.com.br/noticias/los-na-blast-r6-major/)
+- [World of Warcraft recebe Guardiões do Sonho, atualização 10.2 de Dragonflight, em novembro](https://marriedgames.com.br/noticias/guardioes-do-sonho/)
+- [Novo Trailer de Sand Land Mostra a História do Novo Game do Autor de Dragon Ball](https://marriedgames.com.br/noticias/trailer-de-sand-land/)
+- [Os Games mais Legais Que Você Podia Jogar na BGS 2023](https://marriedgames.com.br/noticias/jogar-na-bgs-2023/)
 - [Tales of Arise – Beyond the Dawn recebe novo trailer](https://marriedgames.com.br/noticias/beyond-the-dawn-2/)
-- [ATLUS revela trailer Persona 3 Reload “Vida no Dormitório Iwatodai”](https://marriedgames.com.br/noticias/trailer-persona-3-reload/)
-- [LG lança monitores UltraGear com tecnologia OLED](https://marriedgames.com.br/noticias/lg-lanca-monitores-ultragear/)
-- [Winzo: Plataforma de jogo com mais de 100 games competitivos chega ao Brasil](https://marriedgames.com.br/noticias/winzo-plataforma-de-jogo-com-mais-de-100-games-competitivos-chega-ao-brasil/)
-- [Gerador Experimental de Campo: Veja como Vencer o Boss que Manipula a Gravidade](https://marriedgames.com.br/dicas-guias/gerador-experimental-de-campo/)
 <!-- BLOG-POST-LIST:END -->
 
 
