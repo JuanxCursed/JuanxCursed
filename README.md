@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LOS na Blast R6 Major Atlanta: Time garante classificação para mundial de Rainbow Six Siege](https://marriedgames.com.br/noticias/los-na-blast-r6-major/)
-- [World of Warcraft recebe Guardiões do Sonho, atualização 10.2 de Dragonflight, em novembro](https://marriedgames.com.br/noticias/guardioes-do-sonho/)
-- [Novo Trailer de Sand Land Mostra a História do Novo Game do Autor de Dragon Ball](https://marriedgames.com.br/noticias/trailer-de-sand-land/)
-- [Os Games mais Legais Que Você Podia Jogar na BGS 2023](https://marriedgames.com.br/noticias/jogar-na-bgs-2023/)
-- [Tales of Arise – Beyond the Dawn recebe novo trailer](https://marriedgames.com.br/noticias/beyond-the-dawn-2/)
+- [Diablo IV dá início e fica disponível a Temporada de Sangue na Steam](https://marriedgames.com.br/noticias/temporada-de-sangue-na-steam/)
+- [TAITRA na BGS 2023: Entidade encerra com sucesso participação no evento com sucesso](https://marriedgames.com.br/noticias/taitra-na-bgs-2023/)
+- [Filme do Gran Turismo chega ao Streaming](https://marriedgames.com.br/noticias/gran-turismo-chega-ao-streaming/)
+- [Galaxy S23 5G: jogue os seus games favoritos quando e onde quiser no Ecossistema Samsung](https://marriedgames.com.br/noticias/galaxy-s23-5g/)
+- [4 Principais Diferenças Entre Blackjack e Poker](https://marriedgames.com.br/dicas-guias/blackjack-e-poker/)
 <!-- BLOG-POST-LIST:END -->
 
 
