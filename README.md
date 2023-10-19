@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gaming Queens: International Sport Film Festival seleciona o documentário brasileiro](https://marriedgames.com.br/noticias/gaming-queens/)
+- [Ragnarök Online Trilha do Poder: Eleve seu poder com a última atualização do ano](https://marriedgames.com.br/noticias/ragnarok-online-trilha-do-poder/)
+- [Novo EA Sports FC 24 é o Mesmo Jogo do Ano Passado? Descubra no nosso Review](https://marriedgames.com.br/analises/ea-sports-fc-24-2/)
+- [Fim do Super Mario? Super Mario Bros: Wonder Dá Sinais de Desgaste da Fórmula Clássica?](https://marriedgames.com.br/analises/fim-do-super-mario/)
 - [Diablo IV dá início e fica disponível a Temporada de Sangue na Steam](https://marriedgames.com.br/noticias/temporada-de-sangue-na-steam/)
-- [TAITRA na BGS 2023: Entidade encerra com sucesso participação no evento com sucesso](https://marriedgames.com.br/noticias/taitra-na-bgs-2023/)
-- [Filme do Gran Turismo chega ao Streaming](https://marriedgames.com.br/noticias/gran-turismo-chega-ao-streaming/)
-- [Galaxy S23 5G: jogue os seus games favoritos quando e onde quiser no Ecossistema Samsung](https://marriedgames.com.br/noticias/galaxy-s23-5g/)
-- [4 Principais Diferenças Entre Blackjack e Poker](https://marriedgames.com.br/dicas-guias/blackjack-e-poker/)
 <!-- BLOG-POST-LIST:END -->
 
 
