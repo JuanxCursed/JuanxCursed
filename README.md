@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Segunda Temporada de Gen V: Spin-Off de The Boys, É Renovada Para Mais um Ano](https://marriedgames.com.br/noticias/segunda-temporada-de-gen-v/)
+- [ISO Valorant: Duele Até A Morte Com Novo Agente Que Chega Com O Episódio 7, Ato III](https://marriedgames.com.br/noticias/iso-valorant/)
+- [Assassins Creed Mirage: Um Jogo Raiz Para Quem Não Aguenta Mais o RPG](https://marriedgames.com.br/analises/assassins-creed-mirage/)
 - [Gaming Queens: International Sport Film Festival seleciona o documentário brasileiro](https://marriedgames.com.br/noticias/gaming-queens/)
 - [Ragnarök Online Trilha do Poder: Eleve seu poder com a última atualização do ano](https://marriedgames.com.br/noticias/ragnarok-online-trilha-do-poder/)
-- [Novo EA Sports FC 24 é o Mesmo Jogo do Ano Passado? Descubra no nosso Review](https://marriedgames.com.br/analises/ea-sports-fc-24-2/)
-- [Fim do Super Mario? Super Mario Bros: Wonder Dá Sinais de Desgaste da Fórmula Clássica?](https://marriedgames.com.br/analises/fim-do-super-mario/)
-- [Diablo IV dá início e fica disponível a Temporada de Sangue na Steam](https://marriedgames.com.br/noticias/temporada-de-sangue-na-steam/)
 <!-- BLOG-POST-LIST:END -->
 
 
