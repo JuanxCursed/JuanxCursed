@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Segunda Temporada de Gen V: Spin-Off de The Boys, É Renovada Para Mais um Ano](https://marriedgames.com.br/noticias/segunda-temporada-de-gen-v/)
-- [ISO Valorant: Duele Até A Morte Com Novo Agente Que Chega Com O Episódio 7, Ato III](https://marriedgames.com.br/noticias/iso-valorant/)
-- [Assassins Creed Mirage: Um Jogo Raiz Para Quem Não Aguenta Mais o RPG](https://marriedgames.com.br/analises/assassins-creed-mirage/)
-- [Gaming Queens: International Sport Film Festival seleciona o documentário brasileiro](https://marriedgames.com.br/noticias/gaming-queens/)
-- [Ragnarök Online Trilha do Poder: Eleve seu poder com a última atualização do ano](https://marriedgames.com.br/noticias/ragnarok-online-trilha-do-poder/)
+- [Super Mario Wonder na Hype Games: Nova Aventura do Encanador chega a Loja](https://marriedgames.com.br/noticias/super-mario-wonder-na-hype/)
+- [CCXP23 anuncia cinco novos quadrinistas para o Artists Valley by Bis](https://marriedgames.com.br/noticias/artists-valley-by-bis/)
+- [Veja um Novo Vídeo De Bastidores De Five Nights At Freddy’s – O Pesadelo Sem Fim](https://marriedgames.com.br/noticias/pesadelo-sem-fim/)
+- [NEW STATE MOBILE recebe atualização explosiva em outubro](https://marriedgames.com.br/noticias/new-state-mobile-2/)
+- [Wriothesley Genshin Impact: A Melhor Build para o Duque da Fortaleza Meropide](https://marriedgames.com.br/dicas-guias/wriothesley-genshin-impact/)
 <!-- BLOG-POST-LIST:END -->
 
 
