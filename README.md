@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
-- [Lenovo Legion Go, até onde vai essa máquina?  #gaming #hardware #bgs23 #amd #tech #console](https://www.youtube.com/watch?v=FRkvsAeOr3g)
+- [Roda CS:GO 2 ??? Lançamento ASUS TUF GAMING #gaming #nvidia #asus #intel](https://www.youtube.com/watch?v=0KV_ckXkigY)
+- [Novidade em console, vc já viu? Lenovo Legion Go  #gaming #hardware #bgs23 #amd #tech #console](https://www.youtube.com/watch?v=FRkvsAeOr3g)
 - [Qual será o desempenho de um Ryzen  7 6800H no CS2? #gaming #hardware #bgs23 #amd #tech #cpu #cs2](https://www.youtube.com/watch?v=PWnxnfl9dQ4)
 - [Será que o Ryzen 9 7950X3D roda Starfield o Ultra? #bgs #eventos #gaming #bgs23 #hardware #amd #cpu](https://www.youtube.com/watch?v=zMSGQKbJFIo)
 - [Gabinete Asus e Asus NUC, lindos e monstruosos! #gaming #asus #pc #desktop #hardware](https://www.youtube.com/watch?v=v6l6Ll8iaZ0)
-- [Notebook Ryzen 7 7840HS quantos FPS da pra jogar CS:GO 2? #cs2 #csgo #notebook #gamer #gaming](https://www.youtube.com/watch?v=1Rx0j2ZU-I0)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
