@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Super Mario Wonder na Hype Games: Nova Aventura do Encanador chega a Loja](https://marriedgames.com.br/noticias/super-mario-wonder-na-hype/)
-- [CCXP23 anuncia cinco novos quadrinistas para o Artists Valley by Bis](https://marriedgames.com.br/noticias/artists-valley-by-bis/)
-- [Veja um Novo Vídeo De Bastidores De Five Nights At Freddy’s – O Pesadelo Sem Fim](https://marriedgames.com.br/noticias/pesadelo-sem-fim/)
-- [NEW STATE MOBILE recebe atualização explosiva em outubro](https://marriedgames.com.br/noticias/new-state-mobile-2/)
-- [Wriothesley Genshin Impact: A Melhor Build para o Duque da Fortaleza Meropide](https://marriedgames.com.br/dicas-guias/wriothesley-genshin-impact/)
+- [Nova Lenda Faz Sua Grande Entrada Em Apex Legends Ignição](https://marriedgames.com.br/noticias/apex-legends-ignicao/)
+- [Prime Video Anuncia a Data de Estreia da Série de Fallout, Produzida Pela Kilter Films](https://marriedgames.com.br/noticias/serie-de-fallout/)
+- [Confira a trilha sonora do novo EA SPORTS UFC 5](https://marriedgames.com.br/noticias/ea-sports-ufc-5/)
+- [Os 5 melhores mousepads para jogos de 2023](https://marriedgames.com.br/dicas-guias/melhores-mousepads/)
+- [Com alta qualidade de imagem, chega ao mercado brasileiro a TCL QLED TV C645](https://marriedgames.com.br/noticias/tcl-qled-tv-c645/)
 <!-- BLOG-POST-LIST:END -->
 
 
