@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Nova Lenda Faz Sua Grande Entrada Em Apex Legends Ignição](https://marriedgames.com.br/noticias/apex-legends-ignicao/)
-- [Prime Video Anuncia a Data de Estreia da Série de Fallout, Produzida Pela Kilter Films](https://marriedgames.com.br/noticias/serie-de-fallout/)
-- [Confira a trilha sonora do novo EA SPORTS UFC 5](https://marriedgames.com.br/noticias/ea-sports-ufc-5/)
-- [Os 5 melhores mousepads para jogos de 2023](https://marriedgames.com.br/dicas-guias/melhores-mousepads/)
-- [Com alta qualidade de imagem, chega ao mercado brasileiro a TCL QLED TV C645](https://marriedgames.com.br/noticias/tcl-qled-tv-c645/)
+- [Começou o PUBG MOBILE Club Open Fall 2023](https://marriedgames.com.br/noticias/pubg-mobile-club-open-fall/)
+- [METAL GEAR SOLID MASTER COLLECTION Vol. 1 já está disponível no PC e Consoles](https://marriedgames.com.br/noticias/metal-gear-solid-master-collection/)
+- [Veja as datas do e-Fest, festival de incentivo aos games e esports, que terá duas etapas em 2023](https://marriedgames.com.br/noticias/e-fest/)
+- [Black Desert Mobile lança Despertar de Me-Gu trazendo chamas da Deusa Raposa para o mobile](https://marriedgames.com.br/noticias/despertar-de-me-gu/)
+- [Ingressando nos Esportes Eletrônicos? Saiba qual é Hardware para Esports Essencial](https://marriedgames.com.br/dicas-guias/hardware-para-esports/)
 <!-- BLOG-POST-LIST:END -->
 
 
