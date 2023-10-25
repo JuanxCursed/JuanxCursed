@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [🎧Lançamentos da #Forceone,  Headset Gamer e Caixa de Som #52mmDrivers #titan7.1 #titan50mm #kabuto](https://www.youtube.com/watch?v=mbi5svaOXx8)
 - [Melhor Teclado Gamer? Lançamento Force One 2023 #gaming #forceone  #bgs #atlaspro #Atlas60](https://www.youtube.com/watch?v=5wgPrH16VeU)
 - [Roda CS:GO 2 ??? Lançamento ASUS TUF GAMING #gaming #nvidia #asus #intel](https://www.youtube.com/watch?v=0KV_ckXkigY)
 - [Novidade em console, vc já viu? Lenovo Legion Go  #gaming #hardware #bgs23 #amd #tech #console](https://www.youtube.com/watch?v=FRkvsAeOr3g)
 - [Será que dá pra jogar meu CS2? #gaming #hardware #bgs23 #amd #tech #cpu #cs2](https://www.youtube.com/watch?v=PWnxnfl9dQ4)
-- [Será que o Ryzen 9 7950X3D roda Starfield o Ultra? #bgs #eventos #gaming #bgs23 #hardware #amd #cpu](https://www.youtube.com/watch?v=zMSGQKbJFIo)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
