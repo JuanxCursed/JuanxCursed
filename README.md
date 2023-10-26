@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Honor of Kings: Liga Escolar Brasileira de Esports abre inscrições para a Fase Regional](https://marriedgames.com.br/noticias/liga-escolar-brasileira-de-esports-2/)
+- [Abbie Eaton Vai a Escola de Rally com Adrien Formaux para Lançamento do EA Sports WRC](https://marriedgames.com.br/noticias/lancamento-do-ea-sports-wrc/)
+- [Mitos e Verdades Sobre SSD: O Que Você Deve Realmente Saber](https://marriedgames.com.br/dicas-guias/mitos-e-verdades-sobre-ssd/)
+- [EA SPORTS WRC redefine a experiência de jogo de rali; Novo vídeo Deep Dive revela recursos](https://marriedgames.com.br/noticias/ea-sports-wrc-redefine-a-experiencia-de-jogo-de-rali-novo-video-deep-dive-revela-recursos/)
 - [Começou o PUBG MOBILE Club Open Fall 2023](https://marriedgames.com.br/noticias/pubg-mobile-club-open-fall/)
-- [METAL GEAR SOLID MASTER COLLECTION Vol. 1 já está disponível no PC e Consoles](https://marriedgames.com.br/noticias/metal-gear-solid-master-collection/)
-- [Veja as datas do e-Fest, festival de incentivo aos games e esports, que terá duas etapas em 2023](https://marriedgames.com.br/noticias/e-fest/)
-- [Black Desert Mobile lança Despertar de Me-Gu trazendo chamas da Deusa Raposa para o mobile](https://marriedgames.com.br/noticias/despertar-de-me-gu/)
-- [Ingressando nos Esportes Eletrônicos? Saiba qual é Hardware para Esports Essencial](https://marriedgames.com.br/dicas-guias/hardware-para-esports/)
 <!-- BLOG-POST-LIST:END -->
 
 
