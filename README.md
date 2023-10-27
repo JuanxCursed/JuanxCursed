@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TV ideal Samsung: Conheça o Site com Guia Personalizado para Escolher a TV Certa](https://marriedgames.com.br/noticias/tv-ideal-samsung/)
+- [Desenvolvimento de Jogos com Godot: Explorando os Recursos Essenciais](https://marriedgames.com.br/dicas-guias/godot/)
+- [Arknights: Endfield revela novos vídeos com gameplay](https://marriedgames.com.br/noticias/arknights-endfield/)
+- [Jogos com Cenas Picantes: Descubra que Nem todo Game é Para Crianças](https://marriedgames.com.br/analises/jogos-com-cenas-picantes/)
 - [Honor of Kings: Liga Escolar Brasileira de Esports abre inscrições para a Fase Regional](https://marriedgames.com.br/noticias/liga-escolar-brasileira-de-esports-2/)
-- [Abbie Eaton Vai a Escola de Rally com Adrien Formaux para Lançamento do EA Sports WRC](https://marriedgames.com.br/noticias/lancamento-do-ea-sports-wrc/)
-- [Mitos e Verdades Sobre SSD: O Que Você Deve Realmente Saber](https://marriedgames.com.br/dicas-guias/mitos-e-verdades-sobre-ssd/)
-- [EA SPORTS WRC redefine a experiência de jogo de rali; Novo vídeo Deep Dive revela recursos](https://marriedgames.com.br/noticias/ea-sports-wrc-redefine-a-experiencia-de-jogo-de-rali-novo-video-deep-dive-revela-recursos/)
-- [Começou o PUBG MOBILE Club Open Fall 2023](https://marriedgames.com.br/noticias/pubg-mobile-club-open-fall/)
 <!-- BLOG-POST-LIST:END -->
 
 
