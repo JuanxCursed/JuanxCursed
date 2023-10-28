@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Antes das finais, SkipNho alcança mais de 1.9 milhão de visualizações em streams do The International](https://marriedgames.com.br/noticias/skipnho/)
+- [Instalação e Configuração do Godot: Um Guia Detalhado para Iniciantes](https://marriedgames.com.br/dicas-guias/configuracao-do-godot/)
+- [Série Baldurs Gate: Tudo que você Precisa Saber antes de Embarcar no RPG da Larian](https://marriedgames.com.br/analises/serie-baldurs-gate/)
 - [TV ideal Samsung: Conheça o Site com Guia Personalizado para Escolher a TV Certa](https://marriedgames.com.br/noticias/tv-ideal-samsung/)
 - [Desenvolvimento de Jogos com Godot: Explorando os Recursos Essenciais](https://marriedgames.com.br/dicas-guias/godot/)
-- [Arknights: Endfield revela novos vídeos com gameplay](https://marriedgames.com.br/noticias/arknights-endfield/)
-- [Jogos com Cenas Picantes: Descubra que Nem todo Game é Para Crianças](https://marriedgames.com.br/analises/jogos-com-cenas-picantes/)
-- [Honor of Kings: Liga Escolar Brasileira de Esports abre inscrições para a Fase Regional](https://marriedgames.com.br/noticias/liga-escolar-brasileira-de-esports-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
