@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Antes das finais, SkipNho alcança mais de 1.9 milhão de visualizações em streams do The International](https://marriedgames.com.br/noticias/skipnho/)
-- [Instalação e Configuração do Godot: Um Guia Detalhado para Iniciantes](https://marriedgames.com.br/dicas-guias/configuracao-do-godot/)
-- [Série Baldurs Gate: Tudo que você Precisa Saber antes de Embarcar no RPG da Larian](https://marriedgames.com.br/analises/serie-baldurs-gate/)
-- [TV ideal Samsung: Conheça o Site com Guia Personalizado para Escolher a TV Certa](https://marriedgames.com.br/noticias/tv-ideal-samsung/)
-- [Desenvolvimento de Jogos com Godot: Explorando os Recursos Essenciais](https://marriedgames.com.br/dicas-guias/godot/)
+- [A História de Baldurs Gate 1: Onde Tudo Começou](https://marriedgames.com.br/dicas-guias/baldurs-gate-1/)
+- [Halloween Hype Games celebra o Dia das Bruxas com promoções aterrorizantes](https://marriedgames.com.br/noticias/halloween-hype-games/)
+- [Noções de Game Design Básicas: Criando Jogos Cativantes](https://marriedgames.com.br/dicas-guias/game-design/)
+- [Domine as técnicas do campo de batalha no novo trailer de Persona 5 Tactica](https://marriedgames.com.br/noticias/novo-trailer-de-persona-5/)
+- [CCXP23 recebe a francesa Léa Murawiec, quadrinista de “O Grande Vazio”](https://marriedgames.com.br/noticias/lea-murawiec/)
 <!-- BLOG-POST-LIST:END -->
 
 
