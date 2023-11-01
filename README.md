@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Trilha sonora de ARMORED CORE VI FIRES OF RUBICON já está disponível](https://marriedgames.com.br/noticias/trilha-sonora-de-armored-core/)
+- [Resident Evil Village na App Store Disponível Para Usuários de iPhone 15 Pro, Pro Max e iPad](https://marriedgames.com.br/noticias/resident-evil-village-na-app-store/)
+- [Como Iniciar um Projeto em Godot: Um Guia Completo para Desenvolvedores de Jogos](https://marriedgames.com.br/dicas-guias/projeto-em-godot/)
 - [A História de Baldurs Gate 1: Onde Tudo Começou](https://marriedgames.com.br/dicas-guias/baldurs-gate-1/)
 - [Halloween Hype Games celebra o Dia das Bruxas com promoções aterrorizantes](https://marriedgames.com.br/noticias/halloween-hype-games/)
-- [Noções de Game Design Básicas: Criando Jogos Cativantes](https://marriedgames.com.br/dicas-guias/game-design/)
-- [Domine as técnicas do campo de batalha no novo trailer de Persona 5 Tactica](https://marriedgames.com.br/noticias/novo-trailer-de-persona-5/)
-- [CCXP23 recebe a francesa Léa Murawiec, quadrinista de “O Grande Vazio”](https://marriedgames.com.br/noticias/lea-murawiec/)
 <!-- BLOG-POST-LIST:END -->
 
 
