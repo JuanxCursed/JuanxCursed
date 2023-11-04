@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trilha sonora de ARMORED CORE VI FIRES OF RUBICON já está disponível](https://marriedgames.com.br/noticias/trilha-sonora-de-armored-core/)
-- [Resident Evil Village na App Store Disponível Para Usuários de iPhone 15 Pro, Pro Max e iPad](https://marriedgames.com.br/noticias/resident-evil-village-na-app-store/)
-- [Como Iniciar um Projeto em Godot: Um Guia Completo para Desenvolvedores de Jogos](https://marriedgames.com.br/dicas-guias/projeto-em-godot/)
-- [A História de Baldurs Gate 1: Onde Tudo Começou](https://marriedgames.com.br/dicas-guias/baldurs-gate-1/)
-- [Halloween Hype Games celebra o Dia das Bruxas com promoções aterrorizantes](https://marriedgames.com.br/noticias/halloween-hype-games/)
+- [Criando Experiências Gamificadas Memoráveis](https://marriedgames.com.br/dicas-guias/experiencias-gamificadas/)
+- [The Sims 4 Aluga-se: revelado pacote de expansão disponível em 7 de dezembro](https://marriedgames.com.br/noticias/the-sims-4-aluga-se/)
+- [TALES OF ARISE – BEYOND THE DAWN revela canção tema com nova música de Kankaku Piero](https://marriedgames.com.br/noticias/musica-de-kankaku-piero/)
+- [Monster Hunter Invade Exoprimal Trazendo Rathalos Como Chefe e Mais](https://marriedgames.com.br/noticias/monster-hunter-invade-exoprimal/)
+- [Uma Visão Detalhada dos Desafios e Implicações Legais na Gamificação](https://marriedgames.com.br/analises/gamificacao/)
 <!-- BLOG-POST-LIST:END -->
 
 
