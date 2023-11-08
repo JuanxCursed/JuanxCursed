@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pôster oficial da CCXP23 faz homenagem aos 10 anos do festival](https://marriedgames.com.br/noticias/poster-oficial-da-ccxp23/)
+- [N7 Day, de Mass Effect, celebra a comunidade](https://marriedgames.com.br/noticias/n7-day/)
+- [Por dentro dos Galaxy Tab S9 FE e Galaxy Tab S9 FE+, recém-lançados no Brasil](https://marriedgames.com.br/noticias/galaxy-tab-s9-fe/)
 - [Criando Experiências Gamificadas Memoráveis](https://marriedgames.com.br/dicas-guias/experiencias-gamificadas/)
 - [The Sims 4 Aluga-se: revelado pacote de expansão disponível em 7 de dezembro](https://marriedgames.com.br/noticias/the-sims-4-aluga-se/)
-- [TALES OF ARISE – BEYOND THE DAWN revela canção tema com nova música de Kankaku Piero](https://marriedgames.com.br/noticias/musica-de-kankaku-piero/)
-- [Monster Hunter Invade Exoprimal Trazendo Rathalos Como Chefe e Mais](https://marriedgames.com.br/noticias/monster-hunter-invade-exoprimal/)
-- [Uma Visão Detalhada dos Desafios e Implicações Legais na Gamificação](https://marriedgames.com.br/analises/gamificacao/)
 <!-- BLOG-POST-LIST:END -->
 
 
