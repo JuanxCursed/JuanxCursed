@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gamificação e Aprendizagem: Como a Gamificar Pode Incentivar Aprendizagem Contínua](https://marriedgames.com.br/dicas-guias/gamificacao-e-aprendizagem/)
+- [Guardiões do Sonho está disponível em World of Warcraft: Dragonflight](https://marriedgames.com.br/noticias/guardioes-do-sonho-2/)
+- [EA Sports FC 24 Revela Escolhas Do Especialista, Uma Atualização Do Ultimate Team](https://marriedgames.com.br/noticias/escolhas-do-especialista/)
+- [História de Baldurs Gate 2: Saiba como continua sua Jornada por Forgotten Realms](https://marriedgames.com.br/analises/baldurs-gate-2/)
 - [Pôster oficial da CCXP23 faz homenagem aos 10 anos do festival](https://marriedgames.com.br/noticias/poster-oficial-da-ccxp23/)
-- [N7 Day, de Mass Effect, celebra a comunidade](https://marriedgames.com.br/noticias/n7-day/)
-- [Por dentro dos Galaxy Tab S9 FE e Galaxy Tab S9 FE+, recém-lançados no Brasil](https://marriedgames.com.br/noticias/galaxy-tab-s9-fe/)
-- [Criando Experiências Gamificadas Memoráveis](https://marriedgames.com.br/dicas-guias/experiencias-gamificadas/)
-- [The Sims 4 Aluga-se: revelado pacote de expansão disponível em 7 de dezembro](https://marriedgames.com.br/noticias/the-sims-4-aluga-se/)
 <!-- BLOG-POST-LIST:END -->
 
 
