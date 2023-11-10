@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Gamificação e Aprendizagem: Como a Gamificar Pode Incentivar Aprendizagem Contínua](https://marriedgames.com.br/dicas-guias/gamificacao-e-aprendizagem/)
-- [Guardiões do Sonho está disponível em World of Warcraft: Dragonflight](https://marriedgames.com.br/noticias/guardioes-do-sonho-2/)
-- [EA Sports FC 24 Revela Escolhas Do Especialista, Uma Atualização Do Ultimate Team](https://marriedgames.com.br/noticias/escolhas-do-especialista/)
-- [História de Baldurs Gate 2: Saiba como continua sua Jornada por Forgotten Realms](https://marriedgames.com.br/analises/baldurs-gate-2/)
-- [Pôster oficial da CCXP23 faz homenagem aos 10 anos do festival](https://marriedgames.com.br/noticias/poster-oficial-da-ccxp23/)
+- [Descubra o destino dos Seis em TALES OF ARISE – BEYOND THE DAWN](https://marriedgames.com.br/noticias/destino-dos-seis-em-tales-of-arise/)
+- [Samsung anuncia Galaxy S23 5G de 512 GB de armazenamento interno no Brasil](https://marriedgames.com.br/noticias/galaxy-s23-5g-2/)
+- [Desenvolvendo Jogos Educacionais com Godot 4: Aprenda a Educar e se Divertir](https://marriedgames.com.br/dicas-guias/jogos-educacionais-com-godot/)
+- [CCXP23: Lendário autor de quadrinhos, Geoff Johns, virá para a CCXP pela primeira vez](https://marriedgames.com.br/noticias/geoff-johns/)
+- [Ghostbusters Apocalipse de Gelo ganha trailer](https://marriedgames.com.br/filmes-series/ghostbusters-apocalipse-de-gelo-ganha-trailer/)
 <!-- BLOG-POST-LIST:END -->
 
 
