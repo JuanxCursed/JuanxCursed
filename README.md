@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Descubra o destino dos Seis em TALES OF ARISE – BEYOND THE DAWN](https://marriedgames.com.br/noticias/destino-dos-seis-em-tales-of-arise/)
-- [Samsung anuncia Galaxy S23 5G de 512 GB de armazenamento interno no Brasil](https://marriedgames.com.br/noticias/galaxy-s23-5g-2/)
-- [Desenvolvendo Jogos Educacionais com Godot 4: Aprenda a Educar e se Divertir](https://marriedgames.com.br/dicas-guias/jogos-educacionais-com-godot/)
-- [CCXP23: Lendário autor de quadrinhos, Geoff Johns, virá para a CCXP pela primeira vez](https://marriedgames.com.br/noticias/geoff-johns/)
-- [Ghostbusters Apocalipse de Gelo ganha trailer](https://marriedgames.com.br/filmes-series/ghostbusters-apocalipse-de-gelo-ganha-trailer/)
+- [Arknights: Endfield Special Trailer | Talos-II: Awakening explicado](https://marriedgames.com.br/noticias/endfield-special-trailer/)
+- [LG lança o novo Sound Bar SC9S com tecnologia dedicada para as TVs LG OLED](https://marriedgames.com.br/noticias/sound-bar-sc9s/)
+- [Rato Borrachudo disputará o campeonato mundial de batalha de robôs](https://marriedgames.com.br/noticias/rato-borrachudo/)
+- [Warner na CCXP23: Evento terá Maior Estande da História Warner Bros. Discovery](https://marriedgames.com.br/noticias/warner-na-ccxp23/)
+- [EA Sports WRC 24: A redenção dos jogos licenciados? Descubra](https://marriedgames.com.br/analises/ea-sports-wrc-24/)
 <!-- BLOG-POST-LIST:END -->
 
 
