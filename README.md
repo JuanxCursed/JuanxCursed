@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CBOLÃO É ANUNCIADO NA CCXP23](https://marriedgames.com.br/noticias/cbolao/)
+- [Call of Duty: Modern Warfare III está oficialmente no ar](https://marriedgames.com.br/noticias/call-of-duty-modern-warfare-iii/)
 - [Arknights: Endfield Special Trailer | Talos-II: Awakening explicado](https://marriedgames.com.br/noticias/endfield-special-trailer/)
 - [LG lança o novo Sound Bar SC9S com tecnologia dedicada para as TVs LG OLED](https://marriedgames.com.br/noticias/sound-bar-sc9s/)
 - [Rato Borrachudo disputará o campeonato mundial de batalha de robôs](https://marriedgames.com.br/noticias/rato-borrachudo/)
-- [Warner na CCXP23: Evento terá Maior Estande da História Warner Bros. Discovery](https://marriedgames.com.br/noticias/warner-na-ccxp23/)
-- [EA Sports WRC 24: A redenção dos jogos licenciados? Descubra](https://marriedgames.com.br/analises/ea-sports-wrc-24/)
 <!-- BLOG-POST-LIST:END -->
 
 
