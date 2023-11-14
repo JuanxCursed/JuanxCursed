@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Positivo explica a criação e os diferenciais dos notebooks da linha Vision](https://marriedgames.com.br/noticias/notebooks-da-linha-vision/)
+- [Alan Wake 2 e Baldur’s Gate 3 lideram indicações para o The Game Awards 2023](https://marriedgames.com.br/noticias/the-game-awards-2023/)
+- [Reina TEKKEN 8: Game de Luta Revela Nova Personagem](https://marriedgames.com.br/noticias/reina-tekken-8/)
+- [Como Derrotar Raphael em Baldurs Gate 3: A estratégia completa para vencer o Demônio](https://marriedgames.com.br/dicas-guias/derrotar-raphael-em-baldurs-gate/)
 - [CBOLÃO É ANUNCIADO NA CCXP23](https://marriedgames.com.br/noticias/cbolao/)
-- [Call of Duty: Modern Warfare III está oficialmente no ar](https://marriedgames.com.br/noticias/call-of-duty-modern-warfare-iii/)
-- [Arknights: Endfield Special Trailer | Talos-II: Awakening explicado](https://marriedgames.com.br/noticias/endfield-special-trailer/)
-- [LG lança o novo Sound Bar SC9S com tecnologia dedicada para as TVs LG OLED](https://marriedgames.com.br/noticias/sound-bar-sc9s/)
-- [Rato Borrachudo disputará o campeonato mundial de batalha de robôs](https://marriedgames.com.br/noticias/rato-borrachudo/)
 <!-- BLOG-POST-LIST:END -->
 
 
