@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Positivo explica a criação e os diferenciais dos notebooks da linha Vision](https://marriedgames.com.br/noticias/notebooks-da-linha-vision/)
-- [Alan Wake 2 e Baldur’s Gate 3 lideram indicações para o The Game Awards 2023](https://marriedgames.com.br/noticias/the-game-awards-2023/)
-- [Reina TEKKEN 8: Game de Luta Revela Nova Personagem](https://marriedgames.com.br/noticias/reina-tekken-8/)
-- [Como Derrotar Raphael em Baldurs Gate 3: A estratégia completa para vencer o Demônio](https://marriedgames.com.br/dicas-guias/derrotar-raphael-em-baldurs-gate/)
-- [CBOLÃO É ANUNCIADO NA CCXP23](https://marriedgames.com.br/noticias/cbolao/)
+- [Pearl Abyss está pronta para trazer surpresas de Black Desert no Banquete de Calpheon](https://marriedgames.com.br/noticias/banquete-de-calpheon-2/)
+- [Como transformar uma conexão de internet lenta em uma experiência de Wi-Fi de qualidade](https://marriedgames.com.br/noticias/wi-fi-de-qualidade/)
+- [Introdução à Programação de Shaders no Unreal Engine](https://marriedgames.com.br/tecnologia/shaders-no-unreal-engine/)
+- [Honor of Kings apresenta visual original inspirado no Brasil e dublado por Laura Castro](https://marriedgames.com.br/noticias/honor-of-kings/)
+- [“Operação Deep Freeze” chega a Rainbow Six Siege em 28 de novembro](https://marriedgames.com.br/noticias/operacao-deep-freeze/)
 <!-- BLOG-POST-LIST:END -->
 
 
