@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Warner apoia campeonatos de Mortal Kombat 1 e cria “Kampeões da Komunidade”](https://marriedgames.com.br/noticias/kampeoes-da-komunidade/)
+- [‘Madame Teia’ ganha aguardado trailer. Filme chega exclusivamente nos cinemas em 2024](https://marriedgames.com.br/noticias/madame-teia-ganha-aguardado-trailer-filme-chega-exclusivamente-nos-cinemas-em-2024/)
+- [Kratos Games Network faz investimento de US$6 milhões na transição de jogos para web3](https://marriedgames.com.br/noticias/kratos-games-network/)
 - [Pearl Abyss está pronta para trazer surpresas de Black Desert no Banquete de Calpheon](https://marriedgames.com.br/noticias/banquete-de-calpheon-2/)
 - [Como transformar uma conexão de internet lenta em uma experiência de Wi-Fi de qualidade](https://marriedgames.com.br/noticias/wi-fi-de-qualidade/)
-- [Introdução à Programação de Shaders no Unreal Engine](https://marriedgames.com.br/tecnologia/shaders-no-unreal-engine/)
-- [Honor of Kings apresenta visual original inspirado no Brasil e dublado por Laura Castro](https://marriedgames.com.br/noticias/honor-of-kings/)
-- [“Operação Deep Freeze” chega a Rainbow Six Siege em 28 de novembro](https://marriedgames.com.br/noticias/operacao-deep-freeze/)
 <!-- BLOG-POST-LIST:END -->
 
 
