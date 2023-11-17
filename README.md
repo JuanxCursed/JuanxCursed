@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gamificação aumenta frequência de compras e gasto médio de clientes na C&amp;A](https://marriedgames.com.br/noticias/gamificacao-ca/)
+- [Zack Snyder na CCXP: diretor fará primeira exibição de seu novo filme Netflix, Rebel Moon](https://marriedgames.com.br/noticias/zack-snyder-na-ccxp/)
 - [Warner apoia campeonatos de Mortal Kombat 1 e cria “Kampeões da Komunidade”](https://marriedgames.com.br/noticias/kampeoes-da-komunidade/)
 - [‘Madame Teia’ ganha aguardado trailer. Filme chega exclusivamente nos cinemas em 2024](https://marriedgames.com.br/noticias/madame-teia-ganha-aguardado-trailer-filme-chega-exclusivamente-nos-cinemas-em-2024/)
 - [Kratos Games Network faz investimento de US$6 milhões na transição de jogos para web3](https://marriedgames.com.br/noticias/kratos-games-network/)
-- [Pearl Abyss está pronta para trazer surpresas de Black Desert no Banquete de Calpheon](https://marriedgames.com.br/noticias/banquete-de-calpheon-2/)
-- [Como transformar uma conexão de internet lenta em uma experiência de Wi-Fi de qualidade](https://marriedgames.com.br/noticias/wi-fi-de-qualidade/)
 <!-- BLOG-POST-LIST:END -->
 
 
