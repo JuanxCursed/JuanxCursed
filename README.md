@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Conheça mais do game de Akira Toryama com novo Dev Diaries de SAND LAND](https://marriedgames.com.br/noticias/dev-diaries-de-sand-land/)
+- [Guia de compras NVIDIA: Placas GeForce RTX, Monitor e mais em promoção no Natal](https://marriedgames.com.br/noticias/guia-de-compras-nvidia/)
+- [Xuxa na CCXP23: é a artista homenageada da 10ª edição do festival](https://marriedgames.com.br/noticias/xuxa-na-ccxp23/)
 - [Gamificação aumenta frequência de compras e gasto médio de clientes na C&amp;A](https://marriedgames.com.br/noticias/gamificacao-ca/)
 - [Zack Snyder na CCXP: diretor fará primeira exibição de seu novo filme Netflix, Rebel Moon](https://marriedgames.com.br/noticias/zack-snyder-na-ccxp/)
-- [Warner apoia campeonatos de Mortal Kombat 1 e cria “Kampeões da Komunidade”](https://marriedgames.com.br/noticias/kampeoes-da-komunidade/)
-- [‘Madame Teia’ ganha aguardado trailer. Filme chega exclusivamente nos cinemas em 2024](https://marriedgames.com.br/noticias/madame-teia-ganha-aguardado-trailer-filme-chega-exclusivamente-nos-cinemas-em-2024/)
-- [Kratos Games Network faz investimento de US$6 milhões na transição de jogos para web3](https://marriedgames.com.br/noticias/kratos-games-network/)
 <!-- BLOG-POST-LIST:END -->
 
 
