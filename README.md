@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Sims 4 Aluga-Se chega às lojas Em Dezembro](https://marriedgames.com.br/noticias/the-sims-4-aluga-se-2/)
+- [Kingston se torna a fornecedora número um de SSDs](https://marriedgames.com.br/noticias/kingston/)
+- [PUBG Global Championship 2023 começa neste sábado](https://marriedgames.com.br/noticias/pubg-global-championship-2023/)
+- [Honor of Kings: evento para obter Mari Capoeirista gratuitamente começa na sexta](https://marriedgames.com.br/noticias/mari-capoeirista/)
 - [Conheça mais do game de Akira Toryama com novo Dev Diaries de SAND LAND](https://marriedgames.com.br/noticias/dev-diaries-de-sand-land/)
-- [Guia de compras NVIDIA: Placas GeForce RTX, Monitor e mais em promoção no Natal](https://marriedgames.com.br/noticias/guia-de-compras-nvidia/)
-- [Xuxa na CCXP23: é a artista homenageada da 10ª edição do festival](https://marriedgames.com.br/noticias/xuxa-na-ccxp23/)
-- [Gamificação aumenta frequência de compras e gasto médio de clientes na C&amp;A](https://marriedgames.com.br/noticias/gamificacao-ca/)
-- [Zack Snyder na CCXP: diretor fará primeira exibição de seu novo filme Netflix, Rebel Moon](https://marriedgames.com.br/noticias/zack-snyder-na-ccxp/)
 <!-- BLOG-POST-LIST:END -->
 
 
