@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ubisoft lança Assassin’s Creed Nexus e jogadores já podem sentir o game em realidade virtual](https://marriedgames.com.br/noticias/assassins-creed-nexus/)
+- [NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS chega PC e consoles](https://marriedgames.com.br/noticias/naruto-x-boruto-ultimate-ninja/)
 - [The Sims 4 Aluga-Se chega às lojas Em Dezembro](https://marriedgames.com.br/noticias/the-sims-4-aluga-se-2/)
 - [Kingston se torna a fornecedora número um de SSDs](https://marriedgames.com.br/noticias/kingston/)
 - [PUBG Global Championship 2023 começa neste sábado](https://marriedgames.com.br/noticias/pubg-global-championship-2023/)
-- [Honor of Kings: evento para obter Mari Capoeirista gratuitamente começa na sexta](https://marriedgames.com.br/noticias/mari-capoeirista/)
-- [Conheça mais do game de Akira Toryama com novo Dev Diaries de SAND LAND](https://marriedgames.com.br/noticias/dev-diaries-de-sand-land/)
 <!-- BLOG-POST-LIST:END -->
 
 
