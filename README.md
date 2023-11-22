@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ubisoft lança Assassin’s Creed Nexus e jogadores já podem sentir o game em realidade virtual](https://marriedgames.com.br/noticias/assassins-creed-nexus/)
-- [NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS chega PC e consoles](https://marriedgames.com.br/noticias/naruto-x-boruto-ultimate-ninja/)
-- [The Sims 4 Aluga-Se chega às lojas Em Dezembro](https://marriedgames.com.br/noticias/the-sims-4-aluga-se-2/)
-- [Kingston se torna a fornecedora número um de SSDs](https://marriedgames.com.br/noticias/kingston/)
-- [PUBG Global Championship 2023 começa neste sábado](https://marriedgames.com.br/noticias/pubg-global-championship-2023/)
+- [SEGA revela animação de abertura de Sonic Dream Team](https://marriedgames.com.br/noticias/sonic-dream-team/)
+- [Diablo IV Grátis! Jogo pode ser testado de graça no Steam por uma semana](https://marriedgames.com.br/noticias/diablo-iv-gratis/)
+- [Geralt em Destiny 2: nova colaboração com The Witcher é anunciada](https://marriedgames.com.br/noticias/geralt-em-destiny-2/)
+- [NVIDIA anuncia chegada de loja oficial GeForce Store no Brasil](https://marriedgames.com.br/noticias/loja-oficial-geforce/)
+- [Acesso Antecipado HAWKED: Comece a jogar em 30 de novembro](https://marriedgames.com.br/noticias/acesso-antecipado-hawked/)
 <!-- BLOG-POST-LIST:END -->
 
 
