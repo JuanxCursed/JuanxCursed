@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Black Friday da Force One tem produtos de alta performance a partir de R$ 59 e até 22% off](https://marriedgames.com.br/noticias/black-friday-da-force-one/)
+- [PUBG MOBILE: Jogadores da Influence Rage e Alpha 7 são finalistas do Prêmio eSports Brasil](https://marriedgames.com.br/noticias/premio-esports-brasil-2/)
+- [Lançamento de TEKKEN 8: Trailer faz aquecimento para a chegada do jogo](https://marriedgames.com.br/noticias/lancamento-de-tekken-8/)
 - [NVIDIA anuncia que Cyberpunk 2077: Ultimate Edition será compatível com GeForce RTX](https://marriedgames.com.br/noticias/cyberpunk-2077-ultimate-edition/)
 - [Derrote Viconia DeVir Baldurs Gate 3: Derrote os Clérigos de Shar e Salve Umbralma](https://marriedgames.com.br/dicas-guias/viconia-devir-baldurs-gate-3/)
-- [SEGA revela animação de abertura de Sonic Dream Team](https://marriedgames.com.br/noticias/sonic-dream-team/)
-- [Diablo IV Grátis! Jogo pode ser testado de graça no Steam por uma semana](https://marriedgames.com.br/noticias/diablo-iv-gratis/)
-- [Geralt em Destiny 2: nova colaboração com The Witcher é anunciada](https://marriedgames.com.br/noticias/geralt-em-destiny-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
