@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NVIDIA divulga guia de compras GeForce RTX para fim de ano](https://marriedgames.com.br/noticias/geforce-rtx-para-fim-de-ano/)
+- [Pingo em Baldurs Gate 3: todas as localizações das partes do corpo do Palhaço](https://marriedgames.com.br/dicas-guias/pingo-em-baldurs-gate-3/)
+- [Produtos de áudio da LG com descontos de até 40% na Black Friday 2023](https://marriedgames.com.br/noticias/produtos-de-audio-da-lg/)
+- [Mundial de Free Fire | FFWS 2023 Bangkok culmina neste fim de semana](https://marriedgames.com.br/noticias/ffws-2023-bangkok/)
 - [Black Friday da Force One tem produtos de alta performance a partir de R$ 59 e até 22% off](https://marriedgames.com.br/noticias/black-friday-da-force-one/)
-- [PUBG MOBILE: Jogadores da Influence Rage e Alpha 7 são finalistas do Prêmio eSports Brasil](https://marriedgames.com.br/noticias/premio-esports-brasil-2/)
-- [Lançamento de TEKKEN 8: Trailer faz aquecimento para a chegada do jogo](https://marriedgames.com.br/noticias/lancamento-de-tekken-8/)
-- [NVIDIA anuncia que Cyberpunk 2077: Ultimate Edition será compatível com GeForce RTX](https://marriedgames.com.br/noticias/cyberpunk-2077-ultimate-edition/)
-- [Derrote Viconia DeVir Baldurs Gate 3: Derrote os Clérigos de Shar e Salve Umbralma](https://marriedgames.com.br/dicas-guias/viconia-devir-baldurs-gate-3/)
 <!-- BLOG-POST-LIST:END -->
 
 
