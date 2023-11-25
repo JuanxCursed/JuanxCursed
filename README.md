@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Godot 4: Como instalar no Windows [Grátis]](https://www.youtube.com/watch?v=HD3eegUrxws)
 - [Como ativar o Windows 11 sem instalar nada [e de graça]](https://www.youtube.com/watch?v=lXPBa45K4Ps)
 - [Este Teclado Gamer Vai Além da Imaginação. Force One vale a pena?](https://www.youtube.com/watch?v=KsIN-9CaMfo)
 - [Consegue acertar?? 🤔 #godot #jogosdetabuleiro #dev #game](https://www.youtube.com/watch?v=nmLxEv-Ln0U)
 - [Consegue acertar?? 🤔  #realidadevirtual #gamer #godot #dev](https://www.youtube.com/watch?v=5iyx-Up0Y6g)
-- [Duvido acertar??? #shorts #Unity #dev #game](https://www.youtube.com/watch?v=8ihdsFSyfTk)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
