@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Impacto da Gamificação: Métodos e Estratégias Eficientes para Avaliar seus Resultados](https://marriedgames.com.br/desenvolvimento-de-jogos/impacto-da-gamificacao/)
 - [NVIDIA divulga guia de compras GeForce RTX para fim de ano](https://marriedgames.com.br/noticias/geforce-rtx-para-fim-de-ano/)
 - [Pingo em Baldurs Gate 3: todas as localizações das partes do corpo do Palhaço](https://marriedgames.com.br/dicas-guias/pingo-em-baldurs-gate-3/)
 - [Produtos de áudio da LG com descontos de até 40% na Black Friday 2023](https://marriedgames.com.br/noticias/produtos-de-audio-da-lg/)
 - [Mundial de Free Fire | FFWS 2023 Bangkok culmina neste fim de semana](https://marriedgames.com.br/noticias/ffws-2023-bangkok/)
-- [Black Friday da Force One tem produtos de alta performance a partir de R$ 59 e até 22% off](https://marriedgames.com.br/noticias/black-friday-da-force-one/)
 <!-- BLOG-POST-LIST:END -->
 
 
