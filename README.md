@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Áudio no Godot 4: Design Sonoro e Integração](https://marriedgames.com.br/desenvolvimento-de-jogos/audio-no-godot-4/)
+- [Rato Borrachudo anuncia Nitro Race, servidor customizado de GTA com foco em corridas](https://marriedgames.com.br/noticias/nitro-race/)
+- [Nova linha LG XBOOM RNC promete transformar qualquer ambiente em festa](https://marriedgames.com.br/noticias/lg-xboom-rnc/)
+- [GameMaker Grátis: Criadores da Engine decidem parar de Cobrar de Desenvolvedores Indie](https://marriedgames.com.br/noticias/gamemaker-gratis/)
 - [Impacto da Gamificação: Métodos e Estratégias Eficientes para Avaliar seus Resultados](https://marriedgames.com.br/desenvolvimento-de-jogos/impacto-da-gamificacao/)
-- [NVIDIA divulga guia de compras GeForce RTX para fim de ano](https://marriedgames.com.br/noticias/geforce-rtx-para-fim-de-ano/)
-- [Pingo em Baldurs Gate 3: todas as localizações das partes do corpo do Palhaço](https://marriedgames.com.br/dicas-guias/pingo-em-baldurs-gate-3/)
-- [Produtos de áudio da LG com descontos de até 40% na Black Friday 2023](https://marriedgames.com.br/noticias/produtos-de-audio-da-lg/)
-- [Mundial de Free Fire | FFWS 2023 Bangkok culmina neste fim de semana](https://marriedgames.com.br/noticias/ffws-2023-bangkok/)
 <!-- BLOG-POST-LIST:END -->
 
 
