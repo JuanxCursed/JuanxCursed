@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Áudio no Godot 4: Design Sonoro e Integração](https://marriedgames.com.br/desenvolvimento-de-jogos/audio-no-godot-4/)
-- [Rato Borrachudo anuncia Nitro Race, servidor customizado de GTA com foco em corridas](https://marriedgames.com.br/noticias/nitro-race/)
-- [Nova linha LG XBOOM RNC promete transformar qualquer ambiente em festa](https://marriedgames.com.br/noticias/lg-xboom-rnc/)
-- [GameMaker Grátis: Criadores da Engine decidem parar de Cobrar de Desenvolvedores Indie](https://marriedgames.com.br/noticias/gamemaker-gratis/)
-- [Impacto da Gamificação: Métodos e Estratégias Eficientes para Avaliar seus Resultados](https://marriedgames.com.br/desenvolvimento-de-jogos/impacto-da-gamificacao/)
+- [Pré-Venda de Dragons Dogma 2: Game Chega no Dia 22 de Março de 2024](https://marriedgames.com.br/noticias/pre-venda-de-dragons-dogma/)
+- [Festival AG Gamer terá eventos de VALORANT e League of Legends com prêmios de R$ 4 mil](https://marriedgames.com.br/noticias/festival-ag-gamer/)
+- [BIG Festival e gamescom criam a gamescom latam no Brasil!](https://marriedgames.com.br/noticias/big-festival-e-gamescom/)
+- [Unreal Engine 5: 11 Motivos Para Escolher Esta Poderosa Engine + Bônus Especial](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-em-unreal-engine-5/)
+- [NVIDIA anuncia nova promoção na compra de placas de vídeo GeForce RTX Série 40](https://marriedgames.com.br/noticias/geforce-rtx-serie-40/)
 <!-- BLOG-POST-LIST:END -->
 
 
