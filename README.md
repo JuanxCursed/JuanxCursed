@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pré-Venda de Dragons Dogma 2: Game Chega no Dia 22 de Março de 2024](https://marriedgames.com.br/noticias/pre-venda-de-dragons-dogma/)
-- [Festival AG Gamer terá eventos de VALORANT e League of Legends com prêmios de R$ 4 mil](https://marriedgames.com.br/noticias/festival-ag-gamer/)
-- [BIG Festival e gamescom criam a gamescom latam no Brasil!](https://marriedgames.com.br/noticias/big-festival-e-gamescom/)
-- [Unreal Engine 5: 11 Motivos Para Escolher Esta Poderosa Engine + Bônus Especial](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-em-unreal-engine-5/)
-- [NVIDIA anuncia nova promoção na compra de placas de vídeo GeForce RTX Série 40](https://marriedgames.com.br/noticias/geforce-rtx-serie-40/)
+- [Honor of Kings e Intel se juntam para um torneio oficial para a comunidade](https://marriedgames.com.br/noticias/honor-of-kings-e-intel/)
+- [KDT by HEARTSTEEL: K.Ö. Entertainment faz edição do maior torneio de K-cover do Brasil](https://marriedgames.com.br/noticias/kdt-by-heartsteel/)
+- [Melhor Engine para Jogos: Unreal Engine, Unity ou Godot? Qual Você Escolhe?](https://marriedgames.com.br/desenvolvimento-de-jogos/melhor-engine-para-jogos/)
+- [Começa a nova temporada de Pokémon GO: Viagens atemporais](https://marriedgames.com.br/noticias/temporada-de-pokemon-go/)
+- [Steve em TEKKEN 8: Bandai divulga trailer inédito do Lutador](https://marriedgames.com.br/noticias/steve-em-tekken-8/)
 <!-- BLOG-POST-LIST:END -->
 
 
