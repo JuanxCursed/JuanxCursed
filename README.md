@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como instalar o Blender no Windows, Linux e MacOS](https://marriedgames.com.br/dicas-guias/como-instalar-o-blender/)
 - [Honor of Kings e Intel se juntam para um torneio oficial para a comunidade](https://marriedgames.com.br/noticias/honor-of-kings-e-intel/)
 - [KDT by HEARTSTEEL: K.Ö. Entertainment faz edição do maior torneio de K-cover do Brasil](https://marriedgames.com.br/noticias/kdt-by-heartsteel/)
 - [Melhor Engine para Jogos: Unreal Engine, Unity ou Godot? Qual Você Escolhe?](https://marriedgames.com.br/desenvolvimento-de-jogos/melhor-engine-para-jogos/)
 - [Começa a nova temporada de Pokémon GO: Viagens atemporais](https://marriedgames.com.br/noticias/temporada-de-pokemon-go/)
-- [Steve em TEKKEN 8: Bandai divulga trailer inédito do Lutador](https://marriedgames.com.br/noticias/steve-em-tekken-8/)
 <!-- BLOG-POST-LIST:END -->
 
 
