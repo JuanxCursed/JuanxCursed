@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Como instalar o Blender no Windows, Linux e MacOS](https://marriedgames.com.br/dicas-guias/como-instalar-o-blender/)
-- [Honor of Kings e Intel se juntam para um torneio oficial para a comunidade](https://marriedgames.com.br/noticias/honor-of-kings-e-intel/)
-- [KDT by HEARTSTEEL: K.Ö. Entertainment faz edição do maior torneio de K-cover do Brasil](https://marriedgames.com.br/noticias/kdt-by-heartsteel/)
-- [Melhor Engine para Jogos: Unreal Engine, Unity ou Godot? Qual Você Escolhe?](https://marriedgames.com.br/desenvolvimento-de-jogos/melhor-engine-para-jogos/)
-- [Começa a nova temporada de Pokémon GO: Viagens atemporais](https://marriedgames.com.br/noticias/temporada-de-pokemon-go/)
+- [Guia para iniciante no Blender: Saiba como e por onde começar](https://marriedgames.com.br/desenvolvimento-de-jogos/iniciante-no-blender/)
+- [Warner Bros. Games e DC lançam Batman Arkham Trilogy para Nintendo Switch](https://marriedgames.com.br/noticias/arkham-trilogy-para-nintendo/)
+- [Desvende os segredos da nova masmorra de Destiny 2: Ruína da Senhora da Guerra](https://marriedgames.com.br/noticias/ruina-da-senhora-da-guerra/)
+- [Manipular Objetos no Blender: 4 Hacks de forma ilustrada](https://marriedgames.com.br/noticias/manipular-objetos-no-blender/)
+- [HAWKED no PC: Jogo já está disponível para download  na Steam e Site Oficial](https://marriedgames.com.br/noticias/hawked-no-pc/)
 <!-- BLOG-POST-LIST:END -->
 
 
