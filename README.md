@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Heroínas em Defense Derby: atualização de dezembro revela novos personagens e recursos](https://marriedgames.com.br/noticias/heroinas-em-defense-derby/)
+- [TEKKEN 8 terá “Mastery” da The Last Rockstars como música tema](https://marriedgames.com.br/noticias/the-last-rockstars/)
 - [Guia para iniciante no Blender: Saiba como e por onde começar](https://marriedgames.com.br/desenvolvimento-de-jogos/iniciante-no-blender/)
 - [Warner Bros. Games e DC lançam Batman Arkham Trilogy para Nintendo Switch](https://marriedgames.com.br/noticias/arkham-trilogy-para-nintendo/)
 - [Desvende os segredos da nova masmorra de Destiny 2: Ruína da Senhora da Guerra](https://marriedgames.com.br/noticias/ruina-da-senhora-da-guerra/)
-- [Manipular Objetos no Blender: 4 Hacks de forma ilustrada](https://marriedgames.com.br/noticias/manipular-objetos-no-blender/)
-- [HAWKED no PC: Jogo já está disponível para download  na Steam e Site Oficial](https://marriedgames.com.br/noticias/hawked-no-pc/)
 <!-- BLOG-POST-LIST:END -->
 
 
