@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Heroínas em Defense Derby: atualização de dezembro revela novos personagens e recursos](https://marriedgames.com.br/noticias/heroinas-em-defense-derby/)
-- [TEKKEN 8 terá “Mastery” da The Last Rockstars como música tema](https://marriedgames.com.br/noticias/the-last-rockstars/)
-- [Guia para iniciante no Blender: Saiba como e por onde começar](https://marriedgames.com.br/desenvolvimento-de-jogos/iniciante-no-blender/)
-- [Warner Bros. Games e DC lançam Batman Arkham Trilogy para Nintendo Switch](https://marriedgames.com.br/noticias/arkham-trilogy-para-nintendo/)
-- [Desvende os segredos da nova masmorra de Destiny 2: Ruína da Senhora da Guerra](https://marriedgames.com.br/noticias/ruina-da-senhora-da-guerra/)
+- [W7M Esports é campeã do Circuito Feminino de Rainbow Six ao vencer Black Dragons](https://marriedgames.com.br/noticias/w7m-esports-e-campea/)
+- [O Chamado da Caçada: 8ª Temporada de Overwatch 2 chega em 5 de dezembro](https://marriedgames.com.br/noticias/temporada-de-overwatch-2-2/)
+- [11 Motivos Irresistíveis para Escolher a Unity 3D + Bônus Exclusivo](https://marriedgames.com.br/desenvolvimento-de-jogos/escolher-a-unity-3d/)
+- [Confira equipes brasileiras que disputam a Final da PUBG MOBILE Global Championship 2023](https://marriedgames.com.br/noticias/disputam-a-final-da-pubg/)
+- [Quer Criar Jogos? Veja Um Guia para Projetos mais Profissionais](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-jogos/)
 <!-- BLOG-POST-LIST:END -->
 
 
