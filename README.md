@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [W7M Esports é campeã do Circuito Feminino de Rainbow Six ao vencer Black Dragons](https://marriedgames.com.br/noticias/w7m-esports-e-campea/)
-- [O Chamado da Caçada: 8ª Temporada de Overwatch 2 chega em 5 de dezembro](https://marriedgames.com.br/noticias/temporada-de-overwatch-2-2/)
-- [11 Motivos Irresistíveis para Escolher a Unity 3D + Bônus Exclusivo](https://marriedgames.com.br/desenvolvimento-de-jogos/escolher-a-unity-3d/)
-- [Confira equipes brasileiras que disputam a Final da PUBG MOBILE Global Championship 2023](https://marriedgames.com.br/noticias/disputam-a-final-da-pubg/)
-- [Quer Criar Jogos? Veja Um Guia para Projetos mais Profissionais](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-jogos/)
+- [Team Liquid faz história no mundial inclusivo de VALORANT com vice-campeonato e recorde](https://marriedgames.com.br/noticias/team-liquid-faz-historia/)
+- [11 Motivos Obrigatórios para Usar Godot Engine + Bônus Exclusivo](https://marriedgames.com.br/desenvolvimento-de-jogos/usar-godot-engine/)
+- [Chessarama, jogo de puzzles de xadrez, já está disponível no PC e Xbox](https://marriedgames.com.br/noticias/chessarama-2/)
+- [Sonic Dream Team disponível agora exclusivamente no Apple Arcade](https://marriedgames.com.br/noticias/sonic-dream-team-disponivel/)
+- [Born of Bread sai do forno hoje para PC, Switch, PlayStation 5 e Xbox Series](https://marriedgames.com.br/noticias/born-of-bread/)
 <!-- BLOG-POST-LIST:END -->
 
 
