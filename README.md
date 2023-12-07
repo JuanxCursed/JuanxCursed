@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Team Liquid faz história no mundial inclusivo de VALORANT com vice-campeonato e recorde](https://marriedgames.com.br/noticias/team-liquid-faz-historia/)
-- [11 Motivos Obrigatórios para Usar Godot Engine + Bônus Exclusivo](https://marriedgames.com.br/desenvolvimento-de-jogos/usar-godot-engine/)
-- [Chessarama, jogo de puzzles de xadrez, já está disponível no PC e Xbox](https://marriedgames.com.br/noticias/chessarama-2/)
-- [Sonic Dream Team disponível agora exclusivamente no Apple Arcade](https://marriedgames.com.br/noticias/sonic-dream-team-disponivel/)
-- [Born of Bread sai do forno hoje para PC, Switch, PlayStation 5 e Xbox Series](https://marriedgames.com.br/noticias/born-of-bread/)
+- [Jogo VR Inspirado em Street Fighter, FINAL FURY, ganha Trailer, Personagens e Open Beta](https://marriedgames.com.br/noticias/final-fury/)
+- [Demo de Parcel Corps chega hoje ao Xbox Series X|S](https://marriedgames.com.br/noticias/demo-de-parcel-corps/)
+- [Maonocaster C2 NEO: a mesa de som USB perfeita para podcasters e streamers](https://marriedgames.com.br/tecnologia-hardware/maonocaster-c2-neo/)
+- [8 dicas essenciais para iniciantes em Unity e Desenvolvimento de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/iniciantes-em-unity/)
+- [Warface muda de nome para Clutch junto com a emocionante nova temporada](https://marriedgames.com.br/noticias/warface-clutch/)
 <!-- BLOG-POST-LIST:END -->
 
 
