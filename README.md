@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jogo VR Inspirado em Street Fighter, FINAL FURY, ganha Trailer, Personagens e Open Beta](https://marriedgames.com.br/noticias/final-fury/)
-- [Demo de Parcel Corps chega hoje ao Xbox Series X|S](https://marriedgames.com.br/noticias/demo-de-parcel-corps/)
-- [Maonocaster C2 NEO: a mesa de som USB perfeita para podcasters e streamers](https://marriedgames.com.br/tecnologia-hardware/maonocaster-c2-neo/)
-- [8 dicas essenciais para iniciantes em Unity e Desenvolvimento de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/iniciantes-em-unity/)
-- [Warface muda de nome para Clutch junto com a emocionante nova temporada](https://marriedgames.com.br/noticias/warface-clutch/)
+- [Capcom Anuncia Monster Hunter Wilds™ no The Game Awards 2023](https://marriedgames.com.br/noticias/capcom-anuncia-monster-hunter-wilds/)
+- [Baldurs Gate 3 é Goty: Jogo da Larian Studios Recebeu Cinco Prêmios](https://marriedgames.com.br/noticias/baldurs-gate-3-e-goty/)
+- [SEGA mergulha no próprio legado em projeto para novas franquias](https://marriedgames.com.br/noticias/sega-mergulha-no-proprio-legado-em-projeto-para-novas-franquias/)
+- [DRAGON BALL: Sparking! ZERO leva a série BUDOKAI TENKAICHI para a nova geração](https://marriedgames.com.br/noticias/sparking-zero/)
+- [Como resolver o erro OpenGL no Blender](https://marriedgames.com.br/desenvolvimento-de-jogos/opengl-no-blender/)
 <!-- BLOG-POST-LIST:END -->
 
 
