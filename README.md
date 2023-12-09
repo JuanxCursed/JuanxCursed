@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Capcom Anuncia Monster Hunter Wilds™ no The Game Awards 2023](https://marriedgames.com.br/noticias/capcom-anuncia-monster-hunter-wilds/)
-- [Baldurs Gate 3 é Goty: Jogo da Larian Studios Recebeu Cinco Prêmios](https://marriedgames.com.br/noticias/baldurs-gate-3-e-goty/)
-- [SEGA mergulha no próprio legado em projeto para novas franquias](https://marriedgames.com.br/noticias/sega-mergulha-no-proprio-legado-em-projeto-para-novas-franquias/)
-- [DRAGON BALL: Sparking! ZERO leva a série BUDOKAI TENKAICHI para a nova geração](https://marriedgames.com.br/noticias/sparking-zero/)
-- [Como resolver o erro OpenGL no Blender](https://marriedgames.com.br/desenvolvimento-de-jogos/opengl-no-blender/)
+- [Seu projeto antigo de Unity 3D não builda mais? Gerenciamento de versão é o segredo](https://marriedgames.com.br/desenvolvimento-de-jogos/unity-3d-nao-builda/)
+- [Like a Dragon: Infinite Wealth: Kazuma Kiryu reencontra velhos amigos no Trailer](https://marriedgames.com.br/noticias/kazuma-kiryu-reencontra/)
+- [Qual Melhor Engine? Descubra Qual é a Ideal para Você? Conheça Cada uma da Lista](https://marriedgames.com.br/desenvolvimento-de-jogos/qual-melhor-engine/)
+- [Tower Of Fantasy e Evangelion: Anunciada Colaboração Emocionante  Em 2024](https://marriedgames.com.br/noticias/tower-of-fantasy-e-evangelion/)
+- [Novo Trailer de Suicide Squad: Mate a Liga da Justiça destaca corrupção dos heróis da DC](https://marriedgames.com.br/noticias/trailer-de-suicide-squad/)
 <!-- BLOG-POST-LIST:END -->
 
 
