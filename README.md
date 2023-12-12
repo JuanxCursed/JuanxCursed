@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Seu projeto antigo de Unity 3D não builda mais? Gerenciamento de versão é o segredo](https://marriedgames.com.br/desenvolvimento-de-jogos/unity-3d-nao-builda/)
-- [Like a Dragon: Infinite Wealth: Kazuma Kiryu reencontra velhos amigos no Trailer](https://marriedgames.com.br/noticias/kazuma-kiryu-reencontra/)
-- [Qual Melhor Engine? Descubra Qual é a Ideal para Você? Conheça Cada uma da Lista](https://marriedgames.com.br/desenvolvimento-de-jogos/qual-melhor-engine/)
-- [Tower Of Fantasy e Evangelion: Anunciada Colaboração Emocionante  Em 2024](https://marriedgames.com.br/noticias/tower-of-fantasy-e-evangelion/)
-- [Novo Trailer de Suicide Squad: Mate a Liga da Justiça destaca corrupção dos heróis da DC](https://marriedgames.com.br/noticias/trailer-de-suicide-squad/)
+- [Explorando a Unreal Marketplace: Encontrando e Utilizando Assets](https://marriedgames.com.br/desenvolvimento-de-jogos/unreal-marketplace/)
+- [Sonic Holiday Costume já disponível no Sonic Superstars](https://marriedgames.com.br/noticias/sonic-holiday-costume/)
+- [Unreal Engine no Windows: Passo a passo para instalar no seu Computador](https://marriedgames.com.br/desenvolvimento-de-jogos/unreal-engine-no-windows/)
+- [Temporada 2 de Warcraft Rumble traz Quimera como nova Mini](https://marriedgames.com.br/noticias/warcraft-rumble-traz-quimera/)
+- [DLC Wonder of U está disponível em JOJO’S BIZARRE ADVENTURE: ALL-STAR BATTLE R](https://marriedgames.com.br/noticias/dlc-wonder-of-u/)
 <!-- BLOG-POST-LIST:END -->
 
 
