@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Explorando a Unreal Marketplace: Encontrando e Utilizando Assets](https://marriedgames.com.br/desenvolvimento-de-jogos/unreal-marketplace/)
-- [Sonic Holiday Costume já disponível no Sonic Superstars](https://marriedgames.com.br/noticias/sonic-holiday-costume/)
-- [Unreal Engine no Windows: Passo a passo para instalar no seu Computador](https://marriedgames.com.br/desenvolvimento-de-jogos/unreal-engine-no-windows/)
-- [Temporada 2 de Warcraft Rumble traz Quimera como nova Mini](https://marriedgames.com.br/noticias/warcraft-rumble-traz-quimera/)
-- [DLC Wonder of U está disponível em JOJO’S BIZARRE ADVENTURE: ALL-STAR BATTLE R](https://marriedgames.com.br/noticias/dlc-wonder-of-u/)
+- [DUNA: Parte 2, Aguardado Longa Da Warner Bros., Ganha Trailer Inédito](https://marriedgames.com.br/noticias/duna-parte-2/)
+- [Comemore O Recorde Da Temporada 2023 De Max Verstappen No EA Sports F1 23](https://marriedgames.com.br/noticias/max-verstappen-no-ea-sports/)
+- [LITTLE NIGHTMARES Mobile: Game é lançado para Android e iOS](https://marriedgames.com.br/noticias/little-nightmares-mobile/)
+- [Alvorada em Destiny 2: As festividades de fim de ano estão de volta com o evento anua](https://marriedgames.com.br/noticias/alvorada-em-destiny-2/)
+- [Praga de Inverno, primeiro evento de Diablo IV, já está disponível](https://marriedgames.com.br/noticias/praga-de-inverno/)
 <!-- BLOG-POST-LIST:END -->
 
 
