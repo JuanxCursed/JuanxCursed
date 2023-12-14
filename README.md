@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DUNA: Parte 2, Aguardado Longa Da Warner Bros., Ganha Trailer Inédito](https://marriedgames.com.br/noticias/duna-parte-2/)
-- [Comemore O Recorde Da Temporada 2023 De Max Verstappen No EA Sports F1 23](https://marriedgames.com.br/noticias/max-verstappen-no-ea-sports/)
-- [LITTLE NIGHTMARES Mobile: Game é lançado para Android e iOS](https://marriedgames.com.br/noticias/little-nightmares-mobile/)
-- [Alvorada em Destiny 2: As festividades de fim de ano estão de volta com o evento anua](https://marriedgames.com.br/noticias/alvorada-em-destiny-2/)
-- [Praga de Inverno, primeiro evento de Diablo IV, já está disponível](https://marriedgames.com.br/noticias/praga-de-inverno/)
+- [Python para Jogos: Saiba como Usar Essa Linguagem para Criação de Games](https://marriedgames.com.br/desenvolvimento-de-jogos/python-para-jogos/)
+- [Jogos 2D em Unity: Criando Games do Zero até a Entrega para o Jogador](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-2d-em-unity/)
+- [Yoshimitsu TEKKEN 8: Personagem ganha Trailer e está presente desde o primeiro jogo](https://marriedgames.com.br/noticias/yoshimitsu-tekken/)
+- [Integrando Unreal Engine com Outras Ferramentas de Desenvolvimento](https://marriedgames.com.br/desenvolvimento-de-jogos/integrando-unreal-engine/)
+- [Publicando seu Jogo Desenvolvido no Godot 4: Passos Essenciais para o Sucesso](https://marriedgames.com.br/desenvolvimento-de-jogos/jogo-desenvolvido-no-godot/)
 <!-- BLOG-POST-LIST:END -->
 
 
