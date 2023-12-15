@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Python para Jogos: Saiba como Usar Essa Linguagem para Criação de Games](https://marriedgames.com.br/desenvolvimento-de-jogos/python-para-jogos/)
-- [Jogos 2D em Unity: Criando Games do Zero até a Entrega para o Jogador](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-2d-em-unity/)
-- [Yoshimitsu TEKKEN 8: Personagem ganha Trailer e está presente desde o primeiro jogo](https://marriedgames.com.br/noticias/yoshimitsu-tekken/)
-- [Integrando Unreal Engine com Outras Ferramentas de Desenvolvimento](https://marriedgames.com.br/desenvolvimento-de-jogos/integrando-unreal-engine/)
-- [Publicando seu Jogo Desenvolvido no Godot 4: Passos Essenciais para o Sucesso](https://marriedgames.com.br/desenvolvimento-de-jogos/jogo-desenvolvido-no-godot/)
+- [Satoru Gojo ensina mecânicas de Jujutsu Kaisen Cursed Clash em novo trailer](https://marriedgames.com.br/noticias/satoru-gojo-ensina/)
+- [Demo de TEKKEN 8: Jogo recebe trailer de história e anuncia demo para PC e consoles](https://marriedgames.com.br/noticias/demo-de-tekken-8/)
+- [Force One anuncia Vitor Martins como novo CEO](https://marriedgames.com.br/noticias/force-one-vitor-martins/)
+- [Vídeo dos bastidores mostra detalhes do enredo  de Persona 3 Reload e mais](https://marriedgames.com.br/noticias/video-dos-bastidores-mostra-detalhes-do-enredo-de-persona-3-reload-e-mais/)
+- [IA no Unreal Engine: Uma Visão Geral dos Recursos de Inteligência Artificial](https://marriedgames.com.br/noticias/ia-no-unreal-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 
