@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Como levei 18 anos para aprender a programar](https://www.youtube.com/watch?v=An6YMlOajRc)
 - [Maono Review - Microfone PD200X, o mais vendido da Maono, vale a pena?](https://www.youtube.com/watch?v=s80CH13yfRk)
 - [Godot 4.2 - Acabou para a Unity 3D?](https://www.youtube.com/watch?v=5xvznwS1SeQ)
 - [Godot: Vale a pena? 11 Motívos dizem que SIM!](https://www.youtube.com/watch?v=Ek8u-sCCjC8)
 - [Unity 3D: 11 motivos para usar, será que vale a pena?](https://www.youtube.com/watch?v=cYxArOp_JQk)
-- [Unreal Engine 5: Vale a pena? 11 motivos obritagórios para você usar!](https://www.youtube.com/watch?v=2S45zQESPU4)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
