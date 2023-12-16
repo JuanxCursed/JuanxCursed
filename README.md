@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Satoru Gojo ensina mecânicas de Jujutsu Kaisen Cursed Clash em novo trailer](https://marriedgames.com.br/noticias/satoru-gojo-ensina/)
-- [Demo de TEKKEN 8: Jogo recebe trailer de história e anuncia demo para PC e consoles](https://marriedgames.com.br/noticias/demo-de-tekken-8/)
-- [Force One anuncia Vitor Martins como novo CEO](https://marriedgames.com.br/noticias/force-one-vitor-martins/)
-- [Vídeo dos bastidores mostra detalhes do enredo  de Persona 3 Reload e mais](https://marriedgames.com.br/noticias/video-dos-bastidores-mostra-detalhes-do-enredo-de-persona-3-reload-e-mais/)
-- [IA no Unreal Engine: Uma Visão Geral dos Recursos de Inteligência Artificial](https://marriedgames.com.br/noticias/ia-no-unreal-engine/)
+- [Dicas para Iniciantes no GameMaker: Acelere seu Aprendizado e Desenvolvimento de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/iniciantes-no-gamemaker/)
+- [15 Dicas Avançadas para Desenvolvimento em Unity + Bônus](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvimento-em-unity/)
+- [Dublagem em inglês de Like a Dragon Gaiden English já está disponível de graça](https://marriedgames.com.br/noticias/like-a-dragon-gaiden-english/)
+- [Pathfinding no Godot 4: Entenda como os NPC Sempre Encontram seu Esconderijo](https://marriedgames.com.br/desenvolvimento-de-jogos/pathfinding-no-godot-4/)
+- [KaBuM! anuncia ações de Natal com Gaules, muitas lives e descontos](https://marriedgames.com.br/noticias/natal-com-gaules/)
 <!-- BLOG-POST-LIST:END -->
 
 
