@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dicas para Iniciantes no GameMaker: Acelere seu Aprendizado e Desenvolvimento de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/iniciantes-no-gamemaker/)
-- [15 Dicas Avançadas para Desenvolvimento em Unity + Bônus](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvimento-em-unity/)
-- [Dublagem em inglês de Like a Dragon Gaiden English já está disponível de graça](https://marriedgames.com.br/noticias/like-a-dragon-gaiden-english/)
-- [Pathfinding no Godot 4: Entenda como os NPC Sempre Encontram seu Esconderijo](https://marriedgames.com.br/desenvolvimento-de-jogos/pathfinding-no-godot-4/)
-- [KaBuM! anuncia ações de Natal com Gaules, muitas lives e descontos](https://marriedgames.com.br/noticias/natal-com-gaules/)
+- [Expansão Black Desert anuncia classe inédita Erudita e novo mapa Terra do Amanhecer: Seul](https://marriedgames.com.br/noticias/expansao-black-desert/)
+- [Pathfinding em Unity: Saiba como Fazer seus NPCs se moverem pelo Cenário](https://marriedgames.com.br/desenvolvimento-de-jogos/pathfinding-em-unity/)
+- [Razer lista seis dicas para presentear um gamer com o mouse ideal para o seu estilo de jogo](https://marriedgames.com.br/noticias/razer-lista-seis-dicas/)
+- [ARMORED CORE VI FIRES OF RUBICON introduz partidas ranqueadas](https://marriedgames.com.br/noticias/armored-core-vi-fires/)
+- [Qual o Tempo Necessário para Aprender a Criar Games se Tornar um Desenvolvedor?](https://marriedgames.com.br/desenvolvimento-de-jogos/aprender-a-criar-games/)
 <!-- BLOG-POST-LIST:END -->
 
 
