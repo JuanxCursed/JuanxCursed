@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PUBG MOBILE: Renas Voadoras agitam o Festival Gelado](https://marriedgames.com.br/noticias/renas-voadora/)
+- [Nova missão exótica, Escrito nas Estrelas, já disponível em Destiny 2](https://marriedgames.com.br/noticias/nova-missao-exotica-escrito-nas-estrelas-ja-disponivel-em-destiny-2/)
+- [Honor of Kings: “Showmatch da Virada” reúne influenciadores para celebrar o fim do ano](https://marriedgames.com.br/noticias/showmatch-da-virada/)
 - [Expansão Black Desert anuncia classe inédita Erudita e novo mapa Terra do Amanhecer: Seul](https://marriedgames.com.br/noticias/expansao-black-desert/)
 - [Pathfinding em Unity: Saiba como Fazer seus NPCs se moverem pelo Cenário](https://marriedgames.com.br/desenvolvimento-de-jogos/pathfinding-em-unity/)
-- [Razer lista seis dicas para presentear um gamer com o mouse ideal para o seu estilo de jogo](https://marriedgames.com.br/noticias/razer-lista-seis-dicas/)
-- [ARMORED CORE VI FIRES OF RUBICON introduz partidas ranqueadas](https://marriedgames.com.br/noticias/armored-core-vi-fires/)
-- [Qual o Tempo Necessário para Aprender a Criar Games se Tornar um Desenvolvedor?](https://marriedgames.com.br/desenvolvimento-de-jogos/aprender-a-criar-games/)
 <!-- BLOG-POST-LIST:END -->
 
 
