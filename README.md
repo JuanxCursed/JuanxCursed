@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [PUBG MOBILE: Renas Voadoras agitam o Festival Gelado](https://marriedgames.com.br/noticias/renas-voadora/)
-- [Nova missão exótica, Escrito nas Estrelas, já disponível em Destiny 2](https://marriedgames.com.br/noticias/nova-missao-exotica-escrito-nas-estrelas-ja-disponivel-em-destiny-2/)
-- [Honor of Kings: “Showmatch da Virada” reúne influenciadores para celebrar o fim do ano](https://marriedgames.com.br/noticias/showmatch-da-virada/)
-- [Expansão Black Desert anuncia classe inédita Erudita e novo mapa Terra do Amanhecer: Seul](https://marriedgames.com.br/noticias/expansao-black-desert/)
-- [Pathfinding em Unity: Saiba como Fazer seus NPCs se moverem pelo Cenário](https://marriedgames.com.br/desenvolvimento-de-jogos/pathfinding-em-unity/)
+- [Top Heróis Honor of Kings: veja os Heróis mais usados pelos brasileiros no fim de 2023](https://marriedgames.com.br/noticias/top-herois-honor-of-kings/)
+- [LG lança oficialmente a OLED evo Z3, primeira TV OLED 8K do Brasil!](https://marriedgames.com.br/noticias/oled-evo-z3/)
+- [ExitLag e Terabyte: Anunciada parceria para otimizar experiência de hardware e conexão](https://marriedgames.com.br/noticias/exitlag-e-terabyte/)
+- [Diablo lança promoção de Fim de Ano, Diablo Collection e traz presente aos jogadores](https://marriedgames.com.br/noticias/diablo-collection/)
+- [Modelagem Low Poly no Blender: Criando Arte 3D Minimalista](https://marriedgames.com.br/desenvolvimento-de-jogos/low-poly-no-blender/)
 <!-- BLOG-POST-LIST:END -->
 
 
