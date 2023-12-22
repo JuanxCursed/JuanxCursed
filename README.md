@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Heróis Honor of Kings: veja os Heróis mais usados pelos brasileiros no fim de 2023](https://marriedgames.com.br/noticias/top-herois-honor-of-kings/)
-- [LG lança oficialmente a OLED evo Z3, primeira TV OLED 8K do Brasil!](https://marriedgames.com.br/noticias/oled-evo-z3/)
-- [ExitLag e Terabyte: Anunciada parceria para otimizar experiência de hardware e conexão](https://marriedgames.com.br/noticias/exitlag-e-terabyte/)
-- [Diablo lança promoção de Fim de Ano, Diablo Collection e traz presente aos jogadores](https://marriedgames.com.br/noticias/diablo-collection/)
-- [Modelagem Low Poly no Blender: Criando Arte 3D Minimalista](https://marriedgames.com.br/desenvolvimento-de-jogos/low-poly-no-blender/)
+- [Com Zinedine Zidane, EA Sports FC Inaugura o Campo Z5 e o Inclui em EA Sports FC 24](https://marriedgames.com.br/noticias/ea-sports-fc-inaugura/)
+- [Fase de Eliminação do Honor of Kings International Championship 2023 começa nesta semana](https://marriedgames.com.br/noticias/eliminacao-do-honor-of-kings/)
+- [Desenvolvendo Jogos de Realidade Aumentada com Unreal Engine](https://marriedgames.com.br/desenvolvimento-de-jogos/realidade-aumentada-com-unreal/)
+- [Metaphor: ReFantazio – Novos detalhes da história, cultura do mundo, personagens e mais](https://marriedgames.com.br/noticias/metaphor-refantazio/)
+- [Python para Prototipagem Rápida de Jogos: Criando Ideias e Testando com Agilidade](https://marriedgames.com.br/desenvolvimento-de-jogos/python-para-prototipagem/)
 <!-- BLOG-POST-LIST:END -->
 
 
