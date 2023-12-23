@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Com Zinedine Zidane, EA Sports FC Inaugura o Campo Z5 e o Inclui em EA Sports FC 24](https://marriedgames.com.br/noticias/ea-sports-fc-inaugura/)
-- [Fase de Eliminação do Honor of Kings International Championship 2023 começa nesta semana](https://marriedgames.com.br/noticias/eliminacao-do-honor-of-kings/)
-- [Desenvolvendo Jogos de Realidade Aumentada com Unreal Engine](https://marriedgames.com.br/desenvolvimento-de-jogos/realidade-aumentada-com-unreal/)
-- [Metaphor: ReFantazio – Novos detalhes da história, cultura do mundo, personagens e mais](https://marriedgames.com.br/noticias/metaphor-refantazio/)
-- [Python para Prototipagem Rápida de Jogos: Criando Ideias e Testando com Agilidade](https://marriedgames.com.br/desenvolvimento-de-jogos/python-para-prototipagem/)
+- [Quais são os melhores padrões de arquitetura para Godot Engine 4?](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-para-godot/)
+- [Promoção Relâmpago Humble Bundle: Pacote Assets Espaço e Ficção para Unreal e Unity](https://marriedgames.com.br/noticias/promocao-relampago-humble/)
+- [Extensões para Blender: Tudo que Você Precisa Ter para Começar a Modelar](https://marriedgames.com.br/desenvolvimento-de-jogos/extensoes-para-blender/)
+- [Novo Chefe de Mundo e Episódio Especial em Black Clover M: Rise Of The Wizard King](https://marriedgames.com.br/noticias/episodio-especial-em-black-clover/)
+- [Integrando Godot 4 com Outras Ferramentas e Plataformas](https://marriedgames.com.br/desenvolvimento-de-jogos/integrando-godot-4/)
 <!-- BLOG-POST-LIST:END -->
 
 
