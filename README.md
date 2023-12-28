@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Clean Architecture para Iniciantes: Um Guia Prático de Programação](https://marriedgames.com.br/desenvolvimento-de-jogos/clean-architecture/)
+- [As melhores práticas para salvar estado de GameObjects na Unity](https://marriedgames.com.br/desenvolvimento-de-jogos/gameobjects-na-unity/)
+- [Quais as principais diferenças entre MVP e MVC? Descubra](https://marriedgames.com.br/desenvolvimento-de-jogos/diferencas-entre-mvp-e-mvc/)
+- [Mamonas Assassinas – O Filme Diverte mas Floreia Demais a Vida dos Meninos de Guarulhos](https://marriedgames.com.br/analises/mamonas-assassinas/)
 - [Quais são os melhores padrões de arquitetura para Godot Engine 4?](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-para-godot/)
-- [Promoção Relâmpago Humble Bundle: Pacote Assets Espaço e Ficção para Unreal e Unity](https://marriedgames.com.br/noticias/promocao-relampago-humble/)
-- [Extensões para Blender: Tudo que Você Precisa Ter para Começar a Modelar](https://marriedgames.com.br/desenvolvimento-de-jogos/extensoes-para-blender/)
-- [Novo Chefe de Mundo e Episódio Especial em Black Clover M: Rise Of The Wizard King](https://marriedgames.com.br/noticias/episodio-especial-em-black-clover/)
-- [Integrando Godot 4 com Outras Ferramentas e Plataformas](https://marriedgames.com.br/desenvolvimento-de-jogos/integrando-godot-4/)
 <!-- BLOG-POST-LIST:END -->
 
 
