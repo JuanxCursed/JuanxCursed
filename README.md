@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Architecture para Iniciantes: Um Guia Prático de Programação](https://marriedgames.com.br/desenvolvimento-de-jogos/clean-architecture/)
-- [As melhores práticas para salvar estado de GameObjects na Unity](https://marriedgames.com.br/desenvolvimento-de-jogos/gameobjects-na-unity/)
-- [Quais as principais diferenças entre MVP e MVC? Descubra](https://marriedgames.com.br/desenvolvimento-de-jogos/diferencas-entre-mvp-e-mvc/)
-- [Mamonas Assassinas – O Filme Diverte mas Floreia Demais a Vida dos Meninos de Guarulhos](https://marriedgames.com.br/analises/mamonas-assassinas/)
-- [Quais são os melhores padrões de arquitetura para Godot Engine 4?](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-para-godot/)
+- [BEAST, RPG Tático Visceral Rico em Narrativa, Recebe Novo Título e Atualização de Conteúdo](https://marriedgames.com.br/noticias/beast-rpg-tatico/)
+- [Arquitetura para Unreal Engine: Qual usar na Hora de Criar seus Jogos?](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-para-unreal-engine/)
+- [Escolhendo a Melhor Arquitetura para Unity 3D na Hora de Desenvolver Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-para-unity-3d/)
+- [Level Design no Desenvolvimento de Jogos: Uma Jornada Detalhada](https://marriedgames.com.br/desenvolvimento-de-jogos/level-design/)
+- [O Que É Game Design? Uma Viagem ao Coração dos Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/game-design-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
