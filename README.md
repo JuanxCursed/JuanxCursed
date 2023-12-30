@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [BEAST, RPG Tático Visceral Rico em Narrativa, Recebe Novo Título e Atualização de Conteúdo](https://marriedgames.com.br/noticias/beast-rpg-tatico/)
-- [Arquitetura para Unreal Engine: Qual usar na Hora de Criar seus Jogos?](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-para-unreal-engine/)
-- [Escolhendo a Melhor Arquitetura para Unity 3D na Hora de Desenvolver Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-para-unity-3d/)
-- [Level Design no Desenvolvimento de Jogos: Uma Jornada Detalhada](https://marriedgames.com.br/desenvolvimento-de-jogos/level-design/)
-- [O Que É Game Design? Uma Viagem ao Coração dos Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/game-design-2/)
+- [Unreal Engine vs CryEngine: Escolhendo o Motor Certo para o seu Projeto de Desenvolvimento](https://marriedgames.com.br/desenvolvimento-de-jogos/unreal-engine-vs-cryengine/)
+- [Usando a Unreal Engine para Desenvolvimento de Aplicações Empresariais](https://marriedgames.com.br/desenvolvimento-de-jogos/aplicacoes-empresariais/)
+- [Desenvolvendo Multiplayer no Godot 4: Uma Jornada Detalhada](https://marriedgames.com.br/desenvolvimento-de-jogos/multiplayer-no-godot-4/)
+- [GameMaker vs RPG Maker: Qual Melhor Escolher para o Desenvolver de Jogos de RPG?](https://marriedgames.com.br/desenvolvimento-de-jogos/gamemaker-vs-rpg-maker/)
+- [Escolhendo a Melhor Arquitetura para GameMaker: MVC, MVP ou MVVM?](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-para-gamemaker/)
 <!-- BLOG-POST-LIST:END -->
 
 
