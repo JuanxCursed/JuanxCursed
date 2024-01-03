@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introdução ao Universo da Criação de Games: Um Guia Inicial](https://marriedgames.com.br/desenvolvimento-de-jogos/criacao-de-games/)
+- [Defense Derby traz nova unidade em atualização de janeiro](https://marriedgames.com.br/noticias/defense-derby/)
+- [Pokémon GO anuncia primeiro Dia Comunitário de 2024](https://marriedgames.com.br/noticias/dia-comunitario-de-2024/)
 - [Unreal Engine vs CryEngine: Escolhendo o Motor Certo para o seu Projeto de Desenvolvimento](https://marriedgames.com.br/desenvolvimento-de-jogos/unreal-engine-vs-cryengine/)
 - [Usando a Unreal Engine para Desenvolvimento de Aplicações Empresariais](https://marriedgames.com.br/desenvolvimento-de-jogos/aplicacoes-empresariais/)
-- [Desenvolvendo Multiplayer no Godot 4: Uma Jornada Detalhada](https://marriedgames.com.br/desenvolvimento-de-jogos/multiplayer-no-godot-4/)
-- [GameMaker vs RPG Maker: Qual Melhor Escolher para o Desenvolver de Jogos de RPG?](https://marriedgames.com.br/desenvolvimento-de-jogos/gamemaker-vs-rpg-maker/)
-- [Escolhendo a Melhor Arquitetura para GameMaker: MVC, MVP ou MVVM?](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-para-gamemaker/)
 <!-- BLOG-POST-LIST:END -->
 
 
