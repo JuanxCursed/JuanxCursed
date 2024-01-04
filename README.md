@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Introdução ao Universo da Criação de Games: Um Guia Inicial](https://marriedgames.com.br/desenvolvimento-de-jogos/criacao-de-games/)
-- [Defense Derby traz nova unidade em atualização de janeiro](https://marriedgames.com.br/noticias/defense-derby/)
-- [Pokémon GO anuncia primeiro Dia Comunitário de 2024](https://marriedgames.com.br/noticias/dia-comunitario-de-2024/)
-- [Unreal Engine vs CryEngine: Escolhendo o Motor Certo para o seu Projeto de Desenvolvimento](https://marriedgames.com.br/desenvolvimento-de-jogos/unreal-engine-vs-cryengine/)
-- [Usando a Unreal Engine para Desenvolvimento de Aplicações Empresariais](https://marriedgames.com.br/desenvolvimento-de-jogos/aplicacoes-empresariais/)
+- [De Novato a Profissional: Comece Sua Jornada para Desenvolver Games de Sucesso](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolver-games/)
+- [Criando Jogos 3D: Da Ideia à Realização](https://marriedgames.com.br/desenvolvimento-de-jogos/criando-jogos-3d/)
+- [A Arte de Criar Jogos pelo Celular: Um Guia Completo](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-jogos-pelo-celular/)
+- [KIC2023: Chengdu.AG vence e se consagra como melhor time de Honor of Kings do mundo](https://marriedgames.com.br/noticias/kic2023/)
+- [Como Fazer Jogos 2D: Mergulhando no Desenvolvimento de Jogos Clássicos](https://marriedgames.com.br/desenvolvimento-de-jogos/como-fazer-jogos-2d/)
 <!-- BLOG-POST-LIST:END -->
 
 
