@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [De Novato a Profissional: Comece Sua Jornada para Desenvolver Games de Sucesso](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolver-games/)
-- [Criando Jogos 3D: Da Ideia à Realização](https://marriedgames.com.br/desenvolvimento-de-jogos/criando-jogos-3d/)
-- [A Arte de Criar Jogos pelo Celular: Um Guia Completo](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-jogos-pelo-celular/)
-- [KIC2023: Chengdu.AG vence e se consagra como melhor time de Honor of Kings do mundo](https://marriedgames.com.br/noticias/kic2023/)
-- [Como Fazer Jogos 2D: Mergulhando no Desenvolvimento de Jogos Clássicos](https://marriedgames.com.br/desenvolvimento-de-jogos/como-fazer-jogos-2d/)
+- [Razer na CES 2024: grandes inovações nas telas dos laptops gamer Blade 16 e Blade 18](https://marriedgames.com.br/noticias/razer-na-ces-2024/)
+- [Viper Pro Gamer faz um ano de lançamento e promove saldão com até 30% de desconto](https://marriedgames.com.br/noticias/viper-pro-gamer-2/)
+- [Educar Através dos Games: Um Guia Prático de Como Fazer Jogos Educativos](https://marriedgames.com.br/desenvolvimento-de-jogos/como-fazer-jogos-educativos/)
+- [Introdução a Criação de Jogos em Unity: Saiba Como Fazer e Motivos para Usar Essa Engine](https://marriedgames.com.br/desenvolvimento-de-jogos/criacao-de-jogos-em-unity/)
+- [Um Guia Direto ao Ponto Para a Criação de Jogos Digitais: Faça seu Jogo Agora](https://marriedgames.com.br/desenvolvimento-de-jogos/criacao-de-jogos-digitais/)
 <!-- BLOG-POST-LIST:END -->
 
 
