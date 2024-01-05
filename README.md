@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Dá pra ganhar dinheiro desenvolvendo Jogos?](https://www.youtube.com/watch?v=OZwDJ0k0lpo)
 - [Game Station controla o futuro dos Arcades no Brasil?](https://www.youtube.com/watch?v=-Zumup6Hh-8)
 - [Aprendendo a Programar Enquanto Joga](https://www.youtube.com/watch?v=VFYYwTNxpJA)
 - [Como levei 18 anos para aprender a programar](https://www.youtube.com/watch?v=An6YMlOajRc)
 - [Maono Review - Microfone PD200X, o mais vendido da Maono, vale a pena?](https://www.youtube.com/watch?v=s80CH13yfRk)
-- [Godot 4.2 - Acabou para a Unity 3D?](https://www.youtube.com/watch?v=5xvznwS1SeQ)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
