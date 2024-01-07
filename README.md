@@ -133,7 +133,7 @@ I've just born to do it.
 
 <!-- YOUTUBE:START -->
 - [Dá pra ganhar dinheiro desenvolvendo Jogos?](https://www.youtube.com/watch?v=OZwDJ0k0lpo)
-- [Fliperama de Realidade Virtual no Brasil?](https://www.youtube.com/watch?v=-Zumup6Hh-8)
+- [Game Station controla o futuro dos Arcades no Brasil?](https://www.youtube.com/watch?v=-Zumup6Hh-8)
 - [Aprendendo a Programar Enquanto Joga](https://www.youtube.com/watch?v=VFYYwTNxpJA)
 - [Como levei 18 anos para aprender a programar](https://www.youtube.com/watch?v=An6YMlOajRc)
 - [Maono Review - Microfone PD200X, o mais vendido da Maono, vale a pena?](https://www.youtube.com/watch?v=s80CH13yfRk)
