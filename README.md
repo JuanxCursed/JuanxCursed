@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Criar Jogos 2D: Dicas e Técnicas para Desenvolver seu Próprio Jogo!](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-jogos-2d/)
 - [Como Criar um Jogo Simples? Seu Guia Técnico para o Desenvolvimento de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/como-criar-um-jogo-simples/)
 - [Como Inventar um Jogo: Estratégias Técnicas para Futuros Desenvolvedores](https://marriedgames.com.br/desenvolvimento-de-jogos/inventar-um-jogo/)
 - [Lenovo traz Legion Tower 5i para o Brasil](https://marriedgames.com.br/noticias/legion-tower-5i/)
 - [Razer na CES 2024: grandes inovações nas telas dos laptops gamer Blade 16 e Blade 18](https://marriedgames.com.br/noticias/razer-na-ces-2024/)
-- [Viper Pro Gamer faz um ano de lançamento e promove saldão com até 30% de desconto](https://marriedgames.com.br/noticias/viper-pro-gamer-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
