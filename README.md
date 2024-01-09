@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Criar Jogos 2D: Dicas e Técnicas para Desenvolver seu Próprio Jogo!](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-jogos-2d/)
-- [Como Criar um Jogo Simples? Seu Guia Técnico para o Desenvolvimento de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/como-criar-um-jogo-simples/)
-- [Como Inventar um Jogo: Estratégias Técnicas para Futuros Desenvolvedores](https://marriedgames.com.br/desenvolvimento-de-jogos/inventar-um-jogo/)
-- [Lenovo traz Legion Tower 5i para o Brasil](https://marriedgames.com.br/noticias/legion-tower-5i/)
-- [Razer na CES 2024: grandes inovações nas telas dos laptops gamer Blade 16 e Blade 18](https://marriedgames.com.br/noticias/razer-na-ces-2024/)
+- [Dicas para Iniciantes em Desenvolvimento Criar um Jogo Passo-a-Passo](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-um-jogo/)
+- [Pixel Art: Veja Como Fazer e os Aplicativos Mais Usados e Faça Ilustrações Incríveis](https://marriedgames.com.br/desenvolvimento-de-jogos/pixel-art/)
+- [Crie seu Jogo Indie: Uma Jornada pelos Tesouros da Cena Brasileira](https://marriedgames.com.br/desenvolvimento-de-jogos/melhor-jogo-indie/)
+- [Criar jogos 3D: A arte de transformar ideias em realidade](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-jogos-3d/)
+- [Desenvolva sua carreira no mundo dos jogos com o curso de desenvolvedor de jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-desenvolvedor-de-jogos/)
 <!-- BLOG-POST-LIST:END -->
 
 
