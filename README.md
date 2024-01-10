@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dicas para Iniciantes em Desenvolvimento Criar um Jogo Passo-a-Passo](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-um-jogo/)
-- [Pixel Art: Veja Como Fazer e os Aplicativos Mais Usados e Faça Ilustrações Incríveis](https://marriedgames.com.br/desenvolvimento-de-jogos/pixel-art/)
-- [Crie seu Jogo Indie: Uma Jornada pelos Tesouros da Cena Brasileira](https://marriedgames.com.br/desenvolvimento-de-jogos/melhor-jogo-indie/)
-- [Criar jogos 3D: A arte de transformar ideias em realidade](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-jogos-3d/)
-- [Desenvolva sua carreira no mundo dos jogos com o curso de desenvolvedor de jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-desenvolvedor-de-jogos/)
+- [Brian Cox recapitula a história da franquia TEKKEN em vídeo especial](https://marriedgames.com.br/noticias/franquia-tekken/)
+- [Desenvolvimento de jogos: Uma visão geral do mercado brasileiro de Game Dev](https://marriedgames.com.br/desenvolvimento-de-jogos/mercado-brasileiro-de-game-dev/)
+- [Atualização da Versão 3.0 de PUBG MOBILE introduz o modo Força Sombria aos mapas](https://marriedgames.com.br/noticias/modo-forca-sombria/)
+- [Como o Game Dev Tycoon pode Ensinar sobre Criação de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/game-dev-tycoon/)
+- [Desvendando o universo do criador de jogos: explorando a criação de jogos eletrônicos](https://marriedgames.com.br/desenvolvimento-de-jogos/criador-de-jogos/)
 <!-- BLOG-POST-LIST:END -->
 
 
