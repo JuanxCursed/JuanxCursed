@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Brian Cox recapitula a história da franquia TEKKEN em vídeo especial](https://marriedgames.com.br/noticias/franquia-tekken/)
-- [Desenvolvimento de jogos: Uma visão geral do mercado brasileiro de Game Dev](https://marriedgames.com.br/desenvolvimento-de-jogos/mercado-brasileiro-de-game-dev/)
-- [Atualização da Versão 3.0 de PUBG MOBILE introduz o modo Força Sombria aos mapas](https://marriedgames.com.br/noticias/modo-forca-sombria/)
-- [Como o Game Dev Tycoon pode Ensinar sobre Criação de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/game-dev-tycoon/)
-- [Desvendando o universo do criador de jogos: explorando a criação de jogos eletrônicos](https://marriedgames.com.br/desenvolvimento-de-jogos/criador-de-jogos/)
+- [Explorando a Criatividade com Blender: Dicas e Truques para Iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/criatividade-com-blender/)
+- [SEGA e Druski colaboram em Like a Dragon: Infinite Wealth](https://marriedgames.com.br/noticias/sega-e-druski/)
+- [Revelado trailer de Panda TEKKEN 8: Conheça mais detalhes do estilo de luta da personagem](https://marriedgames.com.br/noticias/panda-tekken-8/)
+- [Team Solid anuncia time de League of Legends em parceria com CNB Academy](https://marriedgames.com.br/noticias/time-de-league-of-legends/)
+- [Participe Hoje da Celebração de SPY x FAMILY CODE: White em Street Fighter 6!](https://marriedgames.com.br/noticias/spy-x-family-code-white/)
 <!-- BLOG-POST-LIST:END -->
 
 
