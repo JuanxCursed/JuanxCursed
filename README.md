@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Explorando a Criatividade com Blender: Dicas e Truques para Iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/criatividade-com-blender/)
-- [SEGA e Druski colaboram em Like a Dragon: Infinite Wealth](https://marriedgames.com.br/noticias/sega-e-druski/)
-- [Revelado trailer de Panda TEKKEN 8: Conheça mais detalhes do estilo de luta da personagem](https://marriedgames.com.br/noticias/panda-tekken-8/)
-- [Team Solid anuncia time de League of Legends em parceria com CNB Academy](https://marriedgames.com.br/noticias/time-de-league-of-legends/)
-- [Participe Hoje da Celebração de SPY x FAMILY CODE: White em Street Fighter 6!](https://marriedgames.com.br/noticias/spy-x-family-code-white/)
+- [Miniconjunto Confronto Final nos Ermos, Profundezas de Geodomo chega a Hearthstone](https://marriedgames.com.br/noticias/profundezas-de-geodomo/)
+- [Demo gratuita de Prince of Persia: The Lost Crown já está disponível](https://marriedgames.com.br/noticias/demo-gratuita-de-prince-of-persia/)
+- [Unidade em Ação: Como o Unity Web Player pode Transformar sua Experiência de Jogo](https://marriedgames.com.br/desenvolvimento-de-jogos/unity-web-player/)
+- [Jujutsu Kaisen Cursed Clash apresenta Yuta e Geto em novo trailer](https://marriedgames.com.br/noticias/jujutsu-kaisen-cursed-clash/)
+- [Unindo forças com Unity Linux: uma experiência de sistema operacional leve e eficiente](https://marriedgames.com.br/desenvolvimento-de-jogos/unity-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 
