@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Empresa de Jogos no Brasil, é fácil?!](https://www.youtube.com/watch?v=LjxoKQh6row)
 - [Jogos GRATUITOS faturam mais de R$ 450 BILHÕES por ano! Acredite se quiser](https://www.youtube.com/watch?v=bwO4UWuMpuo)
 - [Dá pra ganhar dinheiro desenvolvendo Jogos?](https://www.youtube.com/watch?v=OZwDJ0k0lpo)
 - [Fliperama de Realidade Virtual no Brasil?](https://www.youtube.com/watch?v=-Zumup6Hh-8)
 - [Aprendendo a Programar Enquanto Joga](https://www.youtube.com/watch?v=VFYYwTNxpJA)
-- [Como levei 18 anos para aprender a programar](https://www.youtube.com/watch?v=An6YMlOajRc)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
