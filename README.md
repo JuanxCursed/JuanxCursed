@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Miniconjunto Confronto Final nos Ermos, Profundezas de Geodomo chega a Hearthstone](https://marriedgames.com.br/noticias/profundezas-de-geodomo/)
-- [Demo gratuita de Prince of Persia: The Lost Crown já está disponível](https://marriedgames.com.br/noticias/demo-gratuita-de-prince-of-persia/)
-- [Unidade em Ação: Como o Unity Web Player pode Transformar sua Experiência de Jogo](https://marriedgames.com.br/desenvolvimento-de-jogos/unity-web-player/)
-- [Jujutsu Kaisen Cursed Clash apresenta Yuta e Geto em novo trailer](https://marriedgames.com.br/noticias/jujutsu-kaisen-cursed-clash/)
-- [Unindo forças com Unity Linux: uma experiência de sistema operacional leve e eficiente](https://marriedgames.com.br/desenvolvimento-de-jogos/unity-linux/)
+- [SAND LAND chega no PCs e consoles em abril](https://marriedgames.com.br/noticias/sand-land-chega-no-pcs/)
+- [O Criador de Jogos Brasileiro: Descubra os Segredos do Sucesso!](https://marriedgames.com.br/desenvolvimento-de-jogos/criador-de-jogos-brasileiro/)
+- [Overwatch 2 Hackeado: neste final de semana, Blizzard promove o Jogo Rápido](https://marriedgames.com.br/noticias/overwatch-2-hackeado/)
+- [Design de Jogos na Faculdade: O que Você Aprende no Ensino Superior de Games](https://marriedgames.com.br/desenvolvimento-de-jogos/design-de-jogos-na-faculdade/)
+- [Jogos de Sucesso: Dicas e Truques para Impulsionar seus Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-de-sucesso/)
 <!-- BLOG-POST-LIST:END -->
 
 
