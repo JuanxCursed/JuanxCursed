@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SAND LAND chega no PCs e consoles em abril](https://marriedgames.com.br/noticias/sand-land-chega-no-pcs/)
-- [O Criador de Jogos Brasileiro: Descubra os Segredos do Sucesso!](https://marriedgames.com.br/desenvolvimento-de-jogos/criador-de-jogos-brasileiro/)
-- [Overwatch 2 Hackeado: neste final de semana, Blizzard promove o Jogo Rápido](https://marriedgames.com.br/noticias/overwatch-2-hackeado/)
-- [Design de Jogos na Faculdade: O que Você Aprende no Ensino Superior de Games](https://marriedgames.com.br/desenvolvimento-de-jogos/design-de-jogos-na-faculdade/)
-- [Jogos de Sucesso: Dicas e Truques para Impulsionar seus Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-de-sucesso/)
+- [Descubra os melhores jogos de sprites para jogar agora mesmo!](https://marriedgames.com.br/analises/jogos-de-sprites/)
+- [Qual é a melhor linguagem de programação para aprender em 2023?](https://marriedgames.com.br/desenvolvimento-de-software/linguagem-de-programacao/)
+- [Passo a passo: Como criar um jogo online do zero](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-um-jogo-online/)
+- [Ubisoft+ passa a contar com novos serviços e opções de assinaturas](https://marriedgames.com.br/noticias/ubisoft/)
+- [Desenvolvendo Jogos em Unity: Dicas e Truques para Iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvendo-jogos-em-unity/)
 <!-- BLOG-POST-LIST:END -->
 
 
