@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Descubra os melhores jogos de sprites para jogar agora mesmo!](https://marriedgames.com.br/analises/jogos-de-sprites/)
-- [Qual é a melhor linguagem de programação para aprender em 2023?](https://marriedgames.com.br/desenvolvimento-de-software/linguagem-de-programacao/)
-- [Passo a passo: Como criar um jogo online do zero](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-um-jogo-online/)
-- [Ubisoft+ passa a contar com novos serviços e opções de assinaturas](https://marriedgames.com.br/noticias/ubisoft/)
-- [Desenvolvendo Jogos em Unity: Dicas e Truques para Iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvendo-jogos-em-unity/)
+- [Fazer jogos: A arte de criar jogos incríveis para se divertir](https://marriedgames.com.br/desenvolvimento-de-jogos/fazer-jogos/)
+- [Frostpunk 2 estará disponível no primeiro dia com PC Game Pass](https://marriedgames.com.br/noticias/frostpunk-2/)
+- [EA Sports Apresenta Madden Bowl, Evento Com Green Day E Big Boi Em Las Vegas](https://marriedgames.com.br/noticias/madden-bowl/)
+- [Exoprimal x Monster Hunter: Novos Chefes, Variantes de Trajes, e Muito Mais Esta Semana](https://marriedgames.com.br/noticias/exoprimal-x-monster-hunter/)
+- [The Sims 4 Revela Kits Era Dos Castelos E Ousadia Gótica Disponíveis Em 18 De Janeiro](https://marriedgames.com.br/noticias/the-sims-4-era-dos-castelos/)
 <!-- BLOG-POST-LIST:END -->
 
 
