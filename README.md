@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Jogos que ensinam a programar - Parte 2](https://www.youtube.com/watch?v=fc-vTjT-Cgw)
 - [Basicamente é uma máquina de imprimir dinheiro #desenvolvimentodegames #gamedevelopment #gameengine](https://www.youtube.com/watch?v=bQD8xA9radg)
 - [Dá dinheiro desenvolver jogos? #desenvolvimentodegames #gamedevelopment #desenvolvimentodejogos](https://www.youtube.com/watch?v=moUmMxZ5Zsw)
 - [Empresa de Jogos no Brasil, é fácil?!](https://www.youtube.com/watch?v=LjxoKQh6row)
 - [Jogos GRATUITOS faturam mais de R$ 450 BILHÕES por ano! Acredite se quiser](https://www.youtube.com/watch?v=bwO4UWuMpuo)
-- [Dá pra ganhar dinheiro desenvolvendo Jogos?](https://www.youtube.com/watch?v=OZwDJ0k0lpo)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
