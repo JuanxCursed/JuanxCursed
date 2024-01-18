@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fazer jogos: A arte de criar jogos incríveis para se divertir](https://marriedgames.com.br/desenvolvimento-de-jogos/fazer-jogos/)
-- [Frostpunk 2 estará disponível no primeiro dia com PC Game Pass](https://marriedgames.com.br/noticias/frostpunk-2/)
-- [EA Sports Apresenta Madden Bowl, Evento Com Green Day E Big Boi Em Las Vegas](https://marriedgames.com.br/noticias/madden-bowl/)
-- [Exoprimal x Monster Hunter: Novos Chefes, Variantes de Trajes, e Muito Mais Esta Semana](https://marriedgames.com.br/noticias/exoprimal-x-monster-hunter/)
-- [The Sims 4 Revela Kits Era Dos Castelos E Ousadia Gótica Disponíveis Em 18 De Janeiro](https://marriedgames.com.br/noticias/the-sims-4-era-dos-castelos/)
+- [Criação jogos 2D: Descubra como fazer incríveis games com facilidade!](https://marriedgames.com.br/desenvolvimento-de-jogos/criacao-jogos-2d/)
+- [Criação de Jogos Grátis: Como Transformar sua Criatividade em Realidade](https://marriedgames.com.br/desenvolvimento-de-jogos/criacao-de-jogos-gratis/)
+- [Curso Unity: Aprenda a criar jogos incríveis em 3D](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-unity/)
+- [Fazer um Jogo Passo a Passo: Dicas e Truques para Criar seu Próprio Game!](https://marriedgames.com.br/desenvolvimento-de-jogos/fazer-um-jogo-passo-a-passo/)
+- [Crie seus próprios jogos: Dicas e ferramentas para iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/crie-seus-proprios-jogos/)
 <!-- BLOG-POST-LIST:END -->
 
 
