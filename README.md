@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Criação jogos 2D: Descubra como fazer incríveis games com facilidade!](https://marriedgames.com.br/desenvolvimento-de-jogos/criacao-jogos-2d/)
-- [Criação de Jogos Grátis: Como Transformar sua Criatividade em Realidade](https://marriedgames.com.br/desenvolvimento-de-jogos/criacao-de-jogos-gratis/)
-- [Curso Unity: Aprenda a criar jogos incríveis em 3D](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-unity/)
-- [Fazer um Jogo Passo a Passo: Dicas e Truques para Criar seu Próprio Game!](https://marriedgames.com.br/desenvolvimento-de-jogos/fazer-um-jogo-passo-a-passo/)
-- [Crie seus próprios jogos: Dicas e ferramentas para iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/crie-seus-proprios-jogos/)
+- [Descubra como criar jogos incríveis com o curso de criação de games](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-criacao-de-games/)
+- [Temporada 3 de Warcraft Rumble será lançada em 21 de janeiro](https://marriedgames.com.br/noticias/temporada-3-de-warcraft/)
+- [Como se tornar um criador de jogo: Dicas e truques para começar sua carreira](https://marriedgames.com.br/desenvolvimento-de-jogos/criador-de-jogo/)
+- [Curso Game Design: Descubra os segredos do sucesso no mundo dos jogos com o](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-game-design/)
+- [Prince of Persia: The Lost Crown está disponível e você já podem embarcar nessa saga lendária](https://marriedgames.com.br/noticias/the-lost-crown/)
 <!-- BLOG-POST-LIST:END -->
 
 
