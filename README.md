@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Desenvolvendo Jogos com Game Maker: Dicas e Truques para Criar seu Próprio Jogo](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-com-game-maker/)
+- [Desenvolvendo com Godot: Uma introdução completa a Engine](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvendo-com-godot/)
+- [Introdução ao Godot: A engine de jogos mais popular do Brasil](https://marriedgames.com.br/desenvolvimento-de-jogos/introducao-ao-godot/)
+- [Desenvolvimento de Jogos com Unity Pro: Como criar experiências imersivas e envolventes](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-com-unity-pro/)
 - [Descubra como criar jogos incríveis com o curso de criação de games](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-criacao-de-games/)
-- [Temporada 3 de Warcraft Rumble será lançada em 21 de janeiro](https://marriedgames.com.br/noticias/temporada-3-de-warcraft/)
-- [Como se tornar um criador de jogo: Dicas e truques para começar sua carreira](https://marriedgames.com.br/desenvolvimento-de-jogos/criador-de-jogo/)
-- [Curso Game Design: Descubra os segredos do sucesso no mundo dos jogos com o](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-game-design/)
-- [Prince of Persia: The Lost Crown está disponível e você já podem embarcar nessa saga lendária](https://marriedgames.com.br/noticias/the-lost-crown/)
 <!-- BLOG-POST-LIST:END -->
 
 
