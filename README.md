@@ -116,7 +116,7 @@ I've just born to do it.
   </a> 
 </p>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#862](https://github.com/FlutterFlow/flutterflow-issues/issues/862) in [FlutterFlow/flutterflow-issues](https://github.com/FlutterFlow/flutterflow-issues)
+1. ❗ Opened issue [#950](https://github.com/supabase/supabase-js/issues/950) in [supabase/supabase-js](https://github.com/supabase/supabase-js)
 2. 🗣 Commented on [#143](https://github.com/koddr/vue-goodshare/issues/143) in [koddr/vue-goodshare](https://github.com/koddr/vue-goodshare)
 3. 🗣 Commented on [#81](https://github.com/JohnCampionJr/vite-plugin-vue-layouts/issues/81) in [JohnCampionJr/vite-plugin-vue-layouts](https://github.com/JohnCampionJr/vite-plugin-vue-layouts)
 4. 💪 Opened PR [#6](https://github.com/JuanxCursed/calendar/pull/6) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
