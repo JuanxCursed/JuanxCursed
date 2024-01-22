@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como criar um jogo 3D no Game Maker: Um guia passo a passo](https://marriedgames.com.br/desenvolvimento-de-jogos/jogo-3d-no-game-maker/)
 - [Desenvolvendo Jogos com Game Maker: Dicas e Truques para Criar seu Próprio Jogo](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-com-game-maker/)
 - [Desenvolvendo com Godot: Uma introdução completa a Engine](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvendo-com-godot/)
 - [Introdução ao Godot: A engine de jogos mais popular do Brasil](https://marriedgames.com.br/desenvolvimento-de-jogos/introducao-ao-godot/)
 - [Desenvolvimento de Jogos com Unity Pro: Como criar experiências imersivas e envolventes](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-com-unity-pro/)
-- [Descubra como criar jogos incríveis com o curso de criação de games](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-criacao-de-games/)
 <!-- BLOG-POST-LIST:END -->
 
 
