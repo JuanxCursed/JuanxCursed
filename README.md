@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
-- [Etapa - Designer de Games #games #desenvolvimentodegames #desenvolvimentodejogos #gaming](https://www.youtube.com/watch?v=3XrRpmISHLs)
+- [Blender - Macetes para facilitar sua vida #shorts #blender #blender3d #blendertutorial](https://www.youtube.com/watch?v=o3KevdnLXWg)
+- [Etapa - Designer de Games #shorts #games #desenvolvimentodegames #desenvolvimentodejogos #gaming](https://www.youtube.com/watch?v=3XrRpmISHLs)
 - [Etapas do desenvolvimento de um jogo](https://www.youtube.com/watch?v=Cnj-9kn7KK8)
 - [Jogos que ensinam a programar - Nível Hard](https://www.youtube.com/watch?v=fc-vTjT-Cgw)
-- [Basicamente é uma máquina de imprimir dinheiro #desenvolvimentodegames #gamedevelopment #gameengine](https://www.youtube.com/watch?v=bQD8xA9radg)
-- [Dá dinheiro desenvolver jogos? #desenvolvimentodegames #gamedevelopment #desenvolvimentodejogos](https://www.youtube.com/watch?v=moUmMxZ5Zsw)
+- [Basicamente é uma máquina de imprimir dinheiro #shorts #desenvolvimentodegames #gamedevelopment](https://www.youtube.com/watch?v=bQD8xA9radg)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
