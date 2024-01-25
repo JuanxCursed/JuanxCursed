@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cursos para Jogos 2D com Unity: Qual o melhor?](https://marriedgames.com.br/desenvolvimento-de-jogos/cursos-para-jogos-2d/)
+- [TEKKEN 8 recebe trailer de Devil Jin](https://marriedgames.com.br/noticias/devil-jin/)
+- [Sucessor de Ragnarok Online, Ragnarok Origin: ROO chega nas Américas](https://marriedgames.com.br/noticias/ragnarok-origin/)
 - [Dicas para Game Dev iniciantes criar Jogos Online no PC ou Mobile](https://marriedgames.com.br/desenvolvimento-de-jogos/game-dev-iniciantes-criar-jogos/)
 - [TEKKEN 8 promove campanha com astros da NBA](https://marriedgames.com.br/noticias/tekken-8-nba/)
-- [Temporada dos Construtos já está disponível em Diablo IV](https://marriedgames.com.br/noticias/temporada-dos-construtos-2/)
-- [PlayStation divulga detalhes de gameplay de Helldivers 2](https://marriedgames.com.br/noticias/gameplay-de-helldivers-2/)
-- [Dubladores de Jujutsu Kaisen Cursed Clash batalham em gameplay inédita](https://marriedgames.com.br/noticias/dubladores-de-jujutsu/)
 <!-- BLOG-POST-LIST:END -->
 
 
