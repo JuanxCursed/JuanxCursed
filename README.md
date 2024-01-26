@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cursos para Jogos 2D com Unity: Qual o melhor?](https://marriedgames.com.br/desenvolvimento-de-jogos/cursos-para-jogos-2d/)
-- [TEKKEN 8 recebe trailer de Devil Jin](https://marriedgames.com.br/noticias/devil-jin/)
-- [Sucessor de Ragnarok Online, Ragnarok Origin: ROO chega nas Américas](https://marriedgames.com.br/noticias/ragnarok-origin/)
-- [Dicas para Game Dev iniciantes criar Jogos Online no PC ou Mobile](https://marriedgames.com.br/desenvolvimento-de-jogos/game-dev-iniciantes-criar-jogos/)
-- [TEKKEN 8 promove campanha com astros da NBA](https://marriedgames.com.br/noticias/tekken-8-nba/)
+- [Horizon Forbidden West Edição Completa será lançada para PC em 21 de março;](https://marriedgames.com.br/noticias/horizon-forbidden-west/)
+- [TERA Console recebe sistema de Cartas e novas Ace Dungeons](https://marriedgames.com.br/noticias/novas-ace-dungeons/)
+- [Como criar seus próprios jogos: Dicas e ferramentas para desenvolver sua criatividade](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-seus-proprios-jogos/)
+- [Seja um Mestre dos Jogos com o Curso Desenvolvedor de Games](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-desenvolvedor-de-games/)
+- [Como criar jogos no Game Maker: Um guia completo para iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-jogos-no-game-maker/)
 <!-- BLOG-POST-LIST:END -->
 
 
