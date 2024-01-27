@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Horizon Forbidden West Edição Completa será lançada para PC em 21 de março;](https://marriedgames.com.br/noticias/horizon-forbidden-west/)
-- [TERA Console recebe sistema de Cartas e novas Ace Dungeons](https://marriedgames.com.br/noticias/novas-ace-dungeons/)
-- [Como criar seus próprios jogos: Dicas e ferramentas para desenvolver sua criatividade](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-seus-proprios-jogos/)
-- [Seja um Mestre dos Jogos com o Curso Desenvolvedor de Games](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-desenvolvedor-de-games/)
-- [Como criar jogos no Game Maker: Um guia completo para iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-jogos-no-game-maker/)
+- [TEKKEN 8 está disponível para PC e consoles](https://marriedgames.com.br/noticias/tekken-8-esta-disponivel/)
+- [KRAFTON 2024: Revelado planos para este ano, incluindo lançamento de novos jogos](https://marriedgames.com.br/noticias/krafton-2024/)
+- [Como Criar Jogos pelo Mobile: Dicas e Ferramentas para um Trabalho Incrível](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-jogos-pelo-mobile/)
+- [THE KING OF FIGHTERS XV Recebe Nova Mecânica de Contra Ataque: Advance Strike](https://marriedgames.com.br/noticias/the-king-of-fighters-xv-recebe-nova-mecanica-de-contra-ataque-advance-strike/)
+- [Grandioso RPG Like a Dragon: Infinite Wealth já está disponível](https://marriedgames.com.br/noticias/rpg-like-a-dragon/)
 <!-- BLOG-POST-LIST:END -->
 
 
