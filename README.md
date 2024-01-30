@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Curso de Unity: Criando jogos incríveis com esta poderosa ferramenta de desenvolvimento](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-unity/)
-- [TEKKEN 8 está disponível para PC e consoles](https://marriedgames.com.br/noticias/tekken-8-esta-disponivel/)
-- [KRAFTON 2024: Revelado planos para este ano, incluindo lançamento de novos jogos](https://marriedgames.com.br/noticias/krafton-2024/)
-- [Como Criar Jogos pelo Mobile: Dicas e Ferramentas para um Trabalho Incrível](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-jogos-pelo-mobile/)
-- [THE KING OF FIGHTERS XV Recebe Nova Mecânica de Contra Ataque: Advance Strike](https://marriedgames.com.br/noticias/the-king-of-fighters-xv-recebe-nova-mecanica-de-contra-ataque-advance-strike/)
+- [Desenvolvedor de jogos no Brasil: a Profissão do Futuro e Tudo o que Você deve saber sobre ela](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvedor-de-jogos-no-brasil/)
+- [PUBG MOBILE: Sistema Ban Pan suspendeu mais de 16 milhões de contas por trapaças em 2023](https://marriedgames.com.br/noticias/sistema-ban-pan/)
+- [Descubra como criar jogos incríveis com o curso de design de games](https://marriedgames.com.br/desenvolvimento-de-jogos/design-de-games/)
+- [Desenvolvendo sua Criatividade e Explorando a  Arte da Criação de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/arte-da-criacao-de-jogos/)
+- [Prince of Persia: The Lost Crown – Uma Nova Era na Lendária Franquia](https://marriedgames.com.br/analises/the-lost-crown-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
