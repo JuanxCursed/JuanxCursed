@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Desenvolva suas habilidades de programação com o Curso de Games](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-games/)
+- [Como Criar Games Online: Um Guia Completo para Iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-games-online/)
+- [O Despertar Lunar, evento de Diablo IV, chega em 6 de fevereiro](https://marriedgames.com.br/noticias/o-despertar-lunar-evento-de-diablo-iv-chega-em-6-de-fevereiro/)
+- [Junte-se à tripulação da Normandy na parceria de Destiny 2 x Bioware em 13 de fevereiro](https://marriedgames.com.br/noticias/destiny-2-x-bioware/)
 - [Desenvolvedor de jogos no Brasil: a Profissão do Futuro e Tudo o que Você deve saber sobre ela](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvedor-de-jogos-no-brasil/)
-- [PUBG MOBILE: Sistema Ban Pan suspendeu mais de 16 milhões de contas por trapaças em 2023](https://marriedgames.com.br/noticias/sistema-ban-pan/)
-- [Descubra como criar jogos incríveis com o curso de design de games](https://marriedgames.com.br/desenvolvimento-de-jogos/design-de-games/)
-- [Desenvolvendo sua Criatividade e Explorando a  Arte da Criação de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/arte-da-criacao-de-jogos/)
-- [Prince of Persia: The Lost Crown – Uma Nova Era na Lendária Franquia](https://marriedgames.com.br/analises/the-lost-crown-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
