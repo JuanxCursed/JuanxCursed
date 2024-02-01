@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [História do GTA &lpar;2&rpar; #shorts  #gta #gtaiii #gtaiv #gtaonline](https://www.youtube.com/watch?v=rhz16kF87WI)
+- [História do GTA #shorts #gta #gtaiii #gtaiv #gtaonline](https://www.youtube.com/watch?v=TILr8q8-DPw)
 - [A Saga Épica do Grand Theft Auto: Uma Jornada Pela História do GTA](https://www.youtube.com/watch?v=Iu9V1WG9vqs)
 - [Blender - Macetes para facilitar sua vida #shorts #blender #blender3d #blendertutorial](https://www.youtube.com/watch?v=o3KevdnLXWg)
 - [Etapa - Designer de Games #shorts #games #desenvolvimentodegames #desenvolvimentodejogos #gaming](https://www.youtube.com/watch?v=3XrRpmISHLs)
-- [Etapas do desenvolvimento de um jogo](https://www.youtube.com/watch?v=Cnj-9kn7KK8)
-- [Jogos que ensinam a programar - Nível Hard](https://www.youtube.com/watch?v=fc-vTjT-Cgw)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
