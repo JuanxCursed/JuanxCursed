@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Desenvolva suas habilidades de programação com o Curso de Games](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-games/)
-- [Como Criar Games Online: Um Guia Completo para Iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-games-online/)
-- [O Despertar Lunar, evento de Diablo IV, chega em 6 de fevereiro](https://marriedgames.com.br/noticias/o-despertar-lunar-evento-de-diablo-iv-chega-em-6-de-fevereiro/)
-- [Junte-se à tripulação da Normandy na parceria de Destiny 2 x Bioware em 13 de fevereiro](https://marriedgames.com.br/noticias/destiny-2-x-bioware/)
-- [Desenvolvedor de jogos no Brasil: a Profissão do Futuro e Tudo o que Você deve saber sobre ela](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvedor-de-jogos-no-brasil/)
+- [Explorando as Novidades do Unreal Engine 5.0: Uma Visão Geral](https://marriedgames.com.br/desenvolvimento-de-jogos/unreal-engine-5/)
+- [SONIC X SHADOW GENERATIONS: uma coleção inédita que apresenta duas experiências únicas](https://marriedgames.com.br/noticias/sonic-x-shadow/)
+- [Ghost Story Games lança segundo trailer do próximo jogo de tiro em primeira pessoa, Judas](https://marriedgames.com.br/noticias/ghost-story-games/)
+- [Aniversário Honkai Star Rail: Jogo comemora seu primeiro ano no REAG Belas Artes](https://marriedgames.com.br/noticias/aniversario-honkai-star-rail/)
+- [Habbo rumo à Web3: Collector Cabinets, novo recurso que converte itens do jogo em NFTs](https://marriedgames.com.br/noticias/collector-cabinets/)
 <!-- BLOG-POST-LIST:END -->
 
 
