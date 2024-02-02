@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Explorando as Novidades do Unreal Engine 5.0: Uma Visão Geral](https://marriedgames.com.br/desenvolvimento-de-jogos/unreal-engine-5/)
-- [SONIC X SHADOW GENERATIONS: uma coleção inédita que apresenta duas experiências únicas](https://marriedgames.com.br/noticias/sonic-x-shadow/)
-- [Ghost Story Games lança segundo trailer do próximo jogo de tiro em primeira pessoa, Judas](https://marriedgames.com.br/noticias/ghost-story-games/)
-- [Aniversário Honkai Star Rail: Jogo comemora seu primeiro ano no REAG Belas Artes](https://marriedgames.com.br/noticias/aniversario-honkai-star-rail/)
-- [Habbo rumo à Web3: Collector Cabinets, novo recurso que converte itens do jogo em NFTs](https://marriedgames.com.br/noticias/collector-cabinets/)
+- [Descubra como o curso de desenvolvimento de jogos pode impulsionar sua carreira](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-desenvolvimento-de-jogos/)
+- [SYNDUALITY ECHO OF ADA revela customizações em novo trailer](https://marriedgames.com.br/noticias/synduality-echo-of-ada/)
+- [TALES OF KENZERA: ZAU – DEMONSTRAÇÃO DO STEAM NEXT FEST JÁ ESTÁ DISPONÍVEL](https://marriedgames.com.br/noticias/tales-of-kenzera/)
+- [Defense Derby ganha atualização com nova unidade Florea e eventos emocionantes](https://marriedgames.com.br/noticias/defense-derby-2/)
+- [Descubra como fazer pixel art incríveis com nosso curso completo!](https://marriedgames.com.br/desenvolvimento-de-jogos/fazer-pixel-art/)
 <!-- BLOG-POST-LIST:END -->
 
 
