@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
-- [Engenheiro de software, quem são? o que fazem? o que comem?](https://www.youtube.com/watch?v=yscPTtBNl-w)
+- [História do GTA &lpar;3&rpar; #shorts #gta #gtaiii #gtaiv #gtaonline  #games #desenvolvimentodejogos](https://www.youtube.com/watch?v=h-RICO3lo0s)
+- [História do GTA &lpar;4&rpar;#shorts #gta #gtaiii #gtaiv #gtaonline  #games #desenvolvimentodejogos](https://www.youtube.com/watch?v=tesiNq9aJrQ)
+- [R$ 29.500: Engenheiro de software, o que faz?](https://www.youtube.com/watch?v=yscPTtBNl-w)
 - [História do GTA &lpar;2&rpar; #shorts  #gta #gtaiii #gtaiv #gtaonline](https://www.youtube.com/watch?v=rhz16kF87WI)
 - [História do GTA #shorts #gta #gtaiii #gtaiv #gtaonline](https://www.youtube.com/watch?v=TILr8q8-DPw)
-- [A Saga Épica do Grand Theft Auto: Uma Jornada Pela História do GTA](https://www.youtube.com/watch?v=Iu9V1WG9vqs)
-- [Blender - Macetes para facilitar sua vida #shorts #blender #blender3d #blendertutorial](https://www.youtube.com/watch?v=o3KevdnLXWg)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
