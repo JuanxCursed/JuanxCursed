@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jujutsu Kaisen Cursed Clash está disponível para PC e console](https://marriedgames.com.br/noticias/jujutsu-kaisen-cursed-clash-2/)
+- [Reimaginação do RPG que definiu o gênero, Persona 3 Reload é lançado](https://marriedgames.com.br/noticias/persona-3-reload-e-lancado/)
 - [Descubra como o curso de desenvolvimento de jogos pode impulsionar sua carreira](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-desenvolvimento-de-jogos/)
 - [SYNDUALITY ECHO OF ADA revela customizações em novo trailer](https://marriedgames.com.br/noticias/synduality-echo-of-ada/)
 - [TALES OF KENZERA: ZAU – DEMONSTRAÇÃO DO STEAM NEXT FEST JÁ ESTÁ DISPONÍVEL](https://marriedgames.com.br/noticias/tales-of-kenzera/)
-- [Defense Derby ganha atualização com nova unidade Florea e eventos emocionantes](https://marriedgames.com.br/noticias/defense-derby-2/)
-- [Descubra como fazer pixel art incríveis com nosso curso completo!](https://marriedgames.com.br/desenvolvimento-de-jogos/fazer-pixel-art/)
 <!-- BLOG-POST-LIST:END -->
 
 
