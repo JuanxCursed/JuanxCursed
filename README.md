@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jujutsu Kaisen Cursed Clash está disponível para PC e console](https://marriedgames.com.br/noticias/jujutsu-kaisen-cursed-clash-2/)
-- [Reimaginação do RPG que definiu o gênero, Persona 3 Reload é lançado](https://marriedgames.com.br/noticias/persona-3-reload-e-lancado/)
-- [Descubra como o curso de desenvolvimento de jogos pode impulsionar sua carreira](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-desenvolvimento-de-jogos/)
-- [SYNDUALITY ECHO OF ADA revela customizações em novo trailer](https://marriedgames.com.br/noticias/synduality-echo-of-ada/)
-- [TALES OF KENZERA: ZAU – DEMONSTRAÇÃO DO STEAM NEXT FEST JÁ ESTÁ DISPONÍVEL](https://marriedgames.com.br/noticias/tales-of-kenzera/)
+- [Introdução ao Blender para iniciantes: Aprenda a criar modelos 3D incríveis](https://marriedgames.com.br/desenvolvimento-de-jogos/blender-para-iniciantes/)
+- [Como criar jogos com Unity: Dicas e truques para iniciantes criar games incríveis](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-jogos-com-unity/)
+- [Designer de jogos digitais: O que faz um e quanto ganha esse profissional](https://marriedgames.com.br/desenvolvimento-de-jogos/designer-de-jogos-digitais/)
+- [Tekken 8: A Briga pela Herança da Família Mishima Continua em um Jogo Cheio de Pancadaria Bruta](https://marriedgames.com.br/analises/tekken-8-2/)
+- [Descubra como criar jogos incríveis com o curso para criação de games!](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-para-criacao-de-games/)
 <!-- BLOG-POST-LIST:END -->
 
 
