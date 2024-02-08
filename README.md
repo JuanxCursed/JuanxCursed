@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Desenvolva suas habilidades de criação com o curso de programação de jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-programacao-de-jogos/)
-- [Ragnarök Online anuncia atualização “A caminho das Classes 4 – Parte 4”](https://marriedgames.com.br/noticias/ragnarok-online/)
-- [Introdução ao Blender para iniciantes: Aprenda a criar modelos 3D incríveis](https://marriedgames.com.br/desenvolvimento-de-jogos/blender-para-iniciantes/)
-- [Como criar jogos com Unity: Dicas e truques para iniciantes criar games incríveis](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-jogos-com-unity/)
-- [Designer de jogos digitais: O que faz um e quanto ganha esse profissional](https://marriedgames.com.br/desenvolvimento-de-jogos/designer-de-jogos-digitais/)
+- [Explorando a Arte Pixelada nos Jogos: Uma Viagem ao Passado](https://marriedgames.com.br/desenvolvimento-de-jogos/arte-pixelada/)
+- [Após Anos de Desenvolvimento, Paralives ganha vídeo revelando gameplay](https://marriedgames.com.br/noticias/paralives-gameplay/)
+- [Desenvolvimento de Jogos com Unreal Engine 4: Aprenda a Criar seus Próprios Mundos Virtuais](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-com-unreal-engine-4/)
+- [Desenvolvendo jogos com Unity 2D: Dicas e truques para iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-com-unity-2d/)
+- [Passo a passo sobre Fazer um Jogo do Zero e Publicá-lo nas Plataformas](https://marriedgames.com.br/desenvolvimento-de-jogos/fazer-um-jogo-do-zero/)
 <!-- BLOG-POST-LIST:END -->
 
 
