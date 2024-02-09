@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Explorando a Arte Pixelada nos Jogos: Uma Viagem ao Passado](https://marriedgames.com.br/desenvolvimento-de-jogos/arte-pixelada/)
-- [Após Anos de Desenvolvimento, Paralives ganha vídeo revelando gameplay](https://marriedgames.com.br/noticias/paralives-gameplay/)
-- [Desenvolvimento de Jogos com Unreal Engine 4: Aprenda a Criar seus Próprios Mundos Virtuais](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-com-unreal-engine-4/)
-- [Desenvolvendo jogos com Unity 2D: Dicas e truques para iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-com-unity-2d/)
-- [Passo a passo sobre Fazer um Jogo do Zero e Publicá-lo nas Plataformas](https://marriedgames.com.br/desenvolvimento-de-jogos/fazer-um-jogo-do-zero/)
+- [Suba no Ringue com Ed em Street Fighter 6 a Partir de 27 de Fevereiro](https://marriedgames.com.br/noticias/ed-em-street-fighter/)
+- [O Universo da Carreira de Criação de Jogos: Uma Oportunidade de Emprego Inovadora](https://marriedgames.com.br/desenvolvimento-de-jogos/carreira-de-criacao-de-jogos/)
+- [Descubra como dar Vida a suas Ideias de Jogos com o Curso para Criar Games](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-para-criar-games/)
+- [Desenvolva seus Jogos: Seja criativo e crie seu próprio game!](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolva-seus-jogos/)
+- [Descubra como o curso de design de games pode transformar sua paixão em carreira promissora](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-design-de-games/)
 <!-- BLOG-POST-LIST:END -->
 
 
