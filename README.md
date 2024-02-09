@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [O Guia Completo do Analista de Sistemas: Responsabilidades, Salários e Caminho para o Sucesso](https://www.youtube.com/watch?v=ZtV25ZDgNhw)
 - [História do GTA &lpar;6&rpar; #shorts #shortvideo  #gta #gtaiii #gtaiv #gtaonline](https://www.youtube.com/watch?v=qcByTNE7Ov0)
 - [Do Hobby ao Lucro: Como Ganhar Dinheiro com Jogos em 2024 - Guia Completo](https://www.youtube.com/watch?v=n2T9dRm-gQA)
 - [História do GTA &lpar;5&rpar;#shorts #gta #gtaiii #gtaiv #gtaonline  #games #gamedevelopment](https://www.youtube.com/watch?v=K7rVY4balhQ)
 - [História do GTA &lpar;3&rpar; #shorts #gta #gtaiii #gtaiv #gtaonline  #games #desenvolvimentodejogos](https://www.youtube.com/watch?v=h-RICO3lo0s)
-- [História do GTA &lpar;4&rpar;#shorts #gta #gtaiii #gtaiv #gtaonline  #games #desenvolvimentodejogos](https://www.youtube.com/watch?v=tesiNq9aJrQ)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
