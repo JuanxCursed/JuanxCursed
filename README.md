@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Suba no Ringue com Ed em Street Fighter 6 a Partir de 27 de Fevereiro](https://marriedgames.com.br/noticias/ed-em-street-fighter/)
-- [O Universo da Carreira de Criação de Jogos: Uma Oportunidade de Emprego Inovadora](https://marriedgames.com.br/desenvolvimento-de-jogos/carreira-de-criacao-de-jogos/)
-- [Descubra como dar Vida a suas Ideias de Jogos com o Curso para Criar Games](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-para-criar-games/)
-- [Desenvolva seus Jogos: Seja criativo e crie seu próprio game!](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolva-seus-jogos/)
-- [Descubra como o curso de design de games pode transformar sua paixão em carreira promissora](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-design-de-games/)
+- [Transforme sua paixão em profissão: Descubra o melhor curso de desenvolvedor de games!](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-desenvolvedor-de-games/)
+- [Faculdade de Design de Games: O caminho para se tornar um mestre da criação de jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/faculdade-de-design-de-games/)
+- [Bloco da Patroa no CarnaCaos no Free Fire com novas skins e acessórios inspirados no verão](https://marriedgames.com.br/noticias/bloco-da-patroa-no-carnacaos/)
+- [Programação de Jogos: Transformando ideias em realidade](https://marriedgames.com.br/desenvolvimento-de-jogos/programacao-de-jogos/)
+- [Desvendando os segredos do Criador de Jogos Iniciantes: Dicas e Truques para o Sucesso](https://marriedgames.com.br/desenvolvimento-de-jogos/criador-de-jogos-iniciantes/)
 <!-- BLOG-POST-LIST:END -->
 
 
