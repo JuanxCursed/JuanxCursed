@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Transforme sua paixão em profissão: Descubra o melhor curso de desenvolvedor de games!](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-desenvolvedor-de-games/)
-- [Faculdade de Design de Games: O caminho para se tornar um mestre da criação de jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/faculdade-de-design-de-games/)
-- [Bloco da Patroa no CarnaCaos no Free Fire com novas skins e acessórios inspirados no verão](https://marriedgames.com.br/noticias/bloco-da-patroa-no-carnacaos/)
-- [Programação de Jogos: Transformando ideias em realidade](https://marriedgames.com.br/desenvolvimento-de-jogos/programacao-de-jogos/)
-- [Desvendando os segredos do Criador de Jogos Iniciantes: Dicas e Truques para o Sucesso](https://marriedgames.com.br/desenvolvimento-de-jogos/criador-de-jogos-iniciantes/)
+- [Como Criar Jogos pelo Smartphone: Dicas e Ferramentas Essenciais](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-jogos-pelo-smartphone/)
+- [Curso de Criação de Jogos: Aprenda a Desenvolver seus Próprios Games!](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-criacao-de-jogos/)
+- [GameMaker Studio 2: A Plataforma Ideal para Desenvolvimento de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/gamemaker-studio-2/)
+- [Demon Slayer -Kimetsu No Yaiba- Sweep the Board! apresenta novos tabuleiros e minijogos no trailer mais recente](https://marriedgames.com.br/noticias/kimetsu-no-yaiba/)
+- [Jogo de Criar Jogos? Uma Ferramenta Divertida para Estimular a Criatividade das Crianças](https://marriedgames.com.br/desenvolvimento-de-jogos/jogo-de-criar-jogos/)
 <!-- BLOG-POST-LIST:END -->
 
 
