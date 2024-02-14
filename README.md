@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Você sabe escolher Game Engine?](https://www.youtube.com/watch?v=7GDMad74EY0)
 - [História do GTA &lpar;8&rpar; #shorts  #gta #gtaiii #gtaiv #gtaonline #games #desenvolvimentodejogos](https://www.youtube.com/watch?v=HpcHztGMqZs)
 - [História do GTA &lpar;7&rpar; #shorts #shortvideo  #gta #gtaiii #gtaiv #gtaonline #gamedevelopment](https://www.youtube.com/watch?v=B-BdxVOEL-k)
 - [Analista de Sistemas: R$ 50.000,00 [Guia Completo]](https://www.youtube.com/watch?v=ZtV25ZDgNhw)
 - [História do GTA &lpar;6&rpar; #shorts #shortvideo  #gta #gtaiii #gtaiv #gtaonline](https://www.youtube.com/watch?v=qcByTNE7Ov0)
-- [Como Ganhar Dinheiro com Jogos em 2024 [Guia Completo]](https://www.youtube.com/watch?v=n2T9dRm-gQA)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
