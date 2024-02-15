@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [História do GTA &lpar;9&rpar; #shorts #shortsvideo  #gta #gtaiii #gtaiv #gtaonline #gamedevelopment](https://www.youtube.com/watch?v=0c6KPiG3m94)
+- [Analista de Sistemas: MAIS DE R$ 50.000,00 &lpar;1&rpar; #analistadesistemas #analistasoftware #dev #salários](https://www.youtube.com/watch?v=OqMDEk1ocvM)
 - [Você sabe escolher Game Engine?](https://www.youtube.com/watch?v=7GDMad74EY0)
 - [História do GTA &lpar;8&rpar; #shorts  #gta #gtaiii #gtaiv #gtaonline #games #desenvolvimentodejogos](https://www.youtube.com/watch?v=HpcHztGMqZs)
 - [História do GTA &lpar;7&rpar; #shorts #shortvideo  #gta #gtaiii #gtaiv #gtaonline #gamedevelopment](https://www.youtube.com/watch?v=B-BdxVOEL-k)
-- [Analista de Sistemas: R$ 50.000,00 [Guia Completo]](https://www.youtube.com/watch?v=ZtV25ZDgNhw)
-- [História do GTA &lpar;6&rpar; #shorts #shortvideo  #gta #gtaiii #gtaiv #gtaonline](https://www.youtube.com/watch?v=qcByTNE7Ov0)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
