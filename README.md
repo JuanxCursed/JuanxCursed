@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Criar Jogos pelo Smartphone: Dicas e Ferramentas Essenciais](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-jogos-pelo-smartphone/)
-- [Curso de Criação de Jogos: Aprenda a Desenvolver seus Próprios Games!](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-criacao-de-jogos/)
-- [GameMaker Studio 2: A Plataforma Ideal para Desenvolvimento de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/gamemaker-studio-2/)
-- [Demon Slayer -Kimetsu No Yaiba- Sweep the Board! apresenta novos tabuleiros e minijogos no trailer mais recente](https://marriedgames.com.br/noticias/kimetsu-no-yaiba/)
-- [Jogo de Criar Jogos? Uma Ferramenta Divertida para Estimular a Criatividade das Crianças](https://marriedgames.com.br/desenvolvimento-de-jogos/jogo-de-criar-jogos/)
+- [Curso de Jogos em Unreal: Aprenda a criar jogos incríveis do zero!](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-jogos-em-unreal/)
+- [Curso para Criar Jogos Digitais: Como Escolher o Melhor e se Tornar um Desenvolvedor](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-para-criar-jogos-digitais/)
+- [Team Liquid estreia com vitória no Six Invitational 2024](https://marriedgames.com.br/noticias/team-liquid-estreia-com-vitoria/)
+- [Criando um Personagem para seu Jogo: Dicas e truques para criar o personagem perfeito!](https://marriedgames.com.br/desenvolvimento-de-jogos/criando-um-personagem/)
+- [Como se Tornar um Criador de Jogos no Brasil e Ter Sucesso na Indústria de Games](https://marriedgames.com.br/desenvolvimento-de-jogos/criador-de-jogos-no-brasil/)
 <!-- BLOG-POST-LIST:END -->
 
 
