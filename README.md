@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Curso de Jogos em Unreal: Aprenda a criar jogos incríveis do zero!](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-jogos-em-unreal/)
-- [Curso para Criar Jogos Digitais: Como Escolher o Melhor e se Tornar um Desenvolvedor](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-para-criar-jogos-digitais/)
-- [Team Liquid estreia com vitória no Six Invitational 2024](https://marriedgames.com.br/noticias/team-liquid-estreia-com-vitoria/)
-- [Criando um Personagem para seu Jogo: Dicas e truques para criar o personagem perfeito!](https://marriedgames.com.br/desenvolvimento-de-jogos/criando-um-personagem/)
-- [Como se Tornar um Criador de Jogos no Brasil e Ter Sucesso na Indústria de Games](https://marriedgames.com.br/desenvolvimento-de-jogos/criador-de-jogos-no-brasil/)
+- [Diablo IV no Game Pass: Aventura chega em 28 de março](https://marriedgames.com.br/noticias/diablo-iv-no-game-pass/)
+- [Traje do Shadow em Sonic Superstars para o Sonic agora disponível](https://marriedgames.com.br/noticias/shadow-em-sonic-superstars/)
+- [Fazer Jogos 3D com Unity: Aprenda como Dar Vida aos seus Games](https://marriedgames.com.br/desenvolvimento-de-jogos/fazer-jogos-3d-com-unity/)
+- [Como Fazer Jogo 2D na Unity: Passo-a-Passo com Códigos](https://marriedgames.com.br/desenvolvimento-de-jogos/fazer-jogo-2d-na-unity/)
+- [Como Fazer um Jogo 2D: Um Guia Prático com Unreal, Unity e Godot](https://marriedgames.com.br/desenvolvimento-de-jogos/como-fazer-um-jogo-2d/)
 <!-- BLOG-POST-LIST:END -->
 
 
