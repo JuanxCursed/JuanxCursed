@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Diablo IV no Game Pass: Aventura chega em 28 de março](https://marriedgames.com.br/noticias/diablo-iv-no-game-pass/)
-- [Traje do Shadow em Sonic Superstars para o Sonic agora disponível](https://marriedgames.com.br/noticias/shadow-em-sonic-superstars/)
-- [Fazer Jogos 3D com Unity: Aprenda como Dar Vida aos seus Games](https://marriedgames.com.br/desenvolvimento-de-jogos/fazer-jogos-3d-com-unity/)
-- [Como Fazer Jogo 2D na Unity: Passo-a-Passo com Códigos](https://marriedgames.com.br/desenvolvimento-de-jogos/fazer-jogo-2d-na-unity/)
-- [Como Fazer um Jogo 2D: Um Guia Prático com Unreal, Unity e Godot](https://marriedgames.com.br/desenvolvimento-de-jogos/como-fazer-um-jogo-2d/)
+- [Descubra o mundo dos Pixels: Faça um Curso de Pixel Art para Iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/pixel-art-para-iniciantes/)
+- [GameMaker Language: O Poder da Linguagem de Programação no GameMaker Studio 2](https://marriedgames.com.br/desenvolvimento-de-jogos/gamemaker-language/)
+- [Desenvolvendo jogos 2D com Unity: Aprenda a criar seu próprio universo virtual](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-2d-com-unity/)
+- [Ubisoft lança Skull and Bones mundialmente e abre período de teste gratuito do game](https://marriedgames.com.br/noticias/skull-and-bones-2/)
+- [Saiba Como Criar Jogos: Um Guia Completo Desenvolvedores Iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/como-criar-jogos/)
 <!-- BLOG-POST-LIST:END -->
 
 
