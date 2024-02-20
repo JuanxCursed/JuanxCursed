@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Descubra o mundo dos Pixels: Faça um Curso de Pixel Art para Iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/pixel-art-para-iniciantes/)
-- [GameMaker Language: O Poder da Linguagem de Programação no GameMaker Studio 2](https://marriedgames.com.br/desenvolvimento-de-jogos/gamemaker-language/)
-- [Desenvolvendo jogos 2D com Unity: Aprenda a criar seu próprio universo virtual](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-2d-com-unity/)
-- [Ubisoft lança Skull and Bones mundialmente e abre período de teste gratuito do game](https://marriedgames.com.br/noticias/skull-and-bones-2/)
-- [Saiba Como Criar Jogos: Um Guia Completo Desenvolvedores Iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/como-criar-jogos/)
+- [Como resolver o erro OpenGL no Blender](https://marriedgames.com.br/desenvolvimento-de-jogos/opengl-no-blender/)
+- [Um Guia Completo para Quem Quer Ganhar Dinheiro Criando Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/criando-jogos/)
+- [RPG mobile da Ubisoft, Invincible: Guarding the Globe está disponível para iOS e Android](https://marriedgames.com.br/noticias/rpg-mobile-da-ubisoft/)
+- [Inscrições para BIG Festival e artistas para Gamescom LATAM vão até dia 29 de fevereiro](https://marriedgames.com.br/noticias/inscricoes-para-big-festival/)
+- [Melhores Sites para Criar Jogos: Engines para Desenvolver Jogos Baseadas em Navegador](https://marriedgames.com.br/desenvolvimento-de-jogos/sites-para-criar-jogos/)
 <!-- BLOG-POST-LIST:END -->
 
 
