@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Analista de Sistemas: MAIS DE R$ 50.000,00 &lpar;3&rpar; #analistadesistemas #analistasoftware #dev #salários](https://www.youtube.com/watch?v=xFyJ3zitRFw)
 - [História do GTA &lpar;11&rpar; #shortsvideo #short  #gta #gtaiii #gtaiv #gtaonline #games #gta v](https://www.youtube.com/watch?v=mehlmkIsFYc)
 - [História do GTA &lpar;10&rpar; #shortsvideo #short   #gta #gtaiii #gtaiv #gtaonline  #gamedevelopment](https://www.youtube.com/watch?v=cTpF7DDqoVo)
 - [Analista de Sistemas: MAIS DE R$ 50.000,00 &lpar;2&rpar; #analistadesistemas #analistasoftware #dev #salários](https://www.youtube.com/watch?v=_HQgsiznMNM)
 - [Blender: Configurando para o notebook [Guia Completo]](https://www.youtube.com/watch?v=XfdEyaKheoI)
-- [História do GTA &lpar;9&rpar; #shorts #shortsvideo  #gta #gtaiii #gtaiv #gtaonline #gamedevelopment](https://www.youtube.com/watch?v=0c6KPiG3m94)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
