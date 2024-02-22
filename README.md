@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [THE SIMS 4 revela a coleção Criações Cristalinas, disponível a partir de 29 de fevereiro](https://marriedgames.com.br/noticias/criacoes-cristalinas/)
-- [Como resolver o erro OpenGL no Blender](https://marriedgames.com.br/desenvolvimento-de-jogos/opengl-no-blender/)
-- [Um Guia Completo para Quem Quer Ganhar Dinheiro Criando Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/criando-jogos/)
-- [RPG mobile da Ubisoft, Invincible: Guarding the Globe está disponível para iOS e Android](https://marriedgames.com.br/noticias/rpg-mobile-da-ubisoft/)
-- [Inscrições para BIG Festival e artistas para Gamescom LATAM vão até dia 29 de fevereiro](https://marriedgames.com.br/noticias/inscricoes-para-big-festival/)
+- [Novo DLC de DRAGON BALL Z: KAKAROT já disponível](https://marriedgames.com.br/noticias/dlc-de-dragon-ball/)
+- [Desenvolvimento de Jogos com Unreal Engine 4: Aprenda a Criar seus Próprios Mundos Virtuais](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-com-unreal-engine-4/)
+- [Unity e o Brasil: Como a Engine Está Revolucionando o Mercado de Games](https://marriedgames.com.br/desenvolvimento-de-jogos/unity-e-o-brasil/)
+- [Desenvolva suas Habilidades de Programação e Aprenda Criar jogos Jogando](https://marriedgames.com.br/desenvolvimento-de-jogos/aprenda-criar-jogos/)
+- [Introdução ao Blender para iniciantes: Aprenda a criar modelos 3D incríveis](https://marriedgames.com.br/desenvolvimento-de-jogos/blender-para-iniciantes/)
 <!-- BLOG-POST-LIST:END -->
 
 
