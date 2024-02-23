@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Analista de Sistemas: MAIS DE R$ 50.000,00 &lpar;4&rpar; #analistadesistemas #analistasoftware #dev #salários](https://www.youtube.com/watch?v=eFpFz7WeXoE)
 - [História do GTA &lpar;12&rpar; #shorts #shortvideo #gta #gtaiii #gtaiv #gtaonline #gtasanandreas](https://www.youtube.com/watch?v=HyYtsJe-Wdg)
 - [Analista de Sistemas: MAIS DE R$ 50.000,00 &lpar;3&rpar; #analistadesistemas #analistasoftware #dev #salários](https://www.youtube.com/watch?v=xFyJ3zitRFw)
 - [História do GTA &lpar;11&rpar; #shortsvideo #short  #gta #gtaiii #gtaiv #gtaonline #games #gta v](https://www.youtube.com/watch?v=mehlmkIsFYc)
 - [História do GTA &lpar;10&rpar; #shortsvideo #short   #gta #gtaiii #gtaiv #gtaonline  #gamedevelopment](https://www.youtube.com/watch?v=cTpF7DDqoVo)
-- [Analista de Sistemas: MAIS DE R$ 50.000,00 &lpar;2&rpar; #analistadesistemas #analistasoftware #dev #salários](https://www.youtube.com/watch?v=_HQgsiznMNM)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
