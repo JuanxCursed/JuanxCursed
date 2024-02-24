@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [O Guia Definitivo das Melhores Ferramentas para Desenvolvimento de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/melhores-ferramentas-para-desenvolvimento-de-jogos/)
+- [Um Guia dos Primeiros Passos em Programação de Jogos para Iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/programacao-de-jogos-para-iniciantes/)
+- [Desenvolvimento de Jogos Indie: Uma Jornada Criativa e Empolgante](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvimento-de-jogos-indie/)
+- [Seu Caminho para se Tornar um Desenvolvedor em Unity 3D](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvedor-em-unity/)
 - [O Project L agora é 2XKO™](https://marriedgames.com.br/noticias/o-project-l-agora-e-2xko/)
-- [Roblox terá traduções em 16 línguas, incluindo português, utilizando Inteligência Artificial](https://marriedgames.com.br/noticias/roblox-tera-traducoes/)
-- [Novo DLC de DRAGON BALL Z: KAKAROT já disponível](https://marriedgames.com.br/noticias/dlc-de-dragon-ball/)
-- [Desenvolvimento de Jogos com Unreal Engine 4: Aprenda a Criar seus Próprios Mundos Virtuais](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-com-unreal-engine-4/)
-- [Unity e o Brasil: Como a Engine Está Revolucionando o Mercado de Games](https://marriedgames.com.br/desenvolvimento-de-jogos/unity-e-o-brasil/)
 <!-- BLOG-POST-LIST:END -->
 
 
