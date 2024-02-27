@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unity ou GameMaker: Qual é a Melhor Engine para seus Jogos?](https://marriedgames.com.br/desenvolvimento-de-jogos/unity-ou-gamemaker/)
+- [Unity ou Unreal: Qual é a Engine Ideal para seu Projeto](https://marriedgames.com.br/desenvolvimento-de-jogos/unity-ou-unreal/)
+- [Dicas Para Iniciantes Em Desenvolvimento De Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/dicas-para-iniciantes-em-desenvolvimento-de-jogos/)
+- [Aprenda Sem Gastar: Guia de Cursos de Desenvolvimento de Jogos Online Grátis](https://marriedgames.com.br/desenvolvimento-de-jogos/cursos-de-desenvolvimento-de-jogos-online-gratis/)
 - [O Guia Definitivo das Melhores Ferramentas para Desenvolvimento de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/melhores-ferramentas-para-desenvolvimento-de-jogos/)
-- [Um Guia dos Primeiros Passos em Programação de Jogos para Iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/programacao-de-jogos-para-iniciantes/)
-- [Desenvolvimento de Jogos Indie: Uma Jornada Criativa e Empolgante](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvimento-de-jogos-indie/)
-- [Seu Caminho para se Tornar um Desenvolvedor em Unity 3D](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvedor-em-unity/)
-- [O Project L agora é 2XKO™](https://marriedgames.com.br/noticias/o-project-l-agora-e-2xko/)
 <!-- BLOG-POST-LIST:END -->
 
 
