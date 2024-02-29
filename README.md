@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Unity ou GameMaker: Qual é a Melhor Engine para seus Jogos?](https://marriedgames.com.br/desenvolvimento-de-jogos/unity-ou-gamemaker/)
-- [Unity ou Unreal: Qual é a Engine Ideal para seu Projeto](https://marriedgames.com.br/desenvolvimento-de-jogos/unity-ou-unreal/)
-- [Dicas Para Iniciantes Em Desenvolvimento De Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/dicas-para-iniciantes-em-desenvolvimento-de-jogos/)
-- [Aprenda Sem Gastar: Guia de Cursos de Desenvolvimento de Jogos Online Grátis](https://marriedgames.com.br/desenvolvimento-de-jogos/cursos-de-desenvolvimento-de-jogos-online-gratis/)
-- [O Guia Definitivo das Melhores Ferramentas para Desenvolvimento de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/melhores-ferramentas-para-desenvolvimento-de-jogos/)
+- [Descubra como fazer pixel art incríveis com nosso curso completo!](https://marriedgames.com.br/desenvolvimento-de-jogos/fazer-pixel-art/)
+- [Aprenda a Fazer Jogos Estudando Desenvolvimento de jogos 3D Unity](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvimento-de-jogos-3d-unity/)
+- [Explorando o mundo do design 3D: Descubra os Segredos da Modelagem no Blender!](https://marriedgames.com.br/desenvolvimento-de-jogos/modelagem-no-blender/)
+- [Godot ou Unreal: Poder vs Simplicidade! Saiba Qual é a Melhor para Você](https://marriedgames.com.br/desenvolvimento-de-jogos/godot-ou-unreal/)
+- [Explorando as Novidades do Unreal Engine 5.0: Uma Visão Geral](https://marriedgames.com.br/desenvolvimento-de-jogos/unreal-engine-5/)
 <!-- BLOG-POST-LIST:END -->
 
 
