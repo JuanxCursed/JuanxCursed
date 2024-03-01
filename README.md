@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Designer de jogos digitais: O que faz um e quanto ganha esse profissional](https://marriedgames.com.br/desenvolvimento-de-jogos/designer-de-jogos-digitais/)
+- [Design de Jogos: Tudo Sobre a Criação de Mundos em Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/criacao-de-mundos-em-jogos/)
+- [Descubra como o curso de desenvolvimento de jogos pode impulsionar sua carreira](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-desenvolvimento-de-jogos/)
+- [Recursos Educativos Gratuitos para Desenvolvimento de Jogos 2D](https://marriedgames.com.br/desenvolvimento-de-jogos/recursos-educativos-gratuitos-para-desenvolvimento-de-jogos-2d/)
 - [Descubra como fazer pixel art incríveis com nosso curso completo!](https://marriedgames.com.br/desenvolvimento-de-jogos/fazer-pixel-art/)
-- [Aprenda a Fazer Jogos Estudando Desenvolvimento de jogos 3D Unity](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvimento-de-jogos-3d-unity/)
-- [Explorando o mundo do design 3D: Descubra os Segredos da Modelagem no Blender!](https://marriedgames.com.br/desenvolvimento-de-jogos/modelagem-no-blender/)
-- [Godot ou Unreal: Poder vs Simplicidade! Saiba Qual é a Melhor para Você](https://marriedgames.com.br/desenvolvimento-de-jogos/godot-ou-unreal/)
-- [Explorando as Novidades do Unreal Engine 5.0: Uma Visão Geral](https://marriedgames.com.br/desenvolvimento-de-jogos/unreal-engine-5/)
 <!-- BLOG-POST-LIST:END -->
 
 
