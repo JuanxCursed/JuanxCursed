@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Designer de jogos digitais: O que faz um e quanto ganha esse profissional](https://marriedgames.com.br/desenvolvimento-de-jogos/designer-de-jogos-digitais/)
-- [Design de Jogos: Tudo Sobre a Criação de Mundos em Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/criacao-de-mundos-em-jogos/)
-- [Descubra como o curso de desenvolvimento de jogos pode impulsionar sua carreira](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-desenvolvimento-de-jogos/)
-- [Recursos Educativos Gratuitos para Desenvolvimento de Jogos 2D](https://marriedgames.com.br/desenvolvimento-de-jogos/recursos-educativos-gratuitos-para-desenvolvimento-de-jogos-2d/)
-- [Descubra como fazer pixel art incríveis com nosso curso completo!](https://marriedgames.com.br/desenvolvimento-de-jogos/fazer-pixel-art/)
+- [Ruff Ghanor: O Card Game Roguelike do Jovem Nerd é Divertido e Cheio de História](https://marriedgames.com.br/analises/ruff-ghanor/)
+- [Jogos 2D em Unity: Criando Games do Zero até a Entrega para o Jogador](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-2d-em-unity/)
+- [Integrando Unreal Engine com Outras Ferramentas de Desenvolvimento](https://marriedgames.com.br/desenvolvimento-de-jogos/integrando-unreal-engine/)
+- [Publicando seu Jogo Desenvolvido no Godot 4: Passos Essenciais para o Sucesso](https://marriedgames.com.br/desenvolvimento-de-jogos/jogo-desenvolvido-no-godot/)
+- [Explorando a Unreal Marketplace: Encontrando e Utilizando Assets](https://marriedgames.com.br/desenvolvimento-de-jogos/unreal-marketplace/)
 <!-- BLOG-POST-LIST:END -->
 
 
