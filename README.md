@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introdução à Programação de Shaders no Unreal Engine](https://marriedgames.com.br/desenvolvimento-de-jogos/shaders-no-unreal-engine/)
+- [Como Iniciar um Projeto em Godot: Um Guia Completo para Desenvolvedores de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/projeto-em-godot/)
+- [Instalação do Godot: Um Guia Detalhado para Iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/instalacao-do-godot/)
 - [Ruff Ghanor: O Card Game Roguelike do Jovem Nerd é Divertido e Cheio de História](https://marriedgames.com.br/analises/ruff-ghanor/)
 - [Jogos 2D em Unity: Criando Games do Zero até a Entrega para o Jogador](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-2d-em-unity/)
-- [Integrando Unreal Engine com Outras Ferramentas de Desenvolvimento](https://marriedgames.com.br/desenvolvimento-de-jogos/integrando-unreal-engine/)
-- [Publicando seu Jogo Desenvolvido no Godot 4: Passos Essenciais para o Sucesso](https://marriedgames.com.br/desenvolvimento-de-jogos/jogo-desenvolvido-no-godot/)
-- [Explorando a Unreal Marketplace: Encontrando e Utilizando Assets](https://marriedgames.com.br/desenvolvimento-de-jogos/unreal-marketplace/)
 <!-- BLOG-POST-LIST:END -->
 
 
