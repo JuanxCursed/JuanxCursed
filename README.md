@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Introdução à Programação de Shaders no Unreal Engine](https://marriedgames.com.br/desenvolvimento-de-jogos/shaders-no-unreal-engine/)
-- [Como Iniciar um Projeto em Godot: Um Guia Completo para Desenvolvedores de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/projeto-em-godot/)
-- [Instalação do Godot: Um Guia Detalhado para Iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/instalacao-do-godot/)
-- [Ruff Ghanor: O Card Game Roguelike do Jovem Nerd é Divertido e Cheio de História](https://marriedgames.com.br/analises/ruff-ghanor/)
-- [Jogos 2D em Unity: Criando Games do Zero até a Entrega para o Jogador](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-2d-em-unity/)
+- [Pathfinding em Unity: Saiba como Fazer seus NPCs se moverem pelo Cenário](https://marriedgames.com.br/desenvolvimento-de-jogos/pathfinding-em-unity/)
+- [Qual o Tempo Necessário para Ser um Desenvolvedor de Jogos Completo?](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvedor-de-jogos-completo/)
+- [Blender no Notebook: Superando as Limitações do Teclado Integrado](https://marriedgames.com.br/desenvolvimento-de-software/blender-no-notebook/)
+- [Dicas para Iniciantes no GameMaker: Acelere seu Aprendizado e Desenvolvimento de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/iniciantes-no-gamemaker/)
+- [15 Dicas Avançadas para Desenvolvimento em Unity + Bônus](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvimento-em-unity/)
 <!-- BLOG-POST-LIST:END -->
 
 
