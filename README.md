@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Desenvolvimento de Jogos para iOS com Unreal Engine: Saiba como Começar](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-para-ios-com-unreal/)
+- [Como Começar com Godot 4: Guia para Iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/comecar-com-godot/)
 - [Pathfinding em Unity: Saiba como Fazer seus NPCs se moverem pelo Cenário](https://marriedgames.com.br/desenvolvimento-de-jogos/pathfinding-em-unity/)
 - [Qual o Tempo Necessário para Ser um Desenvolvedor de Jogos Completo?](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvedor-de-jogos-completo/)
 - [Blender no Notebook: Superando as Limitações do Teclado Integrado](https://marriedgames.com.br/desenvolvimento-de-software/blender-no-notebook/)
-- [Dicas para Iniciantes no GameMaker: Acelere seu Aprendizado e Desenvolvimento de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/iniciantes-no-gamemaker/)
-- [15 Dicas Avançadas para Desenvolvimento em Unity + Bônus](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvimento-em-unity/)
 <!-- BLOG-POST-LIST:END -->
 
 
