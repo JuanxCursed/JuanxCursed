@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Desenvolvimento de Jogos para iOS com Unreal Engine: Saiba como Começar](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-para-ios-com-unreal/)
-- [Como Começar com Godot 4: Guia para Iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/comecar-com-godot/)
-- [Pathfinding em Unity: Saiba como Fazer seus NPCs se moverem pelo Cenário](https://marriedgames.com.br/desenvolvimento-de-jogos/pathfinding-em-unity/)
-- [Qual o Tempo Necessário para Ser um Desenvolvedor de Jogos Completo?](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvedor-de-jogos-completo/)
-- [Blender no Notebook: Superando as Limitações do Teclado Integrado](https://marriedgames.com.br/desenvolvimento-de-software/blender-no-notebook/)
+- [Otimização de Assets 3D para Jogos: Um Guia Essencial para Desenvolvedores](https://marriedgames.com.br/desenvolvimento-de-jogos/otimizacao-de-assets-3d-para-jogos/)
+- [Desenvolvendo Jogos de Realidade Aumentada com Unreal Engine](https://marriedgames.com.br/desenvolvimento-de-jogos/realidade-aumentada-com-unreal/)
+- [A Força da Colaboração em Projetos de Jogos 2D Indie](https://marriedgames.com.br/desenvolvimento-de-jogos/colaboracao-em-projetos-de-jogos-2d-indie/)
+- [Como criar jogos com Unity: Dicas e truques para iniciantes criar games incríveis](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-jogos-com-unity/)
+- [Python para Prototipagem Rápida de Jogos: Criando Ideias e Testando com Agilidade](https://marriedgames.com.br/desenvolvimento-de-jogos/python-para-prototipagem/)
 <!-- BLOG-POST-LIST:END -->
 
 
