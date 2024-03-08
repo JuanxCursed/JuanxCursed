@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Otimização de Assets 3D para Jogos: Um Guia Essencial para Desenvolvedores](https://marriedgames.com.br/desenvolvimento-de-jogos/otimizacao-de-assets-3d-para-jogos/)
-- [Desenvolvendo Jogos de Realidade Aumentada com Unreal Engine](https://marriedgames.com.br/desenvolvimento-de-jogos/realidade-aumentada-com-unreal/)
-- [A Força da Colaboração em Projetos de Jogos 2D Indie](https://marriedgames.com.br/desenvolvimento-de-jogos/colaboracao-em-projetos-de-jogos-2d-indie/)
-- [Como criar jogos com Unity: Dicas e truques para iniciantes criar games incríveis](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-jogos-com-unity/)
-- [Python para Prototipagem Rápida de Jogos: Criando Ideias e Testando com Agilidade](https://marriedgames.com.br/desenvolvimento-de-jogos/python-para-prototipagem/)
+- [As melhores práticas para salvar estado de GameObjects na Unity](https://marriedgames.com.br/desenvolvimento-de-jogos/gameobjects-na-unity/)
+- [Quais as principais diferenças entre MVP e MVC? Descubra](https://marriedgames.com.br/desenvolvimento-de-jogos/diferencas-entre-mvp-e-mvc/)
+- [Quais são os melhores padrões de arquitetura para Godot Engine 4?](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-para-godot/)
+- [Extensões para Blender: Tudo que Você Precisa Ter para Começar a Modelar](https://marriedgames.com.br/desenvolvimento-de-jogos/extensoes-para-blender/)
+- [Como Criar Ambientes Realistas em Jogos 3D: Os Segredos dos Cenários mais Bonitos](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-ambientes-realistas-em-jogos-3d/)
 <!-- BLOG-POST-LIST:END -->
 
 
