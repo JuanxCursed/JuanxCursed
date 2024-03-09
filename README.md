@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [As melhores práticas para salvar estado de GameObjects na Unity](https://marriedgames.com.br/desenvolvimento-de-jogos/gameobjects-na-unity/)
-- [Quais as principais diferenças entre MVP e MVC? Descubra](https://marriedgames.com.br/desenvolvimento-de-jogos/diferencas-entre-mvp-e-mvc/)
-- [Quais são os melhores padrões de arquitetura para Godot Engine 4?](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-para-godot/)
-- [Extensões para Blender: Tudo que Você Precisa Ter para Começar a Modelar](https://marriedgames.com.br/desenvolvimento-de-jogos/extensoes-para-blender/)
-- [Como Criar Ambientes Realistas em Jogos 3D: Os Segredos dos Cenários mais Bonitos](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-ambientes-realistas-em-jogos-3d/)
+- [Arquitetura MVP no Desenvolvimento de Jogos: Simplificando a Criação](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-mvp/)
+- [O Que É Game Design? Uma Viagem ao Coração dos Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/game-design-2/)
+- [Guia Completo para Criar Assets 3D Eficientes](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-assets-3d-eficientes/)
+- [Entendendo a Arquitetura MVC no Desenvolvimento de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-mvc/)
+- [Como Fazer SEO para Jogos na Steam: Faça seu Game Aparecer na Frente da Concorrência](https://marriedgames.com.br/desenvolvimento-de-jogos/seo-para-jogos-na-steam/)
 <!-- BLOG-POST-LIST:END -->
 
 
