@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Arquitetura MVP no Desenvolvimento de Jogos: Simplificando a Criação](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-mvp/)
-- [O Que É Game Design? Uma Viagem ao Coração dos Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/game-design-2/)
-- [Guia Completo para Criar Assets 3D Eficientes](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-assets-3d-eficientes/)
-- [Entendendo a Arquitetura MVC no Desenvolvimento de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-mvc/)
-- [Como Fazer SEO para Jogos na Steam: Faça seu Game Aparecer na Frente da Concorrência](https://marriedgames.com.br/desenvolvimento-de-jogos/seo-para-jogos-na-steam/)
+- [Técnicas de Rigging para Personagens de Jogos: Faça seus Personagens 3D se Moverem](https://marriedgames.com.br/desenvolvimento-de-jogos/tecnicas-de-rigging-para-personagens-de-jogos/)
+- [Escolhendo a Melhor Arquitetura para Unity 3D na Hora de Desenvolver Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-para-unity-3d/)
+- [Estratégias de Monetização para Jogos: Um Guia Completo](https://marriedgames.com.br/desenvolvimento-de-jogos/estrategias-de-monetizacao-para-jogos/)
+- [Unreal Engine vs CryEngine: Escolhendo o Motor Certo para o seu Projeto de Desenvolvimento](https://marriedgames.com.br/desenvolvimento-de-jogos/unreal-engine-vs-cryengine/)
+- [Saiba mais sobre Desenvolvimento de Jogos com Realidade Aumentada](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvimento-de-jogos-com-realidade-aumentada/)
 <!-- BLOG-POST-LIST:END -->
 
 
