@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Desenvolvendo Multiplayer no Godot 4: Uma Jornada Detalhada](https://marriedgames.com.br/desenvolvimento-de-jogos/multiplayer-no-godot-4/)
-- [Técnicas de Rigging para Personagens de Jogos: Faça seus Personagens 3D se Moverem](https://marriedgames.com.br/desenvolvimento-de-jogos/tecnicas-de-rigging-para-personagens-de-jogos/)
-- [Escolhendo a Melhor Arquitetura para Unity 3D na Hora de Desenvolver Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-para-unity-3d/)
-- [Estratégias de Monetização para Jogos: Um Guia Completo](https://marriedgames.com.br/desenvolvimento-de-jogos/estrategias-de-monetizacao-para-jogos/)
-- [Unreal Engine vs CryEngine: Escolhendo o Motor Certo para o seu Projeto de Desenvolvimento](https://marriedgames.com.br/desenvolvimento-de-jogos/unreal-engine-vs-cryengine/)
+- [Do Movimento à Colisão: Uma Análise da Física nos Jogos 2D](https://marriedgames.com.br/desenvolvimento-de-jogos/fisica-nos-jogos-2d/)
+- [Arquitetura MVVM no Mobile: Aprimorando Desenvolvimento de Jogos para Celular](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-mvvm-no-mobile/)
+- [Level Design no Desenvolvimento de Jogos: Uma Jornada Detalhada](https://marriedgames.com.br/desenvolvimento-de-jogos/level-design/)
+- [Arquitetura para Unreal Engine: Qual usar na Hora de Criar seus Jogos?](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-para-unreal-engine/)
+- [Desvendando o Princípio SOLID: Um Guia Prático para o Desenvolvimento Robusto](https://marriedgames.com.br/desenvolvimento-de-software/principio-solid/)
 <!-- BLOG-POST-LIST:END -->
 
 
