@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saiba como Adaptar Jogos 3D para Diferentes Plataformas](https://marriedgames.com.br/desenvolvimento-de-jogos/adaptar-jogos-3d-para-diferentes-plataformas/)
+- [Campanhas de Crowdfunding para Jogos 3D: Financiamento Coletivo para seus Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/crowdfunding-para-jogos-3d/)
+- [Melhores Sites para Criar Jogos: Engines para Desenvolver Jogos Baseadas em Navegador](https://marriedgames.com.br/desenvolvimento-de-jogos/sites-para-criar-jogos/)
+- [Fazendo Jogos 2D de Física na Unity: Aprenda a Arremessar Objetos e Destruir Torres](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-2d-de-fisica-na-unity/)
 - [Do Movimento à Colisão: Uma Análise da Física nos Jogos 2D](https://marriedgames.com.br/desenvolvimento-de-jogos/fisica-nos-jogos-2d/)
-- [Arquitetura MVVM no Mobile: Aprimorando Desenvolvimento de Jogos para Celular](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-mvvm-no-mobile/)
-- [Level Design no Desenvolvimento de Jogos: Uma Jornada Detalhada](https://marriedgames.com.br/desenvolvimento-de-jogos/level-design/)
-- [Arquitetura para Unreal Engine: Qual usar na Hora de Criar seus Jogos?](https://marriedgames.com.br/desenvolvimento-de-jogos/arquitetura-para-unreal-engine/)
-- [Desvendando o Princípio SOLID: Um Guia Prático para o Desenvolvimento Robusto](https://marriedgames.com.br/desenvolvimento-de-software/principio-solid/)
 <!-- BLOG-POST-LIST:END -->
 
 
