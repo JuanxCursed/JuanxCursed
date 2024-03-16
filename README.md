@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We Are Football 24: Completo e Complexo](https://marriedgames.com.br/analises/we-are-football-24/)
+- [Como Ganhar Dinheiro com Jogos Indie: Um Guia das Principais Plataformas e Estratégias](https://marriedgames.com.br/desenvolvimento-de-jogos/como-ganhar-dinheiro-com-jogos-indie/)
+- [Melhor Engine para Jogos: Unreal Engine, Unity ou Godot? Qual Você Deve Escolher?](https://marriedgames.com.br/desenvolvimento-de-jogos/melhor-engine-para-jogos/)
 - [Saiba como Adaptar Jogos 3D para Diferentes Plataformas](https://marriedgames.com.br/desenvolvimento-de-jogos/adaptar-jogos-3d-para-diferentes-plataformas/)
 - [Campanhas de Crowdfunding para Jogos 3D: Financiamento Coletivo para seus Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/crowdfunding-para-jogos-3d/)
-- [Melhores Sites para Criar Jogos: Engines para Desenvolver Jogos Baseadas em Navegador](https://marriedgames.com.br/desenvolvimento-de-jogos/sites-para-criar-jogos/)
-- [Fazendo Jogos 2D de Física na Unity: Aprenda a Arremessar Objetos e Destruir Torres](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-2d-de-fisica-na-unity/)
-- [Do Movimento à Colisão: Uma Análise da Física nos Jogos 2D](https://marriedgames.com.br/desenvolvimento-de-jogos/fisica-nos-jogos-2d/)
 <!-- BLOG-POST-LIST:END -->
 
 
