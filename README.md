@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Otimização de Desempenho para Jogos 2D](https://marriedgames.com.br/desenvolvimento-de-jogos/otimizacao-de-desempenho-para-jogos-2d/)
 - [C# para Unity: Dominando a Arte da Programação de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/c-para-unity/)
 - [Guia Completo para Desenvolvedores Iniciantes na Unreal Engine](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvedores-iniciantes-na-unreal-engine/)
 - [Guia Detalhado de Microtransações em Jogos: Você Deve Implementar no seu Game?](https://marriedgames.com.br/desenvolvimento-de-jogos/microtransacoes-em-jogos/)
 - [We Are Football 24: Completo e Complexo](https://marriedgames.com.br/analises/we-are-football-24/)
-- [Como Ganhar Dinheiro com Jogos Indie: Um Guia das Principais Plataformas e Estratégias](https://marriedgames.com.br/desenvolvimento-de-jogos/como-ganhar-dinheiro-com-jogos-indie/)
 <!-- BLOG-POST-LIST:END -->
 
 
