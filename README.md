@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Descobrindo o Universo dos Games: Primeiros Passos para Futuros Desenvolvedores](https://www.youtube.com/watch?v=7y6-F7d2jpY)
+- [Superando Obstáculos no Desenvolvimento de Jogos: Histórias Reais de Sucesso](https://www.youtube.com/watch?v=Zi-a1CicNnQ)
 - [Unreal Engine atualiza modelo de preços e isso é muito bom](https://www.youtube.com/watch?v=rvVGLiuBEE4)
 - [História do GTA &lpar;15&rpar; #shorts #shortesyoutube  #gta #gtaiii #gtaiv #gtaonline  #games #sanandreas](https://www.youtube.com/watch?v=sq1Huk2bKFg)
 - [História do GTA &lpar;14&rpar; #shorts #gta #gtaiii #gtaiv #gtaonline  #games #gta #sanandreas](https://www.youtube.com/watch?v=j66BX2CU2-A)
-- [História do GTA &lpar;13&rpar; #shorts #gta #gtaiii #gtaiv #gtaonline  #games #gta #sanandreas](https://www.youtube.com/watch?v=wbqZYakhhms)
-- [Analista de Sistemas: MAIS DE R$ 50.000,00 &lpar;4&rpar; #analistadesistemas #analistasoftware #dev #salários](https://www.youtube.com/watch?v=eFpFz7WeXoE)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
