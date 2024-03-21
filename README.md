@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Conheça as Principais Formas de Monetização para Jogos e Escolha a Mais Rentável](https://marriedgames.com.br/desenvolvimento-de-jogos/principais-formas-de-monetizacao-para-jogos/)
+- [Saiba Tudo sobre Tecnologias de Captura de Movimento para Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/tecnologias-de-captura-de-movimento-para-jogos/)
+- [NFT? Criptoativos? Nada Disso! Saiba Como Fazer o Uso de Blockchain em Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/uso-de-blockchain-em-jogos/)
 - [Otimização de Desempenho para Jogos 2D](https://marriedgames.com.br/desenvolvimento-de-jogos/otimizacao-de-desempenho-para-jogos-2d/)
 - [C# para Unity: Dominando a Arte da Programação de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/c-para-unity/)
-- [Guia Completo para Desenvolvedores Iniciantes na Unreal Engine](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvedores-iniciantes-na-unreal-engine/)
-- [Guia Detalhado de Microtransações em Jogos: Você Deve Implementar no seu Game?](https://marriedgames.com.br/desenvolvimento-de-jogos/microtransacoes-em-jogos/)
-- [We Are Football 24: Completo e Complexo](https://marriedgames.com.br/analises/we-are-football-24/)
 <!-- BLOG-POST-LIST:END -->
 
 
