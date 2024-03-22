@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Olhá só o que você perdeu! Confere o link fixado, está esperando o que? #games #gamedev](https://www.youtube.com/watch?v=Upscs-yKKWw)
 - [Superando Obstáculos no Desenvolvimento de Jogos: Histórias Reais de Sucess](https://www.youtube.com/watch?v=Ji3Ae3Mzv80)
 - [Bugs e erros te deixam de cabelo em pé? 🛠️ #gta #historiadosjogos #gamedevelopment](https://www.youtube.com/watch?v=n4ffBtwFbZ4)
 - [De Gamer a Criador de Mundos](https://www.youtube.com/watch?v=basDBUaYXAg)
 - [Level Up nos Desafios do Dev de Games](https://www.youtube.com/watch?v=fj2tXpKpQU4)
-- [Transforme Medo em Magia: Torne-se um Desenvolvedor de Jogos de Sucesso!](https://www.youtube.com/watch?v=OmSZOkWLPdg)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
