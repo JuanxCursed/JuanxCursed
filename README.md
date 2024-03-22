@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como Criar Níveis Envolventes em Jogos: Indo Além do Level Design](https://marriedgames.com.br/desenvolvimento-de-jogos/como-criar-niveis-envolventes-em-jogos/)
+- [Técnicas de Storytelling em Jogos: Como a Narrativa Enriquece a Experiência de Jogo](https://marriedgames.com.br/desenvolvimento-de-jogos/tecnicas-de-storytelling-em-jogos/)
+- [Dicas e Truques sobre Como Fazer o Design de Personagens para Jogos 2D](https://marriedgames.com.br/desenvolvimento-de-jogos/design-de-personagens-para-jogos-2d/)
 - [Conheça as Principais Formas de Monetização para Jogos e Escolha a Mais Rentável](https://marriedgames.com.br/desenvolvimento-de-jogos/principais-formas-de-monetizacao-para-jogos/)
 - [Saiba Tudo sobre Tecnologias de Captura de Movimento para Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/tecnologias-de-captura-de-movimento-para-jogos/)
-- [NFT? Criptoativos? Nada Disso! Saiba Como Fazer o Uso de Blockchain em Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/uso-de-blockchain-em-jogos/)
-- [Otimização de Desempenho para Jogos 2D](https://marriedgames.com.br/desenvolvimento-de-jogos/otimizacao-de-desempenho-para-jogos-2d/)
-- [C# para Unity: Dominando a Arte da Programação de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/c-para-unity/)
 <!-- BLOG-POST-LIST:END -->
 
 
