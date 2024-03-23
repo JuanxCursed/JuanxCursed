@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dominando o Design de UI/UX para Jogos Móveis: Guia Completo](https://marriedgames.com.br/desenvolvimento-de-jogos/design-de-ui-ux-para-jogos-moveis/)
+- [IA para Personagens de Jogos 3D: Aprofundando nas Técnicas de IA Aplicadas](https://marriedgames.com.br/desenvolvimento-de-jogos/ia-para-personagens-de-jogos-3d/)
+- [Entendendo os Princípios do Design de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/principios-do-design-de-jogos/)
 - [Como Criar Níveis Envolventes em Jogos: Indo Além do Level Design](https://marriedgames.com.br/desenvolvimento-de-jogos/como-criar-niveis-envolventes-em-jogos/)
 - [Técnicas de Storytelling em Jogos: Como a Narrativa Enriquece a Experiência de Jogo](https://marriedgames.com.br/desenvolvimento-de-jogos/tecnicas-de-storytelling-em-jogos/)
-- [Dicas e Truques sobre Como Fazer o Design de Personagens para Jogos 2D](https://marriedgames.com.br/desenvolvimento-de-jogos/design-de-personagens-para-jogos-2d/)
-- [Conheça as Principais Formas de Monetização para Jogos e Escolha a Mais Rentável](https://marriedgames.com.br/desenvolvimento-de-jogos/principais-formas-de-monetizacao-para-jogos/)
-- [Saiba Tudo sobre Tecnologias de Captura de Movimento para Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/tecnologias-de-captura-de-movimento-para-jogos/)
 <!-- BLOG-POST-LIST:END -->
 
 
