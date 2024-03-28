@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Descubra o Curso Unity que Lidera em 2024: O Poder do Game Dev](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-unity-2/)
 - [Como Escrever Press Releases para Jogos: Saiba como Tornar seu Game Conhecido](https://marriedgames.com.br/desenvolvimento-de-jogos/escrever-press-releases-para-jogos/)
 - [Conheça as Melhores Práticas para Lojas In-Game na Hora de Monetizar seus Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/melhores-praticas-para-lojas-in-game/)
 - [Criação de Sprites para Jogos e Como fazê-los para o seu Game](https://marriedgames.com.br/desenvolvimento-de-jogos/criacao-de-sprites-para-jogos/)
 - [Modelos de Assinatura em Jogos: Vantagens e Desvantagens de “Não ter seus jogos”](https://marriedgames.com.br/desenvolvimento-de-jogos/modelos-de-assinatura-em-jogos/)
-- [Como Promover Jogos Indie: Aprenda a Fazer seu Jogo ser um Sucesso](https://marriedgames.com.br/desenvolvimento-de-jogos/como-promover-jogos-indie/)
 <!-- BLOG-POST-LIST:END -->
 
 
