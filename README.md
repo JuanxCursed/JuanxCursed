@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Curso de Programação Python](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-programacao-python/)
+- [Curso de Unity Online: Saiba Qual Escolher](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-unity-online/)
+- [Curso de Godot: Saiba Quais são os Melhores](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-godot/)
 - [Curso de Blender: Os Melhores – Do Básico ao Avançado](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-blender/)
 - [Curso Python: Descubra os Melhores Cursos](https://marriedgames.com.br/desenvolvimento-de-software/curso-python/)
-- [Descubra o Curso de Unity que Lidera em 2024: O Poder do Game Dev](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-unity-2/)
-- [Como Escrever Press Releases para Jogos: Saiba como Tornar seu Game Conhecido](https://marriedgames.com.br/desenvolvimento-de-jogos/escrever-press-releases-para-jogos/)
-- [Conheça as Melhores Práticas para Lojas In-Game na Hora de Monetizar seus Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/melhores-praticas-para-lojas-in-game/)
 <!-- BLOG-POST-LIST:END -->
 
 
