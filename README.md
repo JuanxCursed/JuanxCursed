@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Desenvolvimento de Jogos em HTML 5](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvimento-de-jogos-em-html-5/)
+- [Curso de Vue JS: Saiba Qual Escolher](https://marriedgames.com.br/desenvolvimento-de-software/curso-de-vue-js-saiba-qual-escolher/)
+- [Curso de Desenvolvedor Web: Saiba Qual Melhor Curso](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-desenvolvedor-web/)
+- [Desenvolvimento de Games 3D: Saiba como Começar](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvimento-de-games-3d/)
 - [Curso de Desenvolvedor de Games: Conheça os Melhores](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-desenvolvedor-de-games/)
-- [Os Melhores Cursos de Flutter](https://marriedgames.com.br/desenvolvimento-de-jogos/cursos-de-flutter/)
-- [Curso Desenvolvedor de jogos: Os Principais Cursos](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvedor-de-jogos/)
-- [Curso de Programação Python](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-programacao-python/)
-- [Curso de Unity Online: Saiba Qual Escolher](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-unity-online/)
 <!-- BLOG-POST-LIST:END -->
 
 
