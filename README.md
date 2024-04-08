@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Horizon Forbidden West no PC: Review](https://marriedgames.com.br/analises/horizon-forbidden-west-no-pc/)
 - [Cursos para Jogos 2D com Unity: Qual o melhor?](https://marriedgames.com.br/desenvolvimento-de-jogos/cursos-para-jogos-2d/)
 - [Desenvolvendo Jogos em Unity: Dicas e Truques para Iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvendo-jogos-em-unity/)
 - [Curso de Nuxt: Saiba quais os Melhores](https://marriedgames.com.br/desenvolvimento-de-software/curso-de-nuxt/)
 - [Desenvolvimento de Jogos em HTML 5](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvimento-de-jogos-em-html-5/)
-- [Curso de Vue JS: Saiba Qual Escolher](https://marriedgames.com.br/desenvolvimento-de-software/curso-de-vue-js-saiba-qual-escolher/)
 <!-- BLOG-POST-LIST:END -->
 
 
