@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como Fazer Publicidade em Jogos Mobile do Jeito Certo](https://marriedgames.com.br/desenvolvimento-de-jogos/publicidade-em-jogos-mobile/)
+- [O Melhor Curso Unity do Zero ao Profissional](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-unity-do-zero-ao-profissional/)
+- [Curso de Blender 3D: Qual o Melhor?](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-blender-3d/)
+- [Cursos de C# para Unity: Veja as Melhores Opções](https://marriedgames.com.br/desenvolvimento-de-jogos/cursos-de-c-para-unity/)
 - [Horizon Forbidden West no PC: Review](https://marriedgames.com.br/analises/horizon-forbidden-west-no-pc/)
-- [Cursos para Jogos 2D com Unity: Qual o melhor?](https://marriedgames.com.br/desenvolvimento-de-jogos/cursos-para-jogos-2d/)
-- [Desenvolvendo Jogos em Unity: Dicas e Truques para Iniciantes](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvendo-jogos-em-unity/)
-- [Curso de Nuxt: Saiba quais os Melhores](https://marriedgames.com.br/desenvolvimento-de-software/curso-de-nuxt/)
-- [Desenvolvimento de Jogos em HTML 5](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvimento-de-jogos-em-html-5/)
 <!-- BLOG-POST-LIST:END -->
 
 
