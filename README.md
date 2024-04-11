@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Fazer Publicidade em Jogos Mobile do Jeito Certo](https://marriedgames.com.br/desenvolvimento-de-jogos/publicidade-em-jogos-mobile/)
-- [O Melhor Curso Unity do Zero ao Profissional](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-unity-do-zero-ao-profissional/)
-- [Curso de Blender 3D: Qual o Melhor?](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-blender-3d/)
-- [Cursos de C# para Unity: Veja as Melhores Opções](https://marriedgames.com.br/desenvolvimento-de-jogos/cursos-de-c-para-unity/)
-- [Horizon Forbidden West no PC: Review](https://marriedgames.com.br/analises/horizon-forbidden-west-no-pc/)
+- [Como Fazer SEO para Jogos na Steam: Faça seu Game Aparecer na Frente da Concorrência](https://marriedgames.com.br/desenvolvimento-de-jogos/seo-para-jogos-na-steam/)
+- [Por que Aprender Python do Zero? Descubra os Motivos](https://marriedgames.com.br/desenvolvimento-de-jogos/aprender-python-do-zero/)
+- [Desenvolvendo Mecânicas Únicas para Jogos 2D](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvendo-mecanicas-unicas-para-jogos-2d/)
+- [Os Melhores Curso de Django](https://marriedgames.com.br/desenvolvimento-de-software/curso-de-django/)
+- [Texturização e Iluminação Em Jogos 3D: Princípios Básicos](https://marriedgames.com.br/desenvolvimento-de-jogos/texturizacao-e-iluminacao-em-jogos-3d/)
 <!-- BLOG-POST-LIST:END -->
 
 
