@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saiba Como Criar Física Realista em Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/como-criar-fisica-realista-em-jogos/)
+- [As Melhores Técnicas de Otimização para Jogos 2D](https://marriedgames.com.br/desenvolvimento-de-jogos/tecnicas-de-otimizacao-para-jogos-2d/)
+- [Como Criar um Modo Multiplayer em Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/multiplayer-em-jogos/)
 - [Como Fazer SEO para Jogos na Steam: Faça seu Game Aparecer na Frente da Concorrência](https://marriedgames.com.br/desenvolvimento-de-jogos/seo-para-jogos-na-steam/)
 - [Por que Aprender Python do Zero? Descubra os Motivos](https://marriedgames.com.br/desenvolvimento-de-jogos/aprender-python-do-zero/)
-- [Desenvolvendo Mecânicas Únicas para Jogos 2D](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvendo-mecanicas-unicas-para-jogos-2d/)
-- [Os Melhores Curso de Django](https://marriedgames.com.br/desenvolvimento-de-software/curso-de-django/)
-- [Texturização e Iluminação Em Jogos 3D: Princípios Básicos](https://marriedgames.com.br/desenvolvimento-de-jogos/texturizacao-e-iluminacao-em-jogos-3d/)
 <!-- BLOG-POST-LIST:END -->
 
 
