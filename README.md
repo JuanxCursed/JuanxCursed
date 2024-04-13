@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Criação de Sistemas de Partículas em Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/criacao-de-sistemas-de-particulas-em-jogos/)
+- [Ferramentas de IA para Desenvolvimento de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/ia-para-desenvolvimento-de-jogos/)
+- [Campanhas de Sucesso para Jogos: Saiba como Fazer a Sua](https://marriedgames.com.br/desenvolvimento-de-jogos/campanhas-de-sucesso-para-jogos/)
+- [Construindo Uma Base de Fãs para Jogos Indie](https://marriedgames.com.br/desenvolvimento-de-jogos/construindo-uma-base-de-fas-para-jogos-indie/)
 - [Saiba Como Criar Física Realista em Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/como-criar-fisica-realista-em-jogos/)
-- [As Melhores Técnicas de Otimização para Jogos 2D](https://marriedgames.com.br/desenvolvimento-de-jogos/tecnicas-de-otimizacao-para-jogos-2d/)
-- [Como Criar um Modo Multiplayer em Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/multiplayer-em-jogos/)
-- [Como Fazer SEO para Jogos na Steam: Faça seu Game Aparecer na Frente da Concorrência](https://marriedgames.com.br/desenvolvimento-de-jogos/seo-para-jogos-na-steam/)
-- [Por que Aprender Python do Zero? Descubra os Motivos](https://marriedgames.com.br/desenvolvimento-de-jogos/aprender-python-do-zero/)
 <!-- BLOG-POST-LIST:END -->
 
 
