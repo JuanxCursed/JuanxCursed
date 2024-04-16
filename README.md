@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Criação de Sistemas de Partículas em Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/criacao-de-sistemas-de-particulas-em-jogos/)
-- [Ferramentas de IA para Desenvolvimento de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/ia-para-desenvolvimento-de-jogos/)
-- [Campanhas de Sucesso para Jogos: Saiba como Fazer a Sua](https://marriedgames.com.br/desenvolvimento-de-jogos/campanhas-de-sucesso-para-jogos/)
-- [Construindo Uma Base de Fãs para Jogos Indie](https://marriedgames.com.br/desenvolvimento-de-jogos/construindo-uma-base-de-fas-para-jogos-indie/)
-- [Saiba Como Criar Física Realista em Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/como-criar-fisica-realista-em-jogos/)
+- [Review: TEAMGROUP T-FORCE Vulcan DDR5 5200](https://marriedgames.com.br/analises/t-force-vulcan-ddr5/)
+- [15 Melhores Softwares de Animação para Desenvolvedores de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/softwares-de-animacao-para-desenvolvedores-de-jogos/)
+- [Curso de Modelagem no Blender: Tudo o que Você Vai Aprender](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-modelagem-no-blender/)
+- [Design de Personagens para Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/design-de-personagens-para-jogos/)
+- [Técnicas de Pixel Art: Aprenda a Fazer](https://marriedgames.com.br/desenvolvimento-de-jogos/tecnicas-de-pixel-art/)
 <!-- BLOG-POST-LIST:END -->
 
 
