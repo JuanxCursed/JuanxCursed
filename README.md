@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Conheça Técnicas Avançadas de Shading em Jogos 3D](https://marriedgames.com.br/desenvolvimento-de-jogos/tecnicas-avancadas-de-shading-em-jogos-3d/)
+- [Conheça a Unreal Engine: A Ferramenta Suprema para Criar Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/conheca-a-unreal-engine/)
+- [Quanto Ganha um Desenvolvedor de Jogos?](https://marriedgames.com.br/desenvolvimento-de-jogos/ganha-um-desenvolvedor-de-jogos/)
+- [Como Fazer Um Fan Game? Aprenda](https://marriedgames.com.br/desenvolvimento-de-jogos/como-fazer-um-fan-game/)
 - [Como Fazer Marketing para Jogos VR/AR](https://marriedgames.com.br/desenvolvimento-de-jogos/marketing-para-jogos-vr-ar/)
-- [Review: TEAMGROUP T-FORCE Vulcan DDR5 5200](https://marriedgames.com.br/analises/t-force-vulcan-ddr5/)
-- [15 Melhores Softwares de Animação para Desenvolvedores de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/softwares-de-animacao-para-desenvolvedores-de-jogos/)
-- [Curso de Modelagem no Blender: Tudo o que Você Vai Aprender](https://marriedgames.com.br/desenvolvimento-de-jogos/curso-de-modelagem-no-blender/)
-- [Design de Personagens para Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/design-de-personagens-para-jogos/)
 <!-- BLOG-POST-LIST:END -->
 
 
