@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como Instalar Mesa Digitalizadora](https://marriedgames.com.br/desenvolvimento-de-jogos/instalar-mesa-digitalizadora/)
+- [Saiba Quais Ferramentas de Desenvolvimento Jogos 2D Você Deve Usar](https://marriedgames.com.br/desenvolvimento-de-jogos/ferramentas-de-desenvolvimento-jogos-2d/)
+- [Como Criar Cenários Envolventes em Jogos 2D](https://marriedgames.com.br/desenvolvimento-de-jogos/como-criar-cenarios-envolventes-em-jogos-2d/)
+- [Implementação de Som 3D em Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/implementacao-de-som-3d-em-jogos/)
 - [Conheça Técnicas Avançadas de Shading em Jogos 3D](https://marriedgames.com.br/desenvolvimento-de-jogos/tecnicas-avancadas-de-shading-em-jogos-3d/)
-- [Conheça a Unreal Engine: A Ferramenta Suprema para Criar Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/conheca-a-unreal-engine/)
-- [Quanto Ganha um Desenvolvedor de Jogos?](https://marriedgames.com.br/desenvolvimento-de-jogos/ganha-um-desenvolvedor-de-jogos/)
-- [Como Fazer Um Fan Game? Aprenda](https://marriedgames.com.br/desenvolvimento-de-jogos/como-fazer-um-fan-game/)
-- [Como Fazer Marketing para Jogos VR/AR](https://marriedgames.com.br/desenvolvimento-de-jogos/marketing-para-jogos-vr-ar/)
 <!-- BLOG-POST-LIST:END -->
 
 
