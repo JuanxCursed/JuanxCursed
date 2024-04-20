@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aprenda Desenvolvimento de Jogos com JavaScript](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-com-javascript/)
+- [Dicas para Iniciantes em Arte para Jogos 2D](https://marriedgames.com.br/desenvolvimento-de-jogos/arte-para-jogos-2d/)
+- [É Possível Ter Sucesso Lançando Jogos 2D no Mercado?](https://marriedgames.com.br/desenvolvimento-de-jogos/sucesso-lancando-jogos-2d/)
+- [Tudo Sobre Modelagem 3D para Desenvolvedores de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/modelagem-3d-para-desenvolvedores-de-jogos/)
 - [Como Instalar Mesa Digitalizadora](https://marriedgames.com.br/desenvolvimento-de-jogos/instalar-mesa-digitalizadora/)
-- [Saiba Quais Ferramentas de Desenvolvimento Jogos 2D Você Deve Usar](https://marriedgames.com.br/desenvolvimento-de-jogos/ferramentas-de-desenvolvimento-jogos-2d/)
-- [Como Criar Cenários Envolventes em Jogos 2D](https://marriedgames.com.br/desenvolvimento-de-jogos/como-criar-cenarios-envolventes-em-jogos-2d/)
-- [Implementação de Som 3D em Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/implementacao-de-som-3d-em-jogos/)
-- [Conheça Técnicas Avançadas de Shading em Jogos 3D](https://marriedgames.com.br/desenvolvimento-de-jogos/tecnicas-avancadas-de-shading-em-jogos-3d/)
 <!-- BLOG-POST-LIST:END -->
 
 
