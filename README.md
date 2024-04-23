@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Saiba como Criar seus Jogos Passo a Passo](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-seus-jogos/)
+- [Blender: Como Unir Objetos com Modificador Boolean](https://marriedgames.com.br/desenvolvimento-de-jogos/modificador-boolean/)
+- [Como se Tornar um Desenvolvedor de Games Profissional](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvedor-de-games-profissional/)
+- [Dicas e Melhores Práticas de Level Design para Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/melhores-praticas-de-level-design/)
 - [Aprenda Desenvolvimento de Jogos com JavaScript](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-com-javascript/)
-- [Dicas para Iniciantes em Arte para Jogos 2D](https://marriedgames.com.br/desenvolvimento-de-jogos/arte-para-jogos-2d/)
-- [É Possível Ter Sucesso Lançando Jogos 2D no Mercado?](https://marriedgames.com.br/desenvolvimento-de-jogos/sucesso-lancando-jogos-2d/)
-- [Tudo Sobre Modelagem 3D para Desenvolvedores de Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/modelagem-3d-para-desenvolvedores-de-jogos/)
-- [Como Instalar Mesa Digitalizadora](https://marriedgames.com.br/desenvolvimento-de-jogos/instalar-mesa-digitalizadora/)
 <!-- BLOG-POST-LIST:END -->
 
 
