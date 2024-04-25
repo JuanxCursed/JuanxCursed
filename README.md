@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Identificação com Personagens de Videogame](https://marriedgames.com.br/desenvolvimento-de-jogos/identificacao-com-personagens-de-videogame/)
+- [Como Fazer Arte Conceitual de Personagens de Videogame](https://marriedgames.com.br/desenvolvimento-de-jogos/arte-conceitual-de-personagens-de-videogame/)
+- [Animação de Personagens 3D: Saiba Como Fazer](https://marriedgames.com.br/desenvolvimento-de-jogos/animacao-de-personagens-3d/)
+- [Marketing Digital para Jogos: Estratégias para seu Game Chegar Mais Longe](https://marriedgames.com.br/desenvolvimento-de-jogos/marketing-digital-para-jogos/)
 - [Saiba como Criar seus Jogos Passo a Passo](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-seus-jogos/)
-- [Blender: Como Unir Objetos com Modificador Boolean](https://marriedgames.com.br/desenvolvimento-de-jogos/modificador-boolean/)
-- [Como se Tornar um Desenvolvedor de Games Profissional](https://marriedgames.com.br/desenvolvimento-de-jogos/desenvolvedor-de-games-profissional/)
-- [Dicas e Melhores Práticas de Level Design para Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/melhores-praticas-de-level-design/)
-- [Aprenda Desenvolvimento de Jogos com JavaScript](https://marriedgames.com.br/desenvolvimento-de-jogos/jogos-com-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 
