@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guia Definitivo para Criar e Desenhar Personagens passo-a-passo](https://marriedgames.com.br/dicas-guias/como-desenhar-um-personagem/)
+- [Como Criar Personagens para Jogos: Entendendo o Sonic](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-personagens-para-jogos/)
+- [Modelando um Personagem de Jogos: Como Começar a sua Criação](https://marriedgames.com.br/desenvolvimento-de-jogos/modelando-um-personagem-de-jogos/)
 - [Identificação com Personagens de Videogame](https://marriedgames.com.br/desenvolvimento-de-jogos/identificacao-com-personagens-de-videogame/)
 - [Como Fazer Arte Conceitual de Personagens de Videogame](https://marriedgames.com.br/desenvolvimento-de-jogos/arte-conceitual-de-personagens-de-videogame/)
-- [Animação de Personagens 3D: Saiba Como Fazer](https://marriedgames.com.br/desenvolvimento-de-jogos/animacao-de-personagens-3d/)
-- [Marketing Digital para Jogos: Estratégias para seu Game Chegar Mais Longe](https://marriedgames.com.br/desenvolvimento-de-jogos/marketing-digital-para-jogos/)
-- [Saiba como Criar seus Jogos Passo a Passo](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-seus-jogos/)
 <!-- BLOG-POST-LIST:END -->
 
 
