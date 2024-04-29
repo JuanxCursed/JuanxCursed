@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kit Viper Pro Mamba com Teclado e Mouse Gamer da Viper Pro Gamer](https://marriedgames.com.br/analises/kit-viper-pro-mamba/)
 - [Os 12 Arquétipos de Personagens nos Games e Como Usá-los](https://marriedgames.com.br/desenvolvimento-de-jogos/arquetipos-de-personagens-nos-games/)
 - [Como Criar Personagens para Games: Entendendo o Super Mario](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-personagens-para-games/)
 - [Guia Definitivo para Criar e Desenhar Personagens passo-a-passo](https://marriedgames.com.br/dicas-guias/como-desenhar-um-personagem/)
 - [Como Criar Personagens para Jogos: Entendendo o Sonic](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-personagens-para-jogos/)
-- [Modelando um Personagem de Jogos: Como Começar a sua Criação](https://marriedgames.com.br/desenvolvimento-de-jogos/modelando-um-personagem-de-jogos/)
 <!-- BLOG-POST-LIST:END -->
 
 
