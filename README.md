@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Kit Viper Pro Mamba com Teclado e Mouse Gamer da Viper Pro Gamer](https://marriedgames.com.br/analises/kit-viper-pro-mamba/)
-- [Os 12 Arquétipos de Personagens nos Games e Como Usá-los](https://marriedgames.com.br/desenvolvimento-de-jogos/arquetipos-de-personagens-nos-games/)
-- [Como Criar Personagens para Games: Entendendo o Super Mario](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-personagens-para-games/)
-- [Guia Definitivo para Criar e Desenhar Personagens passo-a-passo](https://marriedgames.com.br/dicas-guias/como-desenhar-um-personagem/)
-- [Como Criar Personagens para Jogos: Entendendo o Sonic](https://marriedgames.com.br/desenvolvimento-de-jogos/criar-personagens-para-jogos/)
+- [Linguagens de Programação para Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/linguagens-de-programacao-para-jogos/)
+- [Sneki Snek e Sonic The Hedgehog aceleram em nova coleção de produtos](https://marriedgames.com.br/noticias/sneki-snek-e-sonic/)
+- [Roadmap TEKKEN 8 revela próximos passos e atualizações do jogo](https://marriedgames.com.br/noticias/roadmap-tekken-8/)
+- [Como Criar Personagens Memoráveis](https://marriedgames.com.br/desenvolvimento-de-jogos/personagens-memoraveis/)
+- [Ele Está de Volta! Marco Rodrigues em FATAL FURY: City of the Wolves!](https://marriedgames.com.br/noticias/ele-esta-de-volta-marco-rodrigues-em-fatal-fury-city-of-the-wolves/)
 <!-- BLOG-POST-LIST:END -->
 
 
