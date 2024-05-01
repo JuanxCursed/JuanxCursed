@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Blender 3D: Crie Qualquer Objeto com Apenas 3 Comandos!](https://www.youtube.com/watch?v=go0t7bvkmXk)
 - [Brakeys voltou!! Maior canal de Game Dev do Mundo](https://www.youtube.com/watch?v=GTI1MsEAsvc)
 - [Unreal Engine 5.4: Principais novidades [GAME CHANGER]](https://www.youtube.com/watch?v=jp3yPiuCH14)
 - [Qual Game Engine Escolher? Guia Completo: Unity, Unreal, GameMaker, Godot!](https://www.youtube.com/watch?v=8B_H7i5lHvI)
 - [Godot 4: Como Instalar no Windows [Grátis] – Guia Completo para Iniciantes](https://www.youtube.com/watch?v=D8CcYFlSM-8)
-- [Blender: Como unir objetos e o segredo do modificador Boolean &lpar;Guia Completo&rpar;](https://www.youtube.com/watch?v=3kPw69wWyDI)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
