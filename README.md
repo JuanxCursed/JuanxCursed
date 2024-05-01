@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Linguagens de Programação para Jogos](https://marriedgames.com.br/desenvolvimento-de-jogos/linguagens-de-programacao-para-jogos/)
-- [Sneki Snek e Sonic The Hedgehog aceleram em nova coleção de produtos](https://marriedgames.com.br/noticias/sneki-snek-e-sonic/)
-- [Roadmap TEKKEN 8 revela próximos passos e atualizações do jogo](https://marriedgames.com.br/noticias/roadmap-tekken-8/)
-- [Como Criar Personagens Memoráveis](https://marriedgames.com.br/desenvolvimento-de-jogos/personagens-memoraveis/)
-- [Ele Está de Volta! Marco Rodrigues em FATAL FURY: City of the Wolves!](https://marriedgames.com.br/noticias/ele-esta-de-volta-marco-rodrigues-em-fatal-fury-city-of-the-wolves/)
+- [Ferramentas Para Criar Personagens de Games](https://marriedgames.com.br/desenvolvimento-de-jogos/ferramentas-para-criar-personagens-de-games/)
+- [Torne-se um deicida no Panteão, a nova arena de chefes de Destiny 2](https://marriedgames.com.br/noticias/arena-de-chefes-de-destiny-2/)
+- [Assassins Creed Mirage no iOS em 6 de junho](https://marriedgames.com.br/noticias/assassins-creed-mirage-no-ios/)
+- [Temporada 4: Renascer do Saque de Diablo IV chega em 14 de maio](https://marriedgames.com.br/noticias/renascer-do-saque-de-diablo-iv/)
+- [Como Fazer um jogo no Godot: Nodes e Cenas](https://marriedgames.com.br/desenvolvimento-de-jogos/como-fazer-um-jogo-no-godot/)
 <!-- BLOG-POST-LIST:END -->
 
 
