@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [GameDev 2024: Melhores Engines #shorts #unityengine #blender #unrealengine](https://www.youtube.com/watch?v=xqIISe6Zw_8)
 - [Como Ganhar Dinheiro com Jogos em 2024 [Guia Completo]](https://www.youtube.com/watch?v=II3oJ_i1Hcc)
 - [Blender 3D: Crie Qualquer Objeto com Apenas 3 Comandos!](https://www.youtube.com/watch?v=go0t7bvkmXk)
 - [Brakeys voltou!! Maior canal de Game Dev do Mundo](https://www.youtube.com/watch?v=GTI1MsEAsvc)
 - [Unreal Engine 5.4: Principais novidades [GAME CHANGER]](https://www.youtube.com/watch?v=jp3yPiuCH14)
-- [Qual Game Engine Escolher? Guia Completo: Unity, Unreal, GameMaker, Godot!](https://www.youtube.com/watch?v=8B_H7i5lHvI)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
