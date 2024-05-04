@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Abragames celebra sanção presidencial do Marco Legal dos Games](https://marriedgames.com.br/noticias/marco-legal-dos-games-2/)
+- [Mini-Tutorial de Criação de Instâncias no Godot](https://marriedgames.com.br/desenvolvimento-de-jogos/criacao-de-instancias-no-godot/)
+- [Blender para Novatos: Extrusão, Mescla e Mais](https://marriedgames.com.br/dicas-guias/blender-para-novatos/)
+- [Diversidade de Personagens em Games: Como Fazer e a Importância](https://marriedgames.com.br/desenvolvimento-de-jogos/diversidade-de-personagens-em-games/)
 - [Ferramentas Para Criar Personagens de Games](https://marriedgames.com.br/desenvolvimento-de-jogos/ferramentas-para-criar-personagens-de-games/)
-- [Torne-se um deicida no Panteão, a nova arena de chefes de Destiny 2](https://marriedgames.com.br/noticias/arena-de-chefes-de-destiny-2/)
-- [Assassins Creed Mirage no iOS em 6 de junho](https://marriedgames.com.br/noticias/assassins-creed-mirage-no-ios/)
-- [Temporada 4: Renascer do Saque de Diablo IV chega em 14 de maio](https://marriedgames.com.br/noticias/renascer-do-saque-de-diablo-iv/)
-- [Como Fazer um jogo no Godot: Nodes e Cenas](https://marriedgames.com.br/desenvolvimento-de-jogos/como-fazer-um-jogo-no-godot/)
 <!-- BLOG-POST-LIST:END -->
 
 
