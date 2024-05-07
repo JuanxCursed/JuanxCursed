@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guia Completo para Publicar Jogos Independentes](https://marriedgames.com.br/desenvolvimento-de-jogos/guia-completo-para-publicar-jogos-independentes/)
+- [Abragames celebra sanção presidencial e as novas perspectivas para a indústria nacional](https://marriedgames.com.br/noticias/abragames-celebra-sancao-presidencial/)
+- [Psicologia do Personagem: Como Criar Personagens Profundos](https://marriedgames.com.br/desenvolvimento-de-jogos/psicologia-do-personagem/)
+- [Conheça as Linguagens de Script da Godot](https://marriedgames.com.br/desenvolvimento-de-jogos/linguagens-de-script-da-godot/)
 - [Abragames celebra sanção presidencial do Marco Legal dos Games](https://marriedgames.com.br/noticias/marco-legal-dos-games-2/)
-- [Mini-Tutorial de Criação de Instâncias no Godot](https://marriedgames.com.br/desenvolvimento-de-jogos/criacao-de-instancias-no-godot/)
-- [Blender para Novatos: Extrusão, Mescla e Mais](https://marriedgames.com.br/dicas-guias/blender-para-novatos/)
-- [Diversidade de Personagens em Games: Como Fazer e a Importância](https://marriedgames.com.br/desenvolvimento-de-jogos/diversidade-de-personagens-em-games/)
-- [Ferramentas Para Criar Personagens de Games](https://marriedgames.com.br/desenvolvimento-de-jogos/ferramentas-para-criar-personagens-de-games/)
 <!-- BLOG-POST-LIST:END -->
 
 
