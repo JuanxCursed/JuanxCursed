@@ -116,8 +116,8 @@ I've just born to do it.
   </a> 
 </p>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2340](https://github.com/FlutterFlow/flutterflow-issues/issues/2340#issuecomment-1969613712) in [FlutterFlow/flutterflow-issues](https://github.com/FlutterFlow/flutterflow-issues)
-2. ❗ Opened issue [#950](https://github.com/supabase/supabase-js/issues/950) in [supabase/supabase-js](https://github.com/supabase/supabase-js)
+1. 🗣 Commented on [#4932](https://github.com/transloadit/uppy/issues/4932#issuecomment-2097400673) in [transloadit/uppy](https://github.com/transloadit/uppy)
+2. 🗣 Commented on [#2340](https://github.com/FlutterFlow/flutterflow-issues/issues/2340#issuecomment-1969613712) in [FlutterFlow/flutterflow-issues](https://github.com/FlutterFlow/flutterflow-issues)
 3. 🗣 Commented on [#81](https://github.com/JohnCampionJr/vite-plugin-vue-layouts/issues/81) in [JohnCampionJr/vite-plugin-vue-layouts](https://github.com/JohnCampionJr/vite-plugin-vue-layouts)
 4. 💪 Opened PR [#6](https://github.com/JuanxCursed/calendar/pull/6) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
 5. 🎉 Merged PR [#5](https://github.com/JuanxCursed/calendar/pull/5) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
