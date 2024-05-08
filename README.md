@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [O que é Retopologia? Um Guia de Introdução Completo para Iniciantes](https://marriedgames.com.br/dicas-guias/retopologia/)
 - [Guia Completo para Publicar Jogos Independentes](https://marriedgames.com.br/desenvolvimento-de-jogos/guia-completo-para-publicar-jogos-independentes/)
 - [Abragames celebra sanção presidencial e as novas perspectivas para a indústria nacional](https://marriedgames.com.br/noticias/abragames-celebra-sancao-presidencial/)
 - [Psicologia do Personagem: Como Criar Personagens Profundos](https://marriedgames.com.br/desenvolvimento-de-jogos/psicologia-do-personagem/)
 - [Conheça as Linguagens de Script da Godot](https://marriedgames.com.br/desenvolvimento-de-jogos/linguagens-de-script-da-godot/)
-- [Abragames celebra sanção presidencial do Marco Legal dos Games](https://marriedgames.com.br/noticias/marco-legal-dos-games-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
