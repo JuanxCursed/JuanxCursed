@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Como Fazer Música com Chiptunes para seus Games](https://marriedgames.com.br/desenvolvimento-de-jogos/musica-com-chiptunes/)
+- [Última atualização de Dragonflight, Coração Sombrio, já está disponível](https://marriedgames.com.br/noticias/coracao-sombrio/)
+- [Criando seu Primeiro Script em Godot](https://marriedgames.com.br/desenvolvimento-de-jogos/script-em-godot/)
+- [Quanto Custa para Criar um Game e Qual o Salário dos Profissionais](https://marriedgames.com.br/desenvolvimento-de-jogos/quanto-custa-para-criar-um-game/)
 - [O que é Retopologia? Um Guia de Introdução Completo para Iniciantes](https://marriedgames.com.br/dicas-guias/retopologia/)
-- [Guia Completo para Publicar Jogos Independentes](https://marriedgames.com.br/desenvolvimento-de-jogos/guia-completo-para-publicar-jogos-independentes/)
-- [Abragames celebra sanção presidencial e as novas perspectivas para a indústria nacional](https://marriedgames.com.br/noticias/abragames-celebra-sancao-presidencial/)
-- [Psicologia do Personagem: Como Criar Personagens Profundos](https://marriedgames.com.br/desenvolvimento-de-jogos/psicologia-do-personagem/)
-- [Conheça as Linguagens de Script da Godot](https://marriedgames.com.br/desenvolvimento-de-jogos/linguagens-de-script-da-godot/)
 <!-- BLOG-POST-LIST:END -->
 
 
