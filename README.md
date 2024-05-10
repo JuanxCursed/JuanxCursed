@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Modelos para Blender: Onde Encontrar Assets Grátis e Pagos](https://marriedgames.com.br/desenvolvimento-de-jogos/modelos-para-blender/)
+- [Woohoo é media partner do Bomb Challenge, novo campeonato da Esportsmaker](https://marriedgames.com.br/noticias/bomb-challenge/)
+- [5 Ferramentas do Blender que Todo Usuário de Conhecer](https://marriedgames.com.br/desenvolvimento-de-jogos/ferramentas-do-blender/)
+- [Script de Movimento no Godot: Faça seus Sprites se Moverem na Tela](https://marriedgames.com.br/desenvolvimento-de-jogos/script-de-movimento-no-godot/)
 - [Como Fazer Música com Chiptunes para seus Games](https://marriedgames.com.br/desenvolvimento-de-jogos/musica-com-chiptunes/)
-- [Última atualização de Dragonflight, Coração Sombrio, já está disponível](https://marriedgames.com.br/noticias/coracao-sombrio/)
-- [Criando seu Primeiro Script em Godot](https://marriedgames.com.br/desenvolvimento-de-jogos/script-em-godot/)
-- [Quanto Custa para Criar um Game e Qual o Salário dos Profissionais](https://marriedgames.com.br/desenvolvimento-de-jogos/quanto-custa-para-criar-um-game/)
-- [O que é Retopologia? Um Guia de Introdução Completo para Iniciantes](https://marriedgames.com.br/dicas-guias/retopologia/)
 <!-- BLOG-POST-LIST:END -->
 
 
