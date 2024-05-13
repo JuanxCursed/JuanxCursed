@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sand Land: O Presente de Despedida de Toryama para os Fãs](https://marriedgames.com.br/analises/sand-land/)
 - [SSD T-FORCE M200: Velocidade e Durabilidade](https://marriedgames.com.br/analises/ssd-t-force-m200/)
 - [Signals no Godot: Aprenda a Enviar Comandos para o seu Jogo](https://marriedgames.com.br/desenvolvimento-de-jogos/signals-no-godot/)
 - [Principais Mecanismos de Renderização no Blender](https://marriedgames.com.br/desenvolvimento-de-jogos/renderizacao-no-blender/)
 - [Modelos para Blender: Onde Encontrar Assets Grátis e Pagos](https://marriedgames.com.br/desenvolvimento-de-jogos/modelos-para-blender/)
-- [Woohoo é media partner do Bomb Challenge, novo campeonato da Esportsmaker](https://marriedgames.com.br/noticias/bomb-challenge/)
 <!-- BLOG-POST-LIST:END -->
 
 
