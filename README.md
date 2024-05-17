@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
-- [Segredos dos Games: Descubra o Mundo dos Level Designers!](https://www.youtube.com/watch?v=guXh_GgMc4o)
-- [Descubra Como Eram Criados os Inesquecíveis Jogos do SNES [Super Nintendo]](https://www.youtube.com/watch?v=D03XyNQeXvE)
+- [Blender 4.1: Instalar rápido e fácil [Tutorial em Português | Guia Completo]](https://www.youtube.com/watch?v=8kbrEb0RHeY)
+- [Descubra o Mundo dos Level Designers!](https://www.youtube.com/watch?v=guXh_GgMc4o)
+- [Super Nintendo: Como eram criados os inesquecíveis jogos do SNES](https://www.youtube.com/watch?v=D03XyNQeXvE)
 - [Criar jogos direto no navegador! Tem como?](https://www.youtube.com/watch?v=ZAPKJBGXRH0)
 - [GameDev 2024: Melhores Engines #shorts #unityengine #blender #unrealengine](https://www.youtube.com/watch?v=xqIISe6Zw_8)
-- [Como Ganhar Dinheiro com Jogos em 2024 [Guia Completo]](https://www.youtube.com/watch?v=II3oJ_i1Hcc)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
