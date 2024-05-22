@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [O que é uma API [Guia em Português | Completo]](https://www.youtube.com/watch?v=XgNSfT_su-k)
 - [Blender 4.1: Instalar rápido e fácil [Tutorial em Português | Guia Completo]](https://www.youtube.com/watch?v=8kbrEb0RHeY)
 - [Descubra o Mundo dos Level Designers!](https://www.youtube.com/watch?v=guXh_GgMc4o)
 - [Super Nintendo: Como eram criados os inesquecíveis jogos do SNES](https://www.youtube.com/watch?v=D03XyNQeXvE)
 - [Criar jogos direto no navegador! Tem como?](https://www.youtube.com/watch?v=ZAPKJBGXRH0)
-- [GameDev 2024: Melhores Engines #shorts #unityengine #blender #unrealengine](https://www.youtube.com/watch?v=xqIISe6Zw_8)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
