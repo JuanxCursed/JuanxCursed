@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Game Dev: Mercado de trabalho #shorts #desenvolvimentodejogos #gamedev #gamedevelopment](https://www.youtube.com/watch?v=J7Bls8boPi4)
 - [Segredos das Trilhas Sonoras de Jogos](https://www.youtube.com/watch?v=wjGZdR3wmg8)
 - [Como são feitos os jogos de luta](https://www.youtube.com/watch?v=9wt5H22g1XI)
 - [O que é uma API [Guia em Português | Completo]](https://www.youtube.com/watch?v=XgNSfT_su-k)
 - [Blender 4.1: Instalar rápido e fácil [Tutorial em Português | Guia Completo]](https://www.youtube.com/watch?v=8kbrEb0RHeY)
-- [Descubra o Mundo dos Level Designers!](https://www.youtube.com/watch?v=guXh_GgMc4o)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
