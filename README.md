@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Crie Jogos no Celular: As Top Ferramentas de 2024](https://www.youtube.com/watch?v=21P4kfs4p4w)
 - [Game Dev: Mercado de trabalho #shorts #desenvolvimentodejogos #gamedev #gamedevelopment](https://www.youtube.com/watch?v=J7Bls8boPi4)
 - [Segredos das Trilhas Sonoras de Jogos](https://www.youtube.com/watch?v=wjGZdR3wmg8)
 - [Como são feitos os jogos de luta](https://www.youtube.com/watch?v=9wt5H22g1XI)
 - [O que é uma API [Guia em Português | Completo]](https://www.youtube.com/watch?v=XgNSfT_su-k)
-- [Blender 4.1: Instalar rápido e fácil [Tutorial em Português | Guia Completo]](https://www.youtube.com/watch?v=8kbrEb0RHeY)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
