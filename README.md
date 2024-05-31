@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fabledom: Construa seu Reino de Conto de Fadas](https://marriedgames.com.br/analises/fabledom/)
 - [Mapeamento UV no Blender: Como Fazer em 6 Passos](https://marriedgames.com.br/dicas-guias/mapeamento-uv/)
 - [DELTA TUF RGB DDR5 da T-Force: Muito Poder para seu PC](https://marriedgames.com.br/analises/delta-tuf-rgb-ddr5/)
 - [Sand Land: O Presente de Despedida de Toryama para os Fãs](https://marriedgames.com.br/analises/sand-land/)
 - [SSD T-FORCE M200: Velocidade e Durabilidade](https://marriedgames.com.br/analises/ssd-t-force-m200/)
-- [Signals no Godot: Aprenda a Enviar Comandos para o seu Jogo](https://marriedgames.com.br/desenvolvimento-de-jogos/signals-no-godot/)
 <!-- BLOG-POST-LIST:END -->
 
 
