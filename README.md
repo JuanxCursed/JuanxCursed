@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Blender: Faça Seu Objeto Seguir Curvas](https://www.youtube.com/watch?v=gjL0ATPwSUc)
 - [Game Dev: Quanto Cobrar part. 2 #shorts #precificação #gamedevelopment](https://www.youtube.com/watch?v=tjgzZAb0WiA)
 - [Game Dev: Quanto Cobrar part. 1 #shorts #precificação #gamedevelopment](https://www.youtube.com/watch?v=wbsihJYnKSE)
 - [Top Ferramentas Para Criar Jogos No Celular Em 2024: Imperdível!](https://www.youtube.com/watch?v=21P4kfs4p4w)
 - [Game Dev: Mercado de trabalho #shorts #desenvolvimentodejogos #gamedev #gamedevelopment](https://www.youtube.com/watch?v=J7Bls8boPi4)
-- [Som do jogo: O que eles não querem que você saiba?](https://www.youtube.com/watch?v=wjGZdR3wmg8)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
