@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [V Rising: Hack’n’Slash de Vampiro para Brujah Nenhum Botar Defeito](https://marriedgames.com.br/analises/v-rising/)
 - [TEAMGROUP na  Computex 2024 delimita novos patamares](https://marriedgames.com.br/noticias/teamgroup-na-computex-2024/)
 - [Fabledom: Construa seu Reino de Conto de Fadas](https://marriedgames.com.br/analises/fabledom/)
 - [Mapeamento UV no Blender: Como Fazer em 6 Passos](https://marriedgames.com.br/dicas-guias/mapeamento-uv/)
 - [DELTA TUF RGB DDR5 da T-Force: Muito Poder para seu PC](https://marriedgames.com.br/analises/delta-tuf-rgb-ddr5/)
-- [Sand Land: O Presente de Despedida de Toryama para os Fãs](https://marriedgames.com.br/analises/sand-land/)
 <!-- BLOG-POST-LIST:END -->
 
 
