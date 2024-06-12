@@ -142,11 +142,11 @@ I've just born to do it.
 ## My last blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TORNE-SE O HEROI DA SUA PRÓPRIA AVENTURA EM DRAGON AGE: THE VEILGUARD](https://marriedgames.com.br/noticias/dragon-age-the-veilguard/)
 - [V Rising: Hack’n’Slash de Vampiro para Brujah Nenhum Botar Defeito](https://marriedgames.com.br/analises/v-rising/)
 - [TEAMGROUP na  Computex 2024 delimita novos patamares](https://marriedgames.com.br/noticias/teamgroup-na-computex-2024/)
 - [Fabledom: Construa seu Reino de Conto de Fadas](https://marriedgames.com.br/analises/fabledom/)
 - [Mapeamento UV no Blender: Como Fazer em 6 Passos](https://marriedgames.com.br/dicas-guias/mapeamento-uv/)
-- [DELTA TUF RGB DDR5 da T-Force: Muito Poder para seu PC](https://marriedgames.com.br/analises/delta-tuf-rgb-ddr5/)
 <!-- BLOG-POST-LIST:END -->
 
 
