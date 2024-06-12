@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Unreal Engine: Como melhorar a performance [Tutorial em Portugês]](https://www.youtube.com/watch?v=PIV2MWzso58)
 - [Godot: Como deixar seu código melhor [Tutorial em Português]](https://www.youtube.com/watch?v=Beg-_bV8VWk)
 - [Blender: Faça Seu Objeto Seguir Curvas  [Tutorial em Português]](https://www.youtube.com/watch?v=gjL0ATPwSUc)
 - [Game Dev: Quanto Cobrar part. 2 #shorts #precificação #gamedevelopment](https://www.youtube.com/watch?v=tjgzZAb0WiA)
 - [Game Dev: Quanto Cobrar part. 1 #shorts #precificação #gamedevelopment](https://www.youtube.com/watch?v=wbsihJYnKSE)
-- [Top Ferramentas Para Criar Jogos No Celular Em 2024: Imperdível!](https://www.youtube.com/watch?v=21P4kfs4p4w)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
