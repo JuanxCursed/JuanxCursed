@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Blender: Uma ferramenta ESSENCIAL para a criação 3D](https://www.youtube.com/watch?v=nZ5_v6caTBo)
 - [Unreal Engine: Como melhorar a performance [Tutorial em Portugês]](https://www.youtube.com/watch?v=PIV2MWzso58)
 - [Godot: Como deixar seu código melhor [Tutorial em Português]](https://www.youtube.com/watch?v=Beg-_bV8VWk)
 - [Blender: Faça Seu Objeto Seguir Curvas  [Tutorial em Português]](https://www.youtube.com/watch?v=gjL0ATPwSUc)
 - [Game Dev: Quanto Cobrar part. 2 #shorts #precificação #gamedevelopment](https://www.youtube.com/watch?v=tjgzZAb0WiA)
-- [Game Dev: Quanto Cobrar part. 1 #shorts #precificação #gamedevelopment](https://www.youtube.com/watch?v=wbsihJYnKSE)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
