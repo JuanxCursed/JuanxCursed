@@ -116,11 +116,11 @@ I've just born to do it.
   </a> 
 </p>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#42](https://github.com/nagidev/DialogueNodes/issues/42) in [nagidev/DialogueNodes](https://github.com/nagidev/DialogueNodes)
-2. 🗣 Commented on [#2340](https://github.com/FlutterFlow/flutterflow-issues/issues/2340#issuecomment-2168868467) in [FlutterFlow/flutterflow-issues](https://github.com/FlutterFlow/flutterflow-issues)
-3. 🗣 Commented on [#2325](https://github.com/supabase/cli/issues/2325#issuecomment-2161452957) in [supabase/cli](https://github.com/supabase/cli)
-4. 🗣 Commented on [#4932](https://github.com/transloadit/uppy/issues/4932#issuecomment-2097400673) in [transloadit/uppy](https://github.com/transloadit/uppy)
-5. 🎉 Merged PR [#5](https://github.com/JuanxCursed/calendar/pull/5) in [JuanxCursed/calendar](https://github.com/JuanxCursed/calendar)
+1. ❗ Opened issue [#8](https://github.com/MarriedGames/game-masters-xp-godot/issues/8) in [MarriedGames/game-masters-xp-godot](https://github.com/MarriedGames/game-masters-xp-godot)
+2. ❗ Opened issue [#7](https://github.com/MarriedGames/game-masters-xp-godot/issues/7) in [MarriedGames/game-masters-xp-godot](https://github.com/MarriedGames/game-masters-xp-godot)
+3. ❗ Opened issue [#6](https://github.com/MarriedGames/game-masters-xp-godot/issues/6) in [MarriedGames/game-masters-xp-godot](https://github.com/MarriedGames/game-masters-xp-godot)
+4. ❗ Opened issue [#5](https://github.com/MarriedGames/game-masters-xp-godot/issues/5) in [MarriedGames/game-masters-xp-godot](https://github.com/MarriedGames/game-masters-xp-godot)
+5. ❗ Opened issue [#4](https://github.com/MarriedGames/game-masters-xp-godot/issues/4) in [MarriedGames/game-masters-xp-godot](https://github.com/MarriedGames/game-masters-xp-godot)
 <!--END_SECTION:activity-->
 
 <br/>
