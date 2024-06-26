@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Blender: Círculo a Partir de Vértice [Tutorial Completo / Português]](https://www.youtube.com/watch?v=WFxCkMioLmA)
 - [Blender:  Extrusão sem erro [Tutorial em Português]](https://www.youtube.com/watch?v=6nL-rY2_F78)
 - [Blender: Uma ferramenta ESSENCIAL para a criação 3D](https://www.youtube.com/watch?v=nZ5_v6caTBo)
 - [Unreal Engine: Como melhorar a performance [Tutorial em Portugês]](https://www.youtube.com/watch?v=PIV2MWzso58)
 - [Godot: Como deixar seu código melhor [Tutorial em Português]](https://www.youtube.com/watch?v=Beg-_bV8VWk)
-- [Blender: Faça Seu Objeto Seguir Curvas  [Tutorial em Português]](https://www.youtube.com/watch?v=gjL0ATPwSUc)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
