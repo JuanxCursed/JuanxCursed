@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Blender: Modelando Low poly para iniciantes [Tutorial completo | Em Português]](https://www.youtube.com/watch?v=ag3fTbcNjVc)
 - [Game Dev: Por onde começo?](https://www.youtube.com/watch?v=lvnlpnT46p0)
 - [Blender: Círculo a Partir de Vértice [Tutorial Completo / Português]](https://www.youtube.com/watch?v=WFxCkMioLmA)
 - [Blender:  Extrusão sem erro [Tutorial em Português]](https://www.youtube.com/watch?v=6nL-rY2_F78)
 - [Blender: Uma ferramenta ESSENCIAL para a criação 3D](https://www.youtube.com/watch?v=nZ5_v6caTBo)
-- [Unreal Engine: Como melhorar a performance [Tutorial em Portugês]](https://www.youtube.com/watch?v=PIV2MWzso58)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
