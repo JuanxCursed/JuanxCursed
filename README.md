@@ -116,11 +116,11 @@ I've just born to do it.
   </a> 
 </p>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/MarriedGames/game-masters-xp-godot/issues/8) in [MarriedGames/game-masters-xp-godot](https://github.com/MarriedGames/game-masters-xp-godot)
-2. ❗ Opened issue [#7](https://github.com/MarriedGames/game-masters-xp-godot/issues/7) in [MarriedGames/game-masters-xp-godot](https://github.com/MarriedGames/game-masters-xp-godot)
-3. ❗ Opened issue [#6](https://github.com/MarriedGames/game-masters-xp-godot/issues/6) in [MarriedGames/game-masters-xp-godot](https://github.com/MarriedGames/game-masters-xp-godot)
-4. ❗ Opened issue [#5](https://github.com/MarriedGames/game-masters-xp-godot/issues/5) in [MarriedGames/game-masters-xp-godot](https://github.com/MarriedGames/game-masters-xp-godot)
-5. ❗ Opened issue [#4](https://github.com/MarriedGames/game-masters-xp-godot/issues/4) in [MarriedGames/game-masters-xp-godot](https://github.com/MarriedGames/game-masters-xp-godot)
+1. ❗ Opened issue [#9](https://github.com/MarriedGames/game-masters-xp-godot/issues/9) in [MarriedGames/game-masters-xp-godot](https://github.com/MarriedGames/game-masters-xp-godot)
+2. ❗ Opened issue [#8](https://github.com/MarriedGames/game-masters-xp-godot/issues/8) in [MarriedGames/game-masters-xp-godot](https://github.com/MarriedGames/game-masters-xp-godot)
+3. ❗ Opened issue [#7](https://github.com/MarriedGames/game-masters-xp-godot/issues/7) in [MarriedGames/game-masters-xp-godot](https://github.com/MarriedGames/game-masters-xp-godot)
+4. ❗ Opened issue [#6](https://github.com/MarriedGames/game-masters-xp-godot/issues/6) in [MarriedGames/game-masters-xp-godot](https://github.com/MarriedGames/game-masters-xp-godot)
+5. ❗ Opened issue [#5](https://github.com/MarriedGames/game-masters-xp-godot/issues/5) in [MarriedGames/game-masters-xp-godot](https://github.com/MarriedGames/game-masters-xp-godot)
 <!--END_SECTION:activity-->
 
 <br/>
