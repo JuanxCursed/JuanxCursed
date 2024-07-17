@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Godot Engine: A Melhor Ferramenta para Desenvolvedores de Jogos](https://www.youtube.com/watch?v=TYvqDuvs2BA)
 - [PureRef: Tutorial Definitivo, Hacks e Segredos de Referências [PT-BR]](https://www.youtube.com/watch?v=dfGA07fGhUQ)
 - [Blender: Modelando Low poly para iniciantes [Tutorial completo | Em Português]](https://www.youtube.com/watch?v=ag3fTbcNjVc)
 - [Game Dev: Por onde começo?](https://www.youtube.com/watch?v=lvnlpnT46p0)
 - [Blender: Círculo a Partir de Vértice [Tutorial Completo / Português]](https://www.youtube.com/watch?v=WFxCkMioLmA)
-- [Blender:  Extrusão sem erro [Tutorial em Português]](https://www.youtube.com/watch?v=6nL-rY2_F78)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
