@@ -1,11 +1,11 @@
-### Hi there, I'm Juan - [JuanxCursed] [[website]](https://portfolio.marriedgames.com.br) 🎮  <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=JuanxCursed.JuanxCursed&left_color=black&right_color=red" />
+### Hi there, I'm Juan - [JuanxCursed] [[portfolio]](https://studiomarriedgames.com/portfolio) 🎮  <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=JuanxCursed.JuanxCursed&left_color=black&right_color=red" />
 ----
 
 <br>
 
 ## I'm a Developer, Gamer, Tech Enthusiast and Mitsubishi Lancer owner 🚗
 
-- 🔭 I’m currently working on [Married Games](https://marriedgames.com.br) and [Anchor Loans](https://anchorloans.com)
+- 🔭 I’m currently working on [Studio Married Games](https://studiomarriedgames.com)
 - 🌱 I’m currently learning everything that I can 🤣🤣🤣 (Just for hardcore gamers, sorry)
 - ⚡ Fun fact: I love PC Hardware and Games, but there is not enough time for it
 
