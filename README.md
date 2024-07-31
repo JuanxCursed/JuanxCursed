@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [A Ilusão do Sucesso: Realidades de Criar Jogos no Brasil](https://www.youtube.com/watch?v=RE3wBcp75fw)
 - [Unity 3D: A Game Engine Mais Usada no Mundo para criar jogos](https://www.youtube.com/watch?v=qGV0ao-aXjc)
 - [De Zero ao Sucesso: Minha Jornada de 18 Anos como Game Dev](https://www.youtube.com/watch?v=gcaGmeEchRg)
 - [Godot Engine: A Melhor Ferramenta para Desenvolvedores de Jogos](https://www.youtube.com/watch?v=TYvqDuvs2BA)
 - [PureRef: Tutorial Definitivo, Hacks e Segredos de Referências [PT-BR]](https://www.youtube.com/watch?v=dfGA07fGhUQ)
-- [Blender: Modelando Low poly para iniciantes [Tutorial completo | Em Português]](https://www.youtube.com/watch?v=ag3fTbcNjVc)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
