@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Como Criar um Jogo em Apenas 1.000 Passos Fáceis](https://www.youtube.com/watch?v=ER4g9Bi1hdw)
 - [Ele faturou $358 MILHÕES com esse jogo](https://www.youtube.com/watch?v=CBCN-ICnrmQ)
-- [Por Que a Godot 4.3 RC-2 é Melhor que Unity e Unreal?](https://www.youtube.com/watch?v=v0CXD_WrYZE)
+- [Por Que a Godot 4.3 é Melhor que Unity e Unreal?](https://www.youtube.com/watch?v=v0CXD_WrYZE)
 - [A Ilusão do Sucesso: Realidades de Criar Jogos no Brasil](https://www.youtube.com/watch?v=RE3wBcp75fw)
 - [Unity 3D: A Game Engine Mais Usada no Mundo para criar jogos](https://www.youtube.com/watch?v=qGV0ao-aXjc)
-- [De Zero ao Sucesso: Minha Jornada de 18 Anos como Game Dev](https://www.youtube.com/watch?v=gcaGmeEchRg)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
