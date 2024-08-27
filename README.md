@@ -132,7 +132,7 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
-- [Desprezada e Agora Temida: Como a Godot Virou o Pesadelo das Gigantes](https://www.youtube.com/watch?v=ppLJAc83PZc)
+- [Unity e Game Maker morreram, não use mais!](https://www.youtube.com/watch?v=ppLJAc83PZc)
 - [Você não é burro, só não aprendeu a programar da forma certa](https://www.youtube.com/watch?v=oT5rGNrr5OA)
 - [Como Criar um Jogo em Apenas 1.000 Passos Fáceis](https://www.youtube.com/watch?v=ER4g9Bi1hdw)
 - [Ele faturou $358 MILHÕES com esse jogo](https://www.youtube.com/watch?v=CBCN-ICnrmQ)
