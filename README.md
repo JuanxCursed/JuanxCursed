@@ -1,4 +1,4 @@
-### Hi there, I'm Juan - [JuanxCursed] [[portfolio]](https://studiomarriedgames.com/portfolio) 🎮  <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=JuanxCursed.JuanxCursed&left_color=black&right_color=red" />
+### Hi there, I'm Juan - [JuanxCursed] [[portfolio]](https://studiomarriedgames.com/portfolio) [[cursogame.dev]](https://cursogame.dev) 🎮  <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=JuanxCursed.JuanxCursed&left_color=black&right_color=red" />
 ----
 
 <br>
