@@ -116,11 +116,11 @@ I've just born to do it.
   </a> 
 </p>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10563](https://github.com/n8n-io/n8n/pull/10563#issuecomment-2514562688) in [n8n-io/n8n](https://github.com/n8n-io/n8n)
-2. 🗣 Commented on [#11503](https://github.com/n8n-io/n8n/issues/11503#issuecomment-2514555116) in [n8n-io/n8n](https://github.com/n8n-io/n8n)
-3. 🗣 Commented on [#2325](https://github.com/supabase/cli/issues/2325#issuecomment-2448112222) in [supabase/cli](https://github.com/supabase/cli)
-4. 🗣 Commented on [#2905](https://github.com/coollabsio/coolify/issues/2905#issuecomment-2445385836) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-5. 🗣 Commented on [#2325](https://github.com/supabase/cli/issues/2325#issuecomment-2444571373) in [supabase/cli](https://github.com/supabase/cli)
+1. 🗣 Commented on [#8337](https://github.com/twentyhq/twenty/issues/8337#issuecomment-2520512292) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
+2. 🗣 Commented on [#10563](https://github.com/n8n-io/n8n/pull/10563#issuecomment-2514562688) in [n8n-io/n8n](https://github.com/n8n-io/n8n)
+3. 🗣 Commented on [#11503](https://github.com/n8n-io/n8n/issues/11503#issuecomment-2514555116) in [n8n-io/n8n](https://github.com/n8n-io/n8n)
+4. 🗣 Commented on [#2325](https://github.com/supabase/cli/issues/2325#issuecomment-2448112222) in [supabase/cli](https://github.com/supabase/cli)
+5. 🗣 Commented on [#2905](https://github.com/coollabsio/coolify/issues/2905#issuecomment-2445385836) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
 <!--END_SECTION:activity-->
 
 <br/>
