@@ -116,8 +116,8 @@ I've just born to do it.
   </a> 
 </p>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#763](https://github.com/EvolutionAPI/evolution-api/issues/763#issuecomment-2597345592) in [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api)
-2. 🗣 Commented on [#763](https://github.com/EvolutionAPI/evolution-api/issues/763#issuecomment-2588352496) in [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api)
+1. ❗ Opened issue [#1233](https://github.com/EvolutionAPI/evolution-api/issues/1233) in [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api)
+2. 🗣 Commented on [#763](https://github.com/EvolutionAPI/evolution-api/issues/763#issuecomment-2597345592) in [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api)
 3. 🗣 Commented on [#788](https://github.com/EvolutionAPI/evolution-api/issues/788#issuecomment-2585249822) in [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api)
 4. 🗣 Commented on [#747](https://github.com/docker-library/rabbitmq/issues/747#issuecomment-2543128386) in [docker-library/rabbitmq](https://github.com/docker-library/rabbitmq)
 5. 🗣 Commented on [#4540](https://github.com/coollabsio/coolify/issues/4540#issuecomment-2533545200) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
