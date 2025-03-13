@@ -116,11 +116,11 @@ I've just born to do it.
   </a> 
 </p>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4719](https://github.com/coollabsio/coolify/issues/4719#issuecomment-2689426889) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-2. ❗ Opened issue [#10410](https://github.com/twentyhq/twenty/issues/10410) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
-3. 🗣 Commented on [#310](https://github.com/mautic/docker-mautic/issues/310#issuecomment-2660975968) in [mautic/docker-mautic](https://github.com/mautic/docker-mautic)
-4. ❗ Opened issue [#1233](https://github.com/EvolutionAPI/evolution-api/issues/1233) in [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api)
-5. 🗣 Commented on [#4540](https://github.com/coollabsio/coolify/issues/4540#issuecomment-2533545200) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+1. 🗣 Commented on [#8376](https://github.com/calcom/cal.com/issues/8376#issuecomment-2714930240) in [calcom/cal.com](https://github.com/calcom/cal.com)
+2. 🗣 Commented on [#4719](https://github.com/coollabsio/coolify/issues/4719#issuecomment-2689426889) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+3. ❗ Opened issue [#10410](https://github.com/twentyhq/twenty/issues/10410) in [twentyhq/twenty](https://github.com/twentyhq/twenty)
+4. 🗣 Commented on [#310](https://github.com/mautic/docker-mautic/issues/310#issuecomment-2660975968) in [mautic/docker-mautic](https://github.com/mautic/docker-mautic)
+5. ❗ Opened issue [#1233](https://github.com/EvolutionAPI/evolution-api/issues/1233) in [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api)
 <!--END_SECTION:activity-->
 
 <br/>
