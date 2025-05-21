@@ -116,11 +116,11 @@ I've just born to do it.
   </a> 
 </p>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3881](https://github.com/coollabsio/coolify/issues/3881#issuecomment-2860912217) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
-2. ❗ Opened issue [#10](https://github.com/JuanxCursed/JuanxCursed/issues/10) in [JuanxCursed/JuanxCursed](https://github.com/JuanxCursed/JuanxCursed)
-3. ❗ Opened issue [#9](https://github.com/JuanxCursed/JuanxCursed/issues/9) in [JuanxCursed/JuanxCursed](https://github.com/JuanxCursed/JuanxCursed)
-4. ❗ Opened issue [#8](https://github.com/JuanxCursed/JuanxCursed/issues/8) in [JuanxCursed/JuanxCursed](https://github.com/JuanxCursed/JuanxCursed)
-5. ❗ Opened issue [#7](https://github.com/JuanxCursed/JuanxCursed/issues/7) in [JuanxCursed/JuanxCursed](https://github.com/JuanxCursed/JuanxCursed)
+1. 🗣 Commented on [#14076](https://github.com/mautic/mautic/issues/14076#issuecomment-2895258105) in [mautic/mautic](https://github.com/mautic/mautic)
+2. 🗣 Commented on [#3881](https://github.com/coollabsio/coolify/issues/3881#issuecomment-2860912217) in [coollabsio/coolify](https://github.com/coollabsio/coolify)
+3. ❗ Opened issue [#10](https://github.com/JuanxCursed/JuanxCursed/issues/10) in [JuanxCursed/JuanxCursed](https://github.com/JuanxCursed/JuanxCursed)
+4. ❗ Opened issue [#9](https://github.com/JuanxCursed/JuanxCursed/issues/9) in [JuanxCursed/JuanxCursed](https://github.com/JuanxCursed/JuanxCursed)
+5. ❗ Opened issue [#8](https://github.com/JuanxCursed/JuanxCursed/issues/8) in [JuanxCursed/JuanxCursed](https://github.com/JuanxCursed/JuanxCursed)
 <!--END_SECTION:activity-->
 
 <br/>
