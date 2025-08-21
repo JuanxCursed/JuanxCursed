@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Game Maker Studio: Crie Jogos 2D Sem Codificar! #shorts](https://www.youtube.com/shorts/I6JR1A1ifzM)
+- [Buraco do Rato: Exploit no BF6! Análise e Detalhes #shorts](https://www.youtube.com/shorts/a9l5Q5Gu38A)
+- [Jogo enterrado no deserto: Maior Fracasso da Atari: #shorts](https://www.youtube.com/shorts/nEy1UD_iPG4)
 - [BFVI: Xbox Desliga e PS5 Reinicia! Overload nos Consoles? #shorts](https://www.youtube.com/shorts/r1Ii3aBcTUc)
 - [Battlefield 6 - Open Bugs](https://www.youtube.com/watch?v=G-Ch7YuLycs)
-- [Unity 6: Veio para derrubar de vez a Godot?](https://www.youtube.com/watch?v=IBjHN_0W5_o)
-- [Jogos Para Programar: A Ilusão Perfeita Para Destruir Sua Sanidade](https://www.youtube.com/watch?v=59v1yesM03I)
-- [Desprezada e Agora Temida: Como a Godot Virou o Pesadelo das Gigantes](https://www.youtube.com/watch?v=ppLJAc83PZc)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
