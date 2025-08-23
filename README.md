@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Godot VS Unity: O Mercado de Engines está Mudando? #shorts](https://www.youtube.com/shorts/dJAL0FEUCCg)
+- [Escolhendo a Engine Certa: Godot, Unity, Unreal ou Game Maker? #shorts](https://www.youtube.com/shorts/w4DScGTImXE)
 - [Carreira em Games: Programação e as Melhores Áreas de Atuação #shorts](https://www.youtube.com/shorts/0lWph9HaYRo)
 - [Game Maker Studio: Crie Jogos 2D Sem Codificar! #shorts](https://www.youtube.com/shorts/I6JR1A1ifzM)
 - [Buraco do Rato: Exploit no BF6! Análise e Detalhes #shorts](https://www.youtube.com/shorts/a9l5Q5Gu38A)
-- [Jogo enterrado no deserto: Maior Fracasso da Atari: #shorts](https://www.youtube.com/shorts/nEy1UD_iPG4)
-- [BFVI: Xbox Desliga e PS5 Reinicia! Overload nos Consoles? #shorts](https://www.youtube.com/shorts/r1Ii3aBcTUc)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
