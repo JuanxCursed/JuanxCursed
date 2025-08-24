@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Tutorial Hell: 5 Sinais Que Te Prendem! Cuidado! #shorts](https://www.youtube.com/shorts/Cc0TfkW0U6E)
+- [Godot no Console? W4 Games e Porting Simplificado! #shorts](https://www.youtube.com/shorts/zm0LVMI-8GY)
+- [Game Design: Carreira, Áudio e as Pessoas por Trás! #shorts](https://www.youtube.com/shorts/XBTxnhss7SM)
+- [Qual Engine Usar? Unity, Godot ou Unreal? Escolha Certa! #shorts](https://www.youtube.com/shorts/CMJpddyfH74)
 - [Godot VS Unity: O Mercado de Engines está Mudando? #shorts](https://www.youtube.com/shorts/dJAL0FEUCCg)
-- [Escolhendo a Engine Certa: Godot, Unity, Unreal ou Game Maker? #shorts](https://www.youtube.com/shorts/w4DScGTImXE)
-- [Carreira em Games: Programação e as Melhores Áreas de Atuação #shorts](https://www.youtube.com/shorts/0lWph9HaYRo)
-- [Game Maker Studio: Crie Jogos 2D Sem Codificar! #shorts](https://www.youtube.com/shorts/I6JR1A1ifzM)
-- [Buraco do Rato: Exploit no BF6! Análise e Detalhes #shorts](https://www.youtube.com/shorts/a9l5Q5Gu38A)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
