@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Vício em tutoriais: Você está preso no Tutorial Hell? #shorts](https://www.youtube.com/shorts/nFw7QVR92k0)
 - [Tutorial Hell: 5 Sinais Que Te Prendem! Cuidado! #shorts](https://www.youtube.com/shorts/Cc0TfkW0U6E)
 - [Godot no Console? W4 Games e Porting Simplificado! #shorts](https://www.youtube.com/shorts/zm0LVMI-8GY)
 - [Game Design: Carreira, Áudio e as Pessoas por Trás! #shorts](https://www.youtube.com/shorts/XBTxnhss7SM)
 - [Qual Engine Usar? Unity, Godot ou Unreal? Escolha Certa! #shorts](https://www.youtube.com/shorts/CMJpddyfH74)
-- [Godot VS Unity: O Mercado de Engines está Mudando? #shorts](https://www.youtube.com/shorts/dJAL0FEUCCg)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
