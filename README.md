@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Salários de Artistas de Jogos: Brasil vs Mundo! &lpar;Guia&rpar; #shorts](https://www.youtube.com/shorts/inxQdgxv8gs)
+- [Salários de Desenvolvedores de Jogos: Brasil vs. EUA #shorts](https://www.youtube.com/shorts/T-5F8IlGhPQ)
 - [Faculdade de Jogos Vale a Pena? A Verdade Revelada! #shorts](https://www.youtube.com/shorts/ZxUYMDQqL50)
 - [Como os jogos do NES eram feitos? Uma viagem nostálgica! #shorts](https://www.youtube.com/shorts/Kv92ZRBmS_w)
 - [Vício em tutoriais: Você está preso no Tutorial Hell? #shorts](https://www.youtube.com/shorts/nFw7QVR92k0)
-- [Tutorial Hell: 5 Sinais Que Te Prendem! Cuidado! #shorts](https://www.youtube.com/shorts/Cc0TfkW0U6E)
-- [Godot no Console? W4 Games e Porting Simplificado! #shorts](https://www.youtube.com/shorts/zm0LVMI-8GY)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
