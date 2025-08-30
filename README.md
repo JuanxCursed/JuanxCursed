@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Salários na Indústria de Jogos: Testadores Ganham Quanto? #shorts](https://www.youtube.com/shorts/bgvcizZ4qG0)
+- [Tipos de Desenvolvedores: Indie vs. Empresas &lpar;Tech Artist&rpar; #shorts](https://www.youtube.com/shorts/Zma4LqqewB0)
 - [Salários de Artistas de Jogos: Brasil vs Mundo! &lpar;Guia&rpar; #shorts](https://www.youtube.com/shorts/inxQdgxv8gs)
 - [Salários de Desenvolvedores de Jogos: Brasil vs. EUA #shorts](https://www.youtube.com/shorts/T-5F8IlGhPQ)
 - [Faculdade de Jogos Vale a Pena? A Verdade Revelada! #shorts](https://www.youtube.com/shorts/ZxUYMDQqL50)
-- [Como os jogos do NES eram feitos? Uma viagem nostálgica! #shorts](https://www.youtube.com/shorts/Kv92ZRBmS_w)
-- [Vício em tutoriais: Você está preso no Tutorial Hell? #shorts](https://www.youtube.com/shorts/nFw7QVR92k0)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
