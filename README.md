@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Empregabilidade no Mercado de Games: Oportunidades no Brasil! #shorts](https://www.youtube.com/shorts/6tS9Bi_frTs)
 - [Godot 4.5: Melhor Atualização ou Hype Acabando? [@abstract, Backtrace, Shaders e +]](https://www.youtube.com/watch?v=cSj9tonpGlI)
 - [Unreal Engine 5.7 Preview: PCG &quot;Estável&quot; 2x Mais Rápido, Vegetação Nanite e MegaLights!](https://www.youtube.com/watch?v=4fXgK4qIvFg)
 - [Salários na Indústria de Jogos: Testadores Ganham Quanto? #shorts](https://www.youtube.com/shorts/bgvcizZ4qG0)
 - [Tipos de Desenvolvedores: Indie vs. Empresas &lpar;Tech Artist&rpar; #shorts](https://www.youtube.com/shorts/Zma4LqqewB0)
-- [Salários de Artistas de Jogos: Brasil vs Mundo! &lpar;Guia&rpar; #shorts](https://www.youtube.com/shorts/inxQdgxv8gs)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
