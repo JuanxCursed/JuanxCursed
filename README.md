@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Desenvolvimento de Jogos: Processo Criativo](https://www.youtube.com/watch?v=wPQcZtFjyY8)
 - [[Hotseat] Mercado de Games Indie](https://www.youtube.com/watch?v=yj94qrG27Zw)
+- [Mercado Indie BR: Oportunidades Incríveis Para Viver de Jogos! #shorts](https://www.youtube.com/shorts/_BxHr-HIpvs)
 - [Discord Live: Assuntos INSANOS e COMO ter SUCESSO nos games! #shorts](https://www.youtube.com/shorts/MIb7tYdR7Ss)
 - [Empregabilidade no Mercado de Games: Oportunidades no Brasil! #shorts](https://www.youtube.com/shorts/6tS9Bi_frTs)
-- [Godot 4.5: Melhor Atualização ou Hype Acabando? [@abstract, Backtrace, Shaders e +]](https://www.youtube.com/watch?v=cSj9tonpGlI)
-- [Unreal Engine 5.7 Preview: PCG &quot;Estável&quot; 2x Mais Rápido, Vegetação Nanite e MegaLights!](https://www.youtube.com/watch?v=4fXgK4qIvFg)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
