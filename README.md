@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Comunicação Importa! Como Impulsionar Sua Carreira #shorts](https://www.youtube.com/shorts/2svFRJaxCYw)
 - [Desenvolvimento de Jogos: Processo Criativo](https://www.youtube.com/watch?v=wPQcZtFjyY8)
 - [[Hotseat] Mercado de Games Indie](https://www.youtube.com/watch?v=yj94qrG27Zw)
 - [Mercado Indie BR: Oportunidades Incríveis Para Viver de Jogos! #shorts](https://www.youtube.com/shorts/_BxHr-HIpvs)
 - [Discord Live: Assuntos INSANOS e COMO ter SUCESSO nos games! #shorts](https://www.youtube.com/shorts/MIb7tYdR7Ss)
-- [Empregabilidade no Mercado de Games: Oportunidades no Brasil! #shorts](https://www.youtube.com/shorts/6tS9Bi_frTs)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
