@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Outsourcing em Games: Suporte a Estúdios Triple A no Brasil #shorts](https://www.youtube.com/shorts/-Ek9hIOM4lc)
 - [Comunicação Importa! Como Impulsionar Sua Carreira #shorts](https://www.youtube.com/shorts/2svFRJaxCYw)
 - [Desenvolvimento de Jogos: Processo Criativo](https://www.youtube.com/watch?v=wPQcZtFjyY8)
 - [[Hotseat] Mercado de Games Indie](https://www.youtube.com/watch?v=yj94qrG27Zw)
 - [Mercado Indie BR: Oportunidades Incríveis Para Viver de Jogos! #shorts](https://www.youtube.com/shorts/_BxHr-HIpvs)
-- [Discord Live: Assuntos INSANOS e COMO ter SUCESSO nos games! #shorts](https://www.youtube.com/shorts/MIb7tYdR7Ss)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
