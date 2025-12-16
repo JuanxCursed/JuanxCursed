@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Unity, Godot ou Unreal? Você está fazendo a pergunta ERRADA... Se você começou pela ENGINE você f...](https://www.youtube.com/watch?v=8R1t-jjW4HU)
 - [Descubra Estúdios de Games no Brasil e Vagas! #shorts](https://www.youtube.com/shorts/i6uJMucI5WY)
 - [Outsourcing em Games: Suporte a Estúdios Triple A no Brasil #shorts](https://www.youtube.com/shorts/-Ek9hIOM4lc)
 - [Comunicação Importa! Como Impulsionar Sua Carreira #shorts](https://www.youtube.com/shorts/2svFRJaxCYw)
 - [Desenvolvimento de Jogos: Processo Criativo](https://www.youtube.com/watch?v=wPQcZtFjyY8)
-- [[Hotseat] Mercado de Games Indie](https://www.youtube.com/watch?v=yj94qrG27Zw)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
