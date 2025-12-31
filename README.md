@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Unity vs Unreal vs Godot: O Futuro das Engines de Jogos #shorts](https://www.youtube.com/shorts/KAa_mdgV35Q)
 - [Salários em Games: Produtor Executivo vs. Programador #shorts](https://www.youtube.com/shorts/Z3tuO2jfE-4)
 - [Engine de Jogo 2026: A Verdade Revelada! #shorts](https://www.youtube.com/shorts/hdWGTlfOUmU)
 - [3 Jogos BR que Fizeram Sucesso GLOBAL! #shorts](https://www.youtube.com/shorts/k7QWtg8_Hj0)
 - [5 Mil ou 15 Mil? A Escolha que Define Seu Futuro! #shorts](https://www.youtube.com/shorts/AY8-NGsyx6A)
-- [Faculdade de Games em 2026: Não Te Garante Emprego! #shorts](https://www.youtube.com/shorts/1N5upCXaJ6k)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
