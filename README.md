@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Desvende o Segredo: Como Criar um Jogo Viciante e Divertido! #shorts](https://www.youtube.com/shorts/Uav0dWexrl0)
+- [Crie Jogos Incríveis: Do Conceito à Audiência Certa! #shorts](https://www.youtube.com/shorts/Ggd2VvQ3gTI)
 - [Crie Conteúdo Original: Pare de Copiar e Colar! #shorts](https://www.youtube.com/shorts/MdWxmP1p8vQ)
 - [Design de Jogos: O Esqueleto Essencial para Qualquer Gênero #shorts](https://www.youtube.com/shorts/Dd6PMUYb2yI)
 - [Desbloqueie seu Jogo: Por que Funciona, Não Como #shorts](https://www.youtube.com/shorts/AtmA9DHuIn0)
-- [Engine de Jogo Ideal: Pratique Sem Ser Refém de Ferramentas! #shorts](https://www.youtube.com/shorts/Z1kNQMN6Ecg)
-- [Unity vs Unreal vs Godot: O Futuro das Engines de Jogos #shorts](https://www.youtube.com/shorts/KAa_mdgV35Q)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
