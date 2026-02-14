@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Crie Seu Game: O Segredo do GDD de Uma Página Revelado! #shorts](https://www.youtube.com/shorts/l6GUhNbm2qk)
 - [A Jornada do Herói: Desvende a fórmula de sucessos como Star Wars e Breaking Bad! #shorts](https://www.youtube.com/shorts/2MjQ97KP_E8)
 - [Jogo de 1 Minuto? Você NÃO Vai Acreditar no Que Aconteceu! #shorts](https://www.youtube.com/shorts/rLzMjtcl6EU)
 - [Desvende o Segredo: Como Criar um Jogo Viciante e Divertido! #shorts](https://www.youtube.com/shorts/Uav0dWexrl0)
 - [Crie Jogos Incríveis: Do Conceito à Audiência Certa! #shorts](https://www.youtube.com/shorts/Ggd2VvQ3gTI)
-- [Crie Conteúdo Original: Pare de Copiar e Colar! #shorts](https://www.youtube.com/shorts/MdWxmP1p8vQ)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
