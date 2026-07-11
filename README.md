@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [O ERRO que faz teu jogo rodar diferente em cada PC](https://www.youtube.com/shorts/XHgP4uD_w-E)
 - [Subestimar o trabalho? Planeje ANTES de executar! #shorts](https://www.youtube.com/shorts/kjivUxeF42s)
 - [IA na Programação: Cuidado! Não confie 100% em Bots! #shorts](https://www.youtube.com/shorts/dwgsfNmbljM)
 - [Crie Jogos Incríveis: Segredo Revelado &lpar;Regra de Um&rpar; #shorts](https://www.youtube.com/shorts/Sm7qBlFcMUY)
 - [Crie Seu Game: O Segredo do GDD de Uma Página Revelado! #shorts](https://www.youtube.com/shorts/l6GUhNbm2qk)
-- [A Jornada do Herói: Desvende a fórmula de sucessos como Star Wars e Breaking Bad! #shorts](https://www.youtube.com/shorts/2MjQ97KP_E8)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
