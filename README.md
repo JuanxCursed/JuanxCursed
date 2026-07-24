@@ -132,11 +132,11 @@ I've just born to do it.
 ## My youtube channel
 
 <!-- YOUTUBE:START -->
+- [Unity na Unreal? A Guerra das Engines ACABOU! #shorts](https://www.youtube.com/shorts/rLfHrY7pWJs)
 - [O ERRO que faz teu jogo rodar diferente em cada PC](https://www.youtube.com/shorts/XHgP4uD_w-E)
 - [Subestimar o trabalho? Planeje ANTES de executar! #shorts](https://www.youtube.com/shorts/kjivUxeF42s)
 - [IA na Programação: Cuidado! Não confie 100% em Bots! #shorts](https://www.youtube.com/shorts/dwgsfNmbljM)
 - [Crie Jogos Incríveis: Segredo Revelado &lpar;Regra de Um&rpar; #shorts](https://www.youtube.com/shorts/Sm7qBlFcMUY)
-- [Crie Seu Game: O Segredo do GDD de Uma Página Revelado! #shorts](https://www.youtube.com/shorts/l6GUhNbm2qk)
 <!-- YOUTUBE:END -->
 
 ## My last blog posts
