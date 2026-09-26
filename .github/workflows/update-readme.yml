@@ -1,0 +1,31 @@
+# Único workflow do perfil. Roda 1x/dia e atualiza no README os últimos vídeos do YouTube
+# e os artigos do blog (scripts/update_readme.py, só stdlib).
+name: Update profile README
+
+on:
+  schedule:
+    - cron: "0 9 * * *" # 06:00 São Paulo, 1x/dia
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Vídeos e artigos
+        run: python scripts/update_readme.py
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: atualiza vídeos e artigos do perfil"
+          file_pattern: README.md

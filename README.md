@@ -1,152 +1,66 @@
-### Hi there, I'm Juan - [JuanxCursed] [[portfolio]](https://studiomarriedgames.com/portfolio) [[cursogame.dev]](https://cursogame.dev) 🎮  <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=JuanxCursed.JuanxCursed&left_color=black&right_color=red" />
-----
-
-<br>
-
-## I'm a Developer, Gamer, Tech Enthusiast and Mitsubishi Lancer owner 🚗
-
-- 🔭 I’m currently working on [Studio Married Games](https://studiomarriedgames.com)
-- 🌱 I’m currently learning everything that I can 🤣🤣🤣 (Just for hardcore gamers, sorry)
-- ⚡ Fun fact: I love PC Hardware and Games, but there is not enough time for it
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JuanxCursed&column=7)](https://github.com/ryo-ma/github-profile-trophy) 
-
-<br />
-
-# ♥♥♥ Game Development ♥♥♥ 
-                       
-<p>
-  <img src="love-for-games.svg" />
+<p align="center">
+  <img src="assets/hero.gif" alt="Game Dev, Brazil. Juan Felipe. Building games for 20+ years. Building new game devs around the world. Studio Married Games · Playborn Games · CursoGame.Dev" width="100%" />
 </p>
 
-I've just born to do it.
- 
------
-
-<br>
-
-## 🛠️ My favorite tools
-
-### 👨‍💻 Programming languages
-
-<p>
-    <a href="https://github.com/search?q=user%3JuanxCursed+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3JuanxCursed+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3JuanxCursed+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3JuanxCursed+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3JuanxCursed+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3JuanxCursed+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3JuanxCursed+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3JuanxCursed+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3JuanxCursed+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3JuanxCursed+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3JuanxCursed+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3JuanxCursed+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3JuanxCursed+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3JuanxCursed+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3JuanxCursed+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3JuanxCursed+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3JuanxCursed+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3JuanxCursed+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+<p align="center">
+  <a href="https://www.youtube.com/@gamedevjuan?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-@gamedevjuan-ED1A3B?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" /></a>
+  <a href="https://instagram.com/gamedev.juan"><img src="https://img.shields.io/badge/Instagram-@gamedev.juan-111822?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@gamedev.juan"><img src="https://img.shields.io/badge/TikTok-@gamedev.juan-111822?logo=tiktok&logoColor=white&style=for-the-badge" alt="TikTok" /></a>
+  <a href="https://www.linkedin.com/in/juan--felipe/"><img src="https://img.shields.io/badge/LinkedIn-Juan_Felipe-111822?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://playborn.games"><img src="https://img.shields.io/badge/Playborn-playborn.games-111822?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAgMTIwIj48cG9seWdvbiBwb2ludHM9IjYwLDEwLjUgMTA5LjUsNjAgNjAsMTA5LjUgMTAuNSw2MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRUQxQTNCIiBzdHJva2Utd2lkdGg9IjgiLz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzNywzOCkgc2NhbGUoMC42ODc1KSI%2BPHBhdGggZD0iTTE4IDggTDU2IDMyIEwxOCA1NiBMMTggNDIuNSBBMTAuNSAxMC41IDAgMCAwIDE4IDIxLjUgTDE4IDggWiIgZmlsbD0iI0VEMUEzQiIvPjxwYXRoIGQ9Ik0xMi41IDMyIGE1LjUgNS41IDAgMSAwIDExIDAgYTUuNSA1LjUgMCAxIDAgLTExIDAgWiIgZmlsbD0iI0VEMUEzQiIvPjwvZz48L3N2Zz4%3D&style=for-the-badge" alt="Playborn Games" /></a>
+  <a href="mailto:juan@juanfelipe.dev"><img src="https://img.shields.io/badge/E--mail-juan@juanfelipe.dev-ED1A3B?logo=gmail&logoColor=white&style=for-the-badge" alt="E-mail" /></a>
 </p>
 
-### 🧰 Frameworks and libraries
+### 🧰 O que eu uso
 
-<p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-    <a href="#"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white"></a>
-    <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-    <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.herokuapp.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white"></a>
-    <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-111111.svg?logo=symfony&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-    <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=godot,unity,unreal,gamemakerstudio,robloxstudio,bevy,haxeflixel,threejs,blender,ps,ai,ae,pr,au,ableton,figma,xd,cs,cpp,c,py,lua,js,ts,go,java,kotlin,dart,bash,powershell,wasm,cmake,html,css,sass,tailwind,vue,nuxtjs,react,nextjs,nodejs,flutter,electron,vite,docker,linux,ubuntu,windows,nginx,postgres,mysql,mongodb,redis,cloudflare,supabase,firebase,aws,gcp,git,github,githubactions,vscode,visualstudio,rider,androidstudio,obsidian,notion,discord&perline=14" alt="Godot, Unity, Unreal, GameMaker, Roblox Studio, Bevy, HaxeFlixel, Three.js, Blender, Photoshop, Illustrator, After Effects, Premiere, Audition, Ableton, Figma, XD, C#, C++, C, Python, Lua, JavaScript, TypeScript, Go, Java, Kotlin, Dart, Bash, PowerShell, WebAssembly, CMake, HTML, CSS, Sass, Tailwind, Vue, Nuxt, React, Next.js, Node.js, Flutter, Electron, Vite, Docker, Linux, Ubuntu, Windows, Nginx, PostgreSQL, MySQL, MongoDB, Redis, Cloudflare, Supabase, Firebase, AWS, GCP, Git, GitHub, GitHub Actions, VS Code, Visual Studio, Rider, Android Studio, Obsidian, Notion, Discord" />
 </p>
 
-### 🗄️ Databases and cloud hosting
-
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+<p align="center">
+  <a href="https://playborn.games"><img src="assets/jogos.png" alt="Jogos da Playborn Games. Hells Delivery: Slices of Apocalypse, em produção, em breve. Shift Core, em produção, em breve. Shadow Realms, finalizado: roguelite, feito em Unity, Unreal e Godot, entregue no CursoGame.Dev." width="100%" /></a>
 </p>
 
-### 💻 Software and tools
-
-<p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-00b56a.svg?logo=construct-3&logoColor=white"></a>
-    <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<p align="center">
+  <a href="https://lp.cursogame.dev?utm_source=gh&utm_medium=profile&utm_campaign=github-readme"><img src="assets/curso.png" alt="CursoGame.Dev. Aqui você não assiste aulas. Você constrói jogos publicáveis, com acompanhamento, feedback real e cobrança de execução. Quero descobrir se faz sentido pra mim." width="100%" /></a>
 </p>
 
-<!-- [![JuanxCursed's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanxCursed&show_icons=true)](https://github.com/JuanxCursed/github-readme-stats) --> 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanxCursed)](https://github.com/JuanxCursed/github-readme-stats) --> 
+### 🇧🇷 Sobre
 
-<p style="display: flex;">
-  <a href="https://github.com/JuanxCursed/github-readme-stats" style="display:inline-block">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanxCursed&show_icons=true" style="display: inline-block" /> <br>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=JuanxCursed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" style="display: inline-block" />
-  </a>
-  <a href="https://github.com/JuanxCursed/github-readme-stats"  style="display:inline-block">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanxCursed" />
-  </a> 
-</p>
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#187](https://github.com/paperclipai/paperclip/issues/187#issuecomment-4016808694) in [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-2. ❗ Opened issue [#187](https://github.com/paperclipai/paperclip/issues/187) in [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-3. 🗣 Commented on [#4947](https://github.com/openclaw/openclaw/issues/4947#issuecomment-3981317859) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
-4. 🗣 Commented on [#5496](https://github.com/kirodotdev/Kiro/issues/5496#issuecomment-3901982517) in [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro)
-5. ❗ Opened issue [#8](https://github.com/JuanxCursed/JuanxCursed/issues/8) in [JuanxCursed/JuanxCursed](https://github.com/JuanxCursed/JuanxCursed)
-<!--END_SECTION:activity-->
+Programo há mais de 20 anos. Fundei o Studio Married Games em 2013 e fiz jogos pra Petrobras, Bauducco, Submarino, Fini e C&A. Hoje faço jogos na **[Playborn Games](https://playborn.games)** e formo novos game devs no **[CursoGame.Dev](https://lp.cursogame.dev?utm_source=gh&utm_medium=profile&utm_campaign=github-readme)**, onde você constrói jogos publicáveis, com acompanhamento, feedback real e cobrança de execução.
 
-<br/>
+Contato: [juan@juanfelipe.dev](mailto:juan@juanfelipe.dev)
 
-  <a href="https://github.com/JuanxCursed/github-readme-stats">
-    
-  </a>
+### 🇺🇸 About
 
-## My youtube channel
+I've been programming for 20+ years. I founded Studio Married Games in 2013 and made games for Petrobras, Bauducco, Submarino, Fini and C&A. Today I make games at **[Playborn Games](https://playborn.games)** and train new game devs at **[CursoGame.Dev](https://lp.cursogame.dev?utm_source=gh&utm_medium=profile&utm_campaign=github-readme)**, where you build publishable games with guidance, real feedback and accountability.
+
+Contact: [juan@juanfelipe.dev](mailto:juan@juanfelipe.dev)
+
+### ▶️ Últimos vídeos
 
 <!-- YOUTUBE:START -->
-- [Unity na Unreal? A Guerra das Engines ACABOU! #shorts](https://www.youtube.com/shorts/rLfHrY7pWJs)
-- [O ERRO que faz teu jogo rodar diferente em cada PC](https://www.youtube.com/shorts/XHgP4uD_w-E)
-- [Subestimar o trabalho? Planeje ANTES de executar! #shorts](https://www.youtube.com/shorts/kjivUxeF42s)
-- [IA na Programação: Cuidado! Não confie 100% em Bots! #shorts](https://www.youtube.com/shorts/dwgsfNmbljM)
-- [Crie Jogos Incríveis: Segredo Revelado &lpar;Regra de Um&rpar; #shorts](https://www.youtube.com/shorts/Sm7qBlFcMUY)
+<table align="center">
+<tr><td valign="top"><a href="https://www.youtube.com/watch?v=w4azwlXyLN0"><img src="https://ytcards.demolab.com/?id=w4azwlXyLN0&title=Unity%2C+Godot+ou+Unreal%3A+qual+a+diferen%C3%A7a%3F&lang=pt&timestamp=1790200822&background_color=%23111822&title_color=%23EDF1F5&stats_color=%238b949e&width=250&border_radius=6&max_title_lines=2" alt="Unity, Godot ou Unreal: qual a diferença?" title="Unity, Godot ou Unreal: qual a diferença?" width="250" /></a></td><td valign="top"><a href="https://www.youtube.com/watch?v=nxFjpA772vM"><img src="https://ytcards.demolab.com/?id=nxFjpA772vM&title=Jogos+feitos+na+engine+GR%C3%81TIS+%28Godot%29%3A+qual+chegou+mais+longe%3F&lang=pt&timestamp=1790175623&background_color=%23111822&title_color=%23EDF1F5&stats_color=%238b949e&width=250&border_radius=6&max_title_lines=2" alt="Jogos feitos na engine GRÁTIS (Godot): qual chegou mais longe?" title="Jogos feitos na engine GRÁTIS (Godot): qual chegou mais longe?" width="250" /></a></td><td valign="top"><a href="https://www.youtube.com/watch?v=KaMvI-G8efY"><img src="https://ytcards.demolab.com/?id=KaMvI-G8efY&title=Por+que+um+jogo+pesa+150+GB%3F&lang=pt&timestamp=1790089220&background_color=%23111822&title_color=%23EDF1F5&stats_color=%238b949e&width=250&border_radius=6&max_title_lines=2" alt="Por que um jogo pesa 150 GB?" title="Por que um jogo pesa 150 GB?" width="250" /></a></td></tr>
+<tr><td valign="top"><a href="https://www.youtube.com/watch?v=RIYwEjM3A4g"><img src="https://ytcards.demolab.com/?id=RIYwEjM3A4g&title=Quem+mais+fatura+com+games%3F+15+anos+de+receita+das+gigantes&lang=pt&timestamp=1789830029&background_color=%23111822&title_color=%23EDF1F5&stats_color=%238b949e&width=250&border_radius=6&max_title_lines=2" alt="Quem mais fatura com games? 15 anos de receita das gigantes" title="Quem mais fatura com games? 15 anos de receita das gigantes" width="250" /></a></td><td valign="top"><a href="https://www.youtube.com/watch?v=JyHpy7dClRQ"><img src="https://ytcards.demolab.com/?id=JyHpy7dClRQ&title=Quanto+faturou+cada+GTA%3F+E+o+GTA+VI+vai+passar+o+V%3F&lang=pt&timestamp=1789657224&background_color=%23111822&title_color=%23EDF1F5&stats_color=%238b949e&width=250&border_radius=6&max_title_lines=2" alt="Quanto faturou cada GTA? E o GTA VI vai passar o V?" title="Quanto faturou cada GTA? E o GTA VI vai passar o V?" width="250" /></a></td><td valign="top"><a href="https://www.youtube.com/watch?v=olIP_K5jgc8"><img src="https://ytcards.demolab.com/?id=olIP_K5jgc8&title=Jogos+feitos+por+UMA+pessoa%3A+quem+lidera+10+anos+depois%3F&lang=pt&timestamp=1789484436&background_color=%23111822&title_color=%23EDF1F5&stats_color=%238b949e&width=250&border_radius=6&max_title_lines=2" alt="Jogos feitos por UMA pessoa: quem lidera 10 anos depois?" title="Jogos feitos por UMA pessoa: quem lidera 10 anos depois?" width="250" /></a></td></tr>
+</table>
 <!-- YOUTUBE:END -->
 
-## My last blog posts
+<p align="right"><a href="https://www.youtube.com/@gamedevjuan">todos os vídeos →</a></p>
 
-<!-- BLOG-POST-LIST:START -->
-- [TecToy anuncia retorno triunfal ao mercado gamer com novo PC portátil, periféricos e jogos](https://marriedgames.com.br/noticias/tectoy-anuncia-retorno/)
-- [TORNE-SE O HEROI DA SUA PRÓPRIA AVENTURA EM DRAGON AGE: THE VEILGUARD](https://marriedgames.com.br/noticias/dragon-age-the-veilguard/)
-- [V Rising: Hack’n’Slash de Vampiro para Brujah Nenhum Botar Defeito](https://marriedgames.com.br/analises/v-rising/)
-- [TEAMGROUP na  Computex 2024 delimita novos patamares](https://marriedgames.com.br/noticias/teamgroup-na-computex-2024/)
-- [Fabledom: Construa seu Reino de Conto de Fadas](https://marriedgames.com.br/analises/fabledom/)
-<!-- BLOG-POST-LIST:END -->
+### 📝 Do blog
 
+<!-- BLOG:START -->
+- [Preciso de Empresa para Vender Jogo? MEI e Impostos](https://cursogame.dev/blog/abrir-empresa-jogos-mei-brasil)
+- [Algoritmo da Steam: Como a Loja Decide Quais Jogos Mostrar (e Como Trabalhar a Seu Favor)](https://cursogame.dev/blog/algoritmo-da-steam-como-funciona)
+- [Como Analisar Concorrentes na Steam Antes de Lançar](https://cursogame.dev/blog/analise-concorrentes-steam-jogo)
+- [Análise SWOT para um projeto de jogo: guia prático](https://cursogame.dev/blog/analise-swot-projeto-de-jogo)
+- [Animação de Sprite 2D: Como Animar seu Personagem](https://cursogame.dev/blog/animacao-sprite-2d-jogo)
+- [AnimationPlayer no Godot 4: Anime Tudo na Cena](https://cursogame.dev/blog/animationplayer-godot)
+- [Anti-Cheat em Jogo Online Indie: O Que Fazer na Prática](https://cursogame.dev/blog/anti-cheat-jogos-online-indie)
+- [Como Colocar Anúncios em Jogo Mobile com AdMob: Banner, Interstitial e Rewarded](https://cursogame.dev/blog/anuncios-em-jogo-mobile)
+- [Da pra Aprender a Criar Jogos Depois dos 30?](https://cursogame.dev/blog/aprender-a-criar-jogos-depois-dos-30)
+- [Aprender a Criar Jogos Sozinho ou Fazer um Curso?](https://cursogame.dev/blog/aprender-a-criar-jogos-sozinho-ou-curso)
+<!-- BLOG:END -->
 
+<p align="right"><a href="https://cursogame.dev/blog">todos os artigos →</a></p>
