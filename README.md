@@ -51,11 +51,11 @@ Contact: [juan@juanfelipe.dev](mailto:juan@juanfelipe.dev)
 ### 📝 Do blog
 
 <!-- BLOG:START -->
-- [Preciso de Empresa para Vender Jogo? MEI e Impostos](https://cursogame.dev/blog/abrir-empresa-jogos-mei-brasil)
+- [MEI para Desenvolvedor de Jogos: Precisa de Empresa?](https://cursogame.dev/blog/abrir-empresa-jogos-mei-brasil)
 - [Algoritmo da Steam: Como a Loja Decide Quais Jogos Mostrar (e Como Trabalhar a Seu Favor)](https://cursogame.dev/blog/algoritmo-da-steam-como-funciona)
 - [Como Analisar Concorrentes na Steam Antes de Lançar](https://cursogame.dev/blog/analise-concorrentes-steam-jogo)
 - [Análise SWOT para um projeto de jogo: guia prático](https://cursogame.dev/blog/analise-swot-projeto-de-jogo)
-- [Animação de Sprite 2D: Como Animar seu Personagem](https://cursogame.dev/blog/animacao-sprite-2d-jogo)
+- [Como Animar Sprites 2D no Godot 4 (Sprite Sheet)](https://cursogame.dev/blog/animacao-sprite-2d-jogo)
 - [AnimationPlayer no Godot 4: Anime Tudo na Cena](https://cursogame.dev/blog/animationplayer-godot)
 - [Anti-Cheat em Jogo Online Indie: O Que Fazer na Prática](https://cursogame.dev/blog/anti-cheat-jogos-online-indie)
 - [Como Colocar Anúncios em Jogo Mobile com AdMob: Banner, Interstitial e Rewarded](https://cursogame.dev/blog/anuncios-em-jogo-mobile)
