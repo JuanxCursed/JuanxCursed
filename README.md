@@ -51,16 +51,16 @@ Contact: [juan@juanfelipe.dev](mailto:juan@juanfelipe.dev)
 ### 📝 Do blog
 
 <!-- BLOG:START -->
+- [007 First Light vende 3 milhões em duas semanas na Steam](https://cursogame.dev/blog/007-first-light-3-milhoes-duas-semanas)
 - [MEI para Desenvolvedor de Jogos: Precisa? Qual CNAE?](https://cursogame.dev/blog/abrir-empresa-jogos-mei-brasil)
 - [Algoritmo da Steam: Como a Loja Decide Quais Jogos Mostrar (e Como Trabalhar a Seu Favor)](https://cursogame.dev/blog/algoritmo-da-steam-como-funciona)
 - [Como ampliar pixel art sem borrar (passo a passo)](https://cursogame.dev/blog/ampliar-pixel-art-sem-borrar)
 - [Como Analisar Concorrentes na Steam Antes de Lançar](https://cursogame.dev/blog/analise-concorrentes-steam-jogo)
 - [Análise SWOT para um projeto de jogo: guia prático](https://cursogame.dev/blog/analise-swot-projeto-de-jogo)
-- [Animar Sprite 2D no Godot 4 com AnimatedSprite2D](https://cursogame.dev/blog/animacao-sprite-2d-jogo)
+- [Como Animar Sprite 2D no Godot 4 (AnimatedSprite2D)](https://cursogame.dev/blog/animacao-sprite-2d-jogo)
 - [AnimationPlayer no Godot 4: Anime Tudo na Cena](https://cursogame.dev/blog/animationplayer-godot)
 - [Anti-Cheat em Jogo Online Indie: O Que Fazer na Prática](https://cursogame.dev/blog/anti-cheat-jogos-online-indie)
 - [Como Colocar Anúncios em Jogo Mobile com AdMob: Banner, Interstitial e Rewarded](https://cursogame.dev/blog/anuncios-em-jogo-mobile)
-- [Da pra Aprender a Criar Jogos Depois dos 30?](https://cursogame.dev/blog/aprender-a-criar-jogos-depois-dos-30)
 <!-- BLOG:END -->
 
 <p align="right"><a href="https://cursogame.dev/blog">todos os artigos →</a></p>
