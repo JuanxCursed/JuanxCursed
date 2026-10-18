@@ -58,7 +58,7 @@ Contact: [juan@juanfelipe.dev](mailto:juan@juanfelipe.dev)
 - [Como Analisar Concorrentes na Steam Antes de Lançar](https://cursogame.dev/blog/analise-concorrentes-steam-jogo)
 - [Análise SWOT para um projeto de jogo: guia prático](https://cursogame.dev/blog/analise-swot-projeto-de-jogo)
 - [Animação 2D com Spine: Esqueletal para Jogos](https://cursogame.dev/blog/animacao-2d-spine-esqueletal-jogos)
-- [Animar Sprite 2D na Godot 4: AnimatedSprite2D e play()](https://cursogame.dev/blog/animacao-sprite-2d-jogo)
+- [AnimatedSprite2D: Animar Sprite 2D na Godot 4 do Zero](https://cursogame.dev/blog/animacao-sprite-2d-jogo)
 - [AnimationPlayer no Godot 4: Anime Tudo na Cena](https://cursogame.dev/blog/animationplayer-godot)
 - [Anti-Cheat em Jogo Online Indie: O Que Fazer na Prática](https://cursogame.dev/blog/anti-cheat-jogos-online-indie)
 <!-- BLOG:END -->
