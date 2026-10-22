@@ -54,13 +54,13 @@ Contact: [juan@juanfelipe.dev](mailto:juan@juanfelipe.dev)
 - [007 First Light vende 3 milhões em duas semanas na Steam](https://cursogame.dev/blog/007-first-light-3-milhoes-duas-semanas)
 - [Os 12 Princípios da Animação Aplicados a Jogos](https://cursogame.dev/blog/12-principios-da-animacao-jogos)
 - [Preciso de MEI para Vender Jogos? CNAE e Imposto](https://cursogame.dev/blog/abrir-empresa-jogos-mei-brasil)
-- [Algoritmo da Steam: Como a Loja Decide Quais Jogos Mostrar (e Como Trabalhar a Seu Favor)](https://cursogame.dev/blog/algoritmo-da-steam-como-funciona)
+- [Como Aceitar Doações no Seu Jogo Indie com Ko-fi](https://cursogame.dev/blog/aceitar-doacoes-jogo-ko-fi)
+- [Algoritmo da Steam: Como a Loja Decide Quais Jogos Mostrar](https://cursogame.dev/blog/algoritmo-da-steam-como-funciona)
 - [Alternativa ao Photoshop Gratuito para Arte de Jogo](https://cursogame.dev/blog/alternativa-ao-photoshop-gratis)
 - [Como ampliar pixel art sem borrar (passo a passo)](https://cursogame.dev/blog/ampliar-pixel-art-sem-borrar)
 - [Analisar Concorrentes na Steam: Workflow Antes de Lançar](https://cursogame.dev/blog/analise-concorrentes-steam-jogo)
 - [Análise SWOT para um projeto de jogo: guia prático](https://cursogame.dev/blog/analise-swot-projeto-de-jogo)
 - [Anatomia para Desenho de Personagem: o Mínimo Útil](https://cursogame.dev/blog/anatomia-para-desenho-de-personagem)
-- [Animação 2D no Blender com Grease Pencil para Jogos](https://cursogame.dev/blog/animacao-2d-blender-grease-pencil)
 <!-- BLOG:END -->
 
 <p align="right"><a href="https://cursogame.dev/blog">todos os artigos →</a></p>
