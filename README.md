@@ -56,11 +56,11 @@ Contact: [juan@juanfelipe.dev](mailto:juan@juanfelipe.dev)
 - [20 Second Game Jam 2026: Faça um Jogo de 20 Segundos](https://cursogame.dev/blog/20-second-game-jam-2026)
 - [Preciso de MEI para Vender Jogos? CNAE e Imposto](https://cursogame.dev/blog/abrir-empresa-jogos-mei-brasil)
 - [Como Aceitar Doações no Seu Jogo Indie com Ko-fi](https://cursogame.dev/blog/aceitar-doacoes-jogo-ko-fi)
+- [Affinity Studio Chega de Graça ao iPad: O Que Muda Para Você](https://cursogame.dev/blog/affinity-studio-ipad-gratis)
 - [Como Fazer Agua em Pixel Art para Jogos 2D](https://cursogame.dev/blog/agua-pixel-art-jogos-2d)
 - [Algoritmo da Steam: Como a Loja Decide Quais Jogos Mostrar](https://cursogame.dev/blog/algoritmo-da-steam-como-funciona)
 - [Alternativa ao Photoshop Gratuito para Arte de Jogo](https://cursogame.dev/blog/alternativa-ao-photoshop-gratis)
 - [Como ampliar pixel art sem borrar (passo a passo)](https://cursogame.dev/blog/ampliar-pixel-art-sem-borrar)
-- [Como Analisar um Jogo na Steam: Concorrentes Antes de Lançar](https://cursogame.dev/blog/analise-concorrentes-steam-jogo)
 <!-- BLOG:END -->
 
 <p align="right"><a href="https://cursogame.dev/blog">todos os artigos →</a></p>
